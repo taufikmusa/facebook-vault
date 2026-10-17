@@ -44,7 +44,7 @@ ps = [p for p in ps if p]
 
 sets, cur = [], None
 for p in ps:
-    m = re.match(r'Set\s*#?(\d+)\s*:\s*(.+)$', p)
+    m = re.match(r'Set\s*#?(\d+)\s*(?:\(#\d+\))?\s*:\s*(.+)$', p)
     if m:
         cur = {'tajuk': m.group(2), 'bahagian': []}
         sets.append(cur); continue

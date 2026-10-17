@@ -600,10 +600,610 @@ Moga bermanfaat
 simpanemasfizikal.com
 Taufik | Dealer Public Gold`,
   },
+  {
+    id: 31,
+    siri: "Post-02",
+    no: 1,
+    topik: "Tools & Teknologi",
+    kategori: `Teknologi & Kegunaan Harian`,
+    tajuk: `Terjemah Tulisan Bahasa Asing Guna Kamera Phone (Google Translate)`,
+    tags: ["google translate", "harian", "kegunaan", "teknologi"],
+    link: "https://apps.apple.com/us/app/google-translate/id414706506",
+    post: `Simple tips hari ni..Beli barang import atau ubat tulisan bahasa asing, macam mana nak translate guna kamera phone je?📷
+👇👇👇`,
+    komen: `Install apps Google Translate dekat phone dan tekan ikon Camera
+Halakan je kamera dekat kotak ubat, label makanan, atau menu..tulisan atas gambar tu terus bertukar jadi Bahasa Melayu secara live
+Sangat senang bila pergi travel atau beli barang luar negara
+https://apps.apple.com/us/app/google-translate/id414706506
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 32,
+    siri: "Post-02",
+    no: 2,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Keselamatan Telefon Pintar`,
+    tajuk: `Kesan Lokasi Phone Android Hilang Walaupun Silent (Google Find Hub)`,
+    tags: ["google find hub", "keselamatan", "pintar", "telefon"],
+    link: "https://www.google.com/android/find/about",
+    post: `Just a simple tips..Phone Android tercicir dekat rumah tapi dalam mod silent, macam mana nak bagi dia berbunyi kuat?📱
+👇👇👇`,
+    komen: `Pinjam phone pasangan atau buka PC, kemudian layari web rasmi google.com/android/find
+Log masuk akaun Gmail yang sama..boleh terus tengok lokasi tepat atas peta dan tekan 'Play Sound' supaya phone berdering kuat walaupun silent
+Siap boleh kunci skrin dari jauh kalau hilang dekat luar
+https://www.google.com/android/find/about
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 33,
+    siri: "Post-02",
+    no: 3,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Keselamatan Telefon Pintar`,
+    tajuk: `Kesan Lokasi iPhone Tercicir Dari Browser Lain (Apple iCloud Find)`,
+    tags: ["apple icloud find", "keselamatan", "pintar", "telefon"],
+    link: "https://www.icloud.com/find",
+    post: `Simple tips malam ni..Kalau iPhone tercicir atau terselit, macam mana nak kesan lokasi & bunyikan guna phone orang lain?🍏
+👇👇👇`,
+    komen: `Buka browser dekat mana-mana phone atau laptop dan terus pergi ke icloud.com/find
+Log masuk Apple ID kita..pilih peranti iPhone, iPad, atau AirPods kita untuk tengok lokasi semasa dan tekan 'Play Sound'
+Kalau hilang dekat tempat awam, terus aktifkan 'Lost Mode' dekat situ
+https://www.icloud.com/find
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 34,
+    siri: "Post-02",
+    no: 4,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Trafik & Perjalanan`,
+    tajuk: `Rancang Waktu Bertolak Ikut Data Trafik Sebenar (Waze Plan a Drive)`,
+    tags: ["perjalanan", "trafik", "waze plan a drive"],
+    link: "https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106",
+    post: `Just a simple tips..Esok pagi ada urusan penting, macam mana nak tahu pukul berapa kena bertolak supaya tak sangkut jem?🚗
+👇👇👇`,
+    komen: `Buka apps Waze dekat phone dan pilih fungsi 'Plan a drive' (Rancang Pemanduan)
+Masukkan destinasi dan pukul berapa kita nak sampai..Waze akan kira corak trafik biasa pada hari & jam tersebut dan cadangkan waktu gerak terbaik
+Siap bagi peringatan dekat phone bila dah sampai masa kena gerak
+https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 35,
+    siri: "Post-02",
+    no: 5,
+    topik: "Kewangan & Jimat",
+    kategori: `Jimat Belanja & Utiliti Rumah`,
+    tajuk: `Pantau Penggunaan Elektrik Harian & Bil Rumah (myTNB)`,
+    tags: ["belanja", "jimat", "mytnb", "rumah", "utiliti"],
+    link: "https://www.mytnb.com.my/",
+    post: `Simple tips hari ni..Macam mana nak pantau penggunaan elektrik rumah kita setiap bulan & bayar bil TNB terus dekat phone?💡
+👇👇👇`,
+    komen: `Install apps rasmi myTNB atau buka portal mytnb.com.my dan daftarkan nombor akaun bil elektrik rumah
+Kalau rumah dah pasang Smart Meter, kita siap boleh tengok graf penggunaan elektrik ikut hari untuk kawal bil daripada melambung
+Boleh juga tambah akaun bil rumah mak ayah di kampung untuk tolong bayarkan
+https://www.mytnb.com.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 36,
+    siri: "Post-02",
+    no: 6,
+    topik: "Tools & Teknologi",
+    kategori: `Produktiviti & Kerjaya`,
+    tajuk: `Guna AI Bantu Draf Surat Rasmi Sekolah Anak & Kerja (ChatGPT Rasmi)`,
+    tags: ["chatgpt rasmi", "kerjaya", "produktiviti"],
+    link: "https://apps.apple.com/us/app/chatgpt/id6448311069",
+    post: `Just a simple tips..Nak tulis surat rasmi anak tak hadir sekolah atau surat kerja, macam mana nak siap dalam 10 saat?✍️
+👇👇👇`,
+    komen: `Install apps rasmi ChatGPT (keluaran OpenAI) dekat phone secara percuma
+Taip je arahan dalam Bahasa Melayu contohnya: 'Tuliskan surat rasmi kepada guru kelas maklumkan anak demam'..terus keluar format surat lengkap
+Tinggal tukar nama dan tarikh, terus boleh cetak atau hantar
+https://apps.apple.com/us/app/chatgpt/id6448311069
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 37,
+    siri: "Post-02",
+    no: 7,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Perjalanan & Portal Kerajaan`,
+    tajuk: `Semak Senarai Hitam Imigresen Sebelum Ke Luar Negara (SSPI JIM)`,
+    tags: ["kerajaan", "perjalanan", "portal", "sspi jim"],
+    link: "https://sspi.imi.gov.my/",
+    post: `Simple tips malam ni..Sebelum beli tiket flight luar negara, macam mana nak check nama kita clear ke tak dengan Imigresen?🛂
+👇👇👇`,
+    komen: `Buka portal rasmi Semakan Status Perjalanan Imigresen (SSPI) dekat sspi.imi.gov.my
+Masukkan nombor IC kita dan tekan semak..terus keluar status sama ada 'Tiada Halangan' atau perlu rujuk pejabat Imigresen
+Sangat penting buat semakan awal supaya tak terkandas dekat kaunter airport
+https://sspi.imi.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 38,
+    siri: "Post-02",
+    no: 8,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Bantuan Kerajaan & Keluarga`,
+    tajuk: `Semak & Kemas Kini Sumbangan Tunai Rahmah Online (Portal STR LHDN)`,
+    tags: ["bantuan", "keluarga", "kerajaan", "portal str lhdn"],
+    link: "https://bantuantunai.hasil.gov.my/",
+    post: `Just a simple tips..Macam mana nak semak status kelayakan atau kemas kini maklumat Sumbangan Tunai Rahmah (STR) online?🇲🇾
+👇👇👇`,
+    komen: `Pastikan hanya guna portal rasmi LHDN dekat bantuantunai.hasil.gov.my (elakkan klik link palsu dekat grup WhatsApp)
+Log masuk MySTR guna nombor IC untuk semak status permohonan, tarikh pengkreditan bayaran, atau kemas kini maklumat pasangan dan anak
+Semua urusan permohonan dan semakan adalah percuma
+https://bantuantunai.hasil.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 39,
+    siri: "Post-02",
+    no: 9,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Keselamatan Rumah & Keluarga`,
+    tajuk: `Lapor Rumah Kosong Bila Balik Kampung Kepada Polis (VSP PDRM)`,
+    tags: ["keluarga", "keselamatan", "rumah", "vsp pdrm"],
+    link: "https://apps.apple.com/my/app/volunteer-smartphone-patrol/id1118234031",
+    post: `Simple tips hari ni..Nak balik kampung tinggal rumah lama, macam mana nak maklumkan polis PDRM supaya buat rondaan?🏡
+👇👇👇`,
+    komen: `Install aplikasi rasmi Volunteer Smartphone Patrol (VSP) bawah PDRM dekat phone
+Isi borang makluman 'Balik Kampung' dengan tarikh pergi dan balik..atau guna untuk hantar aduan bergambar jika nampak perkara mencurigakan di taman
+Mudah dan terus sampai kepada bilik gerakan polis daerah
+https://apps.apple.com/my/app/volunteer-smartphone-patrol/id1118234031
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 40,
+    siri: "Post-02",
+    no: 10,
+    topik: "Kewangan & Jimat",
+    kategori: `Kewangan & Anti-Scam`,
+    tajuk: `Semak Syarikat Pelaburan Sah Atau Skim Cepat Kaya (SC Investment Checker)`,
+    tags: ["anti-scam", "kewangan", "sc investment checker"],
+    link: "https://www.sc.com.my/investment-checker",
+    post: `Just a simple tips..Ada orang ajak masuk skim pelaburan pulangan tinggi, macam mana nak check syarikat tu sah ke scammer?⚠️
+👇👇👇`,
+    komen: `Buka portal rasmi Suruhanjaya Sekuriti Malaysia (SC) dekat sc.com.my/investment-checker
+Taip nama syarikat atau laman web pelaburan tu..terus boleh semak sama ada mereka berlesen dengan SC atau dah masuk dalam 'Investor Alert List'
+Ingat, semak dulu sebelum lebur duit simpanan titik peluh kita
+https://www.sc.com.my/investment-checker
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 41,
+    siri: "Post-02",
+    no: 11,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Cuaca & Keselamatan`,
+    tajuk: `Semak Radar Awan Hujan & Amaran Ribut Petir Terkini (myCuaca METMalaysia)`,
+    tags: ["cuaca", "keselamatan", "mycuaca metmalaysia"],
+    link: "https://apps.apple.com/my/app/mycuaca/id955289490",
+    post: `Simple tips malam ni..Nak tahu awan hujan lebat atau ribut petir tengah menghala ke kawasan rumah, nak check kat mana?⛈️
+👇👇👇`,
+    komen: `Install apps rasmi myCuaca daripada Jabatan Meteorologi Malaysia (METMalaysia) dekat phone
+Boleh tengok imej radar hujan terkini di seluruh Malaysia, amaran ribut petir mengikut daerah, dan maklumat gempa bumi secara tepat
+Senang nak rancang perjalanan jauh atau aktiviti luar bersama keluarga
+https://apps.apple.com/my/app/mycuaca/id955289490
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 42,
+    siri: "Post-02",
+    no: 12,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Komuniti & Kediaman`,
+    tajuk: `Buat Aduan Jalan Berlubang & Lampu Jalan Rosak Ke PBT (PBTCare KPKT)`,
+    tags: ["kediaman", "komuniti", "pbtcare kpkt"],
+    link: "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.itegur&hl=en",
+    post: `Just a simple tips..Dekat taman perumahan ada jalan berlubang atau lampu jalan rosak, macam mana nak report terus ke PBT?🚧
+👇👇👇`,
+    komen: `Install aplikasi rasmi PBTCare (dahulu dikenali sebagai i-Tegur bawah KPKT) dekat phone
+Tangkap gambar kerosakan jalan, longkang tersumbat, atau pokok tumbang..kemudian hantar aduan berserta lokasi GPS terus kepada Majlis Perbandaran
+Kita boleh semak status tindakan aduan terus dalam aplikasi tu
+https://play.google.com/store/apps/details?id=my.gov.onegovappstore.itegur&hl=en
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 43,
+    siri: "Post-02",
+    no: 13,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Trafik & Perjalanan`,
+    tajuk: `Semak Kadar Tol Lebuhraya & Kemudahan R&R Sebelum Gerak (PLUS App)`,
+    tags: ["perjalanan", "plus app", "trafik"],
+    link: "https://apps.apple.com/my/app/plus-app-official/id1439887531?l=ms",
+    post: `Simple tips hari ni..Sebelum masuk highway PLUS, macam mana nak kira siap-siap jumlah bayaran tol masuk sampai keluar?🛣️
+👇👇👇`,
+    komen: `Install aplikasi rasmi PLUS App dekat phone sebelum memulakan perjalanan jauh
+Pilih plaza tol masuk dan plaza tol keluar untuk tengok kadar tambang tol tepat, paparan CCTV lebuh raya, serta kemudahan surau dan kedai makan di R&R
+Siap ada butang kecemasan SOS untuk hubungi PLUSRonda jika kereta rosak
+https://apps.apple.com/my/app/plus-app-official/id1439887531?l=ms
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 44,
+    siri: "Post-02",
+    no: 14,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kerjaya & Graduan`,
+    tajuk: `Cari Kerja Kosong Sahih Bawah Kementerian Sumber Manusia (MYFutureJobs)`,
+    tags: ["graduan", "kerjaya", "myfuturejobs"],
+    link: "https://myfuturejobs.gov.my/",
+    post: `Just a simple tips..Untuk adik-adik graduan atau yang tengah cari kerja, portal rasmi mana paling selamat nak mohon kerja?💼
+👇👇👇`,
+    komen: `Buka portal pekerjaan rasmi negara bawah PERKESO & Kementerian Sumber Manusia dekat myfuturejobs.gov.my
+Daftar profil pencari kerja dan tapis jawatan kosong mengikut negeri, kelulusan, dan tangga gaji daripada majikan yang berdaftar secara sah
+Tiada caj tersembunyi dan jauh lebih selamat daripada iklan kerja palsu
+https://myfuturejobs.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 45,
+    siri: "Post-02",
+    no: 15,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kerjaya & Sektor Awam`,
+    tajuk: `Mohon Kerja Kerajaan & Semak Panggilan Temuduga Online (SPA9)`,
+    tags: ["awam", "kerjaya", "sektor", "spa9"],
+    link: "https://spa9.spa.gov.my/",
+    post: `Simple tips malam ni..Nak mohon jawatan kosong sektor awam (Kerajaan), dekat link rasmi mana nak daftar & kemas kini?🏛️
+👇👇👇`,
+    komen: `Layari portal rasmi Suruhanjaya Perkhidmatan Awam Malaysia dekat spa9.spa.gov.my
+Daftar akaun pemohon, isi maklumat akademik, dan pilih jawatan mengikut kelayakan SPM, Diploma, atau Ijazah
+Pastikan kemas kini permohonan sebelum tamat tempoh sah 1 tahun
+https://spa9.spa.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 46,
+    siri: "Post-02",
+    no: 16,
+    topik: "Kewangan & Jimat",
+    kategori: `Penjawat Awam & Kewangan`,
+    tajuk: `Muat Turun Slip Gaji & Penyata Tahunan Penjawat Awam (e-Penyata Gaji JANM)`,
+    tags: ["awam", "e-penyata gaji janm", "kewangan", "penjawat"],
+    link: "https://epenyatagaji-laporan.anm.gov.my/",
+    post: `Just a simple tips..Untuk rakan penjawat awam, macam mana nak download slip gaji & penyata tahunan terus dekat phone?📑
+👇👇👇`,
+    komen: `Buka portal rasmi Jabatan Akauntan Negara dekat epenyatagaji-laporan.anm.gov.my atau install apps rasmi ePayslip JANM
+Log masuk guna nombor IC dan kata laluan..terus boleh muat turun penyata gaji bulanan dan penyata pendapatan tahunan dalam format PDF
+Simpan salinan PDF siap-siap dalam phone sebab sistem simpan rekod mengikut tempoh
+https://epenyatagaji-laporan.anm.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 47,
+    siri: "Post-02",
+    no: 17,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Utiliti Rumah & Lembah Klang`,
+    tajuk: `Semak Notis Gangguan Bekalan Air & Bayar Bil Air (Air Selangor App)`,
+    tags: ["air selangor app", "klang", "lembah", "rumah", "utiliti"],
+    link: "https://www.airselangor.com/",
+    post: `Simple tips hari ni..Duduk area Selangor atau KL, macam mana nak dapat alert awal kalau kawasan rumah ada gangguan air?🚰
+👇👇👇`,
+    komen: `Install aplikasi rasmi Air Selangor dekat phone atau semak dekat airselangor.com
+Boleh tengok jadual penyelenggaraan berjadual, status pemulihan bekalan air mengikut kawasan, lokasi lori tangki air, dan terus bayar bil bulanan
+Semak dulu dekat sini supaya sempat tadah air awal-awal
+https://www.airselangor.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 48,
+    siri: "Post-02",
+    no: 18,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Perjalanan & Keluarga`,
+    tajuk: `Jejak Kapal Terbang Keluarga Balik Umrah Atau Bercuti Live (Flightradar24)`,
+    tags: ["flightradar24", "keluarga", "perjalanan"],
+    link: "https://www.flightradar24.com/",
+    post: `Just a simple tips..Mak ayah tengah naik flight balik umrah, macam mana nak tengok kapal terbang tu dekat peta secara live?✈️
+👇👇👇`,
+    komen: `Buka web flightradar24.com atau install apps Flightradar24 dekat phone
+Taip je nombor penerbangan (contoh: MH8050)..kita terus nampak kedudukan kapal terbang tu tengah terbang dekat negara mana dan anggaran waktu mendarat
+Senang nak bajet masa gerak pergi jemput dekat KLIA
+https://www.flightradar24.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 49,
+    siri: "Post-02",
+    no: 19,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Cuaca, Memancing & Riadah`,
+    tajuk: `Tengok Pergerakan Angin, Ombak Laut & Cuaca Visual 3D (Windy.com)`,
+    tags: ["cuaca,", "memancing", "riadah", "windy.com"],
+    link: "https://apps.apple.com/us/app/windy-com/id1161387262",
+    post: `Simple tips malam ni..Kaki pancing, camping atau nak bercuti ke pulau, macam mana nak check keadaan angin & ombak laut?🌊
+👇👇👇`,
+    komen: `Install apps Windy.com dekat phone atau buka laman web windy.com
+Peta animasi dia tunjuk kelajuan angin, ketinggian ombak laut, arah ribut, dan pergerakan awan hujan dengan sangat terperinci mengikut jam
+Aplikasi wajib ada untuk yang suka aktiviti luar dan laut
+https://apps.apple.com/us/app/windy-com/id1161387262
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 50,
+    siri: "Post-02",
+    no: 20,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Keselamatan Siber & Privasi`,
+    tajuk: `Simpan Semua Password Bank & Emel Dalam Peti Besi Digital (Bitwarden)`,
+    tags: ["bitwarden", "keselamatan", "privasi", "siber"],
+    link: "https://bitwarden.com/",
+    post: `Just a simple tips..Selalu terlupa password akaun bank, emel & portal kerja, macam mana nak simpan semua dengan selamat?🔑
+👇👇👇`,
+    komen: `Jangan tulis password dalam nota biasa..install aplikasi pengurusan kata laluan sumber terbuka Bitwarden (bitwarden.com)
+Semua username dan password disimpan secara sulit (encrypted)..kita cuma perlu ingat satu Master Password sahaja untuk buka peti besi digital ni
+Percuma untuk kegunaan peribadi dekat phone dan juga laptop
+https://bitwarden.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 51,
+    siri: "Post-02",
+    no: 21,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Urusan Kerja & Kenderaan`,
+    tajuk: `Cetak Penyata Transaksi Tol Kad TNG & RFID Untuk Claim (TNG Portal)`,
+    tags: ["kenderaan", "kerja", "tng portal", "urusan"],
+    link: "https://tngportal.touchngo.com.my/",
+    post: `Simple tips hari ni..Selalu gerak kerja guna tol, macam mana nak download resit tol kad TNG & RFID untuk claim ofis?🧾
+👇👇👇`,
+    komen: `Buka portal rasmi Touch 'n Go dekat tngportal.touchngo.com.my dan log masuk akaun kita
+Pastikan nombor siri kad TNG kita dah didaftarkan..kemudian boleh pilih tarikh perjalanan dan muat turun penyata penuh tol untuk tujuan tuntutan pejabat
+Dalam apps TNG eWallet pun boleh terus hantar penyata transaksi ke emel
+https://tngportal.touchngo.com.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 52,
+    siri: "Post-02",
+    no: 22,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Utiliti Rumah & Kediaman`,
+    tajuk: `Semak & Bayar Bil Pembetungan Indah Water Secara Online (Portal IWK)`,
+    tags: ["kediaman", "portal iwk", "rumah", "utiliti"],
+    link: "https://www.iwk.com.my/",
+    post: `Just a simple tips..Selalu terlepas pandang bil Indah Water sampai tertunggak, macam mana nak semak & daftar e-Bil online?🏠
+👇👇👇`,
+    komen: `Layari portal rasmi Indah Water Konsortium dekat iwk.com.my atau install aplikasi Indah Water
+Daftar nombor akaun rumah kita untuk terima e-Bil terus melalui emel atau WhatsApp dan buat bayaran secara online tanpa perlu tunggu bil kertas
+Elakkan bil terkumpul sampai beratus ringgit tanpa sedar
+https://www.iwk.com.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 53,
+    siri: "Post-02",
+    no: 23,
+    topik: "Kewangan & Jimat",
+    kategori: `Ilmu & Pendidikan Keluarga`,
+    tajuk: `Pinjam & Baca Ribuan e-Buku Secara Percuma (u-Pustaka PNM)`,
+    tags: ["ilmu", "keluarga", "pendidikan", "u-pustaka pnm"],
+    link: "https://www.pnm.gov.my/index.php/pages/view/1228",
+    post: `Simple tips malam ni..Suka membaca atau cari buku anak, tahu tak boleh pinjam e-Book Perpustakaan Negara secara percuma?📚
+👇👇👇`,
+    komen: `Buka portal rasmi Perpustakaan Negara Malaysia (bahagian perkhidmatan u-Pustaka) dekat pnm.gov.my
+Pendaftaran keahlian adalah percuma untuk warganegara Malaysia..boleh akses ribuan buku digital, majalah, dan bahan rujukan pelajar dari rumah
+Jimat banyak kos beli buku sambil pupuk minat membaca anak-anak
+https://www.pnm.gov.my/index.php/pages/view/1228
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 54,
+    siri: "Post-02",
+    no: 24,
+    topik: "Tools & Teknologi",
+    kategori: `Produktiviti & Dokumen`,
+    tajuk: `Kecilkan Saiz Gambar (KB) Untuk Isi Borang Online Tanpa Pecah (Squoosh)`,
+    tags: ["dokumen", "produktiviti", "squoosh"],
+    link: "https://squoosh.app/",
+    post: `Just a simple tips..Nak upload gambar dalam borang online tapi sistem kata saiz terlalu besar, macam mana nak kecilkan?🖼️
+👇👇👇`,
+    komen: `Buka laman web percuma squoosh.app (dibangunkan oleh pasukan Google Chrome Labs) dekat phone atau PC
+Masukkan gambar tadi..tarik pelaras kualiti sedikit sahaja dan saiz gambar terus turun daripada beberapa MB kepada puluhan KB tanpa pecahkan gambar
+Gambar diproses terus dalam browser kita, jadi privasi gambar terjamin
+https://squoosh.app/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 55,
+    siri: "Post-02",
+    no: 25,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Gaya Hidup & Hiburan`,
+    tajuk: `Dengar Ribuan Stesen Radio Live Seluruh Dunia Atas Globe 3D (Radio Garden)`,
+    tags: ["gaya", "hiburan", "hidup", "radio garden"],
+    link: "https://radio.garden/",
+    post: `Simple tips hari ni..Bosan memandu jauh, macam mana nak dengar ribuan stesen radio live dari seluruh dunia dekat phone?🌍
+👇👇👇`,
+    komen: `Buka laman web radio.garden dekat browser phone atau install aplikasi rasmi Radio Garden
+Pusingkan je globe bumi 3D tu dan tekan mana-mana titik hijau..kita terus boleh dengar siaran radio tempatan dari Malaysia, Mekah, UK, Jepun, dan seluruh dunia
+Sangat menarik untuk dengar suasana bahasa dan berita negara luar secara live
+https://radio.garden/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 56,
+    siri: "Post-02",
+    no: 26,
+    topik: "Tools & Teknologi",
+    kategori: `Teknologi & Telefon Pintar`,
+    tajuk: `Cari Gambar Resit Atau IC Lama Dalam Galeri Hanya Taip Perkataan (Google Photos)`,
+    tags: ["google photos", "pintar", "teknologi", "telefon"],
+    link: "https://apps.apple.com/us/app/google-photos-backup-edit/id962194608",
+    post: `Just a simple tips..Dalam phone ada beribu gambar, macam mana nak cari balik gambar resit atau dokumen lama dalam 3 saat?🔍
+👇👇👇`,
+    komen: `Guna aplikasi Google Photos dekat phone (iPhone atau Android)
+Dekat kotak carian (Search) atas tu, taip je perkataan macam 'resit', 'IC', 'sijil', atau nama tempat..AI dia terus keluarkan gambar dokumen tersebut
+Tak perlu lagi skrol galeri satu-satu sampai lenguh jari
+https://apps.apple.com/us/app/google-photos-backup-edit/id962194608
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 57,
+    siri: "Post-02",
+    no: 27,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kebajikan & Komuniti`,
+    tajuk: `Mohon & Semak Status Bantuan Warga Emas / OKU Online (eBantuan JKM)`,
+    tags: ["ebantuan jkm", "kebajikan", "komuniti"],
+    link: "https://ebantuanjkm.jkm.gov.my/",
+    post: `Simple tips malam ni..Ada keluarga warga emas atau OKU yang layak, macam mana nak mohon & semak bantuan JKM secara online?🤝
+👇👇👇`,
+    komen: `Layari portal rasmi Jabatan Kebajikan Masyarakat dekat ebantuanjkm.jkm.gov.my
+Boleh isi borang permohonan awal secara atas talian atau semak status kelulusan bantuan bulanan menggunakan nombor kad pengenalan
+Lepas daftar online, hadir ke Pejabat Kebajikan Masyarakat daerah bersama dokumen sokongan
+https://ebantuanjkm.jkm.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 58,
+    siri: "Post-02",
+    no: 28,
+    topik: "Kewangan & Jimat",
+    kategori: `Pendidikan & Ibu Bapa`,
+    tajuk: `Daftar Anak Masuk Tahun 1 & Semak Rekod Sekolah KPM (Portal idMe KPM)`,
+    tags: ["bapa", "pendidikan", "portal idme kpm"],
+    link: "https://idme.moe.gov.my/login",
+    post: `Just a simple tips..Ibu bapa yang ada anak nak masuk Tahun 1 atau sekolah KPM, dekat portal mana nak daftar & kemas kini?🏫
+👇👇👇`,
+    komen: `Simpan pautan Sistem Pengurusan IDentiti (idMe) Kementerian Pendidikan Malaysia dekat idme.moe.gov.my/login
+Daftar akaun ibu bapa/penjaga untuk urusan pendaftaran kemasukan Tahun 1, kemas kini maklumat profil murid, dan semakan keputusan pentaksiran anak
+Pastikan maklumat anak sentiasa dikemas kini bila KPM buka tempoh pendaftaran
+https://idme.moe.gov.my/login
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 59,
+    siri: "Post-02",
+    no: 29,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hak Pengguna & Telco`,
+    tajuk: `Buat Aduan Rasmi Jika Masalah Line Telco & Bil Tak Selesai (Portal Aduan MCMC)`,
+    tags: ["pengguna", "portal aduan mcmc", "telco"],
+    link: "https://www.mcmc.gov.my/ms/make-a-complaint/make-a-complaint",
+    post: `Simple tips hari ni..Dah berkali-kali report masalah line internet atau bil telco tapi tak jalan, nak adu dekat agensi mana?📡
+👇👇👇`,
+    komen: `Lepas buat aduan dekat syarikat telco/kurier dan dapat nombor rujukan tapi masih tak selesai, buka portal rasmi SKMM (MCMC)
+Hantar laporan rasmi melalui halaman aduan MCMC atau Forum Pengguna Komunikasi dan Multimedia Malaysia (CFM) berserta bukti
+Selalunya pihak penyedia perkhidmatan akan ambil tindakan jauh lebih pantas
+https://www.mcmc.gov.my/ms/make-a-complaint/make-a-complaint
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 60,
+    siri: "Post-02",
+    no: 30,
+    topik: "Tools & Teknologi",
+    kategori: `Internet & Teknologi Harian`,
+    tajuk: `Semak Sama Ada Line Telco Atau Apps Bank Tengah Down Satu Malaysia (Downdetector)`,
+    tags: ["downdetector", "harian", "internet", "teknologi"],
+    link: "https://downdetector.com/",
+    post: `Just a simple tips..Tiba-tiba WhatsApp, apps bank atau telco tak boleh buka, macam mana nak tahu tengah down satu Malaysia?🌐
+👇👇👇`,
+    komen: `Sebelum penat restart phone banyak kali, buka laman web downdetector.com dekat browser
+Cari nama perkhidmatan macam Maybank2u, Unifi, Maxis, CelcomDigi, atau WhatsApp..kalau graf mencanak naik warna merah, maksudnya memang tengah gangguan sistem
+Jimat masa tak payah panik ingatkan telefon kita yang rosak
+https://downdetector.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
 ];
 
 // Nama siri pilihan (papar di tab). Contoh: { "Post-01": "Tips Digital" }
 export const namaSiri = {}
 
 // Siri yang dapat tab sendiri. Siri lain automatik masuk Archive.
-export const tabUtama = ["Post-01"]
+export const tabUtama = ["Post-01", "Post-02"]
