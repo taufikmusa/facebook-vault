@@ -85,8 +85,8 @@ Converter `tools/jewel_ke_data.py` tukar nombor/produk dalam cerita kepada slot 
 python3 -I tools/jewel_ke_data.py "Set.docx" --siri "PG Jewel-02" --mula 271 --asal asal.json > blok.txt
 ```
 `src/jewel.js` = enjin render (dikongsi App). Formula: jumlah = harga barang + pos; gram = jumlah ÷ harga GAP (4 titik perpuluhan). Dalam App tab PG Jewel ada:
-- Panel **Harga GAP semasa** + **Simpanan bulanan** (global, semua post, localStorage `jewelGlobal`; lalai 592 / 100 dalam `lalaiJewel`).
-- Setiap kad: **✏️ Ubah produk & harga** (produk, harga barang, pos, upah) + baris kiraan gram + Reset (localStorage `jewelVar` per id).
+- Panel **Harga GAP semasa** (global, semua post, localStorage `jewelGlobal`; lalai 592 dalam `lalaiJewel`). Simpanan bulanan TETAP RM100 (pemalar `lalaiJewel.simpanan`, tiada input; Taufik tak mahu ubah).
+- Setiap kad: **✏️ Ubah produk & harga** (di ATAS kotak post): Nama produk, Harga produk (harga di app PG Jewel, sudah termasuk upah), Pos berinsurans, Kos upah (pilihan) + baris kiraan gram + Reset (localStorage `jewelVar` per id). Kos upah: kalau cerita sebut upah (set 1) slot `{upah0}` diganti; kalau tidak, bila diisi renderer tambah `(termasuk upah RM...)` pada baris `Harga Barang Kemas`. Kosong = teks docx asal.
 - Copy Post salin teks yang dah dikira. Tiada kotak komen bila `komen` kosong. Pembuka "Ada yang tahu?" dan CTA komen TIDAK dipakai untuk tab ini.
 Ujian: render semua `vars` asal mesti sama dengan teks docx (sidecar `--asal`), dan `npm run build`.
 

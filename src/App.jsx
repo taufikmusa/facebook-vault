@@ -144,11 +144,8 @@ export default function App() {
                 <input inputMode="decimal" value={jewelG.hargaGAP} onChange={e => ubahGlobal("hargaGAP", e.target.value)} />
                 <small>/gram</small>
               </label>
-              <label>Simpanan bulanan<span>RM</span>
-                <input inputMode="decimal" value={jewelG.simpanan} onChange={e => ubahGlobal("simpanan", e.target.value)} />
-              </label>
             </div>
-            <div className="harga-nota">Dikemaskini: {jewelG.tarikh || "-"} · gram GAP dikira semula = jumlah ÷ harga GAP</div>
+            <div className="harga-nota">Dikemaskini: {jewelG.tarikh || "-"} · gram GAP dikira semula = (harga produk + pos) ÷ harga GAP</div>
           </div>
         )}
         <div className="toggles">
@@ -179,17 +176,6 @@ export default function App() {
 
             {s.persona && <div className="persona">🎯 {s.persona}</div>}
 
-            <div className="kotak">
-              <div className="kotak-kepala">
-                <span className="kotak-label">{s.vars ? "📝 Post panjang (wall)" : "1️⃣ Post (wall)"}</span>
-                <span className="kotak-info">{s.vars ? "" : "Background warna · "}{aksara(teksPost(s))} aksara</span>
-              </div>
-              <div className={"kotak-teks" + (s.vars ? "" : " post")}>{teksPost(s)}</div>
-              <button className={"btn btn-salin" + (disalin === s.id + "post" ? " ok" : "")} onClick={() => salin(s, "post")}>
-                {disalin === s.id + "post" ? "✓ Post disalin!" : "📋 Copy Post"}
-              </button>
-            </div>
-
             {s.vars && (() => {
               const ubah = jewelV[s.id] || {}
               const v = { ...s.vars, ...ubah }
@@ -202,21 +188,19 @@ export default function App() {
                   </button>
                   {bukaUbah[s.id] && (
                     <div className="ubah-isi">
-                      <label className="ubah-baris">Produk
+                      <label className="ubah-baris">Nama produk
                         <input type="text" value={v.produk} onChange={e => ubahVar(s, "produk", e.target.value, false)} />
                       </label>
                       <div className="ubah-grid">
-                        <label>Harga barang kemas (RM)
+                        <label>Harga produk (RM)
                           <input inputMode="decimal" value={v.hargaBarang} onChange={e => ubahVar(s, "hargaBarang", e.target.value, true)} />
                         </label>
-                        <label>Pos (RM)
+                        <label>Pos berinsurans (RM)
                           <input inputMode="decimal" value={v.pos} onChange={e => ubahVar(s, "pos", e.target.value, true)} />
                         </label>
-                        {"upah" in s.vars && (
-                          <label>Upah (RM)
-                            <input inputMode="decimal" value={v.upah} onChange={e => ubahVar(s, "upah", e.target.value, true)} />
-                          </label>
-                        )}
+                        <label>Kos upah (RM)
+                          <input inputMode="decimal" placeholder="pilihan" value={v.upah ?? ""} onChange={e => ubahVar(s, "upah", e.target.value, true)} />
+                        </label>
                       </div>
                       <div className="ubah-kira">Jumlah RM{format(k.jumlah, 2)} ÷ RM{format(k.gap, 0)} = <b>{k.gram.toFixed(4)} gram GAP</b></div>
                       {diubah && <button className="btn btn-garis" onClick={() => resetVar(s.id)}>↩ Reset ke asal</button>}
@@ -225,6 +209,17 @@ export default function App() {
                 </div>
               )
             })()}
+
+            <div className="kotak">
+              <div className="kotak-kepala">
+                <span className="kotak-label">{s.vars ? "📝 Post panjang (wall)" : "1️⃣ Post (wall)"}</span>
+                <span className="kotak-info">{s.vars ? "" : "Background warna · "}{aksara(teksPost(s))} aksara</span>
+              </div>
+              <div className={"kotak-teks" + (s.vars ? "" : " post")}>{teksPost(s)}</div>
+              <button className={"btn btn-salin" + (disalin === s.id + "post" ? " ok" : "")} onClick={() => salin(s, "post")}>
+                {disalin === s.id + "post" ? "✓ Post disalin!" : "📋 Copy Post"}
+              </button>
+            </div>
 
             {s.komen && (
               <div className="kotak">

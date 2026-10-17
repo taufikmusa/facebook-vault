@@ -1,5 +1,5 @@
 // Tab PG Jewel: post panjang dengan slot {hb}, {pos}, {jumlah}, {gap}, {gram}, {produk} dsb.
-// Nilai asal setiap post disimpan dalam `vars`; harga GAP & simpanan bulanan dikongsi (global).
+// Nilai asal setiap post disimpan dalam `vars`; harga GAP dikongsi (global). Simpanan bulanan tetap RM100.
 // Taufik tukar nilai di ruangan khas, post dikira semula di sini.
 
 export const lalaiJewel = { hargaGAP: "592", simpanan: "100", tarikh: "" }
@@ -38,8 +38,13 @@ export function renderJewel(s, ubahan, global) {
     jumlah: format(k.jumlah, 2), jumlah0: format(k.jumlah, 0),
     gap: format(k.gap, 2), gap0: format(k.gap, 0),
     gram: k.gram.toFixed(4),
-    simpan: format(nombor(global.simpanan) || nombor(lalaiJewel.simpanan), 0),
+    simpan: format(nombor(lalaiJewel.simpanan), 0),   // tetap RM100, tak diubah dari panel
+  }
+  let tpl = s.post
+  // Post yang tak sebut upah: bila kos upah diisi, tambah "(termasuk upah RM...)" pada baris harga barang
+  if (k.upah > 0 && !/\{upah0?\}/.test(tpl)) {
+    tpl = tpl.replace(/^(• Harga Barang Kemas: RM\{hb\})$/m, `$1 (termasuk upah RM${val.upah})`)
   }
   // fungsi (bukan string) supaya `$` dalam nilai tak ditafsir sebagai corak ganti
-  return s.post.replace(/\{(\w+)\}/g, (m, k2) => (k2 in val ? val[k2] : m))
+  return tpl.replace(/\{(\w+)\}/g, (m, k2) => (k2 in val ? val[k2] : m))
 }
