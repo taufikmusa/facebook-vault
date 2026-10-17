@@ -9,7 +9,7 @@ export const skrip = [
     tajuk: `Semak Akaun Bank & Nombor Telefon Scammer (SemakMule PDRM)`,
     tags: ["anti-scam", "keselamatan", "semakmule pdrm", "siber"],
     link: "https://semakmule.rmp.gov.my/",
-    post: `Simple tips hari ni..Nak beli barang online dekat FB/TikTok, macam mana nak check akaun bank seller tu scammer ke tak?🤔
+    post: `Ada yang tahu? Nak beli barang online dekat FB/TikTok, macam mana nak check akaun bank seller tu scammer ke tak?🤔
 👇👇👇`,
     komen: `Tak perlu install apa-apa pun..terus buka web rasmi PDRM dekat semakmule.rmp.gov.my
 Masukkan nombor akaun bank atau nombor telefon seller tu..terus keluar sama ada pernah ada rekod report polis atau tak
@@ -39,7 +39,7 @@ PG00359605`,
     tajuk: `Banding Harga Barang Dapur Paling Murah Ikut Kawasan (PriceCatcher KPDN)`,
     tags: ["belanja", "harian", "jimat", "pricecatcher kpdn"],
     link: "https://apps.apple.com/my/app/pricecatcher/id1249619299",
-    post: `Just a simple tips..Macam mana nak check kedai mana jual barang dapur paling murah dekat area rumah kita sebelum keluar?🛒
+    post: `Ada yang tahu? Macam mana nak check kedai mana jual barang dapur paling murah dekat area rumah kita sebelum keluar?🛒
 👇👇👇`,
     komen: `Install apps PriceCatcher (rasmi bawah KPDN) dekat phone..kemudian set lokasi kawasan rumah kita
 Pilih barang basah atau kering macam ayam, telur, minyak..dia terus senaraikan pasar raya mana paling murah hari ni
@@ -69,7 +69,7 @@ PG00359605`,
     tajuk: `Gabung, Kecilkan Saiz & Tukar PDF ke Word Percuma (iLovePDF)`,
     tags: ["dokumen", "ilovepdf", "produktiviti"],
     link: "https://www.ilovepdf.com/",
-    post: `Just a simple tips..Nak gabung fail PDF, kecilkan saiz, atau tukar PDF ke Word dekat phone & PC tanpa install software?📄
+    post: `Ada yang tahu? Nak gabung fail PDF, kecilkan saiz, atau tukar PDF ke Word dekat phone & PC tanpa install software?📄
 👇👇👇`,
     komen: `Buka je web ilovepdf.com dekat PC atau browser phone
 Upload fail PDF..boleh terus merge, compress saiz untuk isi borang online, atau convert ke Word secara percuma
@@ -99,7 +99,7 @@ PG00359605`,
     tajuk: `Semak Wang Tak Dituntut / Duit Lama Kita (eGUMIS JANM)`,
     tags: ["egumis janm", "kerajaan", "kewangan", "portal"],
     link: "https://egumis.anm.gov.my/",
-    post: `Simple tips malam ni..Macam mana nak check online kalau kita atau mak ayah ada Wang Tak Dituntut (WTD) beribu ringgit?💰
+    post: `Ada yang tahu? Macam mana nak check online kalau kita atau mak ayah ada Wang Tak Dituntut (WTD) beribu ringgit?💰
 👇👇👇`,
     komen: `Buka portal rasmi Jabatan Akauntan Negara dekat egumis.anm.gov.my
 Daftar pengguna dan masukkan nombor IC..terus keluar kalau ada duit akaun bank lama, insurans, atau deposit yang kita terlupa
@@ -129,7 +129,7 @@ PG00359605`,
     tajuk: `Semak & Bayar Saman Trafik PDRM Online (MyBayar PDRM)`,
     tags: ["jalan", "kenderaan", "mybayar pdrm", "raya", "urusan"],
     link: "https://apps.apple.com/my/app/mybayar-pdrm/id1552671016",
-    post: `Just a simple tips..Malas nak beratur dekat balai, macam mana nak check & bayar saman polis PDRM terus dari phone?🚓
+    post: `Ada yang tahu? Malas nak beratur dekat balai, macam mana nak check & bayar saman polis PDRM terus dari phone?🚓
 👇👇👇`,
     komen: `Install apps rasmi MyBayar PDRM dekat phone dan log masuk guna IC
 Terus nampak senarai saman kalau ada..dan bila PDRM buat kempen diskaun saman pun boleh bayar terus dalam apps ni
@@ -159,7 +159,7 @@ PG00359605`,
     tajuk: `Renew Lesen Memandu & Roadtax Terus Dalam Phone (MyJPJ)`,
     tags: ["jalan", "kenderaan", "myjpj", "raya", "urusan"],
     link: "https://apps.apple.com/us/app/myjpj/id6443821311",
-    post: `Simple tips hari ni..Lesen memandu atau roadtax dah nak mati, macam mana nak renew terus dalam phone tanpa beratur?🚗
+    post: `Ada yang tahu? Lesen memandu atau roadtax dah nak mati, macam mana nak renew terus dalam phone tanpa beratur?🚗
 👇👇👇`,
     komen: `Install apps rasmi MyJPJ dekat phone..log masuk akaun kita
 Boleh terus renew Lesen Memandu Malaysia (LMM) dan Cukai Jalan (LKM) secara digital, siap ada fungsi kongsi roadtax dengan pasangan
@@ -189,7 +189,7 @@ PG00359605`,
     tajuk: `Tengok Live CCTV Highway Sebelum Gerak (Jalanow)`,
     tags: ["balik", "jalanow", "kampung", "trafik"],
     link: "https://www.jalanow.com/",
-    post: `Just a simple tips..Nak balik kampung atau gerak kerja, macam mana nak tengok live CCTV highway PLUS & Karak jem ke tak?🛣️
+    post: `Ada yang tahu? Nak balik kampung atau gerak kerja, macam mana nak tengok live CCTV highway PLUS & Karak jem ke tak?🛣️
 👇👇👇`,
     komen: `Tak perlu install apps..terus buka web jalanow.com dekat browser phone
 Pilih lebuh raya macam PLUS Utara-Selatan, Karak, NKVE, atau Jambatan Pulau Pinang..terus nampak gambar live kamera CCTV terkini
@@ -219,7 +219,7 @@ PG00359605`,
     tajuk: `Buang Background Gambar Passport & Produk 5 Saat (Photoroom)`,
     tags: ["bisnes", "edit", "gambar", "online", "photoroom"],
     link: "https://www.photoroom.com/tools/background-remover",
-    post: `Simple tips malam ni..Tangkap gambar passport anak dekat rumah, macam mana nak buang & tukar background dalam 5 saat?📸
+    post: `Ada yang tahu? Tangkap gambar passport anak dekat rumah, macam mana nak buang & tukar background dalam 5 saat?📸
 👇👇👇`,
     komen: `Buka web photoroom.com/tools/background-remover dekat phone atau PC
 Upload gambar yang kita tangkap..AI dia terus buang latar belakang secara automatik dan boleh tukar warna putih atau biru
@@ -249,7 +249,7 @@ PG00359605`,
     tajuk: `Hantar Gambar Antara iPhone, Android & PC Guna WiFi Sama (PairDrop)`,
     tags: ["pairdrop", "pintar", "teknologi", "telefon"],
     link: "https://pairdrop.net/",
-    post: `Just a simple tips..Macam mana nak AirDrop gambar & fail dari iPhone ke Android atau PC tanpa install apa-apa apps?📲
+    post: `Ada yang tahu? Macam mana nak AirDrop gambar & fail dari iPhone ke Android atau PC tanpa install apa-apa apps?📲
 👇👇👇`,
     komen: `Pastikan kedua-dua phone atau PC sambung dekat WiFi atau hotspot yang sama
 Buka web pairdrop.net dekat browser kedua-dua peranti..terus keluar nama phone/PC dan boleh hantar gambar kualiti asal
@@ -279,7 +279,7 @@ PG00359605`,
     tajuk: `Pindah Video Saiz Besar Phone ke Laptop Tanpa Internet (LocalSend)`,
     tags: ["localsend", "pintar", "teknologi", "telefon"],
     link: "https://localsend.org/",
-    post: `Simple tips hari ni..Selalu pindah video besar dari phone ke PC, macam mana nak transfer laju tanpa guna data internet?💻
+    post: `Ada yang tahu? Selalu pindah video besar dari phone ke PC, macam mana nak transfer laju tanpa guna data internet?💻
 👇👇👇`,
     komen: `Install apps percuma LocalSend dekat phone dan juga dekat laptop/PC
 Bila guna WiFi atau hotspot yang sama, boleh terus hantar berpuluh video saiz besar dengan sangat laju tanpa makan data internet
@@ -309,7 +309,7 @@ PG00359605`,
     tajuk: `Edit Gambar Macam Photoshop Terus Dekat Browser PC (Photopea)`,
     tags: ["bentuk", "edit", "gambar", "photopea", "reka"],
     link: "https://www.photopea.com/",
-    post: `Just a simple tips..Nak edit gambar atau buka fail PSD macam Photoshop dekat laptop tapi tak nak bayar langganan bulanan?🎨
+    post: `Ada yang tahu? Nak edit gambar atau buka fail PSD macam Photoshop dekat laptop tapi tak nak bayar langganan bulanan?🎨
 👇👇👇`,
     komen: `Terus buka web photopea.com dekat browser laptop atau PC
 Paparan dan fungsi dia hampir sama macam Adobe Photoshop..boleh buka fail PSD, AI, atau gambar biasa secara percuma
@@ -339,7 +339,7 @@ PG00359605`,
     tajuk: `Website Serba Boleh Convert Fail, PDF & Video Percuma (TinyWow)`,
     tags: ["dokumen", "produktiviti", "tinywow"],
     link: "https://tinywow.com/",
-    post: `Simple tips malam ni..Nak tukar format video, gambar, Excel atau PDF dekat satu tempat je tanpa perlu daftar akaun?⚡
+    post: `Ada yang tahu? Nak tukar format video, gambar, Excel atau PDF dekat satu tempat je tanpa perlu daftar akaun?⚡
 👇👇👇`,
     komen: `Simpan laman web tinywow.com ni dekat browser phone atau PC
 Dalam satu web ni ada puluhan fungsi percuma untuk edit PDF, kecilkan saiz video, tukar gambar HEIC ke JPG, dan macam-macam lagi
@@ -369,7 +369,7 @@ PG00359605`,
     tajuk: `Semak Baki & Status Giliran Haji Online (THiJARI Tabung Haji)`,
     tags: ["kewangan", "simpanan", "thijari tabung haji"],
     link: "https://www.thijari.com.my/",
-    post: `Just a simple tips..Macam mana nak semak baki Tabung Haji kita & anak-anak atau check giliran haji terus dari phone?🕋
+    post: `Ada yang tahu? Macam mana nak semak baki Tabung Haji kita & anak-anak atau check giliran haji terus dari phone?🕋
 👇👇👇`,
     komen: `Buka portal rasmi thijari.com.my atau muat turun aplikasi rasmi THiJARI dekat phone
 Lepas daftar, boleh terus semak baki simpanan, penyata tahunan, status pendaftaran haji, dan pindahan simpanan setiap bulan
@@ -399,7 +399,7 @@ PG00359605`,
     tajuk: `Semak & Tambah Simpanan ASB Tanpa Beratur Di Kaunter (myASNB)`,
     tags: ["kewangan", "myasnb", "simpanan"],
     link: "https://www.myasnb.com.my/",
-    post: `Simple tips hari ni..Malas nak beratur dekat bank, macam mana nak check baki & tambah simpanan ASB terus dekat phone?📈
+    post: `Ada yang tahu? Malas nak beratur dekat bank, macam mana nak check baki & tambah simpanan ASB terus dekat phone?📈
 👇👇👇`,
     komen: `Guna portal rasmi myasnb.com.my atau install apps rasmi myASNB dekat phone
 Boleh semak jumlah unit amanah, tengok agihan dividen, dan set Auto Labur bulanan terus dari akaun bank kita
@@ -429,7 +429,7 @@ PG00359605`,
     tajuk: `Urus e-Filing & Semak Sekatan Perjalanan Luar Negara (MyTax LHDN)`,
     tags: ["cukai", "kerajaan", "mytax lhdn", "portal"],
     link: "https://mytax.hasil.gov.my/",
-    post: `Just a simple tips..Nak bercuti luar negara, macam mana nak check awal-awal nama kita ada sekatan perjalanan LHDN ke tak?✈️
+    post: `Ada yang tahu? Nak bercuti luar negara, macam mana nak check awal-awal nama kita ada sekatan perjalanan LHDN ke tak?✈️
 👇👇👇`,
     komen: `Buka portal rasmi LHDN dekat mytax.hasil.gov.my atau install apps MyTax
 Log masuk guna nombor IC..dekat dashboard tu terus boleh tengok status tunggakan cukai, hantar e-Filing, dan status sekatan perjalanan
@@ -459,7 +459,7 @@ PG00359605`,
     tajuk: `Buka Akaun Simpan SSPN Anak & Urus PTPTN Online (myPTPTN)`,
     tags: ["keluarga", "kewangan", "myptptn", "pendidikan"],
     link: "https://apps.apple.com/my/app/myptptn/id1601433091",
-    post: `Simple tips malam ni..Nak buat simpanan SSPN anak siap dapat pelepasan cukai LHDN, macam mana nak urus dekat phone je?🎓
+    post: `Ada yang tahu? Nak buat simpanan SSPN anak siap dapat pelepasan cukai LHDN, macam mana nak urus dekat phone je?🎓
 👇👇👇`,
     komen: `Install apps rasmi myPTPTN dekat phone dan sahkan identiti akaun
 Boleh terus buka atau tambah simpanan akaun Simpan SSPN untuk anak-anak dan muat turun penyata untuk pelepasan cukai tahunan
@@ -489,7 +489,7 @@ PG00359605`,
     tajuk: `Scan Link Atau Fail APK Mencurigakan Sebelum Klik (VirusTotal)`,
     tags: ["anti-scam", "keselamatan", "siber", "virustotal"],
     link: "https://www.virustotal.com/",
-    post: `Just a simple tips..Dapat link pelik dekat WhatsApp, macam mana nak check link tu ada virus scammer ke tak sebelum klik?🛡️
+    post: `Ada yang tahu? Dapat link pelik dekat WhatsApp, macam mana nak check link tu ada virus scammer ke tak sebelum klik?🛡️
 👇👇👇`,
     komen: `Jangan klik link tu dulu..copy link tersebut dan buka web virustotal.com (milik keselamatan Google)
 Paste link tadi dekat bahagian URL..dia akan imbas guna lebih 70 enjin keselamatan sama ada link tu phishing/malware atau selamat
@@ -519,7 +519,7 @@ PG00359605`,
     tajuk: `Semak Sama Ada Emel Kita Pernah Bocor Di Internet (Have I Been Pwned)`,
     tags: ["have i been pwned", "keselamatan", "privasi", "siber"],
     link: "https://haveibeenpwned.com/",
-    post: `Simple tips hari ni..Macam mana nak tahu alamat emel yang kita guna selama ni pernah bocor dekat tangan hacker atau tak?🔐
+    post: `Ada yang tahu? Macam mana nak tahu alamat emel yang kita guna selama ni pernah bocor dekat tangan hacker atau tak?🔐
 👇👇👇`,
     komen: `Buka laman web rasmi haveibeenpwned.com dekat browser phone atau PC
 Taip alamat emel kita dan tekan semak..dia terus senaraikan kalau emel kita pernah terlibat dalam kebocoran data mana-mana aplikasi
@@ -549,7 +549,7 @@ PG00359605`,
     tajuk: `Track Semua Jenis Parcel Dalam & Luar Negara Satu Tempat (17TRACK)`,
     tags: ["17track", "beli-belah", "kurier", "online"],
     link: "https://apps.apple.com/us/app/17track-package-tracker/id1004956012",
-    post: `Just a simple tips..Selalu beli barang online guna banyak kurier, macam mana nak track semua parcel dalam satu apps je?📦
+    post: `Ada yang tahu? Selalu beli barang online guna banyak kurier, macam mana nak track semua parcel dalam satu apps je?📦
 👇👇👇`,
     komen: `Install apps 17TRACK dekat phone atau buka web rasmi dia
 Masukkan je nombor tracking mana-mana kurier Malaysia atau luar negara..dia automatik kesan syarikat kurier dan hantar notifikasi bila barang gerak
@@ -579,7 +579,7 @@ PG00359605`,
     tajuk: `Check Kelajuan Sebenar WiFi Rumah & Data Telco (Fast.com)`,
     tags: ["fast.com", "internet", "telco"],
     link: "https://fast.com/",
-    post: `Simple tips malam ni..Rasa line WiFi rumah atau data phone makin slow, macam mana nak test speed sebenar dalam 3 saat?📶
+    post: `Ada yang tahu? Rasa line WiFi rumah atau data phone makin slow, macam mana nak test speed sebenar dalam 3 saat?📶
 👇👇👇`,
     komen: `Terus buka web fast.com dekat browser phone atau laptop (disediakan oleh Netflix)
 Sebaik sahaja buka, dia terus kira kelajuan muat turun (Mbps) internet kita secara tepat tanpa sebarang iklan yang menyemak
@@ -609,7 +609,7 @@ PG00359605`,
     tajuk: `Semak Penyata KWSP & Caruman Sukarela Di Phone (KWSP i-Akaun)`,
     tags: ["kewangan", "kwsp i-akaun", "persaraan"],
     link: "https://apps.apple.com/my/app/kwsp-i-akaun/id1660153573",
-    post: `Just a simple tips..Kerja sendiri atau suri rumah, macam mana nak mencarum KWSP sendiri & dapat insentif kerajaan di phone?🏦
+    post: `Ada yang tahu? Kerja sendiri atau suri rumah, macam mana nak mencarum KWSP sendiri & dapat insentif kerajaan di phone?🏦
 👇👇👇`,
     komen: `Install apps rasmi KWSP i-Akaun dekat phone..daftar dan aktifkan akaun secara online
 Dalam apps ni boleh terus semak baki Akaun Persaraan, Akaun Sejahtera & Akaun Fleksibel, serta buat caruman sukarela i-Saraan dengan mudah
@@ -639,7 +639,7 @@ PG00359605`,
     tajuk: `Semak Laporan Rekod Kredit CCRIS Secara Percuma (eCCRIS BNM)`,
     tags: ["bank", "eccris bnm", "kewangan", "pinjaman"],
     link: "https://eccris.bnm.gov.my/",
-    post: `Simple tips hari ni..Nak mohon loan rumah/kereta, macam mana nak semak rekod CCRIS Bank Negara secara percuma dekat rumah?🏠
+    post: `Ada yang tahu? Nak mohon loan rumah/kereta, macam mana nak semak rekod CCRIS Bank Negara secara percuma dekat rumah?🏠
 👇👇👇`,
     komen: `Tak perlu bayar atau pergi kiosk..buka portal rasmi Bank Negara Malaysia dekat eccris.bnm.gov.my
 Daftar kali pertama secara online dan log masuk..boleh terus muat turun laporan penuh rekod bayaran balik pinjaman bank kita secara percuma
@@ -669,7 +669,7 @@ PG00359605`,
     tajuk: `Mohon Ubat Susulan Hospital KKM Dihantar Terus Ke Rumah (MyUBAT KKM)`,
     tags: ["keluarga", "kesihatan", "myubat kkm"],
     link: "https://apps.apple.com/my/app/myubat/id1529983342",
-    post: `Just a simple tips..Mak ayah ambil ubat berkala dekat hospital kerajaan, macam mana nak mohon ubat pos terus ke rumah?💊
+    post: `Ada yang tahu? Mak ayah ambil ubat berkala dekat hospital kerajaan, macam mana nak mohon ubat pos terus ke rumah?💊
 👇👇👇`,
     komen: `Install apps rasmi MyUBAT (bawah Kementerian Kesihatan Malaysia) dekat phone
 Daftar preskripsi ubat susulan..boleh pilih sama ada nak Ubat Melalui Pos (UMP) terus ke rumah atau ambil dekat loker farmasi tanpa beratur panjang
@@ -699,7 +699,7 @@ PG00359605`,
     tajuk: `Semak Paras Air Sungai & Amaran Banjir Masa Nyata (PublicInfoBanjir JPS)`,
     tags: ["cuaca", "keluarga", "keselamatan", "publicinfobanjir jps"],
     link: "https://publicinfobanjir.water.gov.my/",
-    post: `Simple tips malam ni..Bila hujan lebat berterusan, macam mana nak check paras air sungai dekat kawasan kita secara live?🌧️
+    post: `Ada yang tahu? Bila hujan lebat berterusan, macam mana nak check paras air sungai dekat kawasan kita secara live?🌧️
 👇👇👇`,
     komen: `Buka portal rasmi Jabatan Pengairan dan Saliran (JPS) dekat publicinfobanjir.water.gov.my
 Pilih negeri dan daerah kita..dia tunjuk bacaan terkini paras air sungai sama ada Normal, Waspada, Amaran, atau Bahaya
@@ -729,7 +729,7 @@ PG00359605`,
     tajuk: `Scan Barcode Produk Untuk Semak Status Halal JAKIM (Verify Halal)`,
     tags: ["gaya", "hidup", "kepenggunaan", "verify halal"],
     link: "https://play.google.com/store/apps/details?id=com.serunai.verifyhalal",
-    post: `Just a simple tips..Beli makanan dekat pasar raya, macam mana nak scan barcode untuk check sijil Halal JAKIM tu sah ke tak?🔍
+    post: `Ada yang tahu? Beli makanan dekat pasar raya, macam mana nak scan barcode untuk check sijil Halal JAKIM tu sah ke tak?🔍
 👇👇👇`,
     komen: `Install aplikasi rasmi Verify Halal (inisiatif bawah JAKIM) dekat phone atau buka portal halal.gov.my
 Boleh terus scan barcode pada bungkusan makanan atau taip nama produk/restoran untuk semak status pengesahan Halal terkini
@@ -759,7 +759,7 @@ PG00359605`,
     tajuk: `Tempah Slot Janji Temu Klinik Kesihatan & Pergigian KKM (MySejahtera)`,
     tags: ["keluarga", "kesihatan", "mysejahtera"],
     link: "https://apps.apple.com/my/app/mysejahtera/id1504055630",
-    post: `Simple tips hari ni..Tahu tak kita masih boleh guna MySejahtera untuk book appointment klinik kesihatan & cuci gigi KKM?🦷
+    post: `Ada yang tahu? Tahu tak kita masih boleh guna MySejahtera untuk book appointment klinik kesihatan & cuci gigi KKM?🦷
 👇👇👇`,
     komen: `Buka semula apps MySejahtera dekat phone dan tekan bahagian Janji Temu (Appointments)
 Pilih Klinik Kesihatan kerajaan berdekatan untuk pemeriksaan kesihatan, saringan kesihatan, atau rawatan pergigian mengikut tarikh kosong
@@ -789,7 +789,7 @@ PG00359605`,
     tajuk: `Tangkap Gambar IC & Dokumen Terus Jadi PDF Jelas (Adobe Scan)`,
     tags: ["adobe scan", "dokumen", "produktiviti"],
     link: "https://apps.apple.com/us/app/adobe-scan-pdf-doc-scanner/id1199564834",
-    post: `Just a simple tips..Nak hantar salinan sijil & IC dalam PDF, macam mana nak scan guna kamera phone bagi tajam & kemas?📑
+    post: `Ada yang tahu? Nak hantar salinan sijil & IC dalam PDF, macam mana nak scan guna kamera phone bagi tajam & kemas?📑
 👇👇👇`,
     komen: `Install apps percuma Adobe Scan dekat phone (iPhone atau Android)
 Halakan kamera dekat dokumen atau IC..dia automatik potong tepi gambar, cerahkan tulisan, dan terus simpan sebagai fail PDF yang tajam
@@ -819,7 +819,7 @@ PG00359605`,
     tajuk: `Buat Kad Jemputan Kahwin Digital & Poster Niaga Percuma (Canva)`,
     tags: ["bentuk", "bisnes", "canva", "reka"],
     link: "https://www.canva.com/",
-    post: `Simple tips malam ni..Nak buat kad jemputan majlis doa selamat/kahwin atau poster niaga sendiri secara percuma dekat phone?✨
+    post: `Ada yang tahu? Nak buat kad jemputan majlis doa selamat/kahwin atau poster niaga sendiri secara percuma dekat phone?✨
 👇👇👇`,
     komen: `Buka web canva.com atau install apps Canva dekat phone
 Cari je template percuma ikut tema majlis kita..tukar nama, tarikh, dan lokasi kemudian terus muat turun sebagai gambar atau PDF
@@ -849,7 +849,7 @@ PG00359605`,
     tajuk: `Edit Video Pendek & Buat Auto-Caption Bahasa Melayu (CapCut)`,
     tags: ["capcut", "kandungan", "media", "sosial"],
     link: "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883",
-    post: `Just a simple tips..Tengok orang buat video pendek siap keluar tulisan subtitle automatik ikut suara, buat pakai apps apa?🎬
+    post: `Ada yang tahu? Tengok orang buat video pendek siap keluar tulisan subtitle automatik ikut suara, buat pakai apps apa?🎬
 👇👇👇`,
     komen: `Install apps CapCut dekat phone dan masukkan video yang kita dah rakam
 Tekan menu Text -> Auto Captions dan pilih Bahasa Melayu..dalam beberapa saat dia terus tulis sarikata ikut suara kita secara automatik
@@ -879,7 +879,7 @@ PG00359605`,
     tajuk: `Kenal Pasti Nombor Tak Dikenali Sama Ada Scammer Atau Runner (Truecaller)`,
     tags: ["anti-scam", "keselamatan", "telefon", "truecaller"],
     link: "https://apps.apple.com/us/app/truecaller-premium-caller-id/id448142450",
-    post: `Simple tips hari ni..Selalu dapat call nombor tak dikenali, macam mana nak tahu tu runner barang atau panggilan scammer?📞
+    post: `Ada yang tahu? Selalu dapat call nombor tak dikenali, macam mana nak tahu tu runner barang atau panggilan scammer?📞
 👇👇👇`,
     komen: `Install apps Truecaller dekat phone dan aktifkan fungsi Caller ID dalam tetapan
 Bila ada nombor tak dikenali masuk atau kita carian nombor tu, dia akan paparkan laporan komuniti sama ada scammer, telemarketer, atau penghantar barang
@@ -909,7 +909,7 @@ PG00359605`,
     tajuk: `Terjemah Tulisan Bahasa Asing Guna Kamera Phone (Google Translate)`,
     tags: ["google translate", "harian", "kegunaan", "teknologi"],
     link: "https://apps.apple.com/us/app/google-translate/id414706506",
-    post: `Simple tips hari ni..Beli barang import atau ubat tulisan bahasa asing, macam mana nak translate guna kamera phone je?📷
+    post: `Ada yang tahu? Beli barang import atau ubat tulisan bahasa asing, macam mana nak translate guna kamera phone je?📷
 👇👇👇`,
     komen: `Install apps Google Translate dekat phone dan tekan ikon Camera
 Halakan je kamera dekat kotak ubat, label makanan, atau menu..tulisan atas gambar tu terus bertukar jadi Bahasa Melayu secara live
@@ -939,7 +939,7 @@ PG00359605`,
     tajuk: `Kesan Lokasi Phone Android Hilang Walaupun Silent (Google Find Hub)`,
     tags: ["google find hub", "keselamatan", "pintar", "telefon"],
     link: "https://www.google.com/android/find/about",
-    post: `Just a simple tips..Phone Android tercicir dekat rumah tapi dalam mod silent, macam mana nak bagi dia berbunyi kuat?📱
+    post: `Ada yang tahu? Phone Android tercicir dekat rumah tapi dalam mod silent, macam mana nak bagi dia berbunyi kuat?📱
 👇👇👇`,
     komen: `Pinjam phone pasangan atau buka PC, kemudian layari web rasmi google.com/android/find
 Log masuk akaun Gmail yang sama..boleh terus tengok lokasi tepat atas peta dan tekan 'Play Sound' supaya phone berdering kuat walaupun silent
@@ -969,7 +969,7 @@ PG00359605`,
     tajuk: `Kesan Lokasi iPhone Tercicir Dari Browser Lain (Apple iCloud Find)`,
     tags: ["apple icloud find", "keselamatan", "pintar", "telefon"],
     link: "https://www.icloud.com/find",
-    post: `Simple tips malam ni..Kalau iPhone tercicir atau terselit, macam mana nak kesan lokasi & bunyikan guna phone orang lain?🍏
+    post: `Ada yang tahu? Kalau iPhone tercicir atau terselit, macam mana nak kesan lokasi & bunyikan guna phone orang lain?🍏
 👇👇👇`,
     komen: `Buka browser dekat mana-mana phone atau laptop dan terus pergi ke icloud.com/find
 Log masuk Apple ID kita..pilih peranti iPhone, iPad, atau AirPods kita untuk tengok lokasi semasa dan tekan 'Play Sound'
@@ -999,7 +999,7 @@ PG00359605`,
     tajuk: `Rancang Waktu Bertolak Ikut Data Trafik Sebenar (Waze Plan a Drive)`,
     tags: ["perjalanan", "trafik", "waze plan a drive"],
     link: "https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106",
-    post: `Just a simple tips..Esok pagi ada urusan penting, macam mana nak tahu pukul berapa kena bertolak supaya tak sangkut jem?🚗
+    post: `Ada yang tahu? Esok pagi ada urusan penting, macam mana nak tahu pukul berapa kena bertolak supaya tak sangkut jem?🚗
 👇👇👇`,
     komen: `Buka apps Waze dekat phone dan pilih fungsi 'Plan a drive' (Rancang Pemanduan)
 Masukkan destinasi dan pukul berapa kita nak sampai..Waze akan kira corak trafik biasa pada hari & jam tersebut dan cadangkan waktu gerak terbaik
@@ -1029,7 +1029,7 @@ PG00359605`,
     tajuk: `Pantau Penggunaan Elektrik Harian & Bil Rumah (myTNB)`,
     tags: ["belanja", "jimat", "mytnb", "rumah", "utiliti"],
     link: "https://www.mytnb.com.my/",
-    post: `Simple tips hari ni..Macam mana nak pantau penggunaan elektrik rumah kita setiap bulan & bayar bil TNB terus dekat phone?💡
+    post: `Ada yang tahu? Macam mana nak pantau penggunaan elektrik rumah kita setiap bulan & bayar bil TNB terus dekat phone?💡
 👇👇👇`,
     komen: `Install apps rasmi myTNB atau buka portal mytnb.com.my dan daftarkan nombor akaun bil elektrik rumah
 Kalau rumah dah pasang Smart Meter, kita siap boleh tengok graf penggunaan elektrik ikut hari untuk kawal bil daripada melambung
@@ -1059,7 +1059,7 @@ PG00359605`,
     tajuk: `Guna AI Bantu Draf Surat Rasmi Sekolah Anak & Kerja (ChatGPT Rasmi)`,
     tags: ["chatgpt rasmi", "kerjaya", "produktiviti"],
     link: "https://apps.apple.com/us/app/chatgpt/id6448311069",
-    post: `Just a simple tips..Nak tulis surat rasmi anak tak hadir sekolah atau surat kerja, macam mana nak siap dalam 10 saat?✍️
+    post: `Ada yang tahu? Nak tulis surat rasmi anak tak hadir sekolah atau surat kerja, macam mana nak siap dalam 10 saat?✍️
 👇👇👇`,
     komen: `Install apps rasmi ChatGPT (keluaran OpenAI) dekat phone secara percuma
 Taip je arahan dalam Bahasa Melayu contohnya: 'Tuliskan surat rasmi kepada guru kelas maklumkan anak demam'..terus keluar format surat lengkap
@@ -1089,7 +1089,7 @@ PG00359605`,
     tajuk: `Semak Senarai Hitam Imigresen Sebelum Ke Luar Negara (SSPI JIM)`,
     tags: ["kerajaan", "perjalanan", "portal", "sspi jim"],
     link: "https://sspi.imi.gov.my/",
-    post: `Simple tips malam ni..Sebelum beli tiket flight luar negara, macam mana nak check nama kita clear ke tak dengan Imigresen?🛂
+    post: `Ada yang tahu? Sebelum beli tiket flight luar negara, macam mana nak check nama kita clear ke tak dengan Imigresen?🛂
 👇👇👇`,
     komen: `Buka portal rasmi Semakan Status Perjalanan Imigresen (SSPI) dekat sspi.imi.gov.my
 Masukkan nombor IC kita dan tekan semak..terus keluar status sama ada 'Tiada Halangan' atau perlu rujuk pejabat Imigresen
@@ -1119,7 +1119,7 @@ PG00359605`,
     tajuk: `Semak & Kemas Kini Sumbangan Tunai Rahmah Online (Portal STR LHDN)`,
     tags: ["bantuan", "keluarga", "kerajaan", "portal str lhdn"],
     link: "https://bantuantunai.hasil.gov.my/",
-    post: `Just a simple tips..Macam mana nak semak status kelayakan atau kemas kini maklumat Sumbangan Tunai Rahmah (STR) online?🇲🇾
+    post: `Ada yang tahu? Macam mana nak semak status kelayakan atau kemas kini maklumat Sumbangan Tunai Rahmah (STR) online?🇲🇾
 👇👇👇`,
     komen: `Pastikan hanya guna portal rasmi LHDN dekat bantuantunai.hasil.gov.my (elakkan klik link palsu dekat grup WhatsApp)
 Log masuk MySTR guna nombor IC untuk semak status permohonan, tarikh pengkreditan bayaran, atau kemas kini maklumat pasangan dan anak
@@ -1149,7 +1149,7 @@ PG00359605`,
     tajuk: `Lapor Rumah Kosong Bila Balik Kampung Kepada Polis (VSP PDRM)`,
     tags: ["keluarga", "keselamatan", "rumah", "vsp pdrm"],
     link: "https://apps.apple.com/my/app/volunteer-smartphone-patrol/id1118234031",
-    post: `Simple tips hari ni..Nak balik kampung tinggal rumah lama, macam mana nak maklumkan polis PDRM supaya buat rondaan?🏡
+    post: `Ada yang tahu? Nak balik kampung tinggal rumah lama, macam mana nak maklumkan polis PDRM supaya buat rondaan?🏡
 👇👇👇`,
     komen: `Install aplikasi rasmi Volunteer Smartphone Patrol (VSP) bawah PDRM dekat phone
 Isi borang makluman 'Balik Kampung' dengan tarikh pergi dan balik..atau guna untuk hantar aduan bergambar jika nampak perkara mencurigakan di taman
@@ -1179,7 +1179,7 @@ PG00359605`,
     tajuk: `Semak Syarikat Pelaburan Sah Atau Skim Cepat Kaya (SC Investment Checker)`,
     tags: ["anti-scam", "kewangan", "sc investment checker"],
     link: "https://www.sc.com.my/investment-checker",
-    post: `Just a simple tips..Ada orang ajak masuk skim pelaburan pulangan tinggi, macam mana nak check syarikat tu sah ke scammer?⚠️
+    post: `Ada yang tahu? Ada orang ajak masuk skim pelaburan pulangan tinggi, macam mana nak check syarikat tu sah ke scammer?⚠️
 👇👇👇`,
     komen: `Buka portal rasmi Suruhanjaya Sekuriti Malaysia (SC) dekat sc.com.my/investment-checker
 Taip nama syarikat atau laman web pelaburan tu..terus boleh semak sama ada mereka berlesen dengan SC atau dah masuk dalam 'Investor Alert List'
@@ -1209,7 +1209,7 @@ PG00359605`,
     tajuk: `Semak Radar Awan Hujan & Amaran Ribut Petir Terkini (myCuaca METMalaysia)`,
     tags: ["cuaca", "keselamatan", "mycuaca metmalaysia"],
     link: "https://apps.apple.com/my/app/mycuaca/id955289490",
-    post: `Simple tips malam ni..Nak tahu awan hujan lebat atau ribut petir tengah menghala ke kawasan rumah, nak check kat mana?⛈️
+    post: `Ada yang tahu? Nak tahu awan hujan lebat atau ribut petir tengah menghala ke kawasan rumah, nak check kat mana?⛈️
 👇👇👇`,
     komen: `Install apps rasmi myCuaca daripada Jabatan Meteorologi Malaysia (METMalaysia) dekat phone
 Boleh tengok imej radar hujan terkini di seluruh Malaysia, amaran ribut petir mengikut daerah, dan maklumat gempa bumi secara tepat
@@ -1239,7 +1239,7 @@ PG00359605`,
     tajuk: `Buat Aduan Jalan Berlubang & Lampu Jalan Rosak Ke PBT (PBTCare KPKT)`,
     tags: ["kediaman", "komuniti", "pbtcare kpkt"],
     link: "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.itegur&hl=en",
-    post: `Just a simple tips..Dekat taman perumahan ada jalan berlubang atau lampu jalan rosak, macam mana nak report terus ke PBT?🚧
+    post: `Ada yang tahu? Dekat taman perumahan ada jalan berlubang atau lampu jalan rosak, macam mana nak report terus ke PBT?🚧
 👇👇👇`,
     komen: `Install aplikasi rasmi PBTCare (dahulu dikenali sebagai i-Tegur bawah KPKT) dekat phone
 Tangkap gambar kerosakan jalan, longkang tersumbat, atau pokok tumbang..kemudian hantar aduan berserta lokasi GPS terus kepada Majlis Perbandaran
@@ -1269,7 +1269,7 @@ PG00359605`,
     tajuk: `Semak Kadar Tol Lebuhraya & Kemudahan R&R Sebelum Gerak (PLUS App)`,
     tags: ["perjalanan", "plus app", "trafik"],
     link: "https://apps.apple.com/my/app/plus-app-official/id1439887531?l=ms",
-    post: `Simple tips hari ni..Sebelum masuk highway PLUS, macam mana nak kira siap-siap jumlah bayaran tol masuk sampai keluar?🛣️
+    post: `Ada yang tahu? Sebelum masuk highway PLUS, macam mana nak kira siap-siap jumlah bayaran tol masuk sampai keluar?🛣️
 👇👇👇`,
     komen: `Install aplikasi rasmi PLUS App dekat phone sebelum memulakan perjalanan jauh
 Pilih plaza tol masuk dan plaza tol keluar untuk tengok kadar tambang tol tepat, paparan CCTV lebuh raya, serta kemudahan surau dan kedai makan di R&R
@@ -1299,7 +1299,7 @@ PG00359605`,
     tajuk: `Cari Kerja Kosong Sahih Bawah Kementerian Sumber Manusia (MYFutureJobs)`,
     tags: ["graduan", "kerjaya", "myfuturejobs"],
     link: "https://myfuturejobs.gov.my/",
-    post: `Just a simple tips..Untuk adik-adik graduan atau yang tengah cari kerja, portal rasmi mana paling selamat nak mohon kerja?💼
+    post: `Ada yang tahu? Untuk adik-adik graduan atau yang tengah cari kerja, portal rasmi mana paling selamat nak mohon kerja?💼
 👇👇👇`,
     komen: `Buka portal pekerjaan rasmi negara bawah PERKESO & Kementerian Sumber Manusia dekat myfuturejobs.gov.my
 Daftar profil pencari kerja dan tapis jawatan kosong mengikut negeri, kelulusan, dan tangga gaji daripada majikan yang berdaftar secara sah
@@ -1329,7 +1329,7 @@ PG00359605`,
     tajuk: `Mohon Kerja Kerajaan & Semak Panggilan Temuduga Online (SPA9)`,
     tags: ["awam", "kerjaya", "sektor", "spa9"],
     link: "https://spa9.spa.gov.my/",
-    post: `Simple tips malam ni..Nak mohon jawatan kosong sektor awam (Kerajaan), dekat link rasmi mana nak daftar & kemas kini?🏛️
+    post: `Ada yang tahu? Nak mohon jawatan kosong sektor awam (Kerajaan), dekat link rasmi mana nak daftar & kemas kini?🏛️
 👇👇👇`,
     komen: `Layari portal rasmi Suruhanjaya Perkhidmatan Awam Malaysia dekat spa9.spa.gov.my
 Daftar akaun pemohon, isi maklumat akademik, dan pilih jawatan mengikut kelayakan SPM, Diploma, atau Ijazah
@@ -1359,7 +1359,7 @@ PG00359605`,
     tajuk: `Muat Turun Slip Gaji & Penyata Tahunan Penjawat Awam (e-Penyata Gaji JANM)`,
     tags: ["awam", "e-penyata gaji janm", "kewangan", "penjawat"],
     link: "https://epenyatagaji-laporan.anm.gov.my/",
-    post: `Just a simple tips..Untuk rakan penjawat awam, macam mana nak download slip gaji & penyata tahunan terus dekat phone?📑
+    post: `Ada yang tahu? Untuk rakan penjawat awam, macam mana nak download slip gaji & penyata tahunan terus dekat phone?📑
 👇👇👇`,
     komen: `Buka portal rasmi Jabatan Akauntan Negara dekat epenyatagaji-laporan.anm.gov.my atau install apps rasmi ePayslip JANM
 Log masuk guna nombor IC dan kata laluan..terus boleh muat turun penyata gaji bulanan dan penyata pendapatan tahunan dalam format PDF
@@ -1389,7 +1389,7 @@ PG00359605`,
     tajuk: `Semak Notis Gangguan Bekalan Air & Bayar Bil Air (Air Selangor App)`,
     tags: ["air selangor app", "klang", "lembah", "rumah", "utiliti"],
     link: "https://www.airselangor.com/",
-    post: `Simple tips hari ni..Duduk area Selangor atau KL, macam mana nak dapat alert awal kalau kawasan rumah ada gangguan air?🚰
+    post: `Ada yang tahu? Duduk area Selangor atau KL, macam mana nak dapat alert awal kalau kawasan rumah ada gangguan air?🚰
 👇👇👇`,
     komen: `Install aplikasi rasmi Air Selangor dekat phone atau semak dekat airselangor.com
 Boleh tengok jadual penyelenggaraan berjadual, status pemulihan bekalan air mengikut kawasan, lokasi lori tangki air, dan terus bayar bil bulanan
@@ -1419,7 +1419,7 @@ PG00359605`,
     tajuk: `Jejak Kapal Terbang Keluarga Balik Umrah Atau Bercuti Live (Flightradar24)`,
     tags: ["flightradar24", "keluarga", "perjalanan"],
     link: "https://www.flightradar24.com/",
-    post: `Just a simple tips..Mak ayah tengah naik flight balik umrah, macam mana nak tengok kapal terbang tu dekat peta secara live?✈️
+    post: `Ada yang tahu? Mak ayah tengah naik flight balik umrah, macam mana nak tengok kapal terbang tu dekat peta secara live?✈️
 👇👇👇`,
     komen: `Buka web flightradar24.com atau install apps Flightradar24 dekat phone
 Taip je nombor penerbangan (contoh: MH8050)..kita terus nampak kedudukan kapal terbang tu tengah terbang dekat negara mana dan anggaran waktu mendarat
@@ -1449,7 +1449,7 @@ PG00359605`,
     tajuk: `Tengok Pergerakan Angin, Ombak Laut & Cuaca Visual 3D (Windy.com)`,
     tags: ["cuaca,", "memancing", "riadah", "windy.com"],
     link: "https://apps.apple.com/us/app/windy-com/id1161387262",
-    post: `Simple tips malam ni..Kaki pancing, camping atau nak bercuti ke pulau, macam mana nak check keadaan angin & ombak laut?🌊
+    post: `Ada yang tahu? Kaki pancing, camping atau nak bercuti ke pulau, macam mana nak check keadaan angin & ombak laut?🌊
 👇👇👇`,
     komen: `Install apps Windy.com dekat phone atau buka laman web windy.com
 Peta animasi dia tunjuk kelajuan angin, ketinggian ombak laut, arah ribut, dan pergerakan awan hujan dengan sangat terperinci mengikut jam
@@ -1479,7 +1479,7 @@ PG00359605`,
     tajuk: `Simpan Semua Password Bank & Emel Dalam Peti Besi Digital (Bitwarden)`,
     tags: ["bitwarden", "keselamatan", "privasi", "siber"],
     link: "https://bitwarden.com/",
-    post: `Just a simple tips..Selalu terlupa password akaun bank, emel & portal kerja, macam mana nak simpan semua dengan selamat?🔑
+    post: `Ada yang tahu? Selalu terlupa password akaun bank, emel & portal kerja, macam mana nak simpan semua dengan selamat?🔑
 👇👇👇`,
     komen: `Jangan tulis password dalam nota biasa..install aplikasi pengurusan kata laluan sumber terbuka Bitwarden (bitwarden.com)
 Semua username dan password disimpan secara sulit (encrypted)..kita cuma perlu ingat satu Master Password sahaja untuk buka peti besi digital ni
@@ -1509,7 +1509,7 @@ PG00359605`,
     tajuk: `Cetak Penyata Transaksi Tol Kad TNG & RFID Untuk Claim (TNG Portal)`,
     tags: ["kenderaan", "kerja", "tng portal", "urusan"],
     link: "https://tngportal.touchngo.com.my/",
-    post: `Simple tips hari ni..Selalu gerak kerja guna tol, macam mana nak download resit tol kad TNG & RFID untuk claim ofis?🧾
+    post: `Ada yang tahu? Selalu gerak kerja guna tol, macam mana nak download resit tol kad TNG & RFID untuk claim ofis?🧾
 👇👇👇`,
     komen: `Buka portal rasmi Touch 'n Go dekat tngportal.touchngo.com.my dan log masuk akaun kita
 Pastikan nombor siri kad TNG kita dah didaftarkan..kemudian boleh pilih tarikh perjalanan dan muat turun penyata penuh tol untuk tujuan tuntutan pejabat
@@ -1539,7 +1539,7 @@ PG00359605`,
     tajuk: `Semak & Bayar Bil Pembetungan Indah Water Secara Online (Portal IWK)`,
     tags: ["kediaman", "portal iwk", "rumah", "utiliti"],
     link: "https://www.iwk.com.my/",
-    post: `Just a simple tips..Selalu terlepas pandang bil Indah Water sampai tertunggak, macam mana nak semak & daftar e-Bil online?🏠
+    post: `Ada yang tahu? Selalu terlepas pandang bil Indah Water sampai tertunggak, macam mana nak semak & daftar e-Bil online?🏠
 👇👇👇`,
     komen: `Layari portal rasmi Indah Water Konsortium dekat iwk.com.my atau install aplikasi Indah Water
 Daftar nombor akaun rumah kita untuk terima e-Bil terus melalui emel atau WhatsApp dan buat bayaran secara online tanpa perlu tunggu bil kertas
@@ -1569,7 +1569,7 @@ PG00359605`,
     tajuk: `Pinjam & Baca Ribuan e-Buku Secara Percuma (u-Pustaka PNM)`,
     tags: ["ilmu", "keluarga", "pendidikan", "u-pustaka pnm"],
     link: "https://www.pnm.gov.my/index.php/pages/view/1228",
-    post: `Simple tips malam ni..Suka membaca atau cari buku anak, tahu tak boleh pinjam e-Book Perpustakaan Negara secara percuma?📚
+    post: `Ada yang tahu? Suka membaca atau cari buku anak, tahu tak boleh pinjam e-Book Perpustakaan Negara secara percuma?📚
 👇👇👇`,
     komen: `Buka portal rasmi Perpustakaan Negara Malaysia (bahagian perkhidmatan u-Pustaka) dekat pnm.gov.my
 Pendaftaran keahlian adalah percuma untuk warganegara Malaysia..boleh akses ribuan buku digital, majalah, dan bahan rujukan pelajar dari rumah
@@ -1599,7 +1599,7 @@ PG00359605`,
     tajuk: `Kecilkan Saiz Gambar (KB) Untuk Isi Borang Online Tanpa Pecah (Squoosh)`,
     tags: ["dokumen", "produktiviti", "squoosh"],
     link: "https://squoosh.app/",
-    post: `Just a simple tips..Nak upload gambar dalam borang online tapi sistem kata saiz terlalu besar, macam mana nak kecilkan?🖼️
+    post: `Ada yang tahu? Nak upload gambar dalam borang online tapi sistem kata saiz terlalu besar, macam mana nak kecilkan?🖼️
 👇👇👇`,
     komen: `Buka laman web percuma squoosh.app (dibangunkan oleh pasukan Google Chrome Labs) dekat phone atau PC
 Masukkan gambar tadi..tarik pelaras kualiti sedikit sahaja dan saiz gambar terus turun daripada beberapa MB kepada puluhan KB tanpa pecahkan gambar
@@ -1629,7 +1629,7 @@ PG00359605`,
     tajuk: `Dengar Ribuan Stesen Radio Live Seluruh Dunia Atas Globe 3D (Radio Garden)`,
     tags: ["gaya", "hiburan", "hidup", "radio garden"],
     link: "https://radio.garden/",
-    post: `Simple tips hari ni..Bosan memandu jauh, macam mana nak dengar ribuan stesen radio live dari seluruh dunia dekat phone?🌍
+    post: `Ada yang tahu? Bosan memandu jauh, macam mana nak dengar ribuan stesen radio live dari seluruh dunia dekat phone?🌍
 👇👇👇`,
     komen: `Buka laman web radio.garden dekat browser phone atau install aplikasi rasmi Radio Garden
 Pusingkan je globe bumi 3D tu dan tekan mana-mana titik hijau..kita terus boleh dengar siaran radio tempatan dari Malaysia, Mekah, UK, Jepun, dan seluruh dunia
@@ -1659,7 +1659,7 @@ PG00359605`,
     tajuk: `Cari Gambar Resit Atau IC Lama Dalam Galeri Hanya Taip Perkataan (Google Photos)`,
     tags: ["google photos", "pintar", "teknologi", "telefon"],
     link: "https://apps.apple.com/us/app/google-photos-backup-edit/id962194608",
-    post: `Just a simple tips..Dalam phone ada beribu gambar, macam mana nak cari balik gambar resit atau dokumen lama dalam 3 saat?🔍
+    post: `Ada yang tahu? Dalam phone ada beribu gambar, macam mana nak cari balik gambar resit atau dokumen lama dalam 3 saat?🔍
 👇👇👇`,
     komen: `Guna aplikasi Google Photos dekat phone (iPhone atau Android)
 Dekat kotak carian (Search) atas tu, taip je perkataan macam 'resit', 'IC', 'sijil', atau nama tempat..AI dia terus keluarkan gambar dokumen tersebut
@@ -1689,7 +1689,7 @@ PG00359605`,
     tajuk: `Mohon & Semak Status Bantuan Warga Emas / OKU Online (eBantuan JKM)`,
     tags: ["ebantuan jkm", "kebajikan", "komuniti"],
     link: "https://ebantuanjkm.jkm.gov.my/",
-    post: `Simple tips malam ni..Ada keluarga warga emas atau OKU yang layak, macam mana nak mohon & semak bantuan JKM secara online?🤝
+    post: `Ada yang tahu? Ada keluarga warga emas atau OKU yang layak, macam mana nak mohon & semak bantuan JKM secara online?🤝
 👇👇👇`,
     komen: `Layari portal rasmi Jabatan Kebajikan Masyarakat dekat ebantuanjkm.jkm.gov.my
 Boleh isi borang permohonan awal secara atas talian atau semak status kelulusan bantuan bulanan menggunakan nombor kad pengenalan
@@ -1719,7 +1719,7 @@ PG00359605`,
     tajuk: `Daftar Anak Masuk Tahun 1 & Semak Rekod Sekolah KPM (Portal idMe KPM)`,
     tags: ["bapa", "pendidikan", "portal idme kpm"],
     link: "https://idme.moe.gov.my/login",
-    post: `Just a simple tips..Ibu bapa yang ada anak nak masuk Tahun 1 atau sekolah KPM, dekat portal mana nak daftar & kemas kini?🏫
+    post: `Ada yang tahu? Ibu bapa yang ada anak nak masuk Tahun 1 atau sekolah KPM, dekat portal mana nak daftar & kemas kini?🏫
 👇👇👇`,
     komen: `Simpan pautan Sistem Pengurusan IDentiti (idMe) Kementerian Pendidikan Malaysia dekat idme.moe.gov.my/login
 Daftar akaun ibu bapa/penjaga untuk urusan pendaftaran kemasukan Tahun 1, kemas kini maklumat profil murid, dan semakan keputusan pentaksiran anak
@@ -1749,7 +1749,7 @@ PG00359605`,
     tajuk: `Buat Aduan Rasmi Jika Masalah Line Telco & Bil Tak Selesai (Portal Aduan MCMC)`,
     tags: ["pengguna", "portal aduan mcmc", "telco"],
     link: "https://www.mcmc.gov.my/ms/make-a-complaint/make-a-complaint",
-    post: `Simple tips hari ni..Dah berkali-kali report masalah line internet atau bil telco tapi tak jalan, nak adu dekat agensi mana?📡
+    post: `Ada yang tahu? Dah berkali-kali report masalah line internet atau bil telco tapi tak jalan, nak adu dekat agensi mana?📡
 👇👇👇`,
     komen: `Lepas buat aduan dekat syarikat telco/kurier dan dapat nombor rujukan tapi masih tak selesai, buka portal rasmi SKMM (MCMC)
 Hantar laporan rasmi melalui halaman aduan MCMC atau Forum Pengguna Komunikasi dan Multimedia Malaysia (CFM) berserta bukti
@@ -1779,7 +1779,7 @@ PG00359605`,
     tajuk: `Semak Sama Ada Line Telco Atau Apps Bank Tengah Down Satu Malaysia (Downdetector)`,
     tags: ["downdetector", "harian", "internet", "teknologi"],
     link: "https://downdetector.com/",
-    post: `Just a simple tips..Tiba-tiba WhatsApp, apps bank atau telco tak boleh buka, macam mana nak tahu tengah down satu Malaysia?🌐
+    post: `Ada yang tahu? Tiba-tiba WhatsApp, apps bank atau telco tak boleh buka, macam mana nak tahu tengah down satu Malaysia?🌐
 👇👇👇`,
     komen: `Sebelum penat restart phone banyak kali, buka laman web downdetector.com dekat browser
 Cari nama perkhidmatan macam Maybank2u, Unifi, Maxis, CelcomDigi, atau WhatsApp..kalau graf mencanak naik warna merah, maksudnya memang tengah gangguan sistem
@@ -1809,7 +1809,7 @@ PG00359605`,
     tajuk: `Semak Rekod Caruman SOCSO & SIP Setiap Bulan (Prihatin PERKESO)`,
     tags: ["keselamatan", "pekerja", "prihatin perkeso", "sosial"],
     link: "https://apps.apple.com/my/app/prihatin/id1523496062",
-    post: `Simple tips hari ni..Tiap bulan gaji tolak SOCSO & SIP, macam mana nak check majikan betul-betul carumkan ke tak?👷
+    post: `Ada yang tahu? Tiap bulan gaji tolak SOCSO & SIP, macam mana nak check majikan betul-betul carumkan ke tak?👷
 👇👇👇`,
     komen: `Install aplikasi rasmi Prihatin (bawah PERKESO) dekat phone dan daftar guna nombor IC
 Boleh terus semak penyata caruman bulanan Akta 4 dan Sistem Insurans Pekerjaan (SIP) untuk pastikan perlindungan kita aktif
@@ -1839,7 +1839,7 @@ PG00359605`,
     tajuk: `Semak & Bayar Cukai Tanah / Cukai Petak Online (Sistem e-Tanah)`,
     tags: ["hartanah", "kerajaan", "portal", "sistem e-tanah"],
     link: "https://etanah.selangor.gov.my/",
-    post: `Just a simple tips..Malas nak beratur dekat Pejabat Tanah, macam mana nak semak & bayar cukai tanah/petak secara online?🏡
+    post: `Ada yang tahu? Malas nak beratur dekat Pejabat Tanah, macam mana nak semak & bayar cukai tanah/petak secara online?🏡
 👇👇👇`,
     komen: `Untuk pemilik rumah atau tanah di Selangor, buka portal rasmi etanah.selangor.gov.my
 Masukkan nombor hakmilik atau nombor akaun bil untuk semak jumlah cukai tanah atau cukai petak (strata) dan terus bayar guna FPX
@@ -1869,7 +1869,7 @@ PG00359605`,
     tajuk: `Bayar Parking Majlis Perbandaran Selangor & KL Di Phone (SSP)`,
     tags: ["harian", "kenderaan", "ssp", "urusan"],
     link: "https://apps.apple.com/my/app/smart-selangor-parking/id1369995577",
-    post: `Simple tips malam ni..Parking kereta tepi jalan area Selangor atau KL, macam mana nak bayar parking terus dari phone?🅿️
+    post: `Ada yang tahu? Parking kereta tepi jalan area Selangor atau KL, macam mana nak bayar parking terus dari phone?🅿️
 👇👇👇`,
     komen: `Install apps Smart Selangor Parking (SSP) dekat phone dan daftarkan nombor plat kereta kita
 Pilih majlis perbandaran (MPS, MBPJ, MBSA, MPK, DBKL dan lain-lain) serta tempoh jam..kalau masa nak tamat siap boleh tambah jam dari jauh
@@ -1899,7 +1899,7 @@ PG00359605`,
     tajuk: `Bayar Parking Kereta Merentas Banyak Negeri Satu Apps (Flexi Parking)`,
     tags: ["flexi parking", "harian", "perjalanan", "urusan"],
     link: "https://apps.apple.com/my/app/flexi-parking/id1466897086",
-    post: `Just a simple tips..Selalu outstation ke negeri lain, apps parking mana yang boleh guna sekali jalan dekat banyak negeri?🚗
+    post: `Ada yang tahu? Selalu outstation ke negeri lain, apps parking mana yang boleh guna sekali jalan dekat banyak negeri?🚗
 👇👇👇`,
     komen: `Install apps Flexi Parking dekat phone..kredit yang kita topup boleh guna merentas pelbagai negeri di Malaysia
 Menyokong PBT di Lembah Klang, Perak, Kedah, Kelantan, Terengganu, Pahang, Negeri Sembilan, dan Sabah dalam satu aplikasi sahaja
@@ -1929,7 +1929,7 @@ PG00359605`,
     tajuk: `Beli Tiket Tren ETS & Komuter Terus Dari Apps Rasmi (KTMB KITS Style)`,
     tags: ["awam", "ktmb kits style", "pengangkutan", "perjalanan"],
     link: "https://apps.apple.com/my/app/kits-style/id6737016269",
-    post: `Simple tips hari ni..Nak beli tiket tren ETS balik utara atau KTM Komuter tanpa kena caj tambahan website orang tengah?🚆
+    post: `Ada yang tahu? Nak beli tiket tren ETS balik utara atau KTM Komuter tanpa kena caj tambahan website orang tengah?🚆
 👇👇👇`,
     komen: `Muat turun aplikasi rasmi baharu KTMB iaitu KITS Style atau buka portal kitsonline.com.my
 Boleh terus pilih tempat duduk tren ETS, KTM Intercity, Shuttle Tebrau, atau beli pas Komuter mengikut harga asal rasmi KTMB
@@ -1959,7 +1959,7 @@ PG00359605`,
     tajuk: `Semak Lokasi Sebenar Bas Rapid KL & Jadual Tren Live (MyRapid PULSE)`,
     tags: ["awam", "klang", "lembah", "myrapid pulse", "pengangkutan"],
     link: "https://myrapid.com.my/pulse/mobile-app/",
-    post: `Just a simple tips..Selalu naik bas Rapid KL atau LRT/MRT pergi kerja, macam mana nak tahu bas tengah dekat mana live?🚌
+    post: `Ada yang tahu? Selalu naik bas Rapid KL atau LRT/MRT pergi kerja, macam mana nak tahu bas tengah dekat mana live?🚌
 👇👇👇`,
     komen: `Install aplikasi rasmi MyRapid PULSE (keluaran Prasarana) dekat phone
 Ada fungsi 'Live Bus Tracker' untuk tengok anggaran minit bas sampai di hentian serta perancang perjalanan penuh LRT, MRT, dan Monorel
@@ -1989,7 +1989,7 @@ PG00359605`,
     tajuk: `Panduan Langkah Demi Langkah Naik MRT, LRT & Bas (Moovit)`,
     tags: ["awam", "moovit", "pelajar", "pengangkutan"],
     link: "https://apps.apple.com/us/app/moovit-bus-transit-tracker/id498477945",
-    post: `Simple tips malam ni..Jarang naik MRT atau LRT, macam mana nak tahu kena turun stesen mana & tukar tren laluan mana?🚇
+    post: `Ada yang tahu? Jarang naik MRT atau LRT, macam mana nak tahu kena turun stesen mana & tukar tren laluan mana?🚇
 👇👇👇`,
     komen: `Install apps percuma Moovit dekat phone dan taip je nama tempat yang kita nak tuju
 Dia akan tunjukkan langkah demi langkah: kena naik stesen mana, tukar tren di stesen mana, keluar pintu mana, dan berapa tambang serta masa perjalanan
@@ -2019,7 +2019,7 @@ PG00359605`,
     tajuk: `Semak Status Tag RFID Kereta & Mohon Ganti Tag Rosak (Portal TNG RFID)`,
     tags: ["kenderaan", "lebuhraya", "portal tng rfid"],
     link: "https://rfid.touchngo.com.my/",
-    post: `Just a simple tips..Pelekat RFID kereta dekat lampu/cermin dah rosak atau tukar cermin baru, macam mana nak urus online?🏷️
+    post: `Ada yang tahu? Pelekat RFID kereta dekat lampu/cermin dah rosak atau tukar cermin baru, macam mana nak urus online?🏷️
 👇👇👇`,
     komen: `Buka portal rasmi Touch 'n Go RFID dekat rfid.touchngo.com.my dan log masuk akaun kita
 Dekat dashboard tu kita boleh semak status aktif tag RFID setiap kereta, batal tag kereta lama yang dah dijual, atau mohon tag gantian
@@ -2049,7 +2049,7 @@ PG00359605`,
     tajuk: `Uji Kelajuan Download, Upload & Ping Internet Rumah (Speedtest Ookla)`,
     tags: ["internet", "rumah", "speedtest ookla", "wifi"],
     link: "https://www.speedtest.net/",
-    post: `Simple tips hari ni..Nak tahu kelajuan penuh download, upload & ping WiFi rumah kita sama macam pakej yang kita bayar?⚡
+    post: `Ada yang tahu? Nak tahu kelajuan penuh download, upload & ping WiFi rumah kita sama macam pakej yang kita bayar?⚡
 👇👇👇`,
     komen: `Buka laman web rasmi speedtest.net dekat laptop atau install apps Speedtest by Ookla dekat phone
 Tekan butang 'GO'..dia akan ukur kelajuan muat turun (Download), muat naik (Upload), dan masa tindak balas (Ping) dengan sangat tepat
@@ -2079,7 +2079,7 @@ PG00359605`,
     tajuk: `Saluran Rasmi Selesaikan Pertikaian Bil & Kontrak Telco (CFM)`,
     tags: ["cfm", "pengguna", "telco"],
     link: "https://cfm.my/aduan-baharu/",
-    post: `Just a simple tips..Bil telco kena caj pelik-pelik atau masalah internet tak selesai, dekat mana saluran rasmi pengguna?📱
+    post: `Ada yang tahu? Bil telco kena caj pelik-pelik atau masalah internet tak selesai, dekat mana saluran rasmi pengguna?📱
 👇👇👇`,
     komen: `Buka portal rasmi Consumer Forum of Malaysia (CFM) bawah seliaan MCMC dekat cfm.my/aduan-baharu/
 CFM adalah badan rasmi yang melindungi hak pengguna komunikasi dan multimedia di Malaysia..masukkan nombor laporan telco asal untuk tindakan lanjut
@@ -2109,7 +2109,7 @@ PG00359605`,
     tajuk: `Khidmat Nasihat Kewangan & Urus Hutang Bank Percuma (AKPK)`,
     tags: ["akpk", "hutang", "kewangan", "pengurusan"],
     link: "https://www.akpk.org.my/node/424",
-    post: `Simple tips malam ni..Komitmen bulanan bank makin sempit, tahu tak agensi Bank Negara ni bantu susun semula secara free?🏦
+    post: `Ada yang tahu? Komitmen bulanan bank makin sempit, tahu tak agensi Bank Negara ni bantu susun semula secara free?🏦
 👇👇👇`,
     komen: `Jangan sesekali guna ejen berbayar yang ambil komisen..terus rujuk portal rasmi Agensi Kaunseling dan Pengurusan Kredit (AKPK) di akpk.org.my
 AKPK adalah agensi rasmi ditubuhkan oleh Bank Negara Malaysia dan semua khidmat nasihat kewangan serta Program Pengurusan Kredit adalah 100% percuma
@@ -2139,7 +2139,7 @@ PG00359605`,
     tajuk: `Semak Senarai Bank Dilindungi Kerajaan Sehingga RM250,000 (PIDM)`,
     tags: ["bank", "keselamatan", "pidm", "simpanan"],
     link: "https://www.pidm.gov.my/general/how-we-protect-you/member-banks",
-    post: `Just a simple tips..Sebelum buka akaun simpanan dekat bank digital atau bank baharu, macam mana nak tahu dilindungi PIDM?🛡️
+    post: `Ada yang tahu? Sebelum buka akaun simpanan dekat bank digital atau bank baharu, macam mana nak tahu dilindungi PIDM?🛡️
 👇👇👇`,
     komen: `Buka portal rasmi Perbadanan Insurans Deposit Malaysia (PIDM) dekat pidm.gov.my
 Semak senarai rasmi 'Member Banks'..semua bank ahli PIDM dilindungi kerajaan secara automatik dan percuma sehingga RM250,000 bagi setiap pendeposit
@@ -2169,7 +2169,7 @@ PG00359605`,
     tajuk: `Mohon Masuk Universiti Awam, Politeknik & Kolej Komuniti (UPUOnline)`,
     tags: ["lepasan", "pendidikan", "tinggi", "upuonline"],
     link: "https://upu.mohe.gov.my/",
-    post: `Simple tips hari ni..Ada anak lepasan SPM atau STPM, dekat portal rasmi mana nak mohon Universiti Awam & Politeknik?🎓
+    post: `Ada yang tahu? Ada anak lepasan SPM atau STPM, dekat portal rasmi mana nak mohon Universiti Awam & Politeknik?🎓
 👇👇👇`,
     komen: `Simpan pautan rasmi Kementerian Pendidikan Tinggi dekat upu.mohe.gov.my (atau aplikasi UPUPocket)
 Dalam portal ni siap ada sistem 'e-Panduan' untuk semak syarat kelayakan kursus mengikut keputusan SPM anak sebelum pilih program pengajian
@@ -2199,7 +2199,7 @@ PG00359605`,
     tajuk: `Semak Sama Ada Kursus Kolej & Universiti Diiktiraf Kerajaan (MQA MQR)`,
     tags: ["kerjaya", "mqa mqr", "pendidikan", "tinggi"],
     link: "https://www2.mqa.gov.my/mqr/",
-    post: `Just a simple tips..Sebelum daftar anak masuk kolej atau universiti swasta, macam mana nak check sijil tu diiktiraf MQA?📜
+    post: `Ada yang tahu? Sebelum daftar anak masuk kolej atau universiti swasta, macam mana nak check sijil tu diiktiraf MQA?📜
 👇👇👇`,
     komen: `Buka portal rasmi Daftar Kelayakan Malaysia (Malaysian Qualifications Register - MQR) dekat www2.mqa.gov.my/mqr/
 Taip nama institusi dan nama kursus diploma atau ijazah tersebut untuk pastikan ia mempunyai perakuan akreditasi penuh MQA
@@ -2229,7 +2229,7 @@ PG00359605`,
     tajuk: `Mohon Kursus Kemahiran TVET Kerajaan Seluruh Malaysia (UP_TVET)`,
     tags: ["belia", "kemahiran", "teknikal", "up_tvet"],
     link: "https://mohon.tvet.gov.my/",
-    post: `Simple tips malam ni..Anak-anak lebih minat kemahiran teknikal & praktikal (TVET), dekat portal rasmi mana nak mohon?🔧
+    post: `Ada yang tahu? Anak-anak lebih minat kemahiran teknikal & praktikal (TVET), dekat portal rasmi mana nak mohon?🔧
 👇👇👇`,
     komen: `Layari portal permohonan berpusat rasmi UP_TVET dekat mohon.tvet.gov.my
 Merangkumi ratusan kursus kemahiran teknikal, automotif, elektrikal, kulinari, dan teknologi di institusi TVET seluruh Malaysia
@@ -2259,7 +2259,7 @@ PG00359605`,
     tajuk: `Bida Nombor Plat Kenderaan Idaman Tanpa Orang Tengah (JPJeBid)`,
     tags: ["jpjebid", "kenderaan"],
     link: "https://apps.apple.com/my/app/jpjebid/id1458846863",
-    post: `Just a simple tips..Teringin nak beli nombor plat kereta cantik ikut tarikh lahir, macam mana nak bida sendiri dekat phone?🚘
+    post: `Ada yang tahu? Teringin nak beli nombor plat kereta cantik ikut tarikh lahir, macam mana nak bida sendiri dekat phone?🚘
 👇👇👇`,
     komen: `Tak perlu bayar upah runner mahal-mahal..install aplikasi rasmi JPJeBid atau buka portal jpjebid.jpj.gov.my
 Kita boleh tengok siri nombor plat negeri yang tengah dibuka, semak harga bidaan semasa secara telus, dan terus bida sendiri dari telefon
@@ -2289,7 +2289,7 @@ PG00359605`,
     tajuk: `Urus Tukar Nama Kenderaan & Urusan JPJ Online (Portal mySIKAP JPJ)`,
     tags: ["kenderaan", "portal mysikap jpj"],
     link: "https://public.jpj.gov.my/public/login.zul",
-    post: `Simple tips hari ni..Nak buat urusan tukar hak milik kereta atau cabutan maklumat kenderaan JPJ secara online kat mana?🪪
+    post: `Ada yang tahu? Nak buat urusan tukar hak milik kereta atau cabutan maklumat kenderaan JPJ secara online kat mana?🪪
 👇👇👇`,
     komen: `Buka portal rasmi mySIKAP Awam Jabatan Pengangkutan Jalan dekat public.jpj.gov.my
 Banyak urusan kaunter JPJ seperti permohonan tukar hak milik sukarela, pembaharuan lesen, dan semakan rekod kenderaan boleh dibuat terus di sini
@@ -2319,7 +2319,7 @@ PG00359605`,
     tajuk: `Hantar Mesej WhatsApp Tanpa Perlu Save Nombor Telefon (wa.me)`,
     tags: ["pintar", "telefon", "wa.me", "whatsapp"],
     link: "https://faq.whatsapp.com/5913398998672934",
-    post: `Just a simple tips..Nak WhatsApp runner atau seller sekali je tapi malas nak save nombor penuhkan contact list phone?💬
+    post: `Ada yang tahu? Nak WhatsApp runner atau seller sekali je tapi malas nak save nombor penuhkan contact list phone?💬
 👇👇👇`,
     komen: `Guna fungsi rasmi 'Click to Chat' WhatsApp..buka browser phone dan taip wa.me/60123456789 (gantikan dengan nombor telefon bermula kod negara 60)
 Atau lebih mudah: taip nombor telefon tu dalam chat WhatsApp dengan diri sendiri (Message Yourself), hantar, dan tekan terus atas nombor tu untuk pilih 'Chat with..'
@@ -2349,7 +2349,7 @@ PG00359605`,
     tajuk: `Kecilkan Saiz Video Rakaman Bergiga-Giga Tanpa Pecah (HandBrake)`,
     tags: ["handbrake", "komputer", "video"],
     link: "https://handbrake.fr/",
-    post: `Simple tips malam ni..Video rakaman dekat laptop saiz sampai bergiga-giga (GB), macam mana nak kecilkan tanpa pecah kualiti?🎞️
+    post: `Ada yang tahu? Video rakaman dekat laptop saiz sampai bergiga-giga (GB), macam mana nak kecilkan tanpa pecah kualiti?🎞️
 👇👇👇`,
     komen: `Muat turun perisian sumber terbuka percuma HandBrake dekat laman rasmi handbrake.fr (untuk Windows atau Mac)
 Masukkan fail video besar tadi dan pilih preset 'Fast 1080p30'..saiz fail video boleh turun sehingga 70%–80% tapi gambar masih nampak tajam
@@ -2379,7 +2379,7 @@ PG00359605`,
     tajuk: `Pemain Video Percuma Tanpa Iklan Buka Semua Format Fail (VLC Player)`,
     tags: ["komputer", "video", "vlc player"],
     link: "https://www.videolan.org/vlc/index.en-GB.html",
-    post: `Just a simple tips..Ada fail video rakaman CCTV atau kamera yang tak boleh buka dekat PC, nak guna player percuma apa?▶️
+    post: `Ada yang tahu? Ada fail video rakaman CCTV atau kamera yang tak boleh buka dekat PC, nak guna player percuma apa?▶️
 👇👇👇`,
     komen: `Jangan muat turun player pelik-pelik yang penuh iklan..guna perisian rasmi VLC Media Player dekat videolan.org
 Ia 100% percuma, tiada iklan langsung, dan boleh mainkan hampir semua jenis format video dan audio di dunia pada laptop mahupun telefon
@@ -2409,7 +2409,7 @@ PG00359605`,
     tajuk: `Aplikasi Belajar Matematik & Sains Percuma Untuk Anak (Khan Academy)`,
     tags: ["anak", "keluarga", "khan academy", "pendidikan"],
     link: "https://www.khanacademy.org/",
-    post: `Simple tips hari ni..Nak bagi anak guna phone atau tablet untuk belajar Matematik & Sains secara percuma tanpa iklan?🧠
+    post: `Ada yang tahu? Nak bagi anak guna phone atau tablet untuk belajar Matematik & Sains secara percuma tanpa iklan?🧠
 👇👇👇`,
     komen: `Buka laman web khanacademy.org atau install aplikasi Khan Academy (dan Khan Academy Kids untuk anak umur 2–8 tahun)
 Pertubuhan pendidikan bukan berasaskan keuntungan ni sediakan ribuan latihan interaktif dan video penerangan Matematik serta Sains secara 100% percuma
@@ -2439,7 +2439,7 @@ PG00359605`,
     tajuk: `Perisian Percuma Buka Fail ZIP & RAR Tanpa Gangguan Pop-Up (7-Zip)`,
     tags: ["7-zip", "komputer", "pejabat", "produktiviti"],
     link: "https://www.7-zip.org/",
-    post: `Just a simple tips..Nak buka atau buat fail ZIP/RAR dekat laptop kerja tanpa keluar pop-up suruh beli lesen berbayar?🗂️
+    post: `Ada yang tahu? Nak buka atau buat fail ZIP/RAR dekat laptop kerja tanpa keluar pop-up suruh beli lesen berbayar?🗂️
 👇👇👇`,
     komen: `Muat turun perisian sumber terbuka 7-Zip daripada laman web rasmi 7-zip.org
 Sangat ringan, laju, boleh buka semua jenis fail mampat (ZIP, RAR, 7z), dan siap boleh kunci fail dokumen penting kita dengan kata laluan AES-256
@@ -2469,7 +2469,7 @@ PG00359605`,
     tajuk: `Rakam & Bersihkan Bunyi Bising Voice-Over Secara Percuma (Audacity)`,
     tags: ["audacity", "audio", "kandungan", "pencipta"],
     link: "https://www.audacityteam.org/",
-    post: `Simple tips malam ni..Rakam suara untuk video tapi ada bunyi kipas bising kat belakang, macam mana nak bersihkan dekat PC?🎙️
+    post: `Ada yang tahu? Rakam suara untuk video tapi ada bunyi kipas bising kat belakang, macam mana nak bersihkan dekat PC?🎙️
 👇👇👇`,
     komen: `Guna perisian suntingan audio percuma paling popular iaitu Audacity dekat laman rasmi audacityteam.org
 Guna fungsi 'Noise Reduction' dalam menu Effect..dalam beberapa saat sahaja bunyi desiran kipas atau aircond terus hilang dan suara jadi jelas
@@ -2499,7 +2499,7 @@ PG00359605`,
     tajuk: `Susun Nota Kerja, Senarai Tugas & Bajet Keluarga Satu Tempat (Notion)`,
     tags: ["masa", "notion", "pengurusan", "produktiviti"],
     link: "https://www.notion.com/",
-    post: `Just a simple tips..Suka tulis nota kerja, checklist barang & bajet bulanan, apps apa paling kemas boleh sync phone ke PC?📝
+    post: `Ada yang tahu? Suka tulis nota kerja, checklist barang & bajet bulanan, apps apa paling kemas boleh sync phone ke PC?📝
 👇👇👇`,
     komen: `Install aplikasi Notion dekat phone dan laptop melalui notion.com
 Kita boleh bina buku nota digital kita sendiri yang tersusun mengikut folder, jadual kewangan, dan senarai semak harian secara percuma
@@ -2529,7 +2529,7 @@ PG00359605`,
     tajuk: `Urus Jadual Projek Kerja & Tempahan Pelanggan Guna Kad Visual (Trello)`,
     tags: ["bisnes", "kerja", "pengurusan", "trello"],
     link: "https://apps.apple.com/us/app/trello-daily-task-tracker/id461504587",
-    post: `Simple tips hari ni..Berniaga kecil-kecilan atau urus projek kerja, macam mana nak susun status tempahan supaya tak terlupa?📋
+    post: `Ada yang tahu? Berniaga kecil-kecilan atau urus projek kerja, macam mana nak susun status tempahan supaya tak terlupa?📋
 👇👇👇`,
     komen: `Install apps Trello dekat phone atau buka trello.com dekat PC
 Boleh buat papan visual ikut lajur seperti 'Tempahan Baru', 'Sedang Diproses', dan 'Selesai Dihantar'..kemudian tarik je kad pelanggan ikut status semasa
@@ -2559,7 +2559,7 @@ PG00359605`,
     tajuk: `Kalkulator Saintifik & Lukis Graf Matematik Secara Visual (Desmos)`,
     tags: ["desmos", "menengah", "pendidikan", "sekolah"],
     link: "https://www.desmos.com/calculator",
-    post: `Just a simple tips..Anak sekolah menengah pening nak faham tajuk graf fungsi Matematik, website percuma mana boleh bantu?📈
+    post: `Ada yang tahu? Anak sekolah menengah pening nak faham tajuk graf fungsi Matematik, website percuma mana boleh bantu?📈
 👇👇👇`,
     komen: `Buka laman web desmos.com/calculator atau install apps Desmos Graphing Calculator secara percuma
 Bila taip je persamaan matematik (contoh: y = 2x + 3), dia terus lukiskan bentuk graf secara visual dan interaktif atas skrin
@@ -2589,7 +2589,7 @@ PG00359605`,
     tajuk: `Mohon Jawatan Konstabel, Sarjan & Inspektor Polis Online (e-Pengambilan PDRM)`,
     tags: ["badan", "beruniform", "e-pengambilan pdrm", "kerjaya"],
     link: "https://www.rmp.gov.my/orang-awam/skim-perkhidmatan-pdrm/panduan-kerjaya",
-    post: `Simple tips malam ni..Ada adik-beradik atau anak muda yang berminat nak mohon masuk Polis (PDRM), dekat portal mana nak isi?👮
+    post: `Ada yang tahu? Ada adik-beradik atau anak muda yang berminat nak mohon masuk Polis (PDRM), dekat portal mana nak isi?👮
 👇👇👇`,
     komen: `Permohonan jawatan PDRM dibuat secara atas talian melalui portal rasmi e-Pengambilan PDRM (rujuk panduan rasmi di rmp.gov.my)
 Boleh semak syarat kelayakan fizikal dan akademik bagi jawatan Konstabel, Sarjan, serta Inspektor Polis mengikut hebahan pengambilan semasa
@@ -2619,7 +2619,7 @@ PG00359605`,
     tajuk: `Semak Kelayakan & Mohon Bantuan Subsidi Tunai BUDI MADANI (MOF)`,
     tags: ["bantuan", "kenderaan", "kerajaan", "mof"],
     link: "https://www.budimadani.gov.my/",
-    post: `Just a simple tips..Pemilik kenderaan diesel individu atau petani kecil, dekat portal rasmi mana nak mohon BUDI MADANI?🚜
+    post: `Ada yang tahu? Pemilik kenderaan diesel individu atau petani kecil, dekat portal rasmi mana nak mohon BUDI MADANI?🚜
 👇👇👇`,
     komen: `Layari portal rasmi Kementerian Kewangan dekat budimadani.gov.my
 Boleh semak syarat kelayakan kategori BUDI Individu dan BUDI Agri-Komoditi serta terus hantar permohonan bantuan subsidi tunai bulanan secara online
@@ -2649,7 +2649,7 @@ PG00359605`,
     tajuk: `Daftar & Renew Sijil Perniagaan SSM Secara Online (SSM EzBiz Online)`,
     tags: ["bisnes", "ssm ezbiz online", "usahawan"],
     link: "https://www.ssm.com.my/bm/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx",
-    post: `Simple tips hari ni..Sijil perniagaan SSM dah nak tamat tempoh, macam mana nak renew terus secara online tanpa ke kaunter?💼
+    post: `Ada yang tahu? Sijil perniagaan SSM dah nak tamat tempoh, macam mana nak renew terus secara online tanpa ke kaunter?💼
 👇👇👇`,
     komen: `Guna portal rasmi EzBiz Online bawah Suruhanjaya Syarikat Malaysia (SSM) melalui laman rasmi ssm.com.my
 Boleh perbaharui pendaftaran perniagaan (Enterprise), kemas kini alamat atau cabang bisnes, dan terus muat turun sijil SSM baharu dalam masa beberapa minit
@@ -2679,7 +2679,7 @@ PG00359605`,
     tajuk: `Cari Profil Rasmi Syarikat Sebelum Buat Urusan Bisnes (SSM e-Info)`,
     tags: ["bisnes", "keselamatan", "kewangan", "ssm e-info"],
     link: "https://www.ssm-einfo.my/",
-    post: `Just a simple tips..Sebelum bayar deposit besar dekat mana-mana syarikat, macam mana nak check rekod pendaftaran SSM dia?🔍
+    post: `Ada yang tahu? Sebelum bayar deposit besar dekat mana-mana syarikat, macam mana nak check rekod pendaftaran SSM dia?🔍
 👇👇👇`,
     komen: `Buka portal perkhidmatan carian rasmi Suruhanjaya Syarikat Malaysia dekat ssm-einfo.my
 Taip nama syarikat atau nombor pendaftaran..kita boleh pastikan syarikat tersebut benar-benar wujud, masih aktif berdaftar, dan dapatkan maklumat rasmi profil syarikat
@@ -2709,7 +2709,7 @@ PG00359605`,
     tajuk: `Mohon Kursus Kahwin & Kebenaran Nikah Online (SPPIM JAKIM)`,
     tags: ["keluarga", "kerajaan", "portal", "sppim jakim"],
     link: "https://www.sppim.gov.my/v2/",
-    post: `Simple tips hari ni..Adik-beradik nak daftar kursus kahwin atau mohon kebenaran nikah online, nak isi dekat portal mana?💍
+    post: `Ada yang tahu? Adik-beradik nak daftar kursus kahwin atau mohon kebenaran nikah online, nak isi dekat portal mana?💍
 👇👇👇`,
     komen: `Buka portal rasmi Sistem Pengurusan Perkahwinan Islam Malaysia (SPPIM) bawah JAKIM dekat sppim.gov.my/v2/
 Pasangan dari negeri yang mengguna pakai SPPIM boleh terus daftar kursus pra-perkahwinan dan isi borang kebenaran berkahwin secara atas talian
@@ -2739,7 +2739,7 @@ PG00359605`,
     tajuk: `Kira Zakat Emas, Simpanan & Pendapatan Ikut Nisab Semasa (Zakat Selangor)`,
     tags: ["emas", "islam", "kewangan", "zakat selangor", "zakat,"],
     link: "https://www.zakatselangor.com.my/zakat-emas/",
-    post: `Just a simple tips..Macam mana nak kira zakat emas simpanan (85g) & barang kemas ikut kadar uruf semasa dengan tepat?✨
+    post: `Ada yang tahu? Macam mana nak kira zakat emas simpanan (85g) & barang kemas ikut kadar uruf semasa dengan tepat?✨
 👇👇👇`,
     komen: `Layari laman rasmi Lembaga Zakat Selangor dekat zakatselangor.com.my/zakat-emas/ (atau portal zakat negeri masing-masing)
 Masukkan berat gram emas simpanan atau emas perhiasan..kalkulator rasmi dia terus tolak nilai uruf dan kira jumlah zakat sebenar
@@ -2769,7 +2769,7 @@ PG00359605`,
     tajuk: `Berwakaf Tunai Secara Rasmi & Dapat Pelepasan Cukai LHDN (YWM)`,
     tags: ["cukai", "islam", "kewangan", "ywm"],
     link: "https://www.ywm.gov.my/wakaf-online",
-    post: `Simple tips malam ni..Nak buat wakaf tunai bulanan secara sahih siap boleh claim pelepasan cukai LHDN, nak buat kat mana?🕌
+    post: `Ada yang tahu? Nak buat wakaf tunai bulanan secara sahih siap boleh claim pelepasan cukai LHDN, nak buat kat mana?🕌
 👇👇👇`,
     komen: `Buka portal rasmi Sistem Wakaf Tunai Malaysia bawah Yayasan Waqaf Malaysia (YWM) dekat ywm.gov.my/wakaf-online
 Boleh buat sumbangan wakaf tunai secara sekali gus atau potongan bulanan untuk projek kesihatan, pendidikan, dan ekonomi umat
@@ -2799,7 +2799,7 @@ PG00359605`,
     tajuk: `Failkan Tuntutan Ganti Rugi Ditipu Peniaga Kos RM5 (e-Tribunal KPDN)`,
     tags: ["e-tribunal kpdn", "kpdn", "pengguna"],
     link: "https://ttpm.kpdn.gov.my/",
-    post: `Just a simple tips..Kena tipu beli barang rosak atau servis kedai tak siap, tahu tak boleh tuntut di Tribunal kos RM5 je?⚖️
+    post: `Ada yang tahu? Kena tipu beli barang rosak atau servis kedai tak siap, tahu tak boleh tuntut di Tribunal kos RM5 je?⚖️
 👇👇👇`,
     komen: `Tak perlu upah peguam mahal..buka portal rasmi Tribunal Tuntutan Pengguna Malaysia (TTPM) bawah KPDN dekat ttpm.kpdn.gov.my
 Daftar akaun dan failkan Borang 1 secara online dengan fi pemfailan RM5 sahaja untuk tuntutan pengguna sehingga RM50,000
@@ -2829,7 +2829,7 @@ PG00359605`,
     tajuk: `Buat Aduan Kedai Tak Letak Tanda Harga Atau Sorok Barang (EzADU KPDN)`,
     tags: ["belanja", "ezadu kpdn", "harian", "pengguna"],
     link: "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.ezadu&hl=ms",
-    post: `Simple tips hari ni..Jumpa kedai makan cekik darah tak letak tanda harga atau sorok minyak paket, nak report kat mana?🛒
+    post: `Ada yang tahu? Jumpa kedai makan cekik darah tak letak tanda harga atau sorok minyak paket, nak report kat mana?🛒
 👇👇👇`,
     komen: `Install aplikasi rasmi ezAdu KPDN dekat phone atau layari portal eaduan.kpdn.gov.my
 Tangkap gambar bukti berserta resit dan lokasi kedai..pegawai penguat kuasa KPDN negeri akan turun buat pemeriksaan dan ambil tindakan
@@ -2859,7 +2859,7 @@ PG00359605`,
     tajuk: `Semak Kontraktor Ubah Suai Rumah Berdaftar Sah (CIMS CIDB)`,
     tags: ["cims cidb", "pembinaan", "rumah"],
     link: "https://cims.cidb.gov.my/smis/regcontractor/reglocalsearchcontractor.vbhtml",
-    post: `Just a simple tips..Nak renovate rumah, macam mana nak check kontraktor tu berdaftar sah dengan CIDB sebelum bayar deposit?🧱
+    post: `Ada yang tahu? Nak renovate rumah, macam mana nak check kontraktor tu berdaftar sah dengan CIDB sebelum bayar deposit?🧱
 👇👇👇`,
     komen: `Buka direktori carian rasmi Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB) dekat cims.cidb.gov.my
 Taip nama syarikat kontraktor dan pilih negeri..terus nampak gred pendaftaran CIDB dan tarikh luput sijil perakuan mereka
@@ -2889,7 +2889,7 @@ PG00359605`,
     tajuk: `Semak Nombor REN Ejen Hartanah Berdaftar Sebelum Booking Rumah (LPPEH)`,
     tags: ["anti-scam", "hartanah", "lppeh"],
     link: "https://lpeph.gov.my/search-listing",
-    post: `Simple tips malam ni..Nak beli atau sewa rumah, macam mana nak check ejen hartanah (REN) tu sah ke broker haram?🏠
+    post: `Ada yang tahu? Nak beli atau sewa rumah, macam mana nak check ejen hartanah (REN) tu sah ke broker haram?🏠
 👇👇👇`,
     komen: `Buka portal rasmi Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPPEH) dekat lpeph.gov.my/search-listing
 Masukkan nama ejen atau nombor tag REN/REA mereka..pastikan nama dan firma agensi hartanah keluar dalam rekod rasmi sebelum bayar duit booking
@@ -2919,7 +2919,7 @@ PG00359605`,
     tajuk: `Semak Peguam & Firma Guaman Sah Berdaftar (Malaysian Bar Directory)`,
     tags: ["hartanah", "malaysian bar directory", "perundangan"],
     link: "https://legaldirectory.malaysianbar.org.my/",
-    post: `Just a simple tips..Nak lantik peguam uruskan jual beli rumah atau pusaka, macam mana nak check peguam tu sah bertauliah?📜
+    post: `Ada yang tahu? Nak lantik peguam uruskan jual beli rumah atau pusaka, macam mana nak check peguam tu sah bertauliah?📜
 👇👇👇`,
     komen: `Buka direktori rasmi Majlis Peguam Malaysia (Malaysian Bar Legal Directory) dekat legaldirectory.malaysianbar.org.my
 Taip nama peguam atau nama firma guaman..kita boleh sahkan mereka mempunyai sijil amalan guaman yang sah dan aktif
@@ -2949,7 +2949,7 @@ PG00359605`,
     tajuk: `Semak Doktor Perubatan & Pakar Berdaftar Sah Di Malaysia (MMC MeRITS)`,
     tags: ["keselamatan", "kesihatan", "mmc merits"],
     link: "https://merits.mmc.gov.my/search",
-    post: `Simple tips hari ni..Sebelum buat rawatan dekat klinik swasta atau estetik, macam mana nak check doktor tu berdaftar KKM?🩺
+    post: `Ada yang tahu? Sebelum buat rawatan dekat klinik swasta atau estetik, macam mana nak check doktor tu berdaftar KKM?🩺
 👇👇👇`,
     komen: `Buka portal rasmi Majlis Perubatan Malaysia (Malaysian Medical Council) dekat merits.mmc.gov.my/search
 Taip nama doktor tersebut untuk menyemak nombor pendaftaran penuh dan Sijil Amalan Tahunan (APC) mereka yang terkini
@@ -2979,7 +2979,7 @@ PG00359605`,
     tajuk: `Semak Nombor MAL Ubat, Suplemen & Kosmetik Lulus KKM (NPRA KKM)`,
     tags: ["kepenggunaan", "kesihatan", "npra kkm"],
     link: "https://www.npra.gov.my/index.php/my/consumers-2/maklumat/carian-produk-berdaftar-bernotifikasi.html",
-    post: `Just a simple tips..Nak beli ubat, vitamin atau skincare online, macam mana nak check nombor MAL/NOT tu betul lulus KKM?💊
+    post: `Ada yang tahu? Nak beli ubat, vitamin atau skincare online, macam mana nak check nombor MAL/NOT tu betul lulus KKM?💊
 👇👇👇`,
     komen: `Buka halaman carian rasmi Bahagian Regulatori Farmasi Negara (NPRA KKM) dekat npra.gov.my
 Masukkan nombor pendaftaran MAL (untuk ubat/suplemen) atau nombor NOT (untuk kosmetik) untuk pastikan ia sah berdaftar dan tidak dibatalkan kerana racun berjadual
@@ -3009,7 +3009,7 @@ PG00359605`,
     tajuk: `Matikan Setem Perjanjian Sewa Rumah Online Tanpa Ke LHDN (STAMPS LHDN)`,
     tags: ["hartanah", "rumah", "sewa", "stamps lhdn"],
     link: "https://stamps.hasil.gov.my/stamps/",
-    post: `Simple tips malam ni..Buat perjanjian sewa rumah (Tenancy Agreement), macam mana nak matikan setem LHDN secara online je?🏠
+    post: `Ada yang tahu? Buat perjanjian sewa rumah (Tenancy Agreement), macam mana nak matikan setem LHDN secara online je?🏠
 👇👇👇`,
     komen: `Tak perlu lagi beratur dekat pejabat LHDN..buka portal rasmi STAMPS LHDN dekat stamps.hasil.gov.my/stamps/
 Daftar akaun individu, muat naik dokumen perjanjian sewa rumah dalam PDF, buat bayaran duti setem secara online, dan terus cetak Sijil Setem rasmi
@@ -3039,7 +3039,7 @@ PG00359605`,
     tajuk: `Portal Rasmi Pengurusan e-Invois Percuma Untuk Peniaga (MyInvois LHDN)`,
     tags: ["bisnes", "cukai", "lhdn", "myinvois lhdn"],
     link: "https://myinvois.hasil.gov.my/",
-    post: `Just a simple tips..Untuk rakan-rakan peniaga dan pemilik syarikat, dekat portal rasmi mana nak keluar & semak e-Invois LHDN?🧾
+    post: `Ada yang tahu? Untuk rakan-rakan peniaga dan pemilik syarikat, dekat portal rasmi mana nak keluar & semak e-Invois LHDN?🧾
 👇👇👇`,
     komen: `Layari portal rasmi MyInvois Lembaga Hasil Dalam Negeri dekat myinvois.hasil.gov.my (log masuk guna akaun MyTax)
 Peniaga boleh jana, hantar, dan simpan rekod e-Invois secara percuma terus melalui portal rasmi kerajaan tanpa wajib beli sistem perakaunan mahal
@@ -3069,7 +3069,7 @@ PG00359605`,
     tajuk: `Semak Status Kebankrapan Individu Atau Syarikat Online (e-Insolvensi MdI)`,
     tags: ["e-insolvensi mdi", "kewangan", "perundangan"],
     link: "https://e-insolvensi.mdi.gov.my/",
-    post: `Simple tips hari ni..Macam mana nak buat carian rasmi status insolvensi atau kebankrapan individu & syarikat secara online?📂
+    post: `Ada yang tahu? Macam mana nak buat carian rasmi status insolvensi atau kebankrapan individu & syarikat secara online?📂
 👇👇👇`,
     komen: `Buka portal rasmi e-Insolvensi bawah Jabatan Insolvensi Malaysia (MdI) dekat e-insolvensi.mdi.gov.my
 Daftar sebagai pengguna untuk membuat carian rasmi status kebankrapan individu atau status penggulungan syarikat serta urusan bayaran ansuran MdI
@@ -3099,7 +3099,7 @@ PG00359605`,
     tajuk: `Saluran Aduan Rasmi Jika Urusan Agensi Kerajaan Bermasalah (SISPAA BPA)`,
     tags: ["awam", "perkhidmatan", "rakyat", "sispaa bpa"],
     link: "https://pcb.spab.gov.my/",
-    post: `Just a simple tips..Kalau ada urusan dekat jabatan kerajaan yang tersangkut lama tanpa jawapan, nak salur aduan kat mana?🏛️
+    post: `Ada yang tahu? Kalau ada urusan dekat jabatan kerajaan yang tersangkut lama tanpa jawapan, nak salur aduan kat mana?🏛️
 👇👇👇`,
     komen: `Layari portal Sistem Pengurusan Aduan Awam (SISPAA) di bawah Biro Pengaduan Awam, Jabatan Perdana Menteri dekat pcb.spab.gov.my
 Pilih kementerian atau agensi berkaitan dan nyatakan butiran kes dengan lengkap..setiap aduan rasmi SISPAA dipantau mengikut piagam masa penyelesaian
@@ -3129,7 +3129,7 @@ PG00359605`,
     tajuk: `Mohon Ganti MyKad (IC) Rosak Cip Secara Online (Sistem Gantian MyKad JPN)`,
     tags: ["diri", "dokumen", "sistem gantian mykad jpn"],
     link: "https://gantianmykad.jpn.gov.my/",
-    post: `Simple tips malam ni..Cip MyKad (IC) kita rosak tak boleh baca dekat bank, macam mana nak mohon ganti IC baru secara online?🪪
+    post: `Ada yang tahu? Cip MyKad (IC) kita rosak tak boleh baca dekat bank, macam mana nak mohon ganti IC baru secara online?🪪
 👇👇👇`,
     komen: `Buka portal rasmi Sistem Gantian MyKad Jabatan Pendaftaran Negara dekat gantianmykad.jpn.gov.my
 Mohon gantian kad pengenalan rosak atau gantian biasa secara online dan pilih cawangan JPN untuk kutipan..datang kaunter terus ambil sahaja
@@ -3159,7 +3159,7 @@ PG00359605`,
     tajuk: `Renew Pasport Antarabangsa Malaysia Online Dari Rumah (MyOnline Pasport)`,
     tags: ["imigresen", "myonline pasport", "perjalanan"],
     link: "https://www.imi.gov.my/index.php/pengumuman/myonline-passport/",
-    post: `Just a simple tips..Pasport nak tamat tempoh, macam mana nak renew pasport Malaysia secara online dari rumah je?🛂
+    post: `Ada yang tahu? Pasport nak tamat tempoh, macam mana nak renew pasport Malaysia secara online dari rumah je?🛂
 👇👇👇`,
     komen: `Layari laman rasmi Jabatan Imigresen Malaysia bahagian MyOnline Pasport dekat imi.gov.my
 Muat naik gambar pasport latar belakang putih mengikut spesifikasi, buat bayaran online, dan pilih pejabat Imigresen untuk ambil pasport baharu
@@ -3189,7 +3189,7 @@ PG00359605`,
     tajuk: `Saluran Aduan Rasmi Isu Tuntutan Insurans/Takaful & Bank (BNMLINK)`,
     tags: ["bank", "bnmlink", "kewangan,", "takaful"],
     link: "https://bnmlink.bnm.gov.my/",
-    post: `Simple tips hari ni..Ada isu tuntutan insurans/takaful atau transaksi bank yang tak selesai, nak lapor dekat portal mana?🏦
+    post: `Ada yang tahu? Ada isu tuntutan insurans/takaful atau transaksi bank yang tak selesai, nak lapor dekat portal mana?🏦
 👇👇👇`,
     komen: `Selepas buat aduan rasmi kepada pihak bank atau syarikat takaful tetapi jawapan tidak memuaskan, buka portal BNMLINK Bank Negara dekat bnmlink.bnm.gov.my
 Isi borang web eLINK berserta surat maklum balas bank/insurans tadi untuk semakan dan campur tangan pengawalseliaan Bank Negara Malaysia
@@ -3219,7 +3219,7 @@ PG00359605`,
     tajuk: `Isi Minyak Petronas & Bayar Terus Dari Dalam Kereta (Setel)`,
     tags: ["kenderaan", "keselamatan", "setel"],
     link: "https://www.setel.com/features/setel-lite",
-    post: `Just a simple tips..Bawa anak kecil dalam kereta waktu malam, macam mana nak bayar minyak Petronas tanpa perlu ke kaunter?⛽
+    post: `Ada yang tahu? Bawa anak kecil dalam kereta waktu malam, macam mana nak bayar minyak Petronas tanpa perlu ke kaunter?⛽
 👇👇👇`,
     komen: `Install aplikasi rasmi Setel (atau Setel Lite untuk telefon storan kecil) dekat phone
 Sampai je dekat stesen Petronas, pilih nombor pam terus dari dalam kereta..pintu kereta kekal berkunci, kita cuma keluar untuk angkat pam minyak sahaja
@@ -3249,7 +3249,7 @@ PG00359605`,
     tajuk: `Cari Lokasi Stesen Pengecas Kereta Elektrik (EV) Seluruh Malaysia (PlugShare)`,
     tags: ["elektrik", "kenderaan", "perjalanan", "plugshare"],
     link: "https://www.plugshare.com/",
-    post: `Simple tips malam ni..Bagi yang baru pakai kereta elektrik (EV), macam mana nak tahu lokasi charger EV sepanjang highway?🔌
+    post: `Ada yang tahu? Bagi yang baru pakai kereta elektrik (EV), macam mana nak tahu lokasi charger EV sepanjang highway?🔌
 👇👇👇`,
     komen: `Install aplikasi PlugShare dekat phone atau buka peta interaktif dekat plugshare.com
 Dia tunjukkan semua lokasi stesen pengecas EV di R&R lebuh raya, hotel, dan pusat beli-belah seluruh Malaysia berserta ulasan terkini pengguna lain
@@ -3279,7 +3279,7 @@ PG00359605`,
     tajuk: `Kad Multi-Mata Wang Tukar Duit Travel & Umrah Murah (Wise)`,
     tags: ["kewangan", "luar", "negara", "perjalanan", "wise"],
     link: "https://wise.com/my/card",
-    post: `Just a simple tips..Nak pergi umrah atau bercuti luar negara, kad apa paling jimat untuk tukar mata wang asing dekat phone?💳
+    post: `Ada yang tahu? Nak pergi umrah atau bercuti luar negara, kad apa paling jimat untuk tukar mata wang asing dekat phone?💳
 👇👇👇`,
     komen: `Mohon kad debit multi-mata wang Wise melalui aplikasi rasmi atau laman web wise.com/my/card (berlesen bawah Bank Negara Malaysia)
 Kita boleh tambah nilai dalam Ringgit (MYR) dan tukar terus ke Riyal, Yen, Pound, atau Rupiah mengikut kadar tukaran semasa yang sangat rendah
@@ -3309,7 +3309,7 @@ PG00359605`,
     tajuk: `Kira & Bahagi Kos Belanja Makan Atau Bercuti Bersama Kawan (Splitwise)`,
     tags: ["gaya", "hidup", "kewangan", "splitwise"],
     link: "https://www.splitwise.com/",
-    post: `Simple tips hari ni..Pergi bercuti ramai-ramai dengan kawan, macam mana nak kira kongsi duit minyak, makan & hotel dengan adil?🧮
+    post: `Ada yang tahu? Pergi bercuti ramai-ramai dengan kawan, macam mana nak kira kongsi duit minyak, makan & hotel dengan adil?🧮
 👇👇👇`,
     komen: `Install apps percuma Splitwise dekat phone melalui splitwise.com dan buat satu grup percutian
 Setiap kali ada orang dulukan bayar makan atau tol, rekod je dalam apps tu..hujung trip nanti dia automatik kirakan siapa kena bayar balik pada siapa
@@ -3339,7 +3339,7 @@ PG00359605`,
     tajuk: `Belajar Bahasa Arab, Inggeris & Mandarin 5 Minit Sehari Percuma (Duolingo)`,
     tags: ["bahasa", "duolingo", "ilmu", "pendidikan"],
     link: "https://apps.apple.com/us/app/duolingo-learn-languages/id570060128",
-    post: `Just a simple tips..Nak belajar bahasa baharu macam Bahasa Arab, Mandarin atau Inggeris 5 minit sehari secara percuma di phone?🗣️
+    post: `Ada yang tahu? Nak belajar bahasa baharu macam Bahasa Arab, Mandarin atau Inggeris 5 minit sehari secara percuma di phone?🗣️
 👇👇👇`,
     komen: `Install aplikasi pembelajaran bahasa paling popular di dunia iaitu Duolingo dekat phone
 Cara belajar dia dibuat macam main game..kita belajar kosa kata, sebutan, dan ayat harian secara santai 5 ke 10 minit sahaja setiap hari
@@ -3369,7 +3369,7 @@ PG00359605`,
     tajuk: `Belajar Kursus Profesional Universiti & Google Secara Online (Coursera)`,
     tags: ["baharu", "coursera", "kemahiran", "kerjaya"],
     link: "https://www.coursera.org/",
-    post: `Simple tips malam ni..Nak tambah ilmu kemahiran kerja daripada Google, IBM atau universiti luar negara dari rumah je?🎓
+    post: `Ada yang tahu? Nak tambah ilmu kemahiran kerja daripada Google, IBM atau universiti luar negara dari rumah je?🎓
 👇👇👇`,
     komen: `Buka platform pembelajaran global coursera.org atau install aplikasi Coursera dekat phone
 Ada ribuan kursus dalam bidang analisis data, AI, pengurusan projek, dan pemasaran digital..banyak kursus boleh ditonton secara percuma (Audit Mode)
@@ -3399,7 +3399,7 @@ PG00359605`,
     tajuk: `Enjin Jawapan Pengiraan Matematik, Fizik & Kimia (WolframAlpha)`,
     tags: ["pendidikan", "sains", "tinggi", "wolframalpha"],
     link: "https://apps.apple.com/us/app/wolframalpha/id548861535",
-    post: `Just a simple tips..Anak belajar dekat kolej atau sekolah menengah, enjin carian apa boleh kira soalan Sains & Matematik sukar?🔬
+    post: `Ada yang tahu? Anak belajar dekat kolej atau sekolah menengah, enjin carian apa boleh kira soalan Sains & Matematik sukar?🔬
 👇👇👇`,
     komen: `Perkenalkan enjin pengiraan pintar WolframAlpha dekat laman web wolframalpha.com atau aplikasi telefonnya
 Berbeza dengan enjin carian biasa, ia terus mengira formula Kalkulus, Algebra, Kimia, Fizik, dan Statistik dengan jawapan serta graf yang tepat
@@ -3429,7 +3429,7 @@ PG00359605`,
     tajuk: `Tengok Semula Rupa Laman Web Lama Atau Artikel Yang Dah Dipadam (Wayback Machine)`,
     tags: ["internet", "kajian", "maklumat", "wayback machine"],
     link: "https://web.archive.org/",
-    post: `Simple tips hari ni..Pernah tak nak baca balik artikel atau laman web lama tapi bila klik dah hilang atau kena padam?🕰️
+    post: `Ada yang tahu? Pernah tak nak baca balik artikel atau laman web lama tapi bila klik dah hilang atau kena padam?🕰️
 👇👇👇`,
     komen: `Buka perpustakaan arkib digital dunia iaitu Wayback Machine dekat web.archive.org
 Masukkan link laman web yang dah hilang tu..kemudian pilih tarikh dan tahun pada kalendar untuk tengok tangkapan asal laman web tersebut masa dulu
@@ -3459,7 +3459,7 @@ PG00359605`,
     tajuk: `Rakam Skrin Laptop Tanpa Had Masa & Tanpa Watermark (OBS Studio)`,
     tags: ["komputer", "obs studio", "tutorial", "video"],
     link: "https://obsproject.com/",
-    post: `Just a simple tips..Nak rekod skrin laptop (screen recording) untuk buat video tutorial kerja tanpa keluar watermark?🖥️
+    post: `Ada yang tahu? Nak rekod skrin laptop (screen recording) untuk buat video tutorial kerja tanpa keluar watermark?🖥️
 👇👇👇`,
     komen: `Muat turun perisian sumber terbuka OBS Studio daripada laman rasmi obsproject.com (untuk Windows dan Mac)
 Ia 100% percuma, tiada had masa rakaman, tiada logo watermark langsung, dan boleh rakam skrin bersama wajah webcam dengan kualiti HD penuh
@@ -3489,7 +3489,7 @@ PG00359605`,
     tajuk: `Perisian Alternatif Word, Excel & PowerPoint 100% Percuma (LibreOffice)`,
     tags: ["komputer", "libreoffice", "pelajar"],
     link: "https://www.libreoffice.org/",
-    post: `Simple tips malam ni..Beli laptop baharu untuk anak belajar tapi tak mampu nak bayar langganan tahunan Microsoft Office?💻
+    post: `Ada yang tahu? Beli laptop baharu untuk anak belajar tapi tak mampu nak bayar langganan tahunan Microsoft Office?💻
 👇👇👇`,
     komen: `Muat turun perisian pejabat sumber terbuka LibreOffice dekat laman rasmi libreoffice.org
 Lengkap dengan fungsi Writer (macam Word), Calc (macam Excel), dan Impress (macam PowerPoint) yang boleh buka dan simpan fail dokumen Microsoft dengan lancar
@@ -3519,7 +3519,7 @@ PG00359605`,
     tajuk: `Aplikasi Edit Gambar Profesional Keluaran Google 100% Percuma (Snapseed)`,
     tags: ["fotografi", "pintar", "snapseed", "telefon"],
     link: "https://apps.apple.com/us/app/snapseed-photo-editor/id439438619",
-    post: `Just a simple tips..Cari apps edit gambar dekat phone yang power tapi 100% free tanpa iklan & tanpa langganan bulanan?📸
+    post: `Ada yang tahu? Cari apps edit gambar dekat phone yang power tapi 100% free tanpa iklan & tanpa langganan bulanan?📸
 👇👇👇`,
     komen: `Install aplikasi rasmi Snapseed yang dibangunkan oleh Google dekat iPhone atau Android
 Lengkap dengan hampir 30 alatan suntingan gambar profesional termasuk fungsi 'Healing' untuk padam objek tepi gambar dan pelaras cahaya terpilih
@@ -3549,7 +3549,7 @@ PG00359605`,
     tajuk: `Kongsi Senarai Barang Dapur & Tugasan Harian Bersama Pasangan (Microsoft To Do)`,
     tags: ["keluarga", "microsoft to do", "produktiviti"],
     link: "https://apps.apple.com/us/app/microsoft-to-do/id1212616790",
-    post: `Simple tips hari ni..Selalu terlupa barang dapur yang pasangan pesan, macam mana nak buat checklist kongsi dua-dua phone?📝
+    post: `Ada yang tahu? Selalu terlupa barang dapur yang pasangan pesan, macam mana nak buat checklist kongsi dua-dua phone?📝
 👇👇👇`,
     komen: `Install aplikasi percuma Microsoft To Do dekat phone kita dan phone pasangan
 Buat satu senarai 'Barang Dapur' dan tekan butang 'Share list'..bila isteri tambah barang dekat rumah, senarai tu terus keluar dekat phone suami masa di kedai
@@ -3579,7 +3579,7 @@ PG00359605`,
     tajuk: `Semak Maklumat & Kelayakan Inisiatif Subsidi Rakyat (Portal BUDI Rakyat)`,
     tags: ["bantuan", "kerajaan", "portal budi rakyat", "rakyat"],
     link: "https://www.budirakyat.gov.my/",
-    post: `Just a simple tips..Nak semak kelayakan & maklumat rasmi program bantuan subsidi kerajaan, dekat portal mana yang sahih?🇲🇾
+    post: `Ada yang tahu? Nak semak kelayakan & maklumat rasmi program bantuan subsidi kerajaan, dekat portal mana yang sahih?🇲🇾
 👇👇👇`,
     komen: `Pastikan hanya rujuk portal rasmi kerajaan di bawah Kementerian Kewangan dekat budirakyat.gov.my (dan budimadani.gov.my)
 Boleh buat semakan kelayakan secara terus menggunakan nombor kad pengenalan tanpa perlu melalui mana-mana pautan pihak ketiga yang meragukan
@@ -3609,7 +3609,7 @@ PG00359605`,
     tajuk: `Semak Status Laporan Polis & Keputusan Siasatan Online (SSO PDRM)`,
     tags: ["keselamatan", "pdrm", "perkhidmatan", "sso pdrm"],
     link: "https://apps.apple.com/my/app/sso-pdrm/id1397019015",
-    post: `Simple tips hari ni..Pernah buat report polis, macam mana nak check status siasatan report tu secara online tanpa ke balai?👮
+    post: `Ada yang tahu? Pernah buat report polis, macam mana nak check status siasatan report tu secara online tanpa ke balai?👮
 👇👇👇`,
     komen: `Install aplikasi rasmi SSO PDRM (Sistem Semakan Online) dekat phone atau rujuk portal e-Perkhidmatan di rmp.gov.my
 Daftar akaun pengguna menggunakan nombor IC..kita boleh terus semak status perkembangan laporan polis (repot polis) dan keputusan siasatan
@@ -3639,7 +3639,7 @@ PG00359605`,
     tajuk: `Belajar Lebih 2,000 Kursus Kemahiran Kerja & Bisnes Percuma (e-LATiH)`,
     tags: ["bisnes", "e-latih", "kemahiran", "kerjaya,"],
     link: "https://elatih.hrdcorp.gov.my/",
-    post: `Just a simple tips..Nak belajar ribuan kursus bisnes, kewangan & komputer secara percuma siap sijil bawah HRD Corp?🎓
+    post: `Ada yang tahu? Nak belajar ribuan kursus bisnes, kewangan & komputer secara percuma siap sijil bawah HRD Corp?🎓
 👇👇👇`,
     komen: `Buka portal pembelajaran rasmi negara bawah HRD Corp (Kementerian Sumber Manusia) dekat elatih.hrdcorp.gov.my
 Daftar percuma sebagai rakyat Malaysia..boleh akses ribuan kursus kemahiran tempat kerja, pengurusan kewangan, dan digital secara percuma
@@ -3669,7 +3669,7 @@ PG00359605`,
     tajuk: `Daftar Identiti Digital Tunggal Log Masuk Portal Kerajaan (MyDigital ID)`,
     tags: ["digital", "identiti", "kerajaan", "mydigital id"],
     link: "https://www.digital-id.my/en",
-    post: `Simple tips malam ni..Penat nak ingat banyak password portal kerajaan, macam mana nak guna satu log masuk MyDigital ID je?📱
+    post: `Ada yang tahu? Penat nak ingat banyak password portal kerajaan, macam mana nak guna satu log masuk MyDigital ID je?📱
 👇👇👇`,
     komen: `Muat turun aplikasi rasmi MyDigital ID dan rujuk maklumat sahih dekat digital-id.my/en
 Lepas sahkan cap jari/wajah sekali sahaja, kita boleh terus log masuk ke MyJPJ, MyTax LHDN, MyBayar PDRM, SPA9, dan portal kerajaan lain dengan selamat
@@ -3699,7 +3699,7 @@ PG00359605`,
     tajuk: `Dapatkan Khidmat Peguam Kerajaan Kos Rendah Kes Keluarga & Pusaka (JBG)`,
     tags: ["jbg", "kebajikan", "keluarga", "perundangan"],
     link: "https://www.iguaman.jbg.gov.my/",
-    post: `Just a simple tips..Tak mampu upah peguam swasta mahal untuk kes nafkah anak atau pusaka, nak mohon bantuan kat mana?⚖️
+    post: `Ada yang tahu? Tak mampu upah peguam swasta mahal untuk kes nafkah anak atau pusaka, nak mohon bantuan kat mana?⚖️
 👇👇👇`,
     komen: `Rujuk portal rasmi Jabatan Bantuan Guaman Malaysia (JBG) dekat iguaman.jbg.gov.my
 Agensi kerajaan ni sediakan khidmat nasihat undang-undang dan perwakilan peguam dengan kadar fi sangat minimum atau percuma mengikut kelayakan pendapatan
@@ -3729,7 +3729,7 @@ PG00359605`,
     tajuk: `Mohon Pembahagian Harta Pusaka Kecil Tanah & Rumah Online (JKPTG)`,
     tags: ["harta", "jkptg", "keluarga", "pusaka"],
     link: "https://www.jkptg.gov.my/my/pembahagian-pusaka-kecil",
-    post: `Simple tips hari ni..Arwah mak ayah tinggalkan tanah atau rumah kampung, macam mana nak urus pusaka tanpa peguam mahal?🏡
+    post: `Ada yang tahu? Arwah mak ayah tinggalkan tanah atau rumah kampung, macam mana nak urus pusaka tanpa peguam mahal?🏡
 👇👇👇`,
     komen: `Layari portal rasmi Jabatan Ketua Pengarah Tanah & Galian Persekutuan (JKPTG) dekat jkptg.gov.my/my/pembahagian-pusaka-kecil
 Waris boleh terus memohon pembahagian harta pusaka kecil (Seksyen 8 Borang A) secara dalam talian melalui sistem JKPTG Online untuk bicara kuasa di pejabat pusaka daerah
@@ -3759,7 +3759,7 @@ PG00359605`,
     tajuk: `Urus Penulisan Wasiat, Hibah & Pentadbiran Pusaka (AmanahRaya)`,
     tags: ["amanahraya", "harta", "perancangan", "pusaka"],
     link: "https://www.amanahraya.my/",
-    post: `Just a simple tips..Nak buat dokumen wasiat atau hibah harta supaya waris tak bergaduh, agensi kerajaan mana yang uruskan?📜
+    post: `Ada yang tahu? Nak buat dokumen wasiat atau hibah harta supaya waris tak bergaduh, agensi kerajaan mana yang uruskan?📜
 👇👇👇`,
     komen: `Buka portal rasmi Amanah Raya Berhad (syarikat pemegang amanah milik penuh Kerajaan Malaysia) dekat amanahraya.my
 Sudah beroperasi lebih 100 tahun untuk membantu rakyat Malaysia menulis wasiat, menguruskan deklarasi hibah, serta mentadbir harta pusaka dan akaun amanah anak
@@ -3789,7 +3789,7 @@ PG00359605`,
     tajuk: `Semak Jadual Kutipan Sampah Pukal & Aduan Kebersihan Taman (SWCorp)`,
     tags: ["kediaman", "komuniti", "swcorp"],
     link: "https://www.swcorp.gov.my/",
-    post: `Simple tips malam ni..Nak buang tilam buruk, perabot lama atau dahan pokok depan rumah, macam mana nak tahu jadual lori?🚛
+    post: `Ada yang tahu? Nak buang tilam buruk, perabot lama atau dahan pokok depan rumah, macam mana nak tahu jadual lori?🚛
 👇👇👇`,
     komen: `Rujuk portal rasmi Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam (SWCorp) dekat swcorp.gov.my
 Boleh semak jadual rasmi kutipan sisa pukal/kebun seminggu sekali di taman perumahan kita serta saluran aduan jika lori sampah tidak mengikut jadual
@@ -3819,7 +3819,7 @@ PG00359605`,
     tajuk: `Jual Barang Elektronik Rosak (E-Waste) Dapat Duit Tunai Siap Kutip (ERTH)`,
     tags: ["duit", "erth", "kitar", "semula", "tambahan"],
     link: "https://erth.app/",
-    post: `Just a simple tips..Dekat stor rumah ada TV rosak, laptop lama atau mesin basuh buruk, macam mana nak jual dapat duit?♻️
+    post: `Ada yang tahu? Dekat stor rumah ada TV rosak, laptop lama atau mesin basuh buruk, macam mana nak jual dapat duit?♻️
 👇👇👇`,
     komen: `Jangan buang merata-rata..buka laman rasmi pusat pengumpulan e-waste berdaftar Jabatan Alam Sekitar iaitu ERTH dekat erth.app
 Kalau cukup bilangan barang elektronik lama/rosak, pasukan mereka boleh datang kutip terus di rumah (atau hantar melalui rakan kerjasama Pos Malaysia) dan bayar ganjaran tunai terus ke e-Wallet/bank
@@ -3849,7 +3849,7 @@ PG00359605`,
     tajuk: `Semak Pinjaman Pelajaran, Kemasukan MRSM & Pembiayaan Bisnes (MARA)`,
     tags: ["keusahawanan", "mara", "pendidikan"],
     link: "https://www.mara.gov.my/",
-    post: `Simple tips hari ni..Nak semak tarikh permohonan MRSM, TVET MARA, pinjaman pelajaran atau dana bisnes kat portal mana?🏛️
+    post: `Ada yang tahu? Nak semak tarikh permohonan MRSM, TVET MARA, pinjaman pelajaran atau dana bisnes kat portal mana?🏛️
 👇👇👇`,
     komen: `Simpan pautan rasmi Majlis Amanah Rakyat (MARA) dekat mara.gov.my
 Semua hebahan rasmi kemasukan MRSM, IKM, KKTM, UniKL, pembiayaan pelajaran dalam/luar negara, serta latihan dan geran usahawan Bumiputera dikemas kini di sini
@@ -3879,7 +3879,7 @@ PG00359605`,
     tajuk: `Semak Bantuan Persekolahan & Skim Dana Ehsan Pendidikan Anak (YPM)`,
     tags: ["bantuan", "keluarga", "pendidikan", "ypm"],
     link: "https://www.ypm.org.my/index.php/senarai-skim-dan-bantuan",
-    post: `Just a simple tips..Ada anak sekolah atau pelajar yang perlukan bantuan kewangan pendidikan, skim apa yang YPM sediakan?🎒
+    post: `Ada yang tahu? Ada anak sekolah atau pelajar yang perlukan bantuan kewangan pendidikan, skim apa yang YPM sediakan?🎒
 👇👇👇`,
     komen: `Layari portal rasmi Yayasan Pelajaran MARA (YPM) bahagian Senarai Skim dan Bantuan dekat ypm.org.my
 YPM menyediakan pelbagai inisiatif seperti Skim Dana Ehsan Pendidikan (SDEP), Bantuan Persekolahan, dan Skim Anak Angkat untuk membantu pelajar daripada keluarga berpendapatan rendah
@@ -3909,7 +3909,7 @@ PG00359605`,
     tajuk: `Semak Doktor Gigi & Klinik Pergigian Berdaftar Sah Elak Fake Braces (KKM)`,
     tags: ["keluarga", "keselamatan", "kesihatan", "kkm"],
     link: "https://mhps.moh.gov.my/SEARCH/",
-    post: `Simple tips malam ni..Sebelum bawa anak pasang braces atau buat rawatan gigi, macam mana nak check doktor tu sah KKM?🦷
+    post: `Ada yang tahu? Sebelum bawa anak pasang braces atau buat rawatan gigi, macam mana nak check doktor tu sah KKM?🦷
 👇👇👇`,
     komen: `Buka portal rasmi carian pengamal kesihatan Kementerian Kesihatan Malaysia (MHPS) dekat mhps.moh.gov.my/SEARCH/
 Pilih 'Malaysian Dental Council' (atau 'Malaysian Optical Council' untuk kedai cermin mata) dan taip nama pengamal tersebut untuk pastikan mereka bertauliah
@@ -3939,7 +3939,7 @@ PG00359605`,
     tajuk: `Semak Kontraktor Elektrik & Wireman Berdaftar Sah (Suruhanjaya Tenaga)`,
     tags: ["elektrik", "keselamatan", "rumah", "suruhanjaya tenaga"],
     link: "https://ecos.st.gov.my/",
-    post: `Just a simple tips..Nak buat wiring rumah atau tambah poin aircond, macam mana nak check wireman tu berdaftar ST ke tak?⚡
+    post: `Ada yang tahu? Nak buat wiring rumah atau tambah poin aircond, macam mana nak check wireman tu berdaftar ST ke tak?⚡
 👇👇👇`,
     komen: `Buka sistem rasmi Suruhanjaya Tenaga (Energy Commission Online System) dekat ecos.st.gov.my atau laman utama st.gov.my
 Kita boleh semak senarai Kontraktor Elektrik dan Orang Kompeten (Wireman/Chargeman) yang berdaftar secara sah mengikut negeri
@@ -3969,7 +3969,7 @@ PG00359605`,
     tajuk: `Semak Program Solar Rumah & Syarikat Solar Berdaftar (SEDA Malaysia)`,
     tags: ["jimat", "rumah", "seda malaysia", "solar", "tenaga"],
     link: "https://www.seda.gov.my/reportal/atap/",
-    post: `Simple tips hari ni..Teringin nak pasang panel solar atas bumbung rumah jimat bil TNB, dekat portal mana nak check syarikat sah?☀️
+    post: `Ada yang tahu? Teringin nak pasang panel solar atas bumbung rumah jimat bil TNB, dekat portal mana nak check syarikat sah?☀️
 👇👇👇`,
     komen: `Buka portal rasmi Pihak Berkuasa Pembangunan Tenaga Lestari (SEDA Malaysia) dekat seda.gov.my/reportal/atap/
 Dekat sini ada garis panduan rasmi program solar kediaman (Solar ATAP / NEM) berserta direktori syarikat pembekal perkhidmatan solar PV (RPVSP) yang diiktiraf kerajaan
@@ -3999,7 +3999,7 @@ PG00359605`,
     tajuk: `Semak Penarafan Keselamatan Kereta Sebelum Beli Kereta Keluarga (MIROS)`,
     tags: ["jalan", "kereta", "keselamatan", "miros", "raya"],
     link: "https://www.miros.gov.my/",
-    post: `Just a simple tips..Sebelum beli kereta baharu atau kerusi keselamatan bayi (car seat), kat mana nak rujuk standard MIROS?🚗
+    post: `Ada yang tahu? Sebelum beli kereta baharu atau kerusi keselamatan bayi (car seat), kat mana nak rujuk standard MIROS?🚗
 👇👇👇`,
     komen: `Layari portal rasmi Institut Penyelidikan Keselamatan Jalan Raya Malaysia (MIROS) dekat miros.gov.my
 Ada panduan lengkap spesifikasi kerusi keselamatan kanak-kanak (CRS), laporan ujian pelanggaran keselamatan kenderaan ASEAN NCAP, dan skor keselamatan pengangkutan
@@ -4029,7 +4029,7 @@ PG00359605`,
     tajuk: `Semak Ketulenan Sijil & Barangan Elektrik Lulus Piawaian (SIRIM QAS)`,
     tags: ["kepenggunaan", "keselamatan", "sirim qas"],
     link: "https://www.malaysiancertified.com.my/",
-    post: `Simple tips malam ni..Beli barang elektrik, helmet atau bahan binaan, macam mana nak check produk tu betul-betul lulus SIRIM?🛡️
+    post: `Ada yang tahu? Beli barang elektrik, helmet atau bahan binaan, macam mana nak check produk tu betul-betul lulus SIRIM?🛡️
 👇👇👇`,
     komen: `Buka direktori rasmi pengesahan produk tempatan SIRIM QAS International dekat malaysiancertified.com.my (atau sirim-qas.com.my)
 Taip nama jenama, model produk, atau syarikat pengilang untuk menyemak status pensijilan keselamatan SIRIM yang sah
@@ -4059,7 +4059,7 @@ PG00359605`,
     tajuk: `Tengok Data Rasmi Gaji, Inflasi & Statistik Malaysia Secara Visual (OpenDOSM)`,
     tags: ["data", "ekonomi,", "kewangan", "opendosm"],
     link: "https://open.dosm.gov.my/",
-    post: `Just a simple tips..Nak tengok statistik rasmi gaji rakyat Malaysia, harga barang & ekonomi negara dalam bentuk graf cantik?📊
+    post: `Ada yang tahu? Nak tengok statistik rasmi gaji rakyat Malaysia, harga barang & ekonomi negara dalam bentuk graf cantik?📊
 👇👇👇`,
     komen: `Buka portal data terbuka rasmi Jabatan Perangkaan Malaysia (DOSM) dekat open.dosm.gov.my
 Semua data rasmi negara daripada kadar inflasi, indeks harga pengguna, kadar pertukaran mata wang, hinggalah statistik gaji dipaparkan dalam papan pemuka interaktif yang sangat mudah difahami
@@ -4089,7 +4089,7 @@ PG00359605`,
     tajuk: `Semak Fakta Demografi & Kemudahan Daerah Kita (Kawasanku DOSM)`,
     tags: ["data", "hartanah", "kawasanku dosm", "tempatan"],
     link: "https://kawasanku.dosm.gov.my/",
-    post: `Simple tips hari ni..Sebelum buka kedai atau beli rumah dekat satu daerah, macam mana nak tahu data penduduk kawasan tu?🗺️
+    post: `Ada yang tahu? Sebelum buka kedai atau beli rumah dekat satu daerah, macam mana nak tahu data penduduk kawasan tu?🗺️
 👇👇👇`,
     komen: `Layari portal interaktif Kawasanku oleh Jabatan Perangkaan Malaysia dekat kawasanku.dosm.gov.my
 Pilih negeri dan daerah kita..terus keluar maklumat jumlah penduduk, taburan umur, purata pendapatan isi rumah, dan kemudahan awam di kawasan tersebut
@@ -4119,7 +4119,7 @@ PG00359605`,
     tajuk: `Muat Turun Semua Aplikasi Rasmi Kerajaan Dari Galeri Sahih (GAMMA)`,
     tags: ["gamma", "kerajaan", "keselamatan", "telefon"],
     link: "https://gamma.malaysia.gov.my/",
-    post: `Just a simple tips..Risau ter-install aplikasi kerajaan yang klon atau palsu, dekat mana galeri rasmi semua apps kerajaan?🇲🇾
+    post: `Ada yang tahu? Risau ter-install aplikasi kerajaan yang klon atau palsu, dekat mana galeri rasmi semua apps kerajaan?🇲🇾
 👇👇👇`,
     komen: `Buka Galeri Aplikasi Mudah Alih Kerajaan Malaysia (GAMMA) dekat gamma.malaysia.gov.my
 Portal rasmi bawah Jabatan Digital Negara ni menghimpunkan pautan muat turun tulen untuk ratusan aplikasi rasmi agensi kerajaan (Google Play, App Store & AppGallery)
@@ -4149,7 +4149,7 @@ PG00359605`,
     tajuk: `Semak Jurutera Profesional Berdaftar Sebelum Ubah Suai Struktur Rumah (BEM)`,
     tags: ["bem", "kejuruteraan", "pembinaan"],
     link: "https://engineer.org.my/public/Engineers/Directory",
-    post: `Simple tips malam ni..Nak sambung rumah dua tingkat & kena hantar pelan struktur, macam mana nak check Jurutera Profesional sah?👷
+    post: `Ada yang tahu? Nak sambung rumah dua tingkat & kena hantar pelan struktur, macam mana nak check Jurutera Profesional sah?👷
 👇👇👇`,
     komen: `Buka direktori rasmi Lembaga Jurutera Malaysia (Board of Engineers Malaysia - BEM) dekat engineer.org.my/public/Engineers/Directory
 Taip nama jurutera atau nombor pendaftaran Ir. (Professional Engineer) mereka untuk pastikan tauliah kejuruteraan mereka sah dan aktif
@@ -4179,7 +4179,7 @@ PG00359605`,
     tajuk: `Semak Direktori Kaunselor Berdaftar Sah Untuk Kaunseling (MYeLKM KPWKM)`,
     tags: ["keluarga", "kesihatan", "mental", "myelkm kpwkm"],
     link: "https://myelkm.kpwkm.gov.my/direktori",
-    post: `Just a simple tips..Nak dapatkan khidmat kaunseling keluarga atau kerjaya, macam mana nak cari Kaunselor Berdaftar yang sah?🤝
+    post: `Ada yang tahu? Nak dapatkan khidmat kaunseling keluarga atau kerjaya, macam mana nak cari Kaunselor Berdaftar yang sah?🤝
 👇👇👇`,
     komen: `Buka direktori rasmi Lembaga Kaunselor Malaysia (bawah Kementerian Pembangunan Wanita, Keluarga dan Masyarakat) dekat myelkm.kpwkm.gov.my/direktori
 Kita boleh tapis senarai kaunselor berdaftar (KB, PA) yang bertauliah mengikut negeri di seluruh Malaysia
@@ -4209,7 +4209,7 @@ PG00359605`,
     tajuk: `Semak Status Kad Keselamatan Pekerja & Sijil Kursus OSH (e-Semakan NIOSH)`,
     tags: ["binaan", "e-semakan niosh", "industri", "kerjaya,", "tapak"],
     link: "https://niosh.com.my/e-semakan/",
-    post: `Simple tips hari ni..Kerja bidang teknikal, kilang atau oil & gas, dekat mana nak semak status kad keselamatan NIOSH online?🪪
+    post: `Ada yang tahu? Kerja bidang teknikal, kilang atau oil & gas, dekat mana nak semak status kad keselamatan NIOSH online?🪪
 👇👇👇`,
     komen: `Buka portal rasmi Institut Keselamatan dan Kesihatan Pekerjaan Negara (NIOSH Malaysia) dekat niosh.com.my/e-semakan/
 Masukkan nombor IC untuk menyemak status aktif Safety Passport (Kad Keselamatan), keputusan peperiksaan, dan cetakan sijil kursus E-Cert
@@ -4239,7 +4239,7 @@ PG00359605`,
     tajuk: `Cari Jurnal Kajian Ilmiah, Tesis & Kertas Penyelidikan Percuma (Google Scholar)`,
     tags: ["google scholar", "kajian", "pendidikan", "tinggi"],
     link: "https://scholar.google.com/",
-    post: `Just a simple tips..Untuk pelajar universiti atau yang tengah buat tesis Master/PhD, kat mana nak cari jurnal kajian sahih?📚
+    post: `Ada yang tahu? Untuk pelajar universiti atau yang tengah buat tesis Master/PhD, kat mana nak cari jurnal kajian sahih?📚
 👇👇👇`,
     komen: `Jangan guna carian Google biasa..buka enjin carian akademik khas iaitu Google Scholar dekat scholar.google.com
 Taip tajuk kajian kita..dia terus keluarkan ribuan kertas penyelidikan universiti, tesis, dan jurnal ilmiah lengkap dengan format petikan rujukan (citation) APA/MLA secara automatik
@@ -4269,7 +4269,7 @@ PG00359605`,
     tajuk: `Baca & Muat Turun Lebih 75,000 Buku Klasik Dunia Percuma (Project Gutenberg)`,
     tags: ["bahasa", "ilmu,", "inggeris", "membaca", "project gutenberg"],
     link: "https://www.gutenberg.org/",
-    post: `Simple tips malam ni..Nak muat turun ribuan buku karya klasik bahasa Inggeris secara sah & 100% percuma dekat phone/Kindle?📖
+    post: `Ada yang tahu? Nak muat turun ribuan buku karya klasik bahasa Inggeris secara sah & 100% percuma dekat phone/Kindle?📖
 👇👇👇`,
     komen: `Buka perpustakaan digital tertua di dunia iaitu Project Gutenberg dekat gutenberg.org
 Ada lebih 75,000 buah e-Book domain awam yang boleh dibaca terus dekat browser telefon atau dimuat turun dalam format EPUB tanpa perlu daftar akaun
@@ -4299,7 +4299,7 @@ PG00359605`,
     tajuk: `Muat Turun Video B-Roll Menegak Percuma Untuk Reels/TikTok (Pexels Videos)`,
     tags: ["bisnes", "kandungan", "pencipta", "pexels videos"],
     link: "https://www.pexels.com/videos/",
-    post: `Just a simple tips..Buat video TikTok atau Reels tapi tak ada gambar latar (B-Roll), kat mana nak download video HD free?🎬
+    post: `Ada yang tahu? Buat video TikTok atau Reels tapi tak ada gambar latar (B-Roll), kat mana nak download video HD free?🎬
 👇👇👇`,
     komen: `Buka laman web pexels.com/videos/ dekat phone atau laptop
 Taip kata kunci situasi yang kita nak (contoh: 'working', 'money', 'coffee', 'family') dan tapis orientasi 'Vertical'..boleh terus muat turun video HD/4K secara percuma
@@ -4329,7 +4329,7 @@ PG00359605`,
     tajuk: `Cari Gambar Fotografi Resolusi Tinggi Percuma Untuk Poster & Slide (Unsplash)`,
     tags: ["bentuk", "kerja", "pembentangan", "reka", "unsplash"],
     link: "https://unsplash.com/",
-    post: `Simple tips hari ni..Nak buat slide kerja atau poster bisnes, website mana ada gambar fotografi cantik tanpa watermark?🖼️
+    post: `Ada yang tahu? Nak buat slide kerja atau poster bisnes, website mana ada gambar fotografi cantik tanpa watermark?🖼️
 👇👇👇`,
     komen: `Jangan ambil gambar sembarangan dekat Google takut kena saman hak cipta..buka laman rasmi unsplash.com
 Jutaan gambar fotografi resolusi tinggi daripada jurugambar profesional dunia dikongsikan secara percuma untuk kegunaan peribadi mahupun komersial
@@ -4359,7 +4359,7 @@ PG00359605`,
     tajuk: `Muat Turun Gambar Stok Bebas Royalti Secara Percuma (StockSnap.io)`,
     tags: ["bentuk", "media", "reka", "sosial", "stocksnap.io"],
     link: "https://stocksnap.io/",
-    post: `Just a simple tips..Selain Unsplash, kat mana lagi lubuk gambar bebas hak cipta (CC0) untuk buat artikel blog & posting FB?📷
+    post: `Ada yang tahu? Selain Unsplash, kat mana lagi lubuk gambar bebas hak cipta (CC0) untuk buat artikel blog & posting FB?📷
 👇👇👇`,
     komen: `Simpan laman web stocksnap.io dekat browser laptop atau phone kita
 Semua gambar dalam laman ni dilesenkan di bawah Creative Commons CC0..maksudnya kita bebas guna, sunting, dan muat naik untuk poster atau laman web tanpa perlu kredit
@@ -4389,7 +4389,7 @@ PG00359605`,
     tajuk: `Muat Turun Ribuan Jenis Tulisan (Font) Cantik & Moden Percuma (Google Fonts)`,
     tags: ["bentuk", "google fonts", "reka", "tipografi"],
     link: "https://fonts.google.com/",
-    post: `Simple tips malam ni..Bosan guna tulisan standard dalam Word atau poster, kat mana nak download font cantik yang sah & free?🔤
+    post: `Ada yang tahu? Bosan guna tulisan standard dalam Word atau poster, kat mana nak download font cantik yang sah & free?🔤
 👇👇👇`,
     komen: `Buka katalog rasmi Google Fonts dekat fonts.google.com
 Ada lebih 1,500 keluarga fon sumber terbuka yang sangat kemas (seperti Poppins, Montserrat, Inter, Playfair Display) yang boleh dimuat turun percuma ke dalam laptop
@@ -4419,7 +4419,7 @@ PG00359605`,
     tajuk: `Jana Padanan Warna Harmoni Untuk Cat Rumah, Baju & Poster (Coolors)`,
     tags: ["bentuk", "coolors", "dekorasi", "reka", "rumah"],
     link: "https://coolors.co/",
-    post: `Just a simple tips..Pening nak pilih kombinasi warna cat rumah, tema baju raya famili atau warna poster bisnes bagi masuk?🎨
+    post: `Ada yang tahu? Pening nak pilih kombinasi warna cat rumah, tema baju raya famili atau warna poster bisnes bagi masuk?🎨
 👇👇👇`,
     komen: `Buka laman web penjana palet warna paling pantas iaitu coolors.co
 Tekan je butang 'Spacebar' dekat laptop (atau 'Generate' dekat phone)..dia terus padankan 5 warna yang sangat harmoni dan sedap mata memandang lengkap dengan kod warna
@@ -4449,7 +4449,7 @@ PG00359605`,
     tajuk: `Gabung, Pisah & Tandatangan Fail PDF Percuma Tanpa Had Harian (PDF24 Tools)`,
     tags: ["dokumen", "pdf24 tools", "pejabat", "produktiviti"],
     link: "https://tools.pdf24.org/en/",
-    post: `Simple tips hari ni..Selalu guna website edit PDF tapi sangkut sebab dah cukup limit 2 kali sehari, web mana yang unlimited?📄
+    post: `Ada yang tahu? Selalu guna website edit PDF tapi sangkut sebab dah cukup limit 2 kali sehari, web mana yang unlimited?📄
 👇👇👇`,
     komen: `Buka laman web tools.pdf24.org/en/ (dibangunkan oleh syarikat perisian Jerman)
 Menawarkan hampir 40 alatan PDF (Merge, Compress, Sign PDF, PDF to Word, Susun Muka Surat) secara 100% percuma tanpa sebarang had penggunaan harian dan tanpa watermark
@@ -4479,7 +4479,7 @@ PG00359605`,
     tajuk: `Pusat Sehenti Digital Perkhidmatan Kerajaan Malaysia (Portal MyGOV Malaysia)`,
     tags: ["kerajaan", "malaysia", "portal", "portal mygov malaysia", "rasmi"],
     link: "https://www.mygov.gov.my/",
-    post: `Just a simple tips..Takut tersalah masuk website scammer yang tiru portal kerajaan, dekat mana gerbang rasmi MyGOV Malaysia?🇲🇾
+    post: `Ada yang tahu? Takut tersalah masuk website scammer yang tiru portal kerajaan, dekat mana gerbang rasmi MyGOV Malaysia?🇲🇾
 👇👇👇`,
     komen: `Sentiasa mulakan carian urusan kerajaan melalui pusat sehenti digital rasmi negara dekat mygov.gov.my (atau malaysia.gov.my)
 Pastikan setiap pautan urusan rasmi kerajaan berakhir dengan domain '.gov.my' sebelum memasukkan sebarang maklumat peribadi atau nombor kad pengenalan
@@ -4509,7 +4509,7 @@ PG00359605`,
     tajuk: `Semak & Daftar Jenama Bisnes Supaya Tak Dicuri Orang (MyIPO)`,
     tags: ["bisnes", "harta", "intelek", "myipo"],
     link: "https://iponline2u.myipo.gov.my/",
-    post: `Simple tips hari ni..Berniaga penat-penat, macam mana nak check & daftar nama brand kita supaya tak kena ciplak?®️
+    post: `Ada yang tahu? Berniaga penat-penat, macam mana nak check & daftar nama brand kita supaya tak kena ciplak?®️
 👇👇👇`,
     komen: `Buka portal rasmi Perbadanan Harta Intelek Malaysia (MyIPO) dekat iponline2u.myipo.gov.my
 Kita boleh buat carian awal secara percuma sama ada nama jenama/logo kita dah didaftarkan orang lain atau belum, dan terus failkan pendaftaran Cap Dagangan (Trademark) secara online
@@ -4539,7 +4539,7 @@ PG00359605`,
     tajuk: `Semak Geran Kerajaan & Program Bimbingan Usahawan PKS (SME Corp)`,
     tags: ["malaysia", "sme corp", "usahawan"],
     link: "https://smecorp.gov.my/index.php/my/",
-    post: `Just a simple tips..Untuk peniaga kecil & sederhana (SME), dekat portal rasmi mana nak semak geran & bantuan kerajaan?💼
+    post: `Ada yang tahu? Untuk peniaga kecil & sederhana (SME), dekat portal rasmi mana nak semak geran & bantuan kerajaan?💼
 👇👇👇`,
     komen: `Simpan laman rasmi Perbadanan Perusahaan Kecil dan Sederhana Malaysia (SME Corp. Malaysia) dekat smecorp.gov.my/index.php/my/
 Semua maklumat geran padanan kerajaan, pembiayaan mudah, serta program bimbingan peningkatan perniagaan merentas kementerian dikumpulkan di sini
@@ -4569,7 +4569,7 @@ PG00359605`,
     tajuk: `Mohon Skim Pembiayaan Modal Niaga Mikro Patuh Syariah (TEKUN Nasional)`,
     tags: ["mikro", "modal", "niaga", "tekun nasional", "usahawan"],
     link: "https://www.tekun.gov.my/skim-pembiayaan-tekun-niaga/",
-    post: `Simple tips malam ni..Nak cari modal pusingan berniaga kecil-kecilan secara patuh syariah bawah kerajaan, mohon kat mana?🏪
+    post: `Ada yang tahu? Nak cari modal pusingan berniaga kecil-kecilan secara patuh syariah bawah kerajaan, mohon kat mana?🏪
 👇👇👇`,
     komen: `Jangan sesekali pinjam along..rujuk portal rasmi TEKUN Nasional (bawah Kementerian Pembangunan Usahawan dan Koperasi) dekat tekun.gov.my
 Ada pelbagai skim pembiayaan mikro seperti TEKUN Niaga dan Skim Pembiayaan Online TEKUN (SPOT) dengan syarat yang mudah untuk peniaga kecil
@@ -4599,7 +4599,7 @@ PG00359605`,
     tajuk: `Semak Pembiayaan Perniagaan Runcit & Borong Bumiputera (PUNB)`,
     tags: ["keusahawanan", "perniagaan", "punb"],
     link: "https://www.punb.com.my/ms/products-services/business-financing/",
-    post: `Just a simple tips..Nak kembangkan bisnes runcit, bengkel atau klinik Bumiputera, dekat mana nak rujuk pembiayaan PUNB?📈
+    post: `Ada yang tahu? Nak kembangkan bisnes runcit, bengkel atau klinik Bumiputera, dekat mana nak rujuk pembiayaan PUNB?📈
 👇👇👇`,
     komen: `Layari portal rasmi Perbadanan Usahawan Nasional Berhad (PUNB) dekat punb.com.my/ms/products-services/business-financing/
 PUNB menawarkan pakej pembiayaan perniagaan patuh syariah berserta bimbingan korporat untuk membantu usahawan Bumiputera meluaskan cawangan dan operasi
@@ -4629,7 +4629,7 @@ PG00359605`,
     tajuk: `Semak Harga Rujukan Harian Syiling Kijang Emas Bank Negara (BNM)`,
     tags: ["bnm", "emas", "kewangan", "simpanan"],
     link: "https://www.bnm.gov.my/kijang-emas-prices",
-    post: `Simple tips hari ni..Tahukah anda Malaysia pun ada syiling emas rasmi sendiri iaitu Kijang Emas? Kat mana nak tengok harga?🪙
+    post: `Ada yang tahu? Tahukah anda Malaysia pun ada syiling emas rasmi sendiri iaitu Kijang Emas? Kat mana nak tengok harga?🪙
 👇👇👇`,
     komen: `Buka laman rasmi Bank Negara Malaysia bahagian Kijang Emas dekat bnm.gov.my/kijang-emas-prices
 Malaysia merupakan negara ke-12 di dunia yang mengeluarkan syiling emas bullion sendiri (1 oz, 1/2 oz, dan 1/4 oz) dan harga dagangan hariannya dikemas kini di laman BNM setiap hari
@@ -4659,7 +4659,7 @@ PG00359605`,
     tajuk: `Semak Senarai Money Changer & Kiriman Wang Berlesen Sah (BNM MSB)`,
     tags: ["bnm msb", "keselamatan", "mata", "tukar", "wang"],
     link: "https://www.bnm.gov.my/regulations/fsp-directory/msb-licensees",
-    post: `Just a simple tips..Nak tukar duit asing atau hantar duit ke luar negara, macam mana nak check Money Changer tu berlesen BNM?💱
+    post: `Ada yang tahu? Nak tukar duit asing atau hantar duit ke luar negara, macam mana nak check Money Changer tu berlesen BNM?💱
 👇👇👇`,
     komen: `Buka direktori rasmi Pengendali Perniagaan Perkhidmatan Wang (MSB) Bank Negara Malaysia dekat bnm.gov.my/regulations/fsp-directory/msb-licensees
 Pastikan syarikat pengurup wang atau aplikasi kiriman wang tersebut tersenarai sebagai pemegang lesen sah Bank Negara Malaysia
@@ -4689,7 +4689,7 @@ PG00359605`,
     tajuk: `Saluran Bebas Selesaikan Pertikaian Tuntutan Bank & Takaful Percuma (FMOS)`,
     tags: ["bank", "fmos", "kewangan,", "takaful"],
     link: "https://www.fmos.org.my/bm/",
-    post: `Simple tips malam ni..Tuntutan insurans/takaful kena tolak atau duit bank hilang tapi rayuan ditolak, nak rujuk badan mana?🛡️
+    post: `Ada yang tahu? Tuntutan insurans/takaful kena tolak atau duit bank hilang tapi rayuan ditolak, nak rujuk badan mana?🛡️
 👇👇👇`,
     komen: `Rujuk portal rasmi Perkhidmatan Ombudsman Pasaran Kewangan (FMOS - gabungan OFS dan SIDREC yang diluluskan BNM & SC) dekat fmos.org.my/bm/
 FMOS adalah badan bebas rasmi penyelesaian pertikaian antara pengguna dengan bank, syarikat insurans/takaful, atau broker pelaburan tanpa perlu lantik peguam ke mahkamah
@@ -4719,7 +4719,7 @@ PG00359605`,
     tajuk: `Semak & Mohon Rumah Mampu Milik PR1MA Seluruh Malaysia (Portal PR1MA)`,
     tags: ["kediaman", "pertama", "portal pr1ma", "rumah"],
     link: "https://www.pr1ma.my/",
-    post: `Just a simple tips..Tengah cari rumah pertama yang mampu milik untuk keluarga, dekat portal rasmi mana nak mohon PR1MA?🏢
+    post: `Ada yang tahu? Tengah cari rumah pertama yang mampu milik untuk keluarga, dekat portal rasmi mana nak mohon PR1MA?🏢
 👇👇👇`,
     komen: `Layari portal rasmi Perbadanan PR1MA Malaysia dekat pr1ma.my
 Kita boleh semak senarai projek kediaman PR1MA yang sedang dibuka mengikut negeri, semak syarat kelayakan pendapatan isi rumah, dan daftar permohonan secara terus
@@ -4749,7 +4749,7 @@ PG00359605`,
     tajuk: `Daftar & Mohon Rumah Selangorku Secara Online Tanpa Ejen (eHartanah LPHS)`,
     tags: ["ehartanah lphs", "kediaman", "rakyat", "selangor"],
     link: "https://ehartanah.lphs.gov.my/",
-    post: `Simple tips hari ni..Bekerja & menetap dekat Selangor, macam mana nak mohon Rumah Selangorku terus dekat sistem kerajaan?🏠
+    post: `Ada yang tahu? Bekerja & menetap dekat Selangor, macam mana nak mohon Rumah Selangorku terus dekat sistem kerajaan?🏠
 👇👇👇`,
     komen: `Buka Sistem Permohonan Hartanah Negeri Selangor (eHartanah) bawah Lembaga Perumahan dan Hartanah Selangor (LPHS) dekat ehartanah.lphs.gov.my
 Daftar akaun pemohon, pilih projek Rumah Selangorku di daerah pilihan kita, dan muat naik dokumen sokongan secara atas talian
@@ -4779,7 +4779,7 @@ PG00359605`,
     tajuk: `Mohon Bina Rumah Mesra Rakyat Atas Tanah Sendiri Subsidi Kerajaan (SPNB)`,
     tags: ["bina", "kampung", "rumah", "spnb", "tanah"],
     link: "https://spnb.com.my/rumah-mesra-rakyat/",
-    post: `Just a simple tips..Ada tanah sendiri dekat kampung tapi modal bina rumah tak cukup, macam mana nak mohon Rumah Mesra Rakyat?🏡
+    post: `Ada yang tahu? Ada tanah sendiri dekat kampung tapi modal bina rumah tak cukup, macam mana nak mohon Rumah Mesra Rakyat?🏡
 👇👇👇`,
     komen: `Buka portal rasmi Syarikat Perumahan Negara Berhad (SPNB) bahagian Rumah Mesra Rakyat (RMR) dekat spnb.com.my/rumah-mesra-rakyat/
 Program kerajaan ni bantu keluarga berpendapatan rendah/sederhana yang ada tanah sendiri untuk bina rumah 3 bilik tidur & 2 bilik air dengan subsidi kerajaan serta bayaran bulanan rendah
@@ -4809,7 +4809,7 @@ PG00359605`,
     tajuk: `Semak Kelayakan & Baki Pinjaman Perumahan Penjawat Awam (Portal LPPSA)`,
     tags: ["awam", "penjawat", "pinjaman", "portal lppsa", "rumah"],
     link: "https://www.lppsa.gov.my/my/",
-    post: `Simple tips malam ni..Untuk penjawat awam yang nak beli rumah atau semak baki pinjaman LPPSA, nak buka portal rasmi mana?🔑
+    post: `Ada yang tahu? Untuk penjawat awam yang nak beli rumah atau semak baki pinjaman LPPSA, nak buka portal rasmi mana?🔑
 👇👇👇`,
     komen: `Layari portal rasmi Lembaga Pembiayaan Perumahan Sektor Awam (LPPSA) dekat lppsa.gov.my/my/
 Melalui sistem MyFinancing LPPSA, penjawat awam boleh membuat kiraan anggaran kelayakan pembiayaan, menghantar permohonan baharu, dan menyemak penyata baki hutang semasa
@@ -4839,7 +4839,7 @@ PG00359605`,
     tajuk: `Semak Tarikh Bayaran Pencen Bulanan & Kad Pesara Digital (MyPesara KWAP)`,
     tags: ["bapa", "kerajaan", "mypesara kwap", "pesara"],
     link: "https://mypesara.kwap.gov.my/my/",
-    post: `Just a simple tips..Mak ayah kita pesara kerajaan, macam mana nak tolong install kad pesara digital & semak penyata pencen?👵
+    post: `Ada yang tahu? Mak ayah kita pesara kerajaan, macam mana nak tolong install kad pesara digital & semak penyata pencen?👵
 👇👇👇`,
     komen: `Muat turun aplikasi rasmi MyPesara oleh Kumpulan Wang Persaraan (KWAP) atau layari portal mypesara.kwap.gov.my/my/
 Dalam aplikasi ni siap ada jadual tarikh bayaran pencen bulanan sepanjang tahun, penyata pencen untuk urusan rasmi, serta paparan e-Kad Pesara
@@ -4869,7 +4869,7 @@ PG00359605`,
     tajuk: `Semak Lokasi & Jadual Kempen Derma Darah Harian (Pusat Darah Negara KKM)`,
     tags: ["amal", "kesihatan,", "komuniti", "pusat darah negara kkm"],
     link: "https://pdn.gov.my/v2/",
-    post: `Simple tips hari ni..Teringin nak derma darah hujung minggu ni, macam mana nak tahu lokasi kempen derma darah paling dekat?🩸
+    post: `Ada yang tahu? Teringin nak derma darah hujung minggu ni, macam mana nak tahu lokasi kempen derma darah paling dekat?🩸
 👇👇👇`,
     komen: `Buka portal rasmi Pusat Darah Negara (PDN KKM) dekat pdn.gov.my/v2/
 Dekat situ ada jadual kempen derma darah bergerak harian di pusat beli-belah dan dewan komuniti serta senarai keistimewaan rawatan perubatan percuma di hospital kerajaan untuk penderma darah
@@ -4899,7 +4899,7 @@ PG00359605`,
     tajuk: `Semak Program Saringan Kesihatan Wanita (Mamogram & HPV Percuma) (LPPKN)`,
     tags: ["keluarga", "kesihatan", "lppkn", "wanita"],
     link: "https://www.lppkn.gov.my/",
-    post: `Just a simple tips..Tahukah kaum ibu & isteri boleh buat saringan mamogram & ujian HPV DNA secara percuma bawah kerajaan?🌸
+    post: `Ada yang tahu? Tahukah kaum ibu & isteri boleh buat saringan mamogram & ujian HPV DNA secara percuma bawah kerajaan?🌸
 👇👇👇`,
     komen: `Rujuk portal rasmi Lembaga Penduduk dan Pembangunan Keluarga Negara (LPPKN) dekat lppkn.gov.my
 Melalui rangkaian Klinik Nur Sejahtera LPPKN di seluruh negara, wanita yang layak boleh mendapatkan subsidi ujian mamogram (saringan kanser payudara) dan ujian HPV DNA (saringan kanser serviks) secara percuma
@@ -4929,7 +4929,7 @@ PG00359605`,
     tajuk: `Semak Lokasi Pasar Tani & Jualan Agro Madani Terus Dari Ladang (FAMA)`,
     tags: ["belanja", "dapur", "fama", "jimat", "keluarga"],
     link: "https://www.fama.gov.my/pasar-tani",
-    post: `Simple tips malam ni..Nak beli sayur, buah & barang basah segar terus daripada peladang dengan harga jimat dekat mana?🥬
+    post: `Ada yang tahu? Nak beli sayur, buah & barang basah segar terus daripada peladang dengan harga jimat dekat mana?🥬
 👇👇👇`,
     komen: `Buka portal rasmi Lembaga Pemasaran Pertanian Persekutuan (FAMA) dekat fama.gov.my/pasar-tani
 Boleh semak senarai lokasi dan hari operasi Pasar Tani, Pasar Tani Kekal, serta program Jualan Agro Madani di seluruh negeri
@@ -4959,7 +4959,7 @@ PG00359605`,
     tajuk: `Rujukan Rasmi Perkhidmatan Klinik Veterinar Kerajaan & Haiwan (DVS)`,
     tags: ["dvs", "haiwan", "peliharaan", "penternakan"],
     link: "https://www.dvs.gov.my/",
-    post: `Just a simple tips..Bela kucing atau haiwan ternakan, kat mana nak semak direktori Pejabat Perkhidmatan Veterinar daerah?🐱
+    post: `Ada yang tahu? Bela kucing atau haiwan ternakan, kat mana nak semak direktori Pejabat Perkhidmatan Veterinar daerah?🐱
 👇👇👇`,
     komen: `Layari portal rasmi Jabatan Perkhidmatan Veterinar Malaysia (DVS) dekat dvs.gov.my
 Terdapat senarai lengkap alamat dan nombor telefon Jabatan Perkhidmatan Veterinar Negeri serta Daerah untuk urusan khidmat nasihat kesihatan haiwan dan penternakan
@@ -4989,7 +4989,7 @@ PG00359605`,
     tajuk: `Saluran Rasmi Lapor Gangguan Hidupan Liar Di Kawasan Perumahan (PERHILITAN)`,
     tags: ["alam", "keselamatan", "komuniti", "perhilitan"],
     link: "https://www.wildlife.gov.my/",
-    post: `Simple tips hari ni..Kawasan taman perumahan atau kebun ada gangguan kera liar, babi hutan atau ular besar, nak lapor kat mana?🐒
+    post: `Ada yang tahu? Kawasan taman perumahan atau kebun ada gangguan kera liar, babi hutan atau ular besar, nak lapor kat mana?🐒
 👇👇👇`,
     komen: `Jangan ambil tindakan bahaya sendiri..buka portal rasmi Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) dekat wildlife.gov.my
 Boleh salurkan aduan gangguan hidupan liar secara terus melalui sistem e-Aduan PERHILITAN atau hubungi talian hotline PERHILITAN negeri yang tertera
@@ -5019,7 +5019,7 @@ PG00359605`,
     tajuk: `Muat Turun Panduan Tanaman & Semak Kursus Pertanian Kerajaan (DOA)`,
     tags: ["dapur", "doa", "kebun", "pertanian"],
     link: "https://www.doa.gov.my/",
-    post: `Just a simple tips..Suka bercucuk tanam sayur dekat rumah atau nak belajar ilmu pertanian moden, kat mana rujukan rasmi?🌱
+    post: `Ada yang tahu? Suka bercucuk tanam sayur dekat rumah atau nak belajar ilmu pertanian moden, kat mana rujukan rasmi?🌱
 👇👇👇`,
     komen: `Buka portal rasmi Jabatan Pertanian Malaysia (Department of Agriculture - DOA) dekat doa.gov.my
 Ada banyak panduan pakej teknologi tanaman sayur-sayuran, buah-buahan, kawalan perosak tanaman, serta maklumat pensijilan myGAP dan myOrganic
@@ -5049,7 +5049,7 @@ PG00359605`,
     tajuk: `Semak Senarai Taman Eko Rimba, Hutan Lipur & Info Pendakian (JPSM)`,
     tags: ["alam", "jadi", "jpsm", "keluarga", "riadah", "semula"],
     link: "https://www.forestry.gov.my/my/perkhidmatan/info-perhutanan/hutan-lipur-hutan-taman-negeri",
-    post: `Simple tips malam ni..Nak bawa anak berkelah dekat air terjun Hutan Lipur atau pergi hiking, kat mana nak semak info rasmi?🏕️
+    post: `Ada yang tahu? Nak bawa anak berkelah dekat air terjun Hutan Lipur atau pergi hiking, kat mana nak semak info rasmi?🏕️
 👇👇👇`,
     komen: `Rujuk portal rasmi Jabatan Perhutanan Semenanjung Malaysia (JPSM) dekat forestry.gov.my
 Ada senarai penuh Taman Eko Rimba (Hutan Lipur) mengikut negeri, maklumat penutupan sementara musim tengkujuh, serta prosedur permohonan permit memasuki Hutan Simpanan Kekal untuk pendaki
@@ -5079,7 +5079,7 @@ PG00359605`,
     tajuk: `Semak Ketulenan Sijil Alat Pemadam Api Rumah & Kedai (BOMBA eFEIS)`,
     tags: ["bomba efeis", "kebakaran", "keselamatan", "rumah"],
     link: "https://gamma.malaysia.gov.my/appdetails/875",
-    post: `Just a simple tips..Beli tong alat pemadam api untuk rumah atau kedai, macam mana nak scan pelekat tu sah Bomba ke tak?🧯
+    post: `Ada yang tahu? Beli tong alat pemadam api untuk rumah atau kedai, macam mana nak scan pelekat tu sah Bomba ke tak?🧯
 👇👇👇`,
     komen: `Muat turun aplikasi rasmi BOMBA eFEIS melalui Galeri Aplikasi Kerajaan (GAMMA) dekat gamma.malaysia.gov.my/appdetails/875
 Imbas kod QR pada pelekat sijil alat pemadam api mudah alih tersebut untuk mengesahkan ketulenan sijil dan tarikh tamat tempoh penyelenggaraan JBPM
@@ -5109,7 +5109,7 @@ PG00359605`,
     tajuk: `Tempah Janji Temu & Semak Pakar Rawatan Jantung Terkemuka Negara (IJN)`,
     tags: ["ijn", "jantung", "keluarga", "kesihatan"],
     link: "https://www.ijn.com.my/",
-    post: `Simple tips hari ni..Nak buat pemeriksaan saringan jantung atau rujuk pakar jantung di IJN, kat mana laman rasmi dia?❤️
+    post: `Ada yang tahu? Nak buat pemeriksaan saringan jantung atau rujuk pakar jantung di IJN, kat mana laman rasmi dia?❤️
 👇👇👇`,
     komen: `Layari laman web rasmi Institut Jantung Negara (IJN) dekat ijn.com.my
 Boleh semak direktori pakar kardiologi, pakej pemeriksaan kesihatan jantung (Heart Screening), panduan pesakit, serta mengisi borang pra-janji temu secara atas talian
@@ -5139,7 +5139,7 @@ PG00359605`,
     tajuk: `Semak Filem Atau Dokumentari Tengah Tayang Dekat Platform Mana (JustWatch)`,
     tags: ["hiburan", "justwatch", "keluarga", "penstriman"],
     link: "https://www.justwatch.com/my",
-    post: `Just a simple tips..Nak tengok satu cerita atau dokumentari dengan anak, macam mana nak tahu cerita tu ada dekat app mana?📺
+    post: `Ada yang tahu? Nak tengok satu cerita atau dokumentari dengan anak, macam mana nak tahu cerita tu ada dekat app mana?📺
 👇👇👇`,
     komen: `Tak perlu buka semua aplikasi satu-satu..buka laman carian penstriman rasmi justwatch.com/my
 Taip je tajuk filem atau siri TV tu..dia terus beritahu sama ada cerita tu tengah ditayangkan secara sah di Netflix, Disney+ Hotstar, Prime Video, Apple TV, atau Viu Malaysia
@@ -5169,7 +5169,7 @@ PG00359605`,
     tajuk: `Muat Turun Kesan Bunyi (SFX) & Muzik Video Percuma Tanpa Daftar (Mixkit)`,
     tags: ["edit", "kandungan", "mixkit", "pencipta", "video"],
     link: "https://mixkit.co/free-sound-effects/",
-    post: `Simple tips malam ni..Edit video pendek nak letak bunyi 'whoosh', 'ding' atau muzik latar bebas copyright, download kat mana?🔊
+    post: `Ada yang tahu? Edit video pendek nak letak bunyi 'whoosh', 'ding' atau muzik latar bebas copyright, download kat mana?🔊
 👇👇👇`,
     komen: `Buka laman web percuma mixkit.co/free-sound-effects/ (dikuasakan oleh Envato)
 Ada ribuan kesan bunyi (sound effects) dan muzik latar bebas royalti yang boleh terus dimuat turun dalam format MP3/WAV dengan satu klik tanpa perlu daftar akaun
@@ -5199,7 +5199,7 @@ PG00359605`,
     tajuk: `Buat Topeng Emel (Email Mask) Percuma Elak Inbox Penuh Spam (Firefox Relay)`,
     tags: ["digital", "emel", "firefox relay", "keselamatan", "privasi"],
     link: "https://relay.firefox.com/",
-    post: `Just a simple tips..Nak daftar website luar tapi malas bagi alamat emel sebenar takut penuh spam, nak guna servis percuma apa?📧
+    post: `Ada yang tahu? Nak daftar website luar tapi malas bagi alamat emel sebenar takut penuh spam, nak guna servis percuma apa?📧
 👇👇👇`,
     komen: `Guna perkhidmatan rasmi Firefox Relay daripada Mozilla dekat relay.firefox.com
 Ia membolehkan kita jana alamat emel topeng (email mask) secara percuma..emel pengesahan tetap dihantar ke inbox sebenar kita, tapi kalau laman web tu mula hantar spam, kita boleh matikan topeng tu bila-bila masa
@@ -5229,7 +5229,7 @@ PG00359605`,
     tajuk: `Aplikasi DNS Percuma Lajukan Pelayaran Internet & Privasi WiFi (Cloudflare)`,
     tags: ["cloudflare", "internet,", "keselamatan", "siber", "wifi"],
     link: "https://one.one.one.one/dns/",
-    post: `Simple tips hari ni..Macam mana nak lajukan sambungan ketika buka website & tingkatkan privasi masa guna WiFi awam secara free?🌐
+    post: `Ada yang tahu? Macam mana nak lajukan sambungan ketika buka website & tingkatkan privasi masa guna WiFi awam secara free?🌐
 👇👇👇`,
     komen: `Guna perkhidmatan DNS terkemuka dunia iaitu Cloudflare 1.1.1.1 melalui laman rasmi one.one.one.one/dns/ atau aplikasi telefonnya
 Siap ada pilihan '1.1.1.1 for Families' (1.1.1.3) untuk router WiFi rumah yang secara automatik menyekat laman web malware dan kandungan tidak sesuai untuk anak-anak
@@ -5259,7 +5259,7 @@ PG00359605`,
     tajuk: `Install Semua Software Asas Laptop Baharu Serentak 1 Klik (Ninite)`,
     tags: ["komputer", "ninite", "pejabat", "teknologi"],
     link: "https://ninite.com/",
-    post: `Just a simple tips..Baru beli atau format laptop Windows, macam mana nak install semua software asas serentak dengan 1 klik je?💻
+    post: `Ada yang tahu? Baru beli atau format laptop Windows, macam mana nak install semua software asas serentak dengan 1 klik je?💻
 👇👇👇`,
     komen: `Jangan penat buka 10 laman web berbeza..terus buka laman rasmi ninite.com
 Tandakan kotak perisian percuma yang kita nak (seperti Chrome, VLC, 7-Zip, Zoom, LibreOffice, Foxit Reader) dan tekan 'Get Your Ninite'..dia akan muat turun versi rasmi terkini dan pasang semuanya secara automatik tanpa sebarang toolbar iklan
@@ -5289,7 +5289,7 @@ PG00359605`,
     tajuk: `Lukis Carta Alir Kerja (Flowchart) & Carta Organisasi Percuma (draw.io)`,
     tags: ["draw.io", "pejabat", "pelajar", "produktiviti"],
     link: "https://app.diagrams.net/",
-    post: `Simple tips malam ni..Kena buat carta alir kerja (flowchart), SOP atau carta organisasi pejabat, website percuma mana paling senang?📊
+    post: `Ada yang tahu? Kena buat carta alir kerja (flowchart), SOP atau carta organisasi pejabat, website percuma mana paling senang?📊
 👇👇👇`,
     komen: `Terus buka aplikasi web percuma draw.io dekat app.diagrams.net tanpa perlu daftar sebarang akaun
 Tarik dan susun je bentuk kotak dan anak panah..siap boleh simpan terus ke dalam laptop sebagai gambar PNG, PDF, atau simpan dalam Google Drive
@@ -5319,7 +5319,7 @@ PG00359605`,
     tajuk: `Papan Putih Digital (Whiteboard) Percuma Gaya Lakaran Tangan (Excalidraw)`,
     tags: ["excalidraw", "idea", "pembentangan,", "pendidikan"],
     link: "https://excalidraw.com/",
-    post: `Just a simple tips..Nak terangkan idea bisnes atau ajar anak dekat skrin laptop guna papan putih digital yang cantik & free?✏️
+    post: `Ada yang tahu? Nak terangkan idea bisnes atau ajar anak dekat skrin laptop guna papan putih digital yang cantik & free?✏️
 👇👇👇`,
     komen: `Buka papan putih maya sumber terbuka Excalidraw dekat excalidraw.com terus daripada browser
 Apa sahaja kotak, anak panah, atau rajah yang kita lukis akan nampak kemas macam lakaran tangan profesional..dan boleh terus eksport sebagai gambar
@@ -5349,7 +5349,7 @@ PG00359605`,
     tajuk: `Tengok Statistik Rasmi Operasi Kebombaan & Penyelamatan Malaysia (Data.gov.my)`,
     tags: ["data", "data.gov.my", "kerajaan", "kesedaran", "terbuka"],
     link: "https://data.gov.my/ms-MY/dashboard/fire-and-rescue",
-    post: `Simple tips hari ni..Tahukah kerajaan ada portal data terbuka yang tunjuk statistik harian operasi Bomba di seluruh negara?🚒
+    post: `Ada yang tahu? Tahukah kerajaan ada portal data terbuka yang tunjuk statistik harian operasi Bomba di seluruh negara?🚒
 👇👇👇`,
     komen: `Layari papan pemuka rasmi kerajaan Malaysia dekat data.gov.my/ms-MY/dashboard/fire-and-rescue
 Kita boleh melihat statistik rasmi insiden kebakaran dan penyelamatan mengikut negeri serta jenis kecemasan yang dikemas kini daripada data Jabatan Bomba dan Penyelamat Malaysia
@@ -5379,7 +5379,7 @@ PG00359605`,
     tajuk: `Bawa Anak Belajar Sejarah Wang & Ekonomi Secara Percuma (Muzium BNM)`,
     tags: ["cuti", "ilmu", "kewangan", "muzium bnm", "sekolah"],
     link: "https://museum.bnm.gov.my/",
-    post: `Just a simple tips..Cuti hujung minggu dekat KL nak bawa anak jalan tempat berilmu yang masuk percuma, pernah pergi Muzium BNM?🏛️
+    post: `Ada yang tahu? Cuti hujung minggu dekat KL nak bawa anak jalan tempat berilmu yang masuk percuma, pernah pergi Muzium BNM?🏛️
 👇👇👇`,
     komen: `Semak maklumat lawatan atau terokai galeri maya Muzium dan Galeri Seni Bank Negara Malaysia dekat museum.bnm.gov.my
 Ada Terowong Wang RM1 Juta, Galeri Kanak-Kanak, Galeri Ekonomi, dan sejarah mata wang emas dinar serta Kijang Emas yang sangat interaktif..dan kemasukan adalah percuma

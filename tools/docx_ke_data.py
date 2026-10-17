@@ -43,6 +43,8 @@ pgolink.com/whatsapptaufik
 Taufik | Dealer Public Gold
 PG00359605"""
 
+PEMBUKA = r'^(?:Just a simple tips|Simple tips (?:hari|malam) ni)\.\.'   # "Simple tips hari ni.." dsb. -> "Ada yang tahu? "
+
 def js(s):
     return '`' + s.replace('\\', '\\\\').replace('`', '\\`').replace('${', '\\${') + '`'
 
@@ -70,7 +72,7 @@ for i, s in enumerate(sets):
     # b: "1. Ayat..", "(Background..)", POST, "2. Ayat..", "(Komen..)", KOMEN..., FOOTER
     i1 = next(k for k, t in enumerate(b) if t.startswith('1.'))
     i2 = next(k for k, t in enumerate(b) if t.startswith('2.'))
-    post = '\n'.join(b[i1 + 2:i2])
+    post = re.sub(PEMBUKA, 'Ada yang tahu? ', '\n'.join(b[i1 + 2:i2]))
     isi = [t for t in b[i2 + 2:] if not t.startswith('Moga bermanfaat')]
     komen = '\n'.join(isi) + '\n\n' + CTA_KOMEN   # CTA tetap, ganti sign-off docx
     m = re.match(r'(.*?)\s*\[(.+)\]\s*$', s['tajuk'])

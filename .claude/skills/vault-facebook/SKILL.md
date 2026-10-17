@@ -63,6 +63,10 @@ Taufik | Dealer Public Gold
 PG00359605
 ```
 
+## Pembuka post (tetap, dikemas kini 17 Okt 2026)
+
+Docx tulis pembuka `Simple tips hari ni..` / `Simple tips malam ni..` / `Just a simple tips..`. Converter tukar semua kepada **`Ada yang tahu? `** (pemalar `PEMBUKA` dalam `tools/docx_ke_data.py`), contoh: `Ada yang tahu? Nak beli barang online...`. Ayat selebihnya tak diubah.
+
 ## Tambah set baru (aliran kerja utama)
 
 1. Fail docx ada tajuk `Set #NN: Tajuk (Alat) [Kategori]` ATAU `Set #NN (#31): ...` (set 2 ke atas). Setiap set: `1. Ayat letak dekat post`, `(Background Warna • N aksara)`, teks post, `2. Ayat letak dekat comment`, `(Komen Pertama + Link Sahih)`, teks komen (baris dipisah line-break), perenggan sign-off "Moga bermanfaat..." (diganti CTA tetap oleh converter).
