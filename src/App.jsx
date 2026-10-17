@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useRef, useLayoutEffect } from 'react'
 import { skrip, namaSiri, tabUtama } from './data'
 import { muat, simpan, salinKeClipboard, tarikhMelayu } from './util'
 import { renderJewel, kira, format, lalaiJewel } from './jewel'
@@ -11,6 +11,28 @@ const unik = arr => Array.from(new Set(arr))
 const nombor = s => `${s.siri} · ${String(s.no).padStart(2, "0")}`
 const aksara = t => Array.from(t).length
 const HAD_AWAL = 30
+
+// Teks panjang dipapar pendek (beberapa baris) dengan "Lihat lagi"; butang hanya keluar bila teks terpotong.
+// Butang Copy sentiasa salin teks penuh.
+function TeksLipat({ teks, kelas, baris }) {
+  const ref = useRef(null)
+  const [buka, setBuka] = useState(false)
+  const [lebih, setLebih] = useState(false)
+  useLayoutEffect(() => {
+    const ukur = () => { const el = ref.current; if (el && !buka) setLebih(el.scrollHeight > el.clientHeight + 2) }
+    ukur()
+    window.addEventListener("resize", ukur)
+    return () => window.removeEventListener("resize", ukur)
+  }, [teks, buka])
+  return (
+    <div className={"kotak-teks " + (kelas || "")}>
+      <div ref={ref} className={buka ? "" : "lipat"} style={{ "--baris": baris }}>{teks}</div>
+      {(lebih || buka) && (
+        <button className="lihat" onClick={() => setBuka(b => !b)}>{buka ? "▲ Tutup" : "▼ Lihat lagi"}</button>
+      )}
+    </div>
+  )
+}
 
 export default function App() {
   const [tab, setTab] = useState(() => {
@@ -215,7 +237,7 @@ export default function App() {
                 <span className="kotak-label">{s.vars ? "📝 Post panjang (wall)" : "1️⃣ Post (wall)"}</span>
                 <span className="kotak-info">{s.vars ? "" : "Background warna · "}{aksara(teksPost(s))} aksara</span>
               </div>
-              <div className={"kotak-teks" + (s.vars ? "" : " post")}>{teksPost(s)}</div>
+              <TeksLipat teks={teksPost(s)} kelas={s.vars ? "" : "post"} baris={5} />
               <button className={"btn btn-salin" + (disalin === s.id + "post" ? " ok" : "")} onClick={() => salin(s, "post")}>
                 {disalin === s.id + "post" ? "✓ Post disalin!" : "📋 Copy Post"}
               </button>
@@ -227,7 +249,7 @@ export default function App() {
                   <span className="kotak-label">2️⃣ Komen pertama</span>
                   <span className="kotak-info">Letak lepas post naik</span>
                 </div>
-                <div className="kotak-teks">{s.komen}</div>
+                <TeksLipat teks={s.komen} baris={4} />
                 <button className={"btn btn-salin" + (disalin === s.id + "komen" ? " ok" : "")} onClick={() => salin(s, "komen")}>
                   {disalin === s.id + "komen" ? "✓ Komen disalin!" : "📋 Copy Komen"}
                 </button>

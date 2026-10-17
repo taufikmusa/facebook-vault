@@ -121,3 +121,7 @@ button { font: inherit; }
 .ubah-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
 .ubah-kira { color: var(--pudar); font-size: 13px; }
 .ubah-kira b { color: var(--emas); }
+
+/* Teks lipat: pratonton pendek + Lihat lagi */
+.lipat { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: var(--baris, 5); line-clamp: var(--baris, 5); overflow: hidden; }
+.lihat { display: block; margin-top: 8px; padding: 2px 0; background: none; border: none; color: var(--emas); font-size: 14px; font-weight: 600; cursor: pointer; }
