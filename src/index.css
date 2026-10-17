@@ -110,3 +110,14 @@ button { font: inherit; }
 .btn-salin { border: 0 solid var(--emas); background: var(--emas); color: #1a1814; font-weight: 700; }
 .btn-salin.ok { background: #4caf50; color: #fff; }
 .link-kecil { color: var(--lagi-pudar); font-size: 12px; word-break: break-all; margin-bottom: 8px; }
+
+/* Ruangan ubah produk & harga (tab PG Jewel) */
+.ubah { margin-bottom: 10px; }
+.ubah .btn-link { padding: 2px 0 8px; margin-top: 0; }
+.ubah-isi { border: 1px solid var(--garis); border-radius: 10px; background: #15130f; padding: 12px; display: flex; flex-direction: column; gap: 10px; }
+.ubah label { display: flex; flex-direction: column; gap: 4px; color: var(--pudar); font-size: 12px; font-weight: 600; }
+.ubah input { width: 100%; padding: 10px 12px; font-size: 16px; border-radius: 8px; border: 1px solid var(--garis); background: var(--kad); color: #fff; outline: none; }
+.ubah input:focus { border-color: var(--emas); }
+.ubah-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
+.ubah-kira { color: var(--pudar); font-size: 13px; }
+.ubah-kira b { color: var(--emas); }

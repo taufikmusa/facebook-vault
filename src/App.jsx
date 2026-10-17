@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react'
 import { skrip, namaSiri, tabUtama } from './data'
 import { muat, simpan, salinKeClipboard, tarikhMelayu } from './util'
+import { renderJewel, kira, format, lalaiJewel } from './jewel'
 
 // Tab: setiap siri dalam tabUtama dapat tab sendiri, siri lain semua masuk "Archive"
 const ARKIB = "Archive"
@@ -22,6 +23,35 @@ export default function App() {
   const [dahPost, setDahPost] = useState(() => muat("dahPost", {}))
   const [had, setHad] = useState(HAD_AWAL)
   const [disalin, setDisalin] = useState(null)    // "<id>post" | "<id>komen"
+  const [jewelG, setJewelG] = useState(() => muat("jewelGlobal", lalaiJewel))   // harga GAP & simpanan (dikongsi)
+  const [jewelV, setJewelV] = useState(() => muat("jewelVar", {}))              // ubahan produk/harga per post
+  const [bukaUbah, setBukaUbah] = useState({})
+
+  // Post dengan slot (tab PG Jewel) dikira semula dari nilai semasa; post biasa kekal
+  const teksPost = s => (s.vars ? renderJewel(s, jewelV[s.id], jewelG) : s.post)
+  function ubahGlobal(kunci, nilai) {
+    setJewelG(prev => {
+      const baru = { ...prev, [kunci]: nilai.replace(/[^\d.,]/g, ""), tarikh: tarikhMelayu(new Date()) }
+      simpan("jewelGlobal", baru)
+      return baru
+    })
+  }
+  function ubahVar(s, kunci, nilai, nombor) {
+    setJewelV(prev => {
+      const nilaiBaru = nombor ? nilai.replace(/[^\d.,]/g, "") : nilai
+      const baru = { ...prev, [s.id]: { ...(prev[s.id] || {}), [kunci]: nilaiBaru } }
+      simpan("jewelVar", baru)
+      return baru
+    })
+  }
+  function resetVar(id) {
+    setJewelV(prev => {
+      const baru = { ...prev }
+      delete baru[id]
+      simpan("jewelVar", baru)
+      return baru
+    })
+  }
 
   const skripTab = useMemo(() => skrip.filter(s => tabKe(s.siri) === tab), [tab])
   const TOPIK = useMemo(() => ["Semua", ...unik(skripTab.map(s => s.topik))], [skripTab])
@@ -39,10 +69,10 @@ export default function App() {
       if (status === "belum" && dahPost[s.id]) return false
       if (status === "dah" && !dahPost[s.id]) return false
       if (kata.length === 0) return true
-      const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, s.post, s.komen, s.tags.join(" "), s.topik, s.kategori].join(" ").toLowerCase()
+      const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, teksPost(s), s.komen, s.tags.join(" "), s.topik, s.kategori, s.persona || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
-  }, [skripTab, cari, topik, status, dahPost])
+  }, [skripTab, cari, topik, status, dahPost, jewelG, jewelV])
 
   const senarai = senaraiPenuh.slice(0, had)
   const skop = skripTab.filter(s => topik === "Semua" || s.topik === topik)
@@ -50,7 +80,7 @@ export default function App() {
   const tukarStatus = (nilai, on) => { setStatus(on ? nilai : "semua"); setHad(HAD_AWAL) }
 
   function salin(s, jenis) {
-    salinKeClipboard(jenis === "post" ? s.post : s.komen).then(() => {
+    salinKeClipboard(jenis === "post" ? teksPost(s) : s.komen).then(() => {
       setDisalin(s.id + jenis)
       setTimeout(() => setDisalin(null), 1500)
     })
@@ -106,6 +136,21 @@ export default function App() {
             </button>
           ))}
         </div>
+        {skripTab.some(s => s.vars) && (
+          <div className="harga">
+            <div className="harga-tajuk">💰 Harga GAP semasa <span>auto masuk dalam semua post {tab}</span></div>
+            <div className="harga-baris">
+              <label>Buy GAP<span>RM</span>
+                <input inputMode="decimal" value={jewelG.hargaGAP} onChange={e => ubahGlobal("hargaGAP", e.target.value)} />
+                <small>/gram</small>
+              </label>
+              <label>Simpanan bulanan<span>RM</span>
+                <input inputMode="decimal" value={jewelG.simpanan} onChange={e => ubahGlobal("simpanan", e.target.value)} />
+              </label>
+            </div>
+            <div className="harga-nota">Dikemaskini: {jewelG.tarikh || "-"} · gram GAP dikira semula = jumlah ÷ harga GAP</div>
+          </div>
+        )}
         <div className="toggles">
           <label className="toggle">
             <input type="checkbox" checked={status === "belum"} onChange={e => tukarStatus("belum", e.target.checked)} />
@@ -132,27 +177,67 @@ export default function App() {
             </div>
             <h2 className="tajuk">{s.tajuk}</h2>
 
+            {s.persona && <div className="persona">🎯 {s.persona}</div>}
+
             <div className="kotak">
               <div className="kotak-kepala">
-                <span className="kotak-label">1️⃣ Post (wall)</span>
-                <span className="kotak-info">Background warna · {aksara(s.post)} aksara</span>
+                <span className="kotak-label">{s.vars ? "📝 Post panjang (wall)" : "1️⃣ Post (wall)"}</span>
+                <span className="kotak-info">{s.vars ? "" : "Background warna · "}{aksara(teksPost(s))} aksara</span>
               </div>
-              <div className="kotak-teks post">{s.post}</div>
+              <div className={"kotak-teks" + (s.vars ? "" : " post")}>{teksPost(s)}</div>
               <button className={"btn btn-salin" + (disalin === s.id + "post" ? " ok" : "")} onClick={() => salin(s, "post")}>
                 {disalin === s.id + "post" ? "✓ Post disalin!" : "📋 Copy Post"}
               </button>
             </div>
 
-            <div className="kotak">
-              <div className="kotak-kepala">
-                <span className="kotak-label">2️⃣ Komen pertama</span>
-                <span className="kotak-info">Letak lepas post naik</span>
+            {s.vars && (() => {
+              const ubah = jewelV[s.id] || {}
+              const v = { ...s.vars, ...ubah }
+              const k = kira(v, jewelG)
+              const diubah = Object.keys(ubah).length > 0
+              return (
+                <div className="ubah">
+                  <button className="btn-link" onClick={() => setBukaUbah(b => ({ ...b, [s.id]: !b[s.id] }))}>
+                    {bukaUbah[s.id] ? "▲ Tutup" : "✏️ Ubah produk & harga"} {diubah && "· dah diubah"}
+                  </button>
+                  {bukaUbah[s.id] && (
+                    <div className="ubah-isi">
+                      <label className="ubah-baris">Produk
+                        <input type="text" value={v.produk} onChange={e => ubahVar(s, "produk", e.target.value, false)} />
+                      </label>
+                      <div className="ubah-grid">
+                        <label>Harga barang kemas (RM)
+                          <input inputMode="decimal" value={v.hargaBarang} onChange={e => ubahVar(s, "hargaBarang", e.target.value, true)} />
+                        </label>
+                        <label>Pos (RM)
+                          <input inputMode="decimal" value={v.pos} onChange={e => ubahVar(s, "pos", e.target.value, true)} />
+                        </label>
+                        {"upah" in s.vars && (
+                          <label>Upah (RM)
+                            <input inputMode="decimal" value={v.upah} onChange={e => ubahVar(s, "upah", e.target.value, true)} />
+                          </label>
+                        )}
+                      </div>
+                      <div className="ubah-kira">Jumlah RM{format(k.jumlah, 2)} ÷ RM{format(k.gap, 0)} = <b>{k.gram.toFixed(4)} gram GAP</b></div>
+                      {diubah && <button className="btn btn-garis" onClick={() => resetVar(s.id)}>↩ Reset ke asal</button>}
+                    </div>
+                  )}
+                </div>
+              )
+            })()}
+
+            {s.komen && (
+              <div className="kotak">
+                <div className="kotak-kepala">
+                  <span className="kotak-label">2️⃣ Komen pertama</span>
+                  <span className="kotak-info">Letak lepas post naik</span>
+                </div>
+                <div className="kotak-teks">{s.komen}</div>
+                <button className={"btn btn-salin" + (disalin === s.id + "komen" ? " ok" : "")} onClick={() => salin(s, "komen")}>
+                  {disalin === s.id + "komen" ? "✓ Komen disalin!" : "📋 Copy Komen"}
+                </button>
               </div>
-              <div className="kotak-teks">{s.komen}</div>
-              <button className={"btn btn-salin" + (disalin === s.id + "komen" ? " ok" : "")} onClick={() => salin(s, "komen")}>
-                {disalin === s.id + "komen" ? "✓ Komen disalin!" : "📋 Copy Komen"}
-              </button>
-            </div>
+            )}
 
             <button className="btn btn-garis" onClick={() => tukarPost(s.id)}>
               {dahPost[s.id] ? "↩ Belum post" : "✓ Dah post"}

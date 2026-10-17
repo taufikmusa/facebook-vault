@@ -11,7 +11,7 @@ Setiap kad = 1 set: **Post (wall)** + **Komen pertama**, masing-masing ada butan
 - **Repo:** `taufikmusa/facebook-vault`, branch kerja & deploy: `main`
 - **Live:** https://facebook.taufik.fyi (CNAME `public/CNAME`)
 - **Stack:** Vite + React (JS) → GitHub Actions → GitHub Pages
-- **Kandungan (17 Okt 2026):** 240 post. Post-01 (id 1–30) hingga Post-06 (151–180) = format Set FB asal (ada link rasmi dalam komen). **Lifehack-07** (181–210, docx "Set 5 Tips Trick Harian") dan **Lifehack-08** (211–240, docx "Set 6 Life Hacks Harian") = format Lifehack (tiada link). Taufik tulis nama siri "Lifehack-07 & Lifehack-07"; ditafsir 07 dan 08. Siri Post seterusnya = **Post-07** (id **241**), Lifehack seterusnya = **Lifehack-09**.
+- **Kandungan (17 Okt 2026):** 270 post. Post-01 (id 1–30) hingga Post-06 (151–180) = format Set FB asal (ada link rasmi dalam komen). **Lifehack-07** (181–210) dan **Lifehack-08** (211–240) = format Lifehack (tiada link). **PG Jewel-01** (241–270, docx "30 Set Cerita Copywriting Emas GAP ke Barang Kemas") = post PANJANG, tiada komen, ada slot boleh ubah. Siri seterusnya: Post-07 (id **271**), Lifehack-09, PG Jewel-02.
 
 ## Struktur repo
 
@@ -74,6 +74,21 @@ Tajuk `Set 01: Tajuk [Kategori]` (tiada `#`), baris `1. Ayat letak dekat post (7
 ```bash
 python3 -I tools/docx_ke_data.py "Set.docx" --siri Lifehack-09 --mula 241 --lifehack > blok.txt
 ```
+
+## Tab PG Jewel (post panjang + slot boleh ubah)
+
+Docx: `Bahagian N: Set N: Tajuk`, perenggan meta (`Produk Contoh ... | Watak & Sudut Pandang: ...`), jadual 1×1 berisi cerita. Tiada komen. Cerita ada blok kiraan tetap: `Berikut adalah perincian pengiraan untuk <produk>:`, `Harga Barang Kemas`, `Pengeposan Berinsurans (GIT)`, `Jumlah Nilai Keseluruhan`, `Harga Semasa Buy GAP`, `Gram GAP yang ditolak: RM<jumlah> ÷ RM<gap> = <gram> gram`.
+
+Converter `tools/jewel_ke_data.py` tukar nombor/produk dalam cerita kepada slot (`{produk}`, `{produkNama}`, `{hb}`/`{hb0}`, `{pos}`, `{upah0}`, `{jumlah}`, `{gap}`/`{gap0}`, `{gram}`, `{simpan}`; akhiran `0` = tanpa perpuluhan) dan simpan nilai asal dalam `vars` (`produk`, `hargaBarang`, `pos`, `upah` jika ada). Ia ASSERT round-trip (render nilai asal == teks docx) dan kiraan gram betul, jadi docx baru yang tak ikut format akan gagal dengan mesej jelas. RM lain dalam cerita (cth RM200–300 simpanan bulanan watak, RM1,500 harga kedai) kekal teks biasa.
+
+```bash
+python3 -I tools/jewel_ke_data.py "Set.docx" --siri "PG Jewel-02" --mula 271 --asal asal.json > blok.txt
+```
+`src/jewel.js` = enjin render (dikongsi App). Formula: jumlah = harga barang + pos; gram = jumlah ÷ harga GAP (4 titik perpuluhan). Dalam App tab PG Jewel ada:
+- Panel **Harga GAP semasa** + **Simpanan bulanan** (global, semua post, localStorage `jewelGlobal`; lalai 592 / 100 dalam `lalaiJewel`).
+- Setiap kad: **✏️ Ubah produk & harga** (produk, harga barang, pos, upah) + baris kiraan gram + Reset (localStorage `jewelVar` per id).
+- Copy Post salin teks yang dah dikira. Tiada kotak komen bila `komen` kosong. Pembuka "Ada yang tahu?" dan CTA komen TIDAK dipakai untuk tab ini.
+Ujian: render semua `vars` asal mesti sama dengan teks docx (sidecar `--asal`), dan `npm run build`.
 
 ## Tambah set baru (aliran kerja utama)
 
