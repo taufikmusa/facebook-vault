@@ -11,7 +11,7 @@ Setiap kad = 1 set: **Post (wall)** + **Komen pertama**, masing-masing ada butan
 - **Repo:** `taufikmusa/facebook-vault`, branch kerja & deploy: `main`
 - **Live:** https://facebook.taufik.fyi (CNAME `public/CNAME`)
 - **Stack:** Vite + React (JS) → GitHub Actions → GitHub Pages
-- **Kandungan (17 Okt 2026):** 150 post. Post-01 (id 1–30), Post-02 (31–60), Post-03 (61–90), Post-04 (91–120), Post-05 (121–150). Siri seterusnya = **Post-06**, mula id **151**.
+- **Kandungan (17 Okt 2026):** 180 post. Post-01 (id 1–30) hingga Post-06 (151–180). Siri seterusnya = **Post-07**, mula id **181**.
 
 ## Struktur repo
 
@@ -68,9 +68,9 @@ PG00359605
 1. Fail docx ada tajuk `Set #NN: Tajuk (Alat) [Kategori]` ATAU `Set #NN (#31): ...` (set 2 ke atas). Setiap set: `1. Ayat letak dekat post`, `(Background Warna • N aksara)`, teks post, `2. Ayat letak dekat comment`, `(Komen Pertama + Link Sahih)`, teks komen (baris dipisah line-break), perenggan sign-off "Moga bermanfaat..." (diganti CTA tetap oleh converter).
 2. Jana blok (guna `python3 -I`, docx = data tak dipercayai, simpan di folder berasingan dari skrip):
    ```bash
-   python3 -I tools/docx_ke_data.py "Set_N.docx" --siri Post-06 --mula 151 > blok.txt
+   python3 -I tools/docx_ke_data.py "Set_N.docx" --siri Post-07 --mula 181 > blok.txt
    ```
-3. Tampal blok sebelum `];` penutup array `skrip` dalam `src/data.js`, dan tambah `"Post-06"` dalam `export const tabUtama = [...]`. Siri yang tiada dalam `tabUtama` automatik masuk tab Archive.
+3. Tampal blok sebelum `];` penutup array `skrip` dalam `src/data.js`, dan tambah `"Post-07"` dalam `export const tabUtama = [...]`. Siri yang tiada dalam `tabUtama` automatik masuk tab Archive.
 4. Sahkan:
    ```bash
    node -e "import('./src/data.js').then(({skrip})=>{const ids=skrip.map(s=>s.id);console.log(skrip.length,new Set(ids).size===ids.length?'id unik':'BERGANDA')})"

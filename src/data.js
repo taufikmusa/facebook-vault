@@ -4500,10 +4500,910 @@ pgolink.com/whatsapptaufik
 Taufik | Dealer Public Gold
 PG00359605`,
   },
+  {
+    id: 151,
+    siri: "Post-06",
+    no: 1,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Bisnes & Harta Intelek`,
+    tajuk: `Semak & Daftar Jenama Bisnes Supaya Tak Dicuri Orang (MyIPO)`,
+    tags: ["bisnes", "harta", "intelek", "myipo"],
+    link: "https://iponline2u.myipo.gov.my/",
+    post: `Simple tips hari ni..Berniaga penat-penat, macam mana nak check & daftar nama brand kita supaya tak kena ciplak?®️
+👇👇👇`,
+    komen: `Buka portal rasmi Perbadanan Harta Intelek Malaysia (MyIPO) dekat iponline2u.myipo.gov.my
+Kita boleh buat carian awal secara percuma sama ada nama jenama/logo kita dah didaftarkan orang lain atau belum, dan terus failkan pendaftaran Cap Dagangan (Trademark) secara online
+Lindungi jenama bisnes kita sebelum orang lain daftar dulu
+https://iponline2u.myipo.gov.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 152,
+    siri: "Post-06",
+    no: 2,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Usahawan & PKS Malaysia`,
+    tajuk: `Semak Geran Kerajaan & Program Bimbingan Usahawan PKS (SME Corp)`,
+    tags: ["malaysia", "sme corp", "usahawan"],
+    link: "https://smecorp.gov.my/index.php/my/",
+    post: `Just a simple tips..Untuk peniaga kecil & sederhana (SME), dekat portal rasmi mana nak semak geran & bantuan kerajaan?💼
+👇👇👇`,
+    komen: `Simpan laman rasmi Perbadanan Perusahaan Kecil dan Sederhana Malaysia (SME Corp. Malaysia) dekat smecorp.gov.my/index.php/my/
+Semua maklumat geran padanan kerajaan, pembiayaan mudah, serta program bimbingan peningkatan perniagaan merentas kementerian dikumpulkan di sini
+Sentiasa rujuk portal rasmi supaya tak terlepas tarikh permohonan
+https://smecorp.gov.my/index.php/my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 153,
+    siri: "Post-06",
+    no: 3,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Modal Niaga & Usahawan Mikro`,
+    tajuk: `Mohon Skim Pembiayaan Modal Niaga Mikro Patuh Syariah (TEKUN Nasional)`,
+    tags: ["mikro", "modal", "niaga", "tekun nasional", "usahawan"],
+    link: "https://www.tekun.gov.my/skim-pembiayaan-tekun-niaga/",
+    post: `Simple tips malam ni..Nak cari modal pusingan berniaga kecil-kecilan secara patuh syariah bawah kerajaan, mohon kat mana?🏪
+👇👇👇`,
+    komen: `Jangan sesekali pinjam along..rujuk portal rasmi TEKUN Nasional (bawah Kementerian Pembangunan Usahawan dan Koperasi) dekat tekun.gov.my
+Ada pelbagai skim pembiayaan mikro seperti TEKUN Niaga dan Skim Pembiayaan Online TEKUN (SPOT) dengan syarat yang mudah untuk peniaga kecil
+Permohonan boleh dibuat terus secara atas talian atau di pejabat TEKUN cawangan
+https://www.tekun.gov.my/skim-pembiayaan-tekun-niaga/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 154,
+    siri: "Post-06",
+    no: 4,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Keusahawanan & Perniagaan`,
+    tajuk: `Semak Pembiayaan Perniagaan Runcit & Borong Bumiputera (PUNB)`,
+    tags: ["keusahawanan", "perniagaan", "punb"],
+    link: "https://www.punb.com.my/ms/products-services/business-financing/",
+    post: `Just a simple tips..Nak kembangkan bisnes runcit, bengkel atau klinik Bumiputera, dekat mana nak rujuk pembiayaan PUNB?📈
+👇👇👇`,
+    komen: `Layari portal rasmi Perbadanan Usahawan Nasional Berhad (PUNB) dekat punb.com.my/ms/products-services/business-financing/
+PUNB menawarkan pakej pembiayaan perniagaan patuh syariah berserta bimbingan korporat untuk membantu usahawan Bumiputera meluaskan cawangan dan operasi
+Semak syarat kelayakan dan status permohonan terus melalui sistem PUNB Online
+https://www.punb.com.my/ms/products-services/business-financing/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 155,
+    siri: "Post-06",
+    no: 5,
+    topik: "Kewangan & Jimat",
+    kategori: `Simpanan Emas & Kewangan`,
+    tajuk: `Semak Harga Rujukan Harian Syiling Kijang Emas Bank Negara (BNM)`,
+    tags: ["bnm", "emas", "kewangan", "simpanan"],
+    link: "https://www.bnm.gov.my/kijang-emas-prices",
+    post: `Simple tips hari ni..Tahukah anda Malaysia pun ada syiling emas rasmi sendiri iaitu Kijang Emas? Kat mana nak tengok harga?🪙
+👇👇👇`,
+    komen: `Buka laman rasmi Bank Negara Malaysia bahagian Kijang Emas dekat bnm.gov.my/kijang-emas-prices
+Malaysia merupakan negara ke-12 di dunia yang mengeluarkan syiling emas bullion sendiri (1 oz, 1/2 oz, dan 1/4 oz) dan harga dagangan hariannya dikemas kini di laman BNM setiap hari
+Bukti jelas emas fizikal adalah aset bernilai tinggi yang diiktiraf bank pusat dunia
+https://www.bnm.gov.my/kijang-emas-prices
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 156,
+    siri: "Post-06",
+    no: 6,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Tukar Mata Wang & Keselamatan`,
+    tajuk: `Semak Senarai Money Changer & Kiriman Wang Berlesen Sah (BNM MSB)`,
+    tags: ["bnm msb", "keselamatan", "mata", "tukar", "wang"],
+    link: "https://www.bnm.gov.my/regulations/fsp-directory/msb-licensees",
+    post: `Just a simple tips..Nak tukar duit asing atau hantar duit ke luar negara, macam mana nak check Money Changer tu berlesen BNM?💱
+👇👇👇`,
+    komen: `Buka direktori rasmi Pengendali Perniagaan Perkhidmatan Wang (MSB) Bank Negara Malaysia dekat bnm.gov.my/regulations/fsp-directory/msb-licensees
+Pastikan syarikat pengurup wang atau aplikasi kiriman wang tersebut tersenarai sebagai pemegang lesen sah Bank Negara Malaysia
+Elakkan guna ejen kiriman wang tidak berlesen yang berisiko wang lesap atau akaun dibekukan
+https://www.bnm.gov.my/regulations/fsp-directory/msb-licensees
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 157,
+    siri: "Post-06",
+    no: 7,
+    topik: "Kewangan & Jimat",
+    kategori: `Hak Kewangan, Bank & Takaful`,
+    tajuk: `Saluran Bebas Selesaikan Pertikaian Tuntutan Bank & Takaful Percuma (FMOS)`,
+    tags: ["bank", "fmos", "kewangan,", "takaful"],
+    link: "https://www.fmos.org.my/bm/",
+    post: `Simple tips malam ni..Tuntutan insurans/takaful kena tolak atau duit bank hilang tapi rayuan ditolak, nak rujuk badan mana?🛡️
+👇👇👇`,
+    komen: `Rujuk portal rasmi Perkhidmatan Ombudsman Pasaran Kewangan (FMOS - gabungan OFS dan SIDREC yang diluluskan BNM & SC) dekat fmos.org.my/bm/
+FMOS adalah badan bebas rasmi penyelesaian pertikaian antara pengguna dengan bank, syarikat insurans/takaful, atau broker pelaburan tanpa perlu lantik peguam ke mahkamah
+Perkhidmatan ini adalah 100% percuma untuk pengguna kewangan
+https://www.fmos.org.my/bm/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 158,
+    siri: "Post-06",
+    no: 8,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kediaman & Rumah Pertama`,
+    tajuk: `Semak & Mohon Rumah Mampu Milik PR1MA Seluruh Malaysia (Portal PR1MA)`,
+    tags: ["kediaman", "pertama", "portal pr1ma", "rumah"],
+    link: "https://www.pr1ma.my/",
+    post: `Just a simple tips..Tengah cari rumah pertama yang mampu milik untuk keluarga, dekat portal rasmi mana nak mohon PR1MA?🏢
+👇👇👇`,
+    komen: `Layari portal rasmi Perbadanan PR1MA Malaysia dekat pr1ma.my
+Kita boleh semak senarai projek kediaman PR1MA yang sedang dibuka mengikut negeri, semak syarat kelayakan pendapatan isi rumah, dan daftar permohonan secara terus
+Jangan bayar sebarang yuran 'orang dalam' kerana pendaftaran PR1MA adalah percuma
+https://www.pr1ma.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 159,
+    siri: "Post-06",
+    no: 9,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kediaman & Rakyat Selangor`,
+    tajuk: `Daftar & Mohon Rumah Selangorku Secara Online Tanpa Ejen (eHartanah LPHS)`,
+    tags: ["ehartanah lphs", "kediaman", "rakyat", "selangor"],
+    link: "https://ehartanah.lphs.gov.my/",
+    post: `Simple tips hari ni..Bekerja & menetap dekat Selangor, macam mana nak mohon Rumah Selangorku terus dekat sistem kerajaan?🏠
+👇👇👇`,
+    komen: `Buka Sistem Permohonan Hartanah Negeri Selangor (eHartanah) bawah Lembaga Perumahan dan Hartanah Selangor (LPHS) dekat ehartanah.lphs.gov.my
+Daftar akaun pemohon, pilih projek Rumah Selangorku di daerah pilihan kita, dan muat naik dokumen sokongan secara atas talian
+Boleh semak status kelulusan permohonan terus dalam portal rasmi tersebut
+https://ehartanah.lphs.gov.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 160,
+    siri: "Post-06",
+    no: 10,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Bina Rumah & Tanah Kampung`,
+    tajuk: `Mohon Bina Rumah Mesra Rakyat Atas Tanah Sendiri Subsidi Kerajaan (SPNB)`,
+    tags: ["bina", "kampung", "rumah", "spnb", "tanah"],
+    link: "https://spnb.com.my/rumah-mesra-rakyat/",
+    post: `Just a simple tips..Ada tanah sendiri dekat kampung tapi modal bina rumah tak cukup, macam mana nak mohon Rumah Mesra Rakyat?🏡
+👇👇👇`,
+    komen: `Buka portal rasmi Syarikat Perumahan Negara Berhad (SPNB) bahagian Rumah Mesra Rakyat (RMR) dekat spnb.com.my/rumah-mesra-rakyat/
+Program kerajaan ni bantu keluarga berpendapatan rendah/sederhana yang ada tanah sendiri untuk bina rumah 3 bilik tidur & 2 bilik air dengan subsidi kerajaan serta bayaran bulanan rendah
+Pendaftaran dibuat terus secara online di portal SPNB
+https://spnb.com.my/rumah-mesra-rakyat/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 161,
+    siri: "Post-06",
+    no: 11,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Penjawat Awam & Pinjaman Rumah`,
+    tajuk: `Semak Kelayakan & Baki Pinjaman Perumahan Penjawat Awam (Portal LPPSA)`,
+    tags: ["awam", "penjawat", "pinjaman", "portal lppsa", "rumah"],
+    link: "https://www.lppsa.gov.my/my/",
+    post: `Simple tips malam ni..Untuk penjawat awam yang nak beli rumah atau semak baki pinjaman LPPSA, nak buka portal rasmi mana?🔑
+👇👇👇`,
+    komen: `Layari portal rasmi Lembaga Pembiayaan Perumahan Sektor Awam (LPPSA) dekat lppsa.gov.my/my/
+Melalui sistem MyFinancing LPPSA, penjawat awam boleh membuat kiraan anggaran kelayakan pembiayaan, menghantar permohonan baharu, dan menyemak penyata baki hutang semasa
+Semua panduan rasmi 7 jenis pembiayaan perumahan kerajaan ada lengkap di sini
+https://www.lppsa.gov.my/my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 162,
+    siri: "Post-06",
+    no: 12,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Pesara Kerajaan & Ibu Bapa`,
+    tajuk: `Semak Tarikh Bayaran Pencen Bulanan & Kad Pesara Digital (MyPesara KWAP)`,
+    tags: ["bapa", "kerajaan", "mypesara kwap", "pesara"],
+    link: "https://mypesara.kwap.gov.my/my/",
+    post: `Just a simple tips..Mak ayah kita pesara kerajaan, macam mana nak tolong install kad pesara digital & semak penyata pencen?👵
+👇👇👇`,
+    komen: `Muat turun aplikasi rasmi MyPesara oleh Kumpulan Wang Persaraan (KWAP) atau layari portal mypesara.kwap.gov.my/my/
+Dalam aplikasi ni siap ada jadual tarikh bayaran pencen bulanan sepanjang tahun, penyata pencen untuk urusan rasmi, serta paparan e-Kad Pesara
+Sangat memudahkan urusan ibu bapa kita yang telah bersara
+https://mypesara.kwap.gov.my/my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 163,
+    siri: "Post-06",
+    no: 13,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kesihatan, Amal & Komuniti`,
+    tajuk: `Semak Lokasi & Jadual Kempen Derma Darah Harian (Pusat Darah Negara KKM)`,
+    tags: ["amal", "kesihatan,", "komuniti", "pusat darah negara kkm"],
+    link: "https://pdn.gov.my/v2/",
+    post: `Simple tips hari ni..Teringin nak derma darah hujung minggu ni, macam mana nak tahu lokasi kempen derma darah paling dekat?🩸
+👇👇👇`,
+    komen: `Buka portal rasmi Pusat Darah Negara (PDN KKM) dekat pdn.gov.my/v2/
+Dekat situ ada jadual kempen derma darah bergerak harian di pusat beli-belah dan dewan komuniti serta senarai keistimewaan rawatan perubatan percuma di hospital kerajaan untuk penderma darah
+Satu beg darah mampu menyelamatkan sehingga tiga nyawa
+https://pdn.gov.my/v2/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 164,
+    siri: "Post-06",
+    no: 14,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kesihatan Wanita & Keluarga`,
+    tajuk: `Semak Program Saringan Kesihatan Wanita (Mamogram & HPV Percuma) (LPPKN)`,
+    tags: ["keluarga", "kesihatan", "lppkn", "wanita"],
+    link: "https://www.lppkn.gov.my/",
+    post: `Just a simple tips..Tahukah kaum ibu & isteri boleh buat saringan mamogram & ujian HPV DNA secara percuma bawah kerajaan?🌸
+👇👇👇`,
+    komen: `Rujuk portal rasmi Lembaga Penduduk dan Pembangunan Keluarga Negara (LPPKN) dekat lppkn.gov.my
+Melalui rangkaian Klinik Nur Sejahtera LPPKN di seluruh negara, wanita yang layak boleh mendapatkan subsidi ujian mamogram (saringan kanser payudara) dan ujian HPV DNA (saringan kanser serviks) secara percuma
+Kongsikan kepada isteri, ibu, dan kakak-kakak kita untuk buat pemeriksaan awal
+https://www.lppkn.gov.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 165,
+    siri: "Post-06",
+    no: 15,
+    topik: "Kewangan & Jimat",
+    kategori: `Jimat Belanja Dapur & Keluarga`,
+    tajuk: `Semak Lokasi Pasar Tani & Jualan Agro Madani Terus Dari Ladang (FAMA)`,
+    tags: ["belanja", "dapur", "fama", "jimat", "keluarga"],
+    link: "https://www.fama.gov.my/pasar-tani",
+    post: `Simple tips malam ni..Nak beli sayur, buah & barang basah segar terus daripada peladang dengan harga jimat dekat mana?🥬
+👇👇👇`,
+    komen: `Buka portal rasmi Lembaga Pemasaran Pertanian Persekutuan (FAMA) dekat fama.gov.my/pasar-tani
+Boleh semak senarai lokasi dan hari operasi Pasar Tani, Pasar Tani Kekal, serta program Jualan Agro Madani di seluruh negeri
+Barang dapur segar terus dari ladang sambil menyokong usahawan tani tempatan
+https://www.fama.gov.my/pasar-tani
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 166,
+    siri: "Post-06",
+    no: 16,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Haiwan Peliharaan & Penternakan`,
+    tajuk: `Rujukan Rasmi Perkhidmatan Klinik Veterinar Kerajaan & Haiwan (DVS)`,
+    tags: ["dvs", "haiwan", "peliharaan", "penternakan"],
+    link: "https://www.dvs.gov.my/",
+    post: `Just a simple tips..Bela kucing atau haiwan ternakan, kat mana nak semak direktori Pejabat Perkhidmatan Veterinar daerah?🐱
+👇👇👇`,
+    komen: `Layari portal rasmi Jabatan Perkhidmatan Veterinar Malaysia (DVS) dekat dvs.gov.my
+Terdapat senarai lengkap alamat dan nombor telefon Jabatan Perkhidmatan Veterinar Negeri serta Daerah untuk urusan khidmat nasihat kesihatan haiwan dan penternakan
+Siap ada jadual latihan dan kursus ternakan anjuran DVS
+https://www.dvs.gov.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 167,
+    siri: "Post-06",
+    no: 17,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Keselamatan Komuniti & Alam`,
+    tajuk: `Saluran Rasmi Lapor Gangguan Hidupan Liar Di Kawasan Perumahan (PERHILITAN)`,
+    tags: ["alam", "keselamatan", "komuniti", "perhilitan"],
+    link: "https://www.wildlife.gov.my/",
+    post: `Simple tips hari ni..Kawasan taman perumahan atau kebun ada gangguan kera liar, babi hutan atau ular besar, nak lapor kat mana?🐒
+👇👇👇`,
+    komen: `Jangan ambil tindakan bahaya sendiri..buka portal rasmi Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) dekat wildlife.gov.my
+Boleh salurkan aduan gangguan hidupan liar secara terus melalui sistem e-Aduan PERHILITAN atau hubungi talian hotline PERHILITAN negeri yang tertera
+Pegawai terlatih akan datang pasang perangkap atau pindahkan hidupan liar tersebut
+https://www.wildlife.gov.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 168,
+    siri: "Post-06",
+    no: 18,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Pertanian & Kebun Dapur`,
+    tajuk: `Muat Turun Panduan Tanaman & Semak Kursus Pertanian Kerajaan (DOA)`,
+    tags: ["dapur", "doa", "kebun", "pertanian"],
+    link: "https://www.doa.gov.my/",
+    post: `Just a simple tips..Suka bercucuk tanam sayur dekat rumah atau nak belajar ilmu pertanian moden, kat mana rujukan rasmi?🌱
+👇👇👇`,
+    komen: `Buka portal rasmi Jabatan Pertanian Malaysia (Department of Agriculture - DOA) dekat doa.gov.my
+Ada banyak panduan pakej teknologi tanaman sayur-sayuran, buah-buahan, kawalan perosak tanaman, serta maklumat pensijilan myGAP dan myOrganic
+Ilmu yang sangat berguna untuk yang minat berkebun di halaman rumah
+https://www.doa.gov.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 169,
+    siri: "Post-06",
+    no: 19,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Riadah Keluarga & Alam Semula Jadi`,
+    tajuk: `Semak Senarai Taman Eko Rimba, Hutan Lipur & Info Pendakian (JPSM)`,
+    tags: ["alam", "jadi", "jpsm", "keluarga", "riadah", "semula"],
+    link: "https://www.forestry.gov.my/my/perkhidmatan/info-perhutanan/hutan-lipur-hutan-taman-negeri",
+    post: `Simple tips malam ni..Nak bawa anak berkelah dekat air terjun Hutan Lipur atau pergi hiking, kat mana nak semak info rasmi?🏕️
+👇👇👇`,
+    komen: `Rujuk portal rasmi Jabatan Perhutanan Semenanjung Malaysia (JPSM) dekat forestry.gov.my
+Ada senarai penuh Taman Eko Rimba (Hutan Lipur) mengikut negeri, maklumat penutupan sementara musim tengkujuh, serta prosedur permohonan permit memasuki Hutan Simpanan Kekal untuk pendaki
+Rancang perkelahan keluarga dengan selamat dan mematuhi peraturan hutan
+https://www.forestry.gov.my/my/perkhidmatan/info-perhutanan/hutan-lipur-hutan-taman-negeri
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 170,
+    siri: "Post-06",
+    no: 20,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Keselamatan Kebakaran Rumah`,
+    tajuk: `Semak Ketulenan Sijil Alat Pemadam Api Rumah & Kedai (BOMBA eFEIS)`,
+    tags: ["bomba efeis", "kebakaran", "keselamatan", "rumah"],
+    link: "https://gamma.malaysia.gov.my/appdetails/875",
+    post: `Just a simple tips..Beli tong alat pemadam api untuk rumah atau kedai, macam mana nak scan pelekat tu sah Bomba ke tak?🧯
+👇👇👇`,
+    komen: `Muat turun aplikasi rasmi BOMBA eFEIS melalui Galeri Aplikasi Kerajaan (GAMMA) dekat gamma.malaysia.gov.my/appdetails/875
+Imbas kod QR pada pelekat sijil alat pemadam api mudah alih tersebut untuk mengesahkan ketulenan sijil dan tarikh tamat tempoh penyelenggaraan JBPM
+Satu tong pemadam api ABC Powder wajib ada di setiap dapur rumah dan dalam kereta
+https://gamma.malaysia.gov.my/appdetails/875
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 171,
+    siri: "Post-06",
+    no: 21,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kesihatan Jantung & Keluarga`,
+    tajuk: `Tempah Janji Temu & Semak Pakar Rawatan Jantung Terkemuka Negara (IJN)`,
+    tags: ["ijn", "jantung", "keluarga", "kesihatan"],
+    link: "https://www.ijn.com.my/",
+    post: `Simple tips hari ni..Nak buat pemeriksaan saringan jantung atau rujuk pakar jantung di IJN, kat mana laman rasmi dia?❤️
+👇👇👇`,
+    komen: `Layari laman web rasmi Institut Jantung Negara (IJN) dekat ijn.com.my
+Boleh semak direktori pakar kardiologi, pakej pemeriksaan kesihatan jantung (Heart Screening), panduan pesakit, serta mengisi borang pra-janji temu secara atas talian
+Jaga kesihatan jantung kita dengan pemeriksaan berkala
+https://www.ijn.com.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 172,
+    siri: "Post-06",
+    no: 22,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hiburan Keluarga & Penstriman`,
+    tajuk: `Semak Filem Atau Dokumentari Tengah Tayang Dekat Platform Mana (JustWatch)`,
+    tags: ["hiburan", "justwatch", "keluarga", "penstriman"],
+    link: "https://www.justwatch.com/my",
+    post: `Just a simple tips..Nak tengok satu cerita atau dokumentari dengan anak, macam mana nak tahu cerita tu ada dekat app mana?📺
+👇👇👇`,
+    komen: `Tak perlu buka semua aplikasi satu-satu..buka laman carian penstriman rasmi justwatch.com/my
+Taip je tajuk filem atau siri TV tu..dia terus beritahu sama ada cerita tu tengah ditayangkan secara sah di Netflix, Disney+ Hotstar, Prime Video, Apple TV, atau Viu Malaysia
+Jimat masa tak payah cari merata-rata waktu malam hujung minggu
+https://www.justwatch.com/my
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 173,
+    siri: "Post-06",
+    no: 23,
+    topik: "Tools & Teknologi",
+    kategori: `Edit Video & Pencipta Kandungan`,
+    tajuk: `Muat Turun Kesan Bunyi (SFX) & Muzik Video Percuma Tanpa Daftar (Mixkit)`,
+    tags: ["edit", "kandungan", "mixkit", "pencipta", "video"],
+    link: "https://mixkit.co/free-sound-effects/",
+    post: `Simple tips malam ni..Edit video pendek nak letak bunyi 'whoosh', 'ding' atau muzik latar bebas copyright, download kat mana?🔊
+👇👇👇`,
+    komen: `Buka laman web percuma mixkit.co/free-sound-effects/ (dikuasakan oleh Envato)
+Ada ribuan kesan bunyi (sound effects) dan muzik latar bebas royalti yang boleh terus dimuat turun dalam format MP3/WAV dengan satu klik tanpa perlu daftar akaun
+Video konten kita terus jadi jauh lebih hidup dan menarik
+https://mixkit.co/free-sound-effects/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 174,
+    siri: "Post-06",
+    no: 24,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Privasi Digital & Keselamatan Emel`,
+    tajuk: `Buat Topeng Emel (Email Mask) Percuma Elak Inbox Penuh Spam (Firefox Relay)`,
+    tags: ["digital", "emel", "firefox relay", "keselamatan", "privasi"],
+    link: "https://relay.firefox.com/",
+    post: `Just a simple tips..Nak daftar website luar tapi malas bagi alamat emel sebenar takut penuh spam, nak guna servis percuma apa?📧
+👇👇👇`,
+    komen: `Guna perkhidmatan rasmi Firefox Relay daripada Mozilla dekat relay.firefox.com
+Ia membolehkan kita jana alamat emel topeng (email mask) secara percuma..emel pengesahan tetap dihantar ke inbox sebenar kita, tapi kalau laman web tu mula hantar spam, kita boleh matikan topeng tu bila-bila masa
+Alamat emel utama kita kekal bersih dan selamat daripada kebocoran data
+https://relay.firefox.com/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 175,
+    siri: "Post-06",
+    no: 25,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Internet, WiFi & Keselamatan Siber`,
+    tajuk: `Aplikasi DNS Percuma Lajukan Pelayaran Internet & Privasi WiFi (Cloudflare)`,
+    tags: ["cloudflare", "internet,", "keselamatan", "siber", "wifi"],
+    link: "https://one.one.one.one/dns/",
+    post: `Simple tips hari ni..Macam mana nak lajukan sambungan ketika buka website & tingkatkan privasi masa guna WiFi awam secara free?🌐
+👇👇👇`,
+    komen: `Guna perkhidmatan DNS terkemuka dunia iaitu Cloudflare 1.1.1.1 melalui laman rasmi one.one.one.one/dns/ atau aplikasi telefonnya
+Siap ada pilihan '1.1.1.1 for Families' (1.1.1.3) untuk router WiFi rumah yang secara automatik menyekat laman web malware dan kandungan tidak sesuai untuk anak-anak
+Percuma sepenuhnya dan sangat mudah dipasang
+https://one.one.one.one/dns/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 176,
+    siri: "Post-06",
+    no: 26,
+    topik: "Tools & Teknologi",
+    kategori: `Komputer & Teknologi Pejabat`,
+    tajuk: `Install Semua Software Asas Laptop Baharu Serentak 1 Klik (Ninite)`,
+    tags: ["komputer", "ninite", "pejabat", "teknologi"],
+    link: "https://ninite.com/",
+    post: `Just a simple tips..Baru beli atau format laptop Windows, macam mana nak install semua software asas serentak dengan 1 klik je?💻
+👇👇👇`,
+    komen: `Jangan penat buka 10 laman web berbeza..terus buka laman rasmi ninite.com
+Tandakan kotak perisian percuma yang kita nak (seperti Chrome, VLC, 7-Zip, Zoom, LibreOffice, Foxit Reader) dan tekan 'Get Your Ninite'..dia akan muat turun versi rasmi terkini dan pasang semuanya secara automatik tanpa sebarang toolbar iklan
+Rahsia juruteknik komputer siapkan laptop baharu dengan pantas
+https://ninite.com/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 177,
+    siri: "Post-06",
+    no: 27,
+    topik: "Tools & Teknologi",
+    kategori: `Produktiviti Pejabat & Pelajar`,
+    tajuk: `Lukis Carta Alir Kerja (Flowchart) & Carta Organisasi Percuma (draw.io)`,
+    tags: ["draw.io", "pejabat", "pelajar", "produktiviti"],
+    link: "https://app.diagrams.net/",
+    post: `Simple tips malam ni..Kena buat carta alir kerja (flowchart), SOP atau carta organisasi pejabat, website percuma mana paling senang?📊
+👇👇👇`,
+    komen: `Terus buka aplikasi web percuma draw.io dekat app.diagrams.net tanpa perlu daftar sebarang akaun
+Tarik dan susun je bentuk kotak dan anak panah..siap boleh simpan terus ke dalam laptop sebagai gambar PNG, PDF, atau simpan dalam Google Drive
+Jauh lebih cepat berbanding lukis kotak satu-satu dalam Word
+https://app.diagrams.net/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 178,
+    siri: "Post-06",
+    no: 28,
+    topik: "Kewangan & Jimat",
+    kategori: `Pembentangan, Pendidikan & Idea`,
+    tajuk: `Papan Putih Digital (Whiteboard) Percuma Gaya Lakaran Tangan (Excalidraw)`,
+    tags: ["excalidraw", "idea", "pembentangan,", "pendidikan"],
+    link: "https://excalidraw.com/",
+    post: `Just a simple tips..Nak terangkan idea bisnes atau ajar anak dekat skrin laptop guna papan putih digital yang cantik & free?✏️
+👇👇👇`,
+    komen: `Buka papan putih maya sumber terbuka Excalidraw dekat excalidraw.com terus daripada browser
+Apa sahaja kotak, anak panah, atau rajah yang kita lukis akan nampak kemas macam lakaran tangan profesional..dan boleh terus eksport sebagai gambar
+Tiada pendaftaran diperlukan dan boleh terus guna serta-merta
+https://excalidraw.com/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 179,
+    siri: "Post-06",
+    no: 29,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Data Terbuka Kerajaan & Kesedaran`,
+    tajuk: `Tengok Statistik Rasmi Operasi Kebombaan & Penyelamatan Malaysia (Data.gov.my)`,
+    tags: ["data", "data.gov.my", "kerajaan", "kesedaran", "terbuka"],
+    link: "https://data.gov.my/ms-MY/dashboard/fire-and-rescue",
+    post: `Simple tips hari ni..Tahukah kerajaan ada portal data terbuka yang tunjuk statistik harian operasi Bomba di seluruh negara?🚒
+👇👇👇`,
+    komen: `Layari papan pemuka rasmi kerajaan Malaysia dekat data.gov.my/ms-MY/dashboard/fire-and-rescue
+Kita boleh melihat statistik rasmi insiden kebakaran dan penyelamatan mengikut negeri serta jenis kecemasan yang dikemas kini daripada data Jabatan Bomba dan Penyelamat Malaysia
+Portal data.gov.my juga memaparkan puluhan lagi statistik rasmi negara secara telus
+https://data.gov.my/ms-MY/dashboard/fire-and-rescue
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 180,
+    siri: "Post-06",
+    no: 30,
+    topik: "Kewangan & Jimat",
+    kategori: `Ilmu Kewangan & Cuti Sekolah`,
+    tajuk: `Bawa Anak Belajar Sejarah Wang & Ekonomi Secara Percuma (Muzium BNM)`,
+    tags: ["cuti", "ilmu", "kewangan", "muzium bnm", "sekolah"],
+    link: "https://museum.bnm.gov.my/",
+    post: `Just a simple tips..Cuti hujung minggu dekat KL nak bawa anak jalan tempat berilmu yang masuk percuma, pernah pergi Muzium BNM?🏛️
+👇👇👇`,
+    komen: `Semak maklumat lawatan atau terokai galeri maya Muzium dan Galeri Seni Bank Negara Malaysia dekat museum.bnm.gov.my
+Ada Terowong Wang RM1 Juta, Galeri Kanak-Kanak, Galeri Ekonomi, dan sejarah mata wang emas dinar serta Kijang Emas yang sangat interaktif..dan kemasukan adalah percuma
+Tempat terbaik untuk tanam minat celik kewangan dan simpanan sejak kecil
+https://museum.bnm.gov.my/
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
 ];
 
 // Nama siri pilihan (papar di tab). Contoh: { "Post-01": "Tips Digital" }
 export const namaSiri = {}
 
 // Siri yang dapat tab sendiri. Siri lain automatik masuk Archive.
-export const tabUtama = ["Post-01", "Post-02", "Post-03", "Post-04", "Post-05"]
+export const tabUtama = ["Post-01", "Post-02", "Post-03", "Post-04", "Post-05", "Post-06"]
