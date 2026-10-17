@@ -11,7 +11,7 @@ Setiap kad = 1 set: **Post (wall)** + **Komen pertama**, masing-masing ada butan
 - **Repo:** `taufikmusa/facebook-vault`, branch kerja & deploy: `main`
 - **Live:** https://facebook.taufik.fyi (CNAME `public/CNAME`)
 - **Stack:** Vite + React (JS) → GitHub Actions → GitHub Pages
-- **Kandungan (17 Okt 2026):** 270 post. Post-01 (id 1–30) hingga Post-06 (151–180) = format Set FB asal (ada link rasmi dalam komen). **Lifehack-07** (181–210) dan **Lifehack-08** (211–240) = format Lifehack (tiada link). **PG Jewel-01** (241–270, docx "30 Set Cerita Copywriting Emas GAP ke Barang Kemas") = post PANJANG, tiada komen, ada slot boleh ubah. Siri seterusnya: Post-07 (id **271**), Lifehack-09, PG Jewel-02.
+- **Kandungan (17 Okt 2026):** 300 post. Post-01 (id 1–30) hingga Post-06 (151–180) = format Set FB asal (ada link rasmi dalam komen). **Lifehack-07** (181–210) dan **Lifehack-08** (211–240) = format Lifehack (tiada link). **PG Jewel-01** (241–270) dan **PG Jewel-02** (271–300, docx "Batch 2 ... Emas GAP ke Barang Kemas") = post PANJANG, tiada komen, ada slot boleh ubah. Siri seterusnya: Post-07 (id **301**), Lifehack-09, PG Jewel-03.
 
 ## Struktur repo
 
@@ -77,7 +77,7 @@ python3 -I tools/docx_ke_data.py "Set.docx" --siri Lifehack-09 --mula 241 --life
 
 ## Tab PG Jewel (post panjang + slot boleh ubah)
 
-Docx: `Bahagian N: Set N: Tajuk`, perenggan meta (`Produk Contoh ... | Watak & Sudut Pandang: ...`), jadual 1×1 berisi cerita. Tiada komen. Cerita ada blok kiraan tetap: `Berikut adalah perincian pengiraan untuk <produk>:`, `Harga Barang Kemas`, `Pengeposan Berinsurans (GIT)`, `Jumlah Nilai Keseluruhan`, `Harga Semasa Buy GAP`, `Gram GAP yang ditolak: RM<jumlah> ÷ RM<gap> = <gram> gram`.
+Docx: heading `Bahagian N: Set N: Tajuk` (Batch 1) ATAU `Set N: Tajuk` / `Set N (Siri M): Tajuk` / `Set 30+ (Siri 60): Tajuk` (Batch 2; nombor docx ada lompatan, `no` dijana ikut urutan 1–30), perenggan meta (`Produk Contoh ... | Watak & Sudut Pandang: ...`), jadual 1×1 berisi cerita. Tiada komen. Cerita ada blok kiraan tetap: `Berikut adalah perincian pengiraan untuk <produk>:`, `Harga Barang Kemas`, `Pengeposan Berinsurans (GIT)`, `Jumlah Nilai Keseluruhan`, `Harga Semasa Buy GAP`, `Gram GAP yang ditolak: RM<jumlah> ÷ RM<gap> = <gram> gram`.
 
 Converter `tools/jewel_ke_data.py` tukar nombor/produk dalam cerita kepada slot (`{produk}`, `{produkNama}`, `{hb}`/`{hb0}`, `{pos}`, `{upah0}`, `{jumlah}`, `{gap}`/`{gap0}`, `{gram}`, `{simpan}`; akhiran `0` = tanpa perpuluhan) dan simpan nilai asal dalam `vars` (`produk`, `hargaBarang`, `pos`, `upah` jika ada). Ia ASSERT round-trip (render nilai asal == teks docx) dan kiraan gram betul, jadi docx baru yang tak ikut format akan gagal dengan mesej jelas. RM lain dalam cerita (cth RM200–300 simpanan bulanan watak, RM1,500 harga kedai) kekal teks biasa.
 
@@ -88,6 +88,8 @@ python3 -I tools/jewel_ke_data.py "Set.docx" --siri "PG Jewel-02" --mula 271 --a
 - Panel **Harga GAP semasa** (global, semua post, localStorage `jewelGlobal`; lalai 592 dalam `lalaiJewel`). Simpanan bulanan TETAP RM100 (pemalar `lalaiJewel.simpanan`, tiada input; Taufik tak mahu ubah).
 - Setiap kad: **✏️ Ubah produk & harga** (di ATAS kotak post): Nama produk, Harga produk (harga di app PG Jewel, sudah termasuk upah), Pos berinsurans, Kos upah (pilihan) + baris kiraan gram + Reset (localStorage `jewelVar` per id). Kos upah: kalau cerita sebut upah (set 1) slot `{upah0}` diganti; kalau tidak, bila diisi renderer tambah `(termasuk upah RM...)` pada baris `Harga Barang Kemas`. Kosong = teks docx asal.
 - Copy Post salin teks yang dah dikira. Tiada kotak komen bila `komen` kosong. Pembuka "Ada yang tahu?" dan CTA komen TIDAK dipakai untuk tab ini.
+**Ralat kiraan dalam docx:** converter semak `harga barang + pos = jumlah` dan `jumlah ÷ harga GAP = gram`. Kalau harga barang tak padan (Batch 2 Siri 31–34 salah), ia BETULKAN harga barang = jumlah − pos (jumlah dipercayai sebab sama dengan meta, gram dan Cash Voucher), cetak `BETULKAN set N ...` dan Taufik mesti dimaklumkan senarai pembetulan. Gram yang tak padan = ralat keras (converter berhenti).
+
 Ujian: render semua `vars` asal mesti sama dengan teks docx (sidecar `--asal`), dan `npm run build`.
 
 ## Tambah set baru (aliran kerja utama)

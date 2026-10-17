@@ -86,11 +86,12 @@ ap.add_argument('--mula', type=int, required=True); ap.add_argument('--asal')
 a = ap.parse_args()
 
 items = baca(a.docx)
-idx = [i for i, it in enumerate(items) if it[0] == 'P' and re.match(r'Bahagian\s+\d+\s*:', it[1])]
+TAJUK_SET = r'(?:Bahagian\s+\d+\s*:\s*)?Set\s*\d+\+?\s*(?:\(Siri\s*\d+\)\s*)?:\s*(.+)$'   # "Bahagian 1: Set 1: ..", "Set 2: ..", "Set 7 (Siri 36): ..", "Set 30+ (Siri 60): .."
+idx = [i for i, it in enumerate(items) if it[0] == 'P' and re.match(TAJUK_SET, it[1]) and i + 2 < len(items) and items[i + 2][0] == 'T']
 out, asal, log = [], {}, []
 gap_global = None
 for n, i in enumerate(idx):
-    m = re.match(r'Bahagian\s+\d+\s*:\s*Set\s*\d+\s*:\s*(.+)$', items[i][1])
+    m = re.match(TAJUK_SET, items[i][1])
     tajuk = m.group(1).strip()
     meta = items[i + 1][1]
     cell = items[i + 2]
@@ -105,6 +106,17 @@ for n, i in enumerate(idx):
     gap = num(re.search(r'Harga Semasa Buy GAP:\s*RM([\d,]+(?:\.\d\d)?)', post).group(1))
     jml = num(re.search(r'Jumlah Nilai Keseluruhan:\s*RM([\d,]+\.\d\d)', post).group(1))
     gram_doc = re.search(r'=\s*([\d.]+)\s*gram', post).group(1)
+    if abs(hb + pos - jml) >= 0.005:
+        # Ralat dalam docx: harga barang + pos tak sama dengan jumlah. Jumlah dipercayai (sama dengan
+        # meta "Nilai Pesanan", kiraan gram dan Cash Voucher), jadi harga barang dibetulkan = jumlah - pos.
+        hb_baru = round(jml - pos, 2)
+        for dp in (2, 0):
+            if dp == 0 and hb != int(hb):
+                continue
+            post = re.sub(r'(?<![\d,.])RM' + re.escape(fmt(hb, dp)) + (r'(?!\d)' if dp == 2 else r'(?![\d,]|\.\d)'),
+                          'RM' + fmt(hb_baru, dp), post)
+        print(f'  BETULKAN set {n + 1} ({tajuk[:40]}): harga barang RM{fmt(hb, 2)} -> RM{fmt(hb_baru, 2)} (jumlah RM{fmt(jml, 2)} - pos RM{fmt(pos, 2)})', file=sys.stderr)
+        hb = hb_baru
     assert abs(hb + pos - jml) < 0.005, f'set {n + 1}: hb+pos != jumlah'
     assert f'{jml / gap:.4f}' == gram_doc, f'set {n + 1}: gram {jml / gap:.4f} != {gram_doc}'
     gap_global = gap_global or gap
