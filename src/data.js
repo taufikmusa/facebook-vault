@@ -1200,10 +1200,1210 @@ Moga bermanfaat
 simpanemasfizikal.com
 Taufik | Dealer Public Gold`,
   },
+  {
+    id: 61,
+    siri: "Post-03",
+    no: 1,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Pekerja & Keselamatan Sosial`,
+    tajuk: `Semak Rekod Caruman SOCSO & SIP Setiap Bulan (Prihatin PERKESO)`,
+    tags: ["keselamatan", "pekerja", "prihatin perkeso", "sosial"],
+    link: "https://apps.apple.com/my/app/prihatin/id1523496062",
+    post: `Simple tips hari ni..Tiap bulan gaji tolak SOCSO & SIP, macam mana nak check majikan betul-betul carumkan ke tak?👷
+👇👇👇`,
+    komen: `Install aplikasi rasmi Prihatin (bawah PERKESO) dekat phone dan daftar guna nombor IC
+Boleh terus semak penyata caruman bulanan Akta 4 dan Sistem Insurans Pekerjaan (SIP) untuk pastikan perlindungan kita aktif
+Yang bekerja sendiri pun boleh mencarum Skim Keselamatan Sosial Pekerjaan Sendiri dalam apps ni
+https://apps.apple.com/my/app/prihatin/id1523496062
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 62,
+    siri: "Post-03",
+    no: 2,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hartanah & Portal Kerajaan`,
+    tajuk: `Semak & Bayar Cukai Tanah / Cukai Petak Online (Sistem e-Tanah)`,
+    tags: ["hartanah", "kerajaan", "portal", "sistem e-tanah"],
+    link: "https://etanah.selangor.gov.my/",
+    post: `Just a simple tips..Malas nak beratur dekat Pejabat Tanah, macam mana nak semak & bayar cukai tanah/petak secara online?🏡
+👇👇👇`,
+    komen: `Untuk pemilik rumah atau tanah di Selangor, buka portal rasmi etanah.selangor.gov.my
+Masukkan nombor hakmilik atau nombor akaun bil untuk semak jumlah cukai tanah atau cukai petak (strata) dan terus bayar guna FPX
+Siap boleh muat turun resit rasmi terus dalam bentuk PDF
+https://etanah.selangor.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 63,
+    siri: "Post-03",
+    no: 3,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Urusan Harian & Kenderaan`,
+    tajuk: `Bayar Parking Majlis Perbandaran Selangor & KL Di Phone (SSP)`,
+    tags: ["harian", "kenderaan", "ssp", "urusan"],
+    link: "https://apps.apple.com/my/app/smart-selangor-parking/id1369995577",
+    post: `Simple tips malam ni..Parking kereta tepi jalan area Selangor atau KL, macam mana nak bayar parking terus dari phone?🅿️
+👇👇👇`,
+    komen: `Install apps Smart Selangor Parking (SSP) dekat phone dan daftarkan nombor plat kereta kita
+Pilih majlis perbandaran (MPS, MBPJ, MBSA, MPK, DBKL dan lain-lain) serta tempoh jam..kalau masa nak tamat siap boleh tambah jam dari jauh
+Tak perlu lagi pening cari kedai jual kupon gores
+https://apps.apple.com/my/app/smart-selangor-parking/id1369995577
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 64,
+    siri: "Post-03",
+    no: 4,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Urusan Harian & Perjalanan`,
+    tajuk: `Bayar Parking Kereta Merentas Banyak Negeri Satu Apps (Flexi Parking)`,
+    tags: ["flexi parking", "harian", "perjalanan", "urusan"],
+    link: "https://apps.apple.com/my/app/flexi-parking/id1466897086",
+    post: `Just a simple tips..Selalu outstation ke negeri lain, apps parking mana yang boleh guna sekali jalan dekat banyak negeri?🚗
+👇👇👇`,
+    komen: `Install apps Flexi Parking dekat phone..kredit yang kita topup boleh guna merentas pelbagai negeri di Malaysia
+Menyokong PBT di Lembah Klang, Perak, Kedah, Kelantan, Terengganu, Pahang, Negeri Sembilan, dan Sabah dalam satu aplikasi sahaja
+Tak payah muat turun aplikasi berbeza setiap kali rentas negeri
+https://apps.apple.com/my/app/flexi-parking/id1466897086
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 65,
+    siri: "Post-03",
+    no: 5,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Perjalanan & Pengangkutan Awam`,
+    tajuk: `Beli Tiket Tren ETS & Komuter Terus Dari Apps Rasmi (KTMB KITS Style)`,
+    tags: ["awam", "ktmb kits style", "pengangkutan", "perjalanan"],
+    link: "https://apps.apple.com/my/app/kits-style/id6737016269",
+    post: `Simple tips hari ni..Nak beli tiket tren ETS balik utara atau KTM Komuter tanpa kena caj tambahan website orang tengah?🚆
+👇👇👇`,
+    komen: `Muat turun aplikasi rasmi baharu KTMB iaitu KITS Style atau buka portal kitsonline.com.my
+Boleh terus pilih tempat duduk tren ETS, KTM Intercity, Shuttle Tebrau, atau beli pas Komuter mengikut harga asal rasmi KTMB
+Warga emas, pelajar, dan OKU pun boleh daftar profil diskaun konsesi terus dalam apps
+https://apps.apple.com/my/app/kits-style/id6737016269
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 66,
+    siri: "Post-03",
+    no: 6,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Pengangkutan Awam & Lembah Klang`,
+    tajuk: `Semak Lokasi Sebenar Bas Rapid KL & Jadual Tren Live (MyRapid PULSE)`,
+    tags: ["awam", "klang", "lembah", "myrapid pulse", "pengangkutan"],
+    link: "https://myrapid.com.my/pulse/mobile-app/",
+    post: `Just a simple tips..Selalu naik bas Rapid KL atau LRT/MRT pergi kerja, macam mana nak tahu bas tengah dekat mana live?🚌
+👇👇👇`,
+    komen: `Install aplikasi rasmi MyRapid PULSE (keluaran Prasarana) dekat phone
+Ada fungsi 'Live Bus Tracker' untuk tengok anggaran minit bas sampai di hentian serta perancang perjalanan penuh LRT, MRT, dan Monorel
+Senang nak bajet masa keluar rumah supaya tak terlepas bas
+https://myrapid.com.my/pulse/mobile-app/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 67,
+    siri: "Post-03",
+    no: 7,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Pengangkutan Awam & Pelajar`,
+    tajuk: `Panduan Langkah Demi Langkah Naik MRT, LRT & Bas (Moovit)`,
+    tags: ["awam", "moovit", "pelajar", "pengangkutan"],
+    link: "https://apps.apple.com/us/app/moovit-bus-transit-tracker/id498477945",
+    post: `Simple tips malam ni..Jarang naik MRT atau LRT, macam mana nak tahu kena turun stesen mana & tukar tren laluan mana?🚇
+👇👇👇`,
+    komen: `Install apps percuma Moovit dekat phone dan taip je nama tempat yang kita nak tuju
+Dia akan tunjukkan langkah demi langkah: kena naik stesen mana, tukar tren di stesen mana, keluar pintu mana, dan berapa tambang serta masa perjalanan
+Siap bagi amaran dekat phone bila dah hampir sampai ke stesen kita kena turun
+https://apps.apple.com/us/app/moovit-bus-transit-tracker/id498477945
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 68,
+    siri: "Post-03",
+    no: 8,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Kenderaan & Lebuhraya`,
+    tajuk: `Semak Status Tag RFID Kereta & Mohon Ganti Tag Rosak (Portal TNG RFID)`,
+    tags: ["kenderaan", "lebuhraya", "portal tng rfid"],
+    link: "https://rfid.touchngo.com.my/",
+    post: `Just a simple tips..Pelekat RFID kereta dekat lampu/cermin dah rosak atau tukar cermin baru, macam mana nak urus online?🏷️
+👇👇👇`,
+    komen: `Buka portal rasmi Touch 'n Go RFID dekat rfid.touchngo.com.my dan log masuk akaun kita
+Dekat dashboard tu kita boleh semak status aktif tag RFID setiap kereta, batal tag kereta lama yang dah dijual, atau mohon tag gantian
+Pastikan batalkan tag lama kalau jual kereta supaya tak tolak eWallet kita
+https://rfid.touchngo.com.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 69,
+    siri: "Post-03",
+    no: 9,
+    topik: "Tools & Teknologi",
+    kategori: `Internet & WiFi Rumah`,
+    tajuk: `Uji Kelajuan Download, Upload & Ping Internet Rumah (Speedtest Ookla)`,
+    tags: ["internet", "rumah", "speedtest ookla", "wifi"],
+    link: "https://www.speedtest.net/",
+    post: `Simple tips hari ni..Nak tahu kelajuan penuh download, upload & ping WiFi rumah kita sama macam pakej yang kita bayar?⚡
+👇👇👇`,
+    komen: `Buka laman web rasmi speedtest.net dekat laptop atau install apps Speedtest by Ookla dekat phone
+Tekan butang 'GO'..dia akan ukur kelajuan muat turun (Download), muat naik (Upload), dan masa tindak balas (Ping) dengan sangat tepat
+Simpan tangkapan skrin keputusan tu kalau nak buat laporan teknikal kepada syarikat internet
+https://www.speedtest.net/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 70,
+    siri: "Post-03",
+    no: 10,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hak Pengguna & Telco`,
+    tajuk: `Saluran Rasmi Selesaikan Pertikaian Bil & Kontrak Telco (CFM)`,
+    tags: ["cfm", "pengguna", "telco"],
+    link: "https://cfm.my/aduan-baharu/",
+    post: `Just a simple tips..Bil telco kena caj pelik-pelik atau masalah internet tak selesai, dekat mana saluran rasmi pengguna?📱
+👇👇👇`,
+    komen: `Buka portal rasmi Consumer Forum of Malaysia (CFM) bawah seliaan MCMC dekat cfm.my/aduan-baharu/
+CFM adalah badan rasmi yang melindungi hak pengguna komunikasi dan multimedia di Malaysia..masukkan nombor laporan telco asal untuk tindakan lanjut
+Ketahui hak kita sebagai pengguna supaya tak menanggung caj yang tak sepatutnya
+https://cfm.my/aduan-baharu/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 71,
+    siri: "Post-03",
+    no: 11,
+    topik: "Kewangan & Jimat",
+    kategori: `Kewangan & Pengurusan Hutang`,
+    tajuk: `Khidmat Nasihat Kewangan & Urus Hutang Bank Percuma (AKPK)`,
+    tags: ["akpk", "hutang", "kewangan", "pengurusan"],
+    link: "https://www.akpk.org.my/node/424",
+    post: `Simple tips malam ni..Komitmen bulanan bank makin sempit, tahu tak agensi Bank Negara ni bantu susun semula secara free?🏦
+👇👇👇`,
+    komen: `Jangan sesekali guna ejen berbayar yang ambil komisen..terus rujuk portal rasmi Agensi Kaunseling dan Pengurusan Kredit (AKPK) di akpk.org.my
+AKPK adalah agensi rasmi ditubuhkan oleh Bank Negara Malaysia dan semua khidmat nasihat kewangan serta Program Pengurusan Kredit adalah 100% percuma
+Ada juga modul ilmu pengurusan kewangan keluarga secara online
+https://www.akpk.org.my/node/424
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 72,
+    siri: "Post-03",
+    no: 12,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Keselamatan Simpanan & Bank`,
+    tajuk: `Semak Senarai Bank Dilindungi Kerajaan Sehingga RM250,000 (PIDM)`,
+    tags: ["bank", "keselamatan", "pidm", "simpanan"],
+    link: "https://www.pidm.gov.my/general/how-we-protect-you/member-banks",
+    post: `Just a simple tips..Sebelum buka akaun simpanan dekat bank digital atau bank baharu, macam mana nak tahu dilindungi PIDM?🛡️
+👇👇👇`,
+    komen: `Buka portal rasmi Perbadanan Insurans Deposit Malaysia (PIDM) dekat pidm.gov.my
+Semak senarai rasmi 'Member Banks'..semua bank ahli PIDM dilindungi kerajaan secara automatik dan percuma sehingga RM250,000 bagi setiap pendeposit
+Ilmu asas penting supaya kita tahu beza institusi perbankan sah dengan skim luar
+https://www.pidm.gov.my/general/how-we-protect-you/member-banks
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 73,
+    siri: "Post-03",
+    no: 13,
+    topik: "Kewangan & Jimat",
+    kategori: `Pendidikan Tinggi & Lepasan SPM`,
+    tajuk: `Mohon Masuk Universiti Awam, Politeknik & Kolej Komuniti (UPUOnline)`,
+    tags: ["lepasan", "pendidikan", "tinggi", "upuonline"],
+    link: "https://upu.mohe.gov.my/",
+    post: `Simple tips hari ni..Ada anak lepasan SPM atau STPM, dekat portal rasmi mana nak mohon Universiti Awam & Politeknik?🎓
+👇👇👇`,
+    komen: `Simpan pautan rasmi Kementerian Pendidikan Tinggi dekat upu.mohe.gov.my (atau aplikasi UPUPocket)
+Dalam portal ni siap ada sistem 'e-Panduan' untuk semak syarat kelayakan kursus mengikut keputusan SPM anak sebelum pilih program pengajian
+Kongsikan siap-siap kepada ibu bapa yang ada anak bakal habis sekolah
+https://upu.mohe.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 74,
+    siri: "Post-03",
+    no: 14,
+    topik: "Kewangan & Jimat",
+    kategori: `Pendidikan Tinggi & Kerjaya`,
+    tajuk: `Semak Sama Ada Kursus Kolej & Universiti Diiktiraf Kerajaan (MQA MQR)`,
+    tags: ["kerjaya", "mqa mqr", "pendidikan", "tinggi"],
+    link: "https://www2.mqa.gov.my/mqr/",
+    post: `Just a simple tips..Sebelum daftar anak masuk kolej atau universiti swasta, macam mana nak check sijil tu diiktiraf MQA?📜
+👇👇👇`,
+    komen: `Buka portal rasmi Daftar Kelayakan Malaysia (Malaysian Qualifications Register - MQR) dekat www2.mqa.gov.my/mqr/
+Taip nama institusi dan nama kursus diploma atau ijazah tersebut untuk pastikan ia mempunyai perakuan akreditasi penuh MQA
+Sangat penting supaya sijil anak laku untuk mohon kerja kerajaan dan swasta nanti
+https://www2.mqa.gov.my/mqr/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 75,
+    siri: "Post-03",
+    no: 15,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kemahiran Teknikal & Belia`,
+    tajuk: `Mohon Kursus Kemahiran TVET Kerajaan Seluruh Malaysia (UP_TVET)`,
+    tags: ["belia", "kemahiran", "teknikal", "up_tvet"],
+    link: "https://mohon.tvet.gov.my/",
+    post: `Simple tips malam ni..Anak-anak lebih minat kemahiran teknikal & praktikal (TVET), dekat portal rasmi mana nak mohon?🔧
+👇👇👇`,
+    komen: `Layari portal permohonan berpusat rasmi UP_TVET dekat mohon.tvet.gov.my
+Merangkumi ratusan kursus kemahiran teknikal, automotif, elektrikal, kulinari, dan teknologi di institusi TVET seluruh Malaysia
+Peluang kerjaya bidang kemahiran sekarang sangat luas dan berpendapatan tinggi
+https://mohon.tvet.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 76,
+    siri: "Post-03",
+    no: 16,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Kenderaan & JPJ`,
+    tajuk: `Bida Nombor Plat Kenderaan Idaman Tanpa Orang Tengah (JPJeBid)`,
+    tags: ["jpjebid", "kenderaan"],
+    link: "https://apps.apple.com/my/app/jpjebid/id1458846863",
+    post: `Just a simple tips..Teringin nak beli nombor plat kereta cantik ikut tarikh lahir, macam mana nak bida sendiri dekat phone?🚘
+👇👇👇`,
+    komen: `Tak perlu bayar upah runner mahal-mahal..install aplikasi rasmi JPJeBid atau buka portal jpjebid.jpj.gov.my
+Kita boleh tengok siri nombor plat negeri yang tengah dibuka, semak harga bidaan semasa secara telus, dan terus bida sendiri dari telefon
+Kalau tak menang bidaan, bayaran balik akan dipulangkan penuh secara automatik
+https://apps.apple.com/my/app/jpjebid/id1458846863
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 77,
+    siri: "Post-03",
+    no: 17,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Kenderaan & JPJ`,
+    tajuk: `Urus Tukar Nama Kenderaan & Urusan JPJ Online (Portal mySIKAP JPJ)`,
+    tags: ["kenderaan", "portal mysikap jpj"],
+    link: "https://public.jpj.gov.my/public/login.zul",
+    post: `Simple tips hari ni..Nak buat urusan tukar hak milik kereta atau cabutan maklumat kenderaan JPJ secara online kat mana?🪪
+👇👇👇`,
+    komen: `Buka portal rasmi mySIKAP Awam Jabatan Pengangkutan Jalan dekat public.jpj.gov.my
+Banyak urusan kaunter JPJ seperti permohonan tukar hak milik sukarela, pembaharuan lesen, dan semakan rekod kenderaan boleh dibuat terus di sini
+Jimat masa tak perlu beratur panjang dekat pejabat JPJ
+https://public.jpj.gov.my/public/login.zul
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 78,
+    siri: "Post-03",
+    no: 18,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Tip WhatsApp & Telefon Pintar`,
+    tajuk: `Hantar Mesej WhatsApp Tanpa Perlu Save Nombor Telefon (wa.me)`,
+    tags: ["pintar", "telefon", "wa.me", "whatsapp"],
+    link: "https://faq.whatsapp.com/5913398998672934",
+    post: `Just a simple tips..Nak WhatsApp runner atau seller sekali je tapi malas nak save nombor penuhkan contact list phone?💬
+👇👇👇`,
+    komen: `Guna fungsi rasmi 'Click to Chat' WhatsApp..buka browser phone dan taip wa.me/60123456789 (gantikan dengan nombor telefon bermula kod negara 60)
+Atau lebih mudah: taip nombor telefon tu dalam chat WhatsApp dengan diri sendiri (Message Yourself), hantar, dan tekan terus atas nombor tu untuk pilih 'Chat with..'
+Buku telefon kekal kemas tanpa ratusan nombor sekali pakai
+https://faq.whatsapp.com/5913398998672934
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 79,
+    siri: "Post-03",
+    no: 19,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Video & Komputer`,
+    tajuk: `Kecilkan Saiz Video Rakaman Bergiga-Giga Tanpa Pecah (HandBrake)`,
+    tags: ["handbrake", "komputer", "video"],
+    link: "https://handbrake.fr/",
+    post: `Simple tips malam ni..Video rakaman dekat laptop saiz sampai bergiga-giga (GB), macam mana nak kecilkan tanpa pecah kualiti?🎞️
+👇👇👇`,
+    komen: `Muat turun perisian sumber terbuka percuma HandBrake dekat laman rasmi handbrake.fr (untuk Windows atau Mac)
+Masukkan fail video besar tadi dan pilih preset 'Fast 1080p30'..saiz fail video boleh turun sehingga 70%–80% tapi gambar masih nampak tajam
+Sangat jimat ruang hard disk dan senang nak muat naik ke internet
+https://handbrake.fr/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 80,
+    siri: "Post-03",
+    no: 20,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Video & Komputer`,
+    tajuk: `Pemain Video Percuma Tanpa Iklan Buka Semua Format Fail (VLC Player)`,
+    tags: ["komputer", "video", "vlc player"],
+    link: "https://www.videolan.org/vlc/index.en-GB.html",
+    post: `Just a simple tips..Ada fail video rakaman CCTV atau kamera yang tak boleh buka dekat PC, nak guna player percuma apa?▶️
+👇👇👇`,
+    komen: `Jangan muat turun player pelik-pelik yang penuh iklan..guna perisian rasmi VLC Media Player dekat videolan.org
+Ia 100% percuma, tiada iklan langsung, dan boleh mainkan hampir semua jenis format video dan audio di dunia pada laptop mahupun telefon
+Perisian wajib ada dalam setiap komputer rumah dan pejabat
+https://www.videolan.org/vlc/index.en-GB.html
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 81,
+    siri: "Post-03",
+    no: 21,
+    topik: "Kewangan & Jimat",
+    kategori: `Pendidikan Anak & Keluarga`,
+    tajuk: `Aplikasi Belajar Matematik & Sains Percuma Untuk Anak (Khan Academy)`,
+    tags: ["anak", "keluarga", "khan academy", "pendidikan"],
+    link: "https://www.khanacademy.org/",
+    post: `Simple tips hari ni..Nak bagi anak guna phone atau tablet untuk belajar Matematik & Sains secara percuma tanpa iklan?🧠
+👇👇👇`,
+    komen: `Buka laman web khanacademy.org atau install aplikasi Khan Academy (dan Khan Academy Kids untuk anak umur 2–8 tahun)
+Pertubuhan pendidikan bukan berasaskan keuntungan ni sediakan ribuan latihan interaktif dan video penerangan Matematik serta Sains secara 100% percuma
+Tiada iklan dan tiada pembelian dalam aplikasi, sangat selamat untuk anak-anak
+https://www.khanacademy.org/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 82,
+    siri: "Post-03",
+    no: 22,
+    topik: "Tools & Teknologi",
+    kategori: `Komputer & Produktiviti Pejabat`,
+    tajuk: `Perisian Percuma Buka Fail ZIP & RAR Tanpa Gangguan Pop-Up (7-Zip)`,
+    tags: ["7-zip", "komputer", "pejabat", "produktiviti"],
+    link: "https://www.7-zip.org/",
+    post: `Just a simple tips..Nak buka atau buat fail ZIP/RAR dekat laptop kerja tanpa keluar pop-up suruh beli lesen berbayar?🗂️
+👇👇👇`,
+    komen: `Muat turun perisian sumber terbuka 7-Zip daripada laman web rasmi 7-zip.org
+Sangat ringan, laju, boleh buka semua jenis fail mampat (ZIP, RAR, 7z), dan siap boleh kunci fail dokumen penting kita dengan kata laluan AES-256
+Percuma sepenuhnya untuk kegunaan peribadi mahupun pejabat
+https://www.7-zip.org/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 83,
+    siri: "Post-03",
+    no: 23,
+    topik: "Tools & Teknologi",
+    kategori: `Audio & Pencipta Kandungan`,
+    tajuk: `Rakam & Bersihkan Bunyi Bising Voice-Over Secara Percuma (Audacity)`,
+    tags: ["audacity", "audio", "kandungan", "pencipta"],
+    link: "https://www.audacityteam.org/",
+    post: `Simple tips malam ni..Rakam suara untuk video tapi ada bunyi kipas bising kat belakang, macam mana nak bersihkan dekat PC?🎙️
+👇👇👇`,
+    komen: `Guna perisian suntingan audio percuma paling popular iaitu Audacity dekat laman rasmi audacityteam.org
+Guna fungsi 'Noise Reduction' dalam menu Effect..dalam beberapa saat sahaja bunyi desiran kipas atau aircond terus hilang dan suara jadi jelas
+Tak perlu beli mikrofon mahal-mahal untuk dapatkan audio yang kemas
+https://www.audacityteam.org/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 84,
+    siri: "Post-03",
+    no: 24,
+    topik: "Tools & Teknologi",
+    kategori: `Produktiviti & Pengurusan Masa`,
+    tajuk: `Susun Nota Kerja, Senarai Tugas & Bajet Keluarga Satu Tempat (Notion)`,
+    tags: ["masa", "notion", "pengurusan", "produktiviti"],
+    link: "https://www.notion.com/",
+    post: `Just a simple tips..Suka tulis nota kerja, checklist barang & bajet bulanan, apps apa paling kemas boleh sync phone ke PC?📝
+👇👇👇`,
+    komen: `Install aplikasi Notion dekat phone dan laptop melalui notion.com
+Kita boleh bina buku nota digital kita sendiri yang tersusun mengikut folder, jadual kewangan, dan senarai semak harian secara percuma
+Apa yang kita taip dekat phone akan terus dikemas kini secara automatik dekat laptop
+https://www.notion.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 85,
+    siri: "Post-03",
+    no: 25,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Bisnes & Pengurusan Kerja`,
+    tajuk: `Urus Jadual Projek Kerja & Tempahan Pelanggan Guna Kad Visual (Trello)`,
+    tags: ["bisnes", "kerja", "pengurusan", "trello"],
+    link: "https://apps.apple.com/us/app/trello-daily-task-tracker/id461504587",
+    post: `Simple tips hari ni..Berniaga kecil-kecilan atau urus projek kerja, macam mana nak susun status tempahan supaya tak terlupa?📋
+👇👇👇`,
+    komen: `Install apps Trello dekat phone atau buka trello.com dekat PC
+Boleh buat papan visual ikut lajur seperti 'Tempahan Baru', 'Sedang Diproses', dan 'Selesai Dihantar'..kemudian tarik je kad pelanggan ikut status semasa
+Kerja bisnes dan tugasan pasukan jadi jauh lebih teratur
+https://apps.apple.com/us/app/trello-daily-task-tracker/id461504587
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 86,
+    siri: "Post-03",
+    no: 26,
+    topik: "Kewangan & Jimat",
+    kategori: `Pendidikan & Sekolah Menengah`,
+    tajuk: `Kalkulator Saintifik & Lukis Graf Matematik Secara Visual (Desmos)`,
+    tags: ["desmos", "menengah", "pendidikan", "sekolah"],
+    link: "https://www.desmos.com/calculator",
+    post: `Just a simple tips..Anak sekolah menengah pening nak faham tajuk graf fungsi Matematik, website percuma mana boleh bantu?📈
+👇👇👇`,
+    komen: `Buka laman web desmos.com/calculator atau install apps Desmos Graphing Calculator secara percuma
+Bila taip je persamaan matematik (contoh: y = 2x + 3), dia terus lukiskan bentuk graf secara visual dan interaktif atas skrin
+Kalkulator saintifik penuh pun ada sekali kalau kalkulator fizikal anak tertinggal
+https://www.desmos.com/calculator
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 87,
+    siri: "Post-03",
+    no: 27,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kerjaya & Badan Beruniform`,
+    tajuk: `Mohon Jawatan Konstabel, Sarjan & Inspektor Polis Online (e-Pengambilan PDRM)`,
+    tags: ["badan", "beruniform", "e-pengambilan pdrm", "kerjaya"],
+    link: "https://www.rmp.gov.my/orang-awam/skim-perkhidmatan-pdrm/panduan-kerjaya",
+    post: `Simple tips malam ni..Ada adik-beradik atau anak muda yang berminat nak mohon masuk Polis (PDRM), dekat portal mana nak isi?👮
+👇👇👇`,
+    komen: `Permohonan jawatan PDRM dibuat secara atas talian melalui portal rasmi e-Pengambilan PDRM (rujuk panduan rasmi di rmp.gov.my)
+Boleh semak syarat kelayakan fizikal dan akademik bagi jawatan Konstabel, Sarjan, serta Inspektor Polis mengikut hebahan pengambilan semasa
+Pastikan hanya memohon melalui portal rasmi PDRM sahaja
+https://www.rmp.gov.my/orang-awam/skim-perkhidmatan-pdrm/panduan-kerjaya
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 88,
+    siri: "Post-03",
+    no: 28,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Bantuan Kerajaan & Kenderaan`,
+    tajuk: `Semak Kelayakan & Mohon Bantuan Subsidi Tunai BUDI MADANI (MOF)`,
+    tags: ["bantuan", "kenderaan", "kerajaan", "mof"],
+    link: "https://www.budimadani.gov.my/",
+    post: `Just a simple tips..Pemilik kenderaan diesel individu atau petani kecil, dekat portal rasmi mana nak mohon BUDI MADANI?🚜
+👇👇👇`,
+    komen: `Layari portal rasmi Kementerian Kewangan dekat budimadani.gov.my
+Boleh semak syarat kelayakan kategori BUDI Individu dan BUDI Agri-Komoditi serta terus hantar permohonan bantuan subsidi tunai bulanan secara online
+Semakan status kelulusan dan bayaran pun boleh dibuat terus di portal yang sama
+https://www.budimadani.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 89,
+    siri: "Post-03",
+    no: 29,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Bisnes & Usahawan`,
+    tajuk: `Daftar & Renew Sijil Perniagaan SSM Secara Online (SSM EzBiz Online)`,
+    tags: ["bisnes", "ssm ezbiz online", "usahawan"],
+    link: "https://www.ssm.com.my/bm/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx",
+    post: `Simple tips hari ni..Sijil perniagaan SSM dah nak tamat tempoh, macam mana nak renew terus secara online tanpa ke kaunter?💼
+👇👇👇`,
+    komen: `Guna portal rasmi EzBiz Online bawah Suruhanjaya Syarikat Malaysia (SSM) melalui laman rasmi ssm.com.my
+Boleh perbaharui pendaftaran perniagaan (Enterprise), kemas kini alamat atau cabang bisnes, dan terus muat turun sijil SSM baharu dalam masa beberapa minit
+Sangat memudahkan peniaga kecil dan usahawan online
+https://www.ssm.com.my/bm/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 90,
+    siri: "Post-03",
+    no: 30,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Bisnes & Keselamatan Kewangan`,
+    tajuk: `Cari Profil Rasmi Syarikat Sebelum Buat Urusan Bisnes (SSM e-Info)`,
+    tags: ["bisnes", "keselamatan", "kewangan", "ssm e-info"],
+    link: "https://www.ssm-einfo.my/",
+    post: `Just a simple tips..Sebelum bayar deposit besar dekat mana-mana syarikat, macam mana nak check rekod pendaftaran SSM dia?🔍
+👇👇👇`,
+    komen: `Buka portal perkhidmatan carian rasmi Suruhanjaya Syarikat Malaysia dekat ssm-einfo.my
+Taip nama syarikat atau nombor pendaftaran..kita boleh pastikan syarikat tersebut benar-benar wujud, masih aktif berdaftar, dan dapatkan maklumat rasmi profil syarikat
+Langkah bijak untuk elak ditipu syarikat hantu bila berurusan
+https://www.ssm-einfo.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 91,
+    siri: "Post-04",
+    no: 1,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Keluarga & Portal Kerajaan`,
+    tajuk: `Mohon Kursus Kahwin & Kebenaran Nikah Online (SPPIM JAKIM)`,
+    tags: ["keluarga", "kerajaan", "portal", "sppim jakim"],
+    link: "https://www.sppim.gov.my/v2/",
+    post: `Simple tips hari ni..Adik-beradik nak daftar kursus kahwin atau mohon kebenaran nikah online, nak isi dekat portal mana?💍
+👇👇👇`,
+    komen: `Buka portal rasmi Sistem Pengurusan Perkahwinan Islam Malaysia (SPPIM) bawah JAKIM dekat sppim.gov.my/v2/
+Pasangan dari negeri yang mengguna pakai SPPIM boleh terus daftar kursus pra-perkahwinan dan isi borang kebenaran berkahwin secara atas talian
+Jimat masa sebab senarai semak dokumen semua dah lengkap dalam sistem
+https://www.sppim.gov.my/v2/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 92,
+    siri: "Post-04",
+    no: 2,
+    topik: "Kewangan & Jimat",
+    kategori: `Zakat, Emas & Kewangan Islam`,
+    tajuk: `Kira Zakat Emas, Simpanan & Pendapatan Ikut Nisab Semasa (Zakat Selangor)`,
+    tags: ["emas", "islam", "kewangan", "zakat selangor", "zakat,"],
+    link: "https://www.zakatselangor.com.my/zakat-emas/",
+    post: `Just a simple tips..Macam mana nak kira zakat emas simpanan (85g) & barang kemas ikut kadar uruf semasa dengan tepat?✨
+👇👇👇`,
+    komen: `Layari laman rasmi Lembaga Zakat Selangor dekat zakatselangor.com.my/zakat-emas/ (atau portal zakat negeri masing-masing)
+Masukkan berat gram emas simpanan atau emas perhiasan..kalkulator rasmi dia terus tolak nilai uruf dan kira jumlah zakat sebenar
+Resit bayaran zakat rasmi layak dapat rebat 100% cukai pendapatan LHDN
+https://www.zakatselangor.com.my/zakat-emas/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 93,
+    siri: "Post-04",
+    no: 3,
+    topik: "Kewangan & Jimat",
+    kategori: `Kewangan Islam & Cukai`,
+    tajuk: `Berwakaf Tunai Secara Rasmi & Dapat Pelepasan Cukai LHDN (YWM)`,
+    tags: ["cukai", "islam", "kewangan", "ywm"],
+    link: "https://www.ywm.gov.my/wakaf-online",
+    post: `Simple tips malam ni..Nak buat wakaf tunai bulanan secara sahih siap boleh claim pelepasan cukai LHDN, nak buat kat mana?🕌
+👇👇👇`,
+    komen: `Buka portal rasmi Sistem Wakaf Tunai Malaysia bawah Yayasan Waqaf Malaysia (YWM) dekat ywm.gov.my/wakaf-online
+Boleh buat sumbangan wakaf tunai secara sekali gus atau potongan bulanan untuk projek kesihatan, pendidikan, dan ekonomi umat
+Penyata tahunan wakaf boleh dicetak terus dari portal untuk pelepasan cukai
+https://www.ywm.gov.my/wakaf-online
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 94,
+    siri: "Post-04",
+    no: 4,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hak Pengguna & KPDN`,
+    tajuk: `Failkan Tuntutan Ganti Rugi Ditipu Peniaga Kos RM5 (e-Tribunal KPDN)`,
+    tags: ["e-tribunal kpdn", "kpdn", "pengguna"],
+    link: "https://ttpm.kpdn.gov.my/",
+    post: `Just a simple tips..Kena tipu beli barang rosak atau servis kedai tak siap, tahu tak boleh tuntut di Tribunal kos RM5 je?⚖️
+👇👇👇`,
+    komen: `Tak perlu upah peguam mahal..buka portal rasmi Tribunal Tuntutan Pengguna Malaysia (TTPM) bawah KPDN dekat ttpm.kpdn.gov.my
+Daftar akaun dan failkan Borang 1 secara online dengan fi pemfailan RM5 sahaja untuk tuntutan pengguna sehingga RM50,000
+Simpan semua resit pembayaran dan perbualan WhatsApp sebagai bukti
+https://ttpm.kpdn.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 95,
+    siri: "Post-04",
+    no: 5,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hak Pengguna & Belanja Harian`,
+    tajuk: `Buat Aduan Kedai Tak Letak Tanda Harga Atau Sorok Barang (EzADU KPDN)`,
+    tags: ["belanja", "ezadu kpdn", "harian", "pengguna"],
+    link: "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.ezadu&hl=ms",
+    post: `Simple tips hari ni..Jumpa kedai makan cekik darah tak letak tanda harga atau sorok minyak paket, nak report kat mana?🛒
+👇👇👇`,
+    komen: `Install aplikasi rasmi ezAdu KPDN dekat phone atau layari portal eaduan.kpdn.gov.my
+Tangkap gambar bukti berserta resit dan lokasi kedai..pegawai penguat kuasa KPDN negeri akan turun buat pemeriksaan dan ambil tindakan
+Sangat mudah untuk jaga hak kita sebagai pengguna
+https://play.google.com/store/apps/details?id=my.gov.onegovappstore.ezadu&hl=ms
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 96,
+    siri: "Post-04",
+    no: 6,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Rumah & Pembinaan`,
+    tajuk: `Semak Kontraktor Ubah Suai Rumah Berdaftar Sah (CIMS CIDB)`,
+    tags: ["cims cidb", "pembinaan", "rumah"],
+    link: "https://cims.cidb.gov.my/smis/regcontractor/reglocalsearchcontractor.vbhtml",
+    post: `Just a simple tips..Nak renovate rumah, macam mana nak check kontraktor tu berdaftar sah dengan CIDB sebelum bayar deposit?🧱
+👇👇👇`,
+    komen: `Buka direktori carian rasmi Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB) dekat cims.cidb.gov.my
+Taip nama syarikat kontraktor dan pilih negeri..terus nampak gred pendaftaran CIDB dan tarikh luput sijil perakuan mereka
+Elakkan risiko rumah terbengkalai ditipu kontraktor tidak berdaftar
+https://cims.cidb.gov.my/smis/regcontractor/reglocalsearchcontractor.vbhtml
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 97,
+    siri: "Post-04",
+    no: 7,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hartanah & Anti-Scam`,
+    tajuk: `Semak Nombor REN Ejen Hartanah Berdaftar Sebelum Booking Rumah (LPPEH)`,
+    tags: ["anti-scam", "hartanah", "lppeh"],
+    link: "https://lpeph.gov.my/search-listing",
+    post: `Simple tips malam ni..Nak beli atau sewa rumah, macam mana nak check ejen hartanah (REN) tu sah ke broker haram?🏠
+👇👇👇`,
+    komen: `Buka portal rasmi Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPPEH) dekat lpeph.gov.my/search-listing
+Masukkan nama ejen atau nombor tag REN/REA mereka..pastikan nama dan firma agensi hartanah keluar dalam rekod rasmi sebelum bayar duit booking
+Dan ingat, duit booking wajib masuk ke akaun bank agensi, bukan akaun peribadi
+https://lpeph.gov.my/search-listing
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 98,
+    siri: "Post-04",
+    no: 8,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Perundangan & Hartanah`,
+    tajuk: `Semak Peguam & Firma Guaman Sah Berdaftar (Malaysian Bar Directory)`,
+    tags: ["hartanah", "malaysian bar directory", "perundangan"],
+    link: "https://legaldirectory.malaysianbar.org.my/",
+    post: `Just a simple tips..Nak lantik peguam uruskan jual beli rumah atau pusaka, macam mana nak check peguam tu sah bertauliah?📜
+👇👇👇`,
+    komen: `Buka direktori rasmi Majlis Peguam Malaysia (Malaysian Bar Legal Directory) dekat legaldirectory.malaysianbar.org.my
+Taip nama peguam atau nama firma guaman..kita boleh sahkan mereka mempunyai sijil amalan guaman yang sah dan aktif
+Langkah penting sebelum menandatangani perjanjian bernilai ratusan ribu ringgit
+https://legaldirectory.malaysianbar.org.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 99,
+    siri: "Post-04",
+    no: 9,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Kesihatan & Keselamatan`,
+    tajuk: `Semak Doktor Perubatan & Pakar Berdaftar Sah Di Malaysia (MMC MeRITS)`,
+    tags: ["keselamatan", "kesihatan", "mmc merits"],
+    link: "https://merits.mmc.gov.my/search",
+    post: `Simple tips hari ni..Sebelum buat rawatan dekat klinik swasta atau estetik, macam mana nak check doktor tu berdaftar KKM?🩺
+👇👇👇`,
+    komen: `Buka portal rasmi Majlis Perubatan Malaysia (Malaysian Medical Council) dekat merits.mmc.gov.my/search
+Taip nama doktor tersebut untuk menyemak nombor pendaftaran penuh dan Sijil Amalan Tahunan (APC) mereka yang terkini
+Pastikan hanya dapatkan rawatan daripada pengamal perubatan bertauliah
+https://merits.mmc.gov.my/search
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 100,
+    siri: "Post-04",
+    no: 10,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kesihatan & Kepenggunaan`,
+    tajuk: `Semak Nombor MAL Ubat, Suplemen & Kosmetik Lulus KKM (NPRA KKM)`,
+    tags: ["kepenggunaan", "kesihatan", "npra kkm"],
+    link: "https://www.npra.gov.my/index.php/my/consumers-2/maklumat/carian-produk-berdaftar-bernotifikasi.html",
+    post: `Just a simple tips..Nak beli ubat, vitamin atau skincare online, macam mana nak check nombor MAL/NOT tu betul lulus KKM?💊
+👇👇👇`,
+    komen: `Buka halaman carian rasmi Bahagian Regulatori Farmasi Negara (NPRA KKM) dekat npra.gov.my
+Masukkan nombor pendaftaran MAL (untuk ubat/suplemen) atau nombor NOT (untuk kosmetik) untuk pastikan ia sah berdaftar dan tidak dibatalkan kerana racun berjadual
+Sayangi buah pinggang dan kesihatan keluarga kita
+https://www.npra.gov.my/index.php/my/consumers-2/maklumat/carian-produk-berdaftar-bernotifikasi.html
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 101,
+    siri: "Post-04",
+    no: 11,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Hartanah & Sewa Rumah`,
+    tajuk: `Matikan Setem Perjanjian Sewa Rumah Online Tanpa Ke LHDN (STAMPS LHDN)`,
+    tags: ["hartanah", "rumah", "sewa", "stamps lhdn"],
+    link: "https://stamps.hasil.gov.my/stamps/",
+    post: `Simple tips malam ni..Buat perjanjian sewa rumah (Tenancy Agreement), macam mana nak matikan setem LHDN secara online je?🏠
+👇👇👇`,
+    komen: `Tak perlu lagi beratur dekat pejabat LHDN..buka portal rasmi STAMPS LHDN dekat stamps.hasil.gov.my/stamps/
+Daftar akaun individu, muat naik dokumen perjanjian sewa rumah dalam PDF, buat bayaran duti setem secara online, dan terus cetak Sijil Setem rasmi
+Perjanjian sewa rumah terus sah di sisi undang-undang
+https://stamps.hasil.gov.my/stamps/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 102,
+    siri: "Post-04",
+    no: 12,
+    topik: "Kewangan & Jimat",
+    kategori: `Bisnes & Cukai LHDN`,
+    tajuk: `Portal Rasmi Pengurusan e-Invois Percuma Untuk Peniaga (MyInvois LHDN)`,
+    tags: ["bisnes", "cukai", "lhdn", "myinvois lhdn"],
+    link: "https://myinvois.hasil.gov.my/",
+    post: `Just a simple tips..Untuk rakan-rakan peniaga dan pemilik syarikat, dekat portal rasmi mana nak keluar & semak e-Invois LHDN?🧾
+👇👇👇`,
+    komen: `Layari portal rasmi MyInvois Lembaga Hasil Dalam Negeri dekat myinvois.hasil.gov.my (log masuk guna akaun MyTax)
+Peniaga boleh jana, hantar, dan simpan rekod e-Invois secara percuma terus melalui portal rasmi kerajaan tanpa wajib beli sistem perakaunan mahal
+Rekod jualan dan perbelanjaan bisnes jadi lebih kemas
+https://myinvois.hasil.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 103,
+    siri: "Post-04",
+    no: 13,
+    topik: "Kewangan & Jimat",
+    kategori: `Kewangan & Perundangan`,
+    tajuk: `Semak Status Kebankrapan Individu Atau Syarikat Online (e-Insolvensi MdI)`,
+    tags: ["e-insolvensi mdi", "kewangan", "perundangan"],
+    link: "https://e-insolvensi.mdi.gov.my/",
+    post: `Simple tips hari ni..Macam mana nak buat carian rasmi status insolvensi atau kebankrapan individu & syarikat secara online?📂
+👇👇👇`,
+    komen: `Buka portal rasmi e-Insolvensi bawah Jabatan Insolvensi Malaysia (MdI) dekat e-insolvensi.mdi.gov.my
+Daftar sebagai pengguna untuk membuat carian rasmi status kebankrapan individu atau status penggulungan syarikat serta urusan bayaran ansuran MdI
+Semua dokumen Keputusan Carian Rasmi boleh dimuat turun terus
+https://e-insolvensi.mdi.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 104,
+    siri: "Post-04",
+    no: 14,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Perkhidmatan Awam & Rakyat`,
+    tajuk: `Saluran Aduan Rasmi Jika Urusan Agensi Kerajaan Bermasalah (SISPAA BPA)`,
+    tags: ["awam", "perkhidmatan", "rakyat", "sispaa bpa"],
+    link: "https://pcb.spab.gov.my/",
+    post: `Just a simple tips..Kalau ada urusan dekat jabatan kerajaan yang tersangkut lama tanpa jawapan, nak salur aduan kat mana?🏛️
+👇👇👇`,
+    komen: `Layari portal Sistem Pengurusan Aduan Awam (SISPAA) di bawah Biro Pengaduan Awam, Jabatan Perdana Menteri dekat pcb.spab.gov.my
+Pilih kementerian atau agensi berkaitan dan nyatakan butiran kes dengan lengkap..setiap aduan rasmi SISPAA dipantau mengikut piagam masa penyelesaian
+Saluran rasmi yang sangat berkesan untuk maklum balas perkhidmatan awam
+https://pcb.spab.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 105,
+    siri: "Post-04",
+    no: 15,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Dokumen Diri & JPN`,
+    tajuk: `Mohon Ganti MyKad (IC) Rosak Cip Secara Online (Sistem Gantian MyKad JPN)`,
+    tags: ["diri", "dokumen", "sistem gantian mykad jpn"],
+    link: "https://gantianmykad.jpn.gov.my/",
+    post: `Simple tips malam ni..Cip MyKad (IC) kita rosak tak boleh baca dekat bank, macam mana nak mohon ganti IC baru secara online?🪪
+👇👇👇`,
+    komen: `Buka portal rasmi Sistem Gantian MyKad Jabatan Pendaftaran Negara dekat gantianmykad.jpn.gov.my
+Mohon gantian kad pengenalan rosak atau gantian biasa secara online dan pilih cawangan JPN untuk kutipan..datang kaunter terus ambil sahaja
+Jimat masa tak perlu tunggu dua kali dekat pejabat JPN
+https://gantianmykad.jpn.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 106,
+    siri: "Post-04",
+    no: 16,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Perjalanan & Imigresen`,
+    tajuk: `Renew Pasport Antarabangsa Malaysia Online Dari Rumah (MyOnline Pasport)`,
+    tags: ["imigresen", "myonline pasport", "perjalanan"],
+    link: "https://www.imi.gov.my/index.php/pengumuman/myonline-passport/",
+    post: `Just a simple tips..Pasport nak tamat tempoh, macam mana nak renew pasport Malaysia secara online dari rumah je?🛂
+👇👇👇`,
+    komen: `Layari laman rasmi Jabatan Imigresen Malaysia bahagian MyOnline Pasport dekat imi.gov.my
+Muat naik gambar pasport latar belakang putih mengikut spesifikasi, buat bayaran online, dan pilih pejabat Imigresen untuk ambil pasport baharu
+Jauh lebih cepat berbanding walk-in dari awal pagi
+https://www.imi.gov.my/index.php/pengumuman/myonline-passport/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 107,
+    siri: "Post-04",
+    no: 17,
+    topik: "Kewangan & Jimat",
+    kategori: `Kewangan, Bank & Takaful`,
+    tajuk: `Saluran Aduan Rasmi Isu Tuntutan Insurans/Takaful & Bank (BNMLINK)`,
+    tags: ["bank", "bnmlink", "kewangan,", "takaful"],
+    link: "https://bnmlink.bnm.gov.my/",
+    post: `Simple tips hari ni..Ada isu tuntutan insurans/takaful atau transaksi bank yang tak selesai, nak lapor dekat portal mana?🏦
+👇👇👇`,
+    komen: `Selepas buat aduan rasmi kepada pihak bank atau syarikat takaful tetapi jawapan tidak memuaskan, buka portal BNMLINK Bank Negara dekat bnmlink.bnm.gov.my
+Isi borang web eLINK berserta surat maklum balas bank/insurans tadi untuk semakan dan campur tangan pengawalseliaan Bank Negara Malaysia
+Simpan pautan rasmi ni untuk perlindungan hak kewangan kita
+https://bnmlink.bnm.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 108,
+    siri: "Post-04",
+    no: 18,
+    topik: "Anti-Scam & Keselamatan",
+    kategori: `Kenderaan & Keselamatan`,
+    tajuk: `Isi Minyak Petronas & Bayar Terus Dari Dalam Kereta (Setel)`,
+    tags: ["kenderaan", "keselamatan", "setel"],
+    link: "https://www.setel.com/features/setel-lite",
+    post: `Just a simple tips..Bawa anak kecil dalam kereta waktu malam, macam mana nak bayar minyak Petronas tanpa perlu ke kaunter?⛽
+👇👇👇`,
+    komen: `Install aplikasi rasmi Setel (atau Setel Lite untuk telefon storan kecil) dekat phone
+Sampai je dekat stesen Petronas, pilih nombor pam terus dari dalam kereta..pintu kereta kekal berkunci, kita cuma keluar untuk angkat pam minyak sahaja
+Mata ganjaran Mesra pun masuk secara automatik setiap kali isi minyak
+https://www.setel.com/features/setel-lite
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 109,
+    siri: "Post-04",
+    no: 19,
+    topik: "Jalan Raya & Trafik",
+    kategori: `Kenderaan Elektrik & Perjalanan`,
+    tajuk: `Cari Lokasi Stesen Pengecas Kereta Elektrik (EV) Seluruh Malaysia (PlugShare)`,
+    tags: ["elektrik", "kenderaan", "perjalanan", "plugshare"],
+    link: "https://www.plugshare.com/",
+    post: `Simple tips malam ni..Bagi yang baru pakai kereta elektrik (EV), macam mana nak tahu lokasi charger EV sepanjang highway?🔌
+👇👇👇`,
+    komen: `Install aplikasi PlugShare dekat phone atau buka peta interaktif dekat plugshare.com
+Dia tunjukkan semua lokasi stesen pengecas EV di R&R lebuh raya, hotel, dan pusat beli-belah seluruh Malaysia berserta ulasan terkini pengguna lain
+Senang nak rancang tempat berhenti cas bila balik kampung jauh
+https://www.plugshare.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 110,
+    siri: "Post-04",
+    no: 20,
+    topik: "Kewangan & Jimat",
+    kategori: `Perjalanan Luar Negara & Kewangan`,
+    tajuk: `Kad Multi-Mata Wang Tukar Duit Travel & Umrah Murah (Wise)`,
+    tags: ["kewangan", "luar", "negara", "perjalanan", "wise"],
+    link: "https://wise.com/my/card",
+    post: `Just a simple tips..Nak pergi umrah atau bercuti luar negara, kad apa paling jimat untuk tukar mata wang asing dekat phone?💳
+👇👇👇`,
+    komen: `Mohon kad debit multi-mata wang Wise melalui aplikasi rasmi atau laman web wise.com/my/card (berlesen bawah Bank Negara Malaysia)
+Kita boleh tambah nilai dalam Ringgit (MYR) dan tukar terus ke Riyal, Yen, Pound, atau Rupiah mengikut kadar tukaran semasa yang sangat rendah
+Tak perlu bawa wang tunai tebal-tebal dalam dompet masa mengembara
+https://wise.com/my/card
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 111,
+    siri: "Post-04",
+    no: 21,
+    topik: "Kewangan & Jimat",
+    kategori: `Kewangan & Gaya Hidup`,
+    tajuk: `Kira & Bahagi Kos Belanja Makan Atau Bercuti Bersama Kawan (Splitwise)`,
+    tags: ["gaya", "hidup", "kewangan", "splitwise"],
+    link: "https://www.splitwise.com/",
+    post: `Simple tips hari ni..Pergi bercuti ramai-ramai dengan kawan, macam mana nak kira kongsi duit minyak, makan & hotel dengan adil?🧮
+👇👇👇`,
+    komen: `Install apps percuma Splitwise dekat phone melalui splitwise.com dan buat satu grup percutian
+Setiap kali ada orang dulukan bayar makan atau tol, rekod je dalam apps tu..hujung trip nanti dia automatik kirakan siapa kena bayar balik pada siapa
+Tak ada lagi isu salah kira atau segan nak tuntut baki duit kawan
+https://www.splitwise.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 112,
+    siri: "Post-04",
+    no: 22,
+    topik: "Kewangan & Jimat",
+    kategori: `Ilmu Bahasa & Pendidikan`,
+    tajuk: `Belajar Bahasa Arab, Inggeris & Mandarin 5 Minit Sehari Percuma (Duolingo)`,
+    tags: ["bahasa", "duolingo", "ilmu", "pendidikan"],
+    link: "https://apps.apple.com/us/app/duolingo-learn-languages/id570060128",
+    post: `Just a simple tips..Nak belajar bahasa baharu macam Bahasa Arab, Mandarin atau Inggeris 5 minit sehari secara percuma di phone?🗣️
+👇👇👇`,
+    komen: `Install aplikasi pembelajaran bahasa paling popular di dunia iaitu Duolingo dekat phone
+Cara belajar dia dibuat macam main game..kita belajar kosa kata, sebutan, dan ayat harian secara santai 5 ke 10 minit sahaja setiap hari
+Sangat bagus untuk kita dan anak-anak kuasai bahasa ketiga
+https://apps.apple.com/us/app/duolingo-learn-languages/id570060128
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 113,
+    siri: "Post-04",
+    no: 23,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Kerjaya & Kemahiran Baharu`,
+    tajuk: `Belajar Kursus Profesional Universiti & Google Secara Online (Coursera)`,
+    tags: ["baharu", "coursera", "kemahiran", "kerjaya"],
+    link: "https://www.coursera.org/",
+    post: `Simple tips malam ni..Nak tambah ilmu kemahiran kerja daripada Google, IBM atau universiti luar negara dari rumah je?🎓
+👇👇👇`,
+    komen: `Buka platform pembelajaran global coursera.org atau install aplikasi Coursera dekat phone
+Ada ribuan kursus dalam bidang analisis data, AI, pengurusan projek, dan pemasaran digital..banyak kursus boleh ditonton secara percuma (Audit Mode)
+Pelaburan ilmu terbaik untuk tingkatkan nilai kerjaya kita
+https://www.coursera.org/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 114,
+    siri: "Post-04",
+    no: 24,
+    topik: "Kewangan & Jimat",
+    kategori: `Pendidikan Tinggi & Sains`,
+    tajuk: `Enjin Jawapan Pengiraan Matematik, Fizik & Kimia (WolframAlpha)`,
+    tags: ["pendidikan", "sains", "tinggi", "wolframalpha"],
+    link: "https://apps.apple.com/us/app/wolframalpha/id548861535",
+    post: `Just a simple tips..Anak belajar dekat kolej atau sekolah menengah, enjin carian apa boleh kira soalan Sains & Matematik sukar?🔬
+👇👇👇`,
+    komen: `Perkenalkan enjin pengiraan pintar WolframAlpha dekat laman web wolframalpha.com atau aplikasi telefonnya
+Berbeza dengan enjin carian biasa, ia terus mengira formula Kalkulus, Algebra, Kimia, Fizik, dan Statistik dengan jawapan serta graf yang tepat
+Sangat membantu pelajar universiti dan sekolah memahami jalan kerja
+https://apps.apple.com/us/app/wolframalpha/id548861535
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 115,
+    siri: "Post-04",
+    no: 25,
+    topik: "Tools & Teknologi",
+    kategori: `Internet & Kajian Maklumat`,
+    tajuk: `Tengok Semula Rupa Laman Web Lama Atau Artikel Yang Dah Dipadam (Wayback Machine)`,
+    tags: ["internet", "kajian", "maklumat", "wayback machine"],
+    link: "https://web.archive.org/",
+    post: `Simple tips hari ni..Pernah tak nak baca balik artikel atau laman web lama tapi bila klik dah hilang atau kena padam?🕰️
+👇👇👇`,
+    komen: `Buka perpustakaan arkib digital dunia iaitu Wayback Machine dekat web.archive.org
+Masukkan link laman web yang dah hilang tu..kemudian pilih tarikh dan tahun pada kalendar untuk tengok tangkapan asal laman web tersebut masa dulu
+Lebih 600 bilion halaman web sejak tahun 1996 disimpan secara percuma di sini
+https://web.archive.org/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 116,
+    siri: "Post-04",
+    no: 26,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Komputer & Video Tutorial`,
+    tajuk: `Rakam Skrin Laptop Tanpa Had Masa & Tanpa Watermark (OBS Studio)`,
+    tags: ["komputer", "obs studio", "tutorial", "video"],
+    link: "https://obsproject.com/",
+    post: `Just a simple tips..Nak rekod skrin laptop (screen recording) untuk buat video tutorial kerja tanpa keluar watermark?🖥️
+👇👇👇`,
+    komen: `Muat turun perisian sumber terbuka OBS Studio daripada laman rasmi obsproject.com (untuk Windows dan Mac)
+Ia 100% percuma, tiada had masa rakaman, tiada logo watermark langsung, dan boleh rakam skrin bersama wajah webcam dengan kualiti HD penuh
+Perisian standard yang digunakan oleh kebanyakan pendidik dan pencipta kandungan
+https://obsproject.com/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 117,
+    siri: "Post-04",
+    no: 27,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Komputer & Pelajar`,
+    tajuk: `Perisian Alternatif Word, Excel & PowerPoint 100% Percuma (LibreOffice)`,
+    tags: ["komputer", "libreoffice", "pelajar"],
+    link: "https://www.libreoffice.org/",
+    post: `Simple tips malam ni..Beli laptop baharu untuk anak belajar tapi tak mampu nak bayar langganan tahunan Microsoft Office?💻
+👇👇👇`,
+    komen: `Muat turun perisian pejabat sumber terbuka LibreOffice dekat laman rasmi libreoffice.org
+Lengkap dengan fungsi Writer (macam Word), Calc (macam Excel), dan Impress (macam PowerPoint) yang boleh buka dan simpan fail dokumen Microsoft dengan lancar
+100% percuma selamanya tanpa perlu guna software cetak rompak yang berisiko virus
+https://www.libreoffice.org/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 118,
+    siri: "Post-04",
+    no: 28,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Fotografi & Telefon Pintar`,
+    tajuk: `Aplikasi Edit Gambar Profesional Keluaran Google 100% Percuma (Snapseed)`,
+    tags: ["fotografi", "pintar", "snapseed", "telefon"],
+    link: "https://apps.apple.com/us/app/snapseed-photo-editor/id439438619",
+    post: `Just a simple tips..Cari apps edit gambar dekat phone yang power tapi 100% free tanpa iklan & tanpa langganan bulanan?📸
+👇👇👇`,
+    komen: `Install aplikasi rasmi Snapseed yang dibangunkan oleh Google dekat iPhone atau Android
+Lengkap dengan hampir 30 alatan suntingan gambar profesional termasuk fungsi 'Healing' untuk padam objek tepi gambar dan pelaras cahaya terpilih
+Langsung tiada iklan pop-up dan tiada bayaran langganan
+https://apps.apple.com/us/app/snapseed-photo-editor/id439438619
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 119,
+    siri: "Post-04",
+    no: 29,
+    topik: "Tools & Teknologi",
+    kategori: `Keluarga & Produktiviti`,
+    tajuk: `Kongsi Senarai Barang Dapur & Tugasan Harian Bersama Pasangan (Microsoft To Do)`,
+    tags: ["keluarga", "microsoft to do", "produktiviti"],
+    link: "https://apps.apple.com/us/app/microsoft-to-do/id1212616790",
+    post: `Simple tips hari ni..Selalu terlupa barang dapur yang pasangan pesan, macam mana nak buat checklist kongsi dua-dua phone?📝
+👇👇👇`,
+    komen: `Install aplikasi percuma Microsoft To Do dekat phone kita dan phone pasangan
+Buat satu senarai 'Barang Dapur' dan tekan butang 'Share list'..bila isteri tambah barang dekat rumah, senarai tu terus keluar dekat phone suami masa di kedai
+Siap boleh tanda 'tick' bila dah masuk bakul supaya tak tertinggal satu pun
+https://apps.apple.com/us/app/microsoft-to-do/id1212616790
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
+  {
+    id: 120,
+    siri: "Post-04",
+    no: 30,
+    topik: "Keluarga & Gaya Hidup",
+    kategori: `Bantuan Kerajaan & Rakyat`,
+    tajuk: `Semak Maklumat & Kelayakan Inisiatif Subsidi Rakyat (Portal BUDI Rakyat)`,
+    tags: ["bantuan", "kerajaan", "portal budi rakyat", "rakyat"],
+    link: "https://www.budirakyat.gov.my/",
+    post: `Just a simple tips..Nak semak kelayakan & maklumat rasmi program bantuan subsidi kerajaan, dekat portal mana yang sahih?🇲🇾
+👇👇👇`,
+    komen: `Pastikan hanya rujuk portal rasmi kerajaan di bawah Kementerian Kewangan dekat budirakyat.gov.my (dan budimadani.gov.my)
+Boleh buat semakan kelayakan secara terus menggunakan nombor kad pengenalan tanpa perlu melalui mana-mana pautan pihak ketiga yang meragukan
+Kongsikan kepada ahli keluarga supaya terhindar daripada laman web pancingan data
+https://www.budirakyat.gov.my/
+
+Moga bermanfaat
+simpanemasfizikal.com
+Taufik | Dealer Public Gold`,
+  },
 ];
 
 // Nama siri pilihan (papar di tab). Contoh: { "Post-01": "Tips Digital" }
 export const namaSiri = {}
 
 // Siri yang dapat tab sendiri. Siri lain automatik masuk Archive.
-export const tabUtama = ["Post-01", "Post-02"]
+export const tabUtama = ["Post-01", "Post-02", "Post-03", "Post-04"]
