@@ -2,7 +2,7 @@ name: Deploy ke GitHub Pages
 
 on:
   push:
-    branches: [main, claude/facebook-vault-structure-tbxysd]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
