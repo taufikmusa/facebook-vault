@@ -37,15 +37,35 @@ tools/docx_ke_data.py            docx -> blok JS (baca document.xml terus, tiada
   tags: ["google translate", "teknologi"],
   link: "https://...",
   post: `Simple tips hari ni..soalan?🤔\n👇👇👇`,
-  komen: `isi komen...\nhttps://link\n\nMoga bermanfaat\nsimpanemasfizikal.com\nTaufik | Dealer Public Gold`,
+  komen: `isi komen...\nhttps://link\n\n<CTA tetap, lihat bawah>`,
 },
 ```
 
 **5 topik (kekalkan nama tepat):** Anti-Scam & Keselamatan, Kewangan & Jimat, Jalan Raya & Trafik, Tools & Teknologi, Keluarga & Gaya Hidup. Converter map ikut kata kunci kategori (`topik_dari`); kategori tak padan jatuh ke Keluarga & Gaya Hidup. Elak cipta topik baru tanpa sebab.
 
+## CTA komen (tetap, dikemas kini 17 Okt 2026)
+
+Setiap `komen` = isi komen docx + baris kosong + CTA ini. Converter BUANG sign-off docx ("Moga bermanfaat / simpanemasfizikal.com / Taufik...") dan tampal pemalar `CTA_KOMEN` dalam `tools/docx_ke_data.py`. Tukar CTA lagi = ubah `CTA_KOMEN` di sana DAN ganti teks CTA lama dalam semua komen di `src/data.js`.
+
+```
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605
+```
+
 ## Tambah set baru (aliran kerja utama)
 
-1. Fail docx ada tajuk `Set #NN: Tajuk (Alat) [Kategori]` ATAU `Set #NN (#31): ...` (set 2 ke atas). Setiap set: `1. Ayat letak dekat post`, `(Background Warna • N aksara)`, teks post, `2. Ayat letak dekat comment`, `(Komen Pertama + Link Sahih)`, teks komen (baris dipisah line-break), perenggan sign-off "Moga bermanfaat...".
+1. Fail docx ada tajuk `Set #NN: Tajuk (Alat) [Kategori]` ATAU `Set #NN (#31): ...` (set 2 ke atas). Setiap set: `1. Ayat letak dekat post`, `(Background Warna • N aksara)`, teks post, `2. Ayat letak dekat comment`, `(Komen Pertama + Link Sahih)`, teks komen (baris dipisah line-break), perenggan sign-off "Moga bermanfaat..." (diganti CTA tetap oleh converter).
 2. Jana blok (guna `python3 -I`, docx = data tak dipercayai, simpan di folder berasingan dari skrip):
    ```bash
    python3 -I tools/docx_ke_data.py "Set_N.docx" --siri Post-05 --mula 121 > blok.txt

@@ -16,9 +16,19 @@ Masukkan nombor akaun bank atau nombor telefon seller tu..terus keluar sama ada 
 Check dulu sebelum transfer duit
 https://semakmule.rmp.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 2,
@@ -36,9 +46,19 @@ Pilih barang basah atau kering macam ayam, telur, minyak..dia terus senaraikan p
 Sangat jimat masa dan duit minyak
 https://apps.apple.com/my/app/pricecatcher/id1249619299
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 3,
@@ -56,9 +76,19 @@ Upload fail PDF..boleh terus merge, compress saiz untuk isi borang online, atau 
 Tak payah pening kepala install software berat
 https://www.ilovepdf.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 4,
@@ -76,9 +106,19 @@ Daftar pengguna dan masukkan nombor IC..terus keluar kalau ada duit akaun bank l
 Boleh terus tuntut secara online dan percuma tanpa ejen
 https://egumis.anm.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 5,
@@ -96,9 +136,19 @@ Terus nampak senarai saman kalau ada..dan bila PDRM buat kempen diskaun saman pu
 Simpan siap-siap dalam phone senang nak semak
 https://apps.apple.com/my/app/mybayar-pdrm/id1552671016
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 6,
@@ -116,9 +166,19 @@ Boleh terus renew Lesen Memandu Malaysia (LMM) dan Cukai Jalan (LKM) secara digi
 Tak perlu lagi ambil cuti semata-mata nak beratur panjang
 https://apps.apple.com/us/app/myjpj/id6443821311
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 7,
@@ -136,9 +196,19 @@ Pilih lebuh raya macam PLUS Utara-Selatan, Karak, NKVE, atau Jambatan Pulau Pina
 Senang nak rancang waktu gerak supaya tak sangkut jem teruk
 https://www.jalanow.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 8,
@@ -156,9 +226,19 @@ Upload gambar yang kita tangkap..AI dia terus buang latar belakang secara automa
 Jimat banyak masa dan kos kedai gambar
 https://www.photoroom.com/tools/background-remover
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 9,
@@ -176,9 +256,19 @@ Buka web pairdrop.net dekat browser kedua-dua peranti..terus keluar nama phone/P
 Sebiji macam AirDrop tapi boleh guna untuk semua jenama
 https://pairdrop.net/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 10,
@@ -196,9 +286,19 @@ Bila guna WiFi atau hotspot yang sama, boleh terus hantar berpuluh video saiz be
 Tiada iklan dan kualiti video kekal tajam
 https://localsend.org/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 11,
@@ -216,9 +316,19 @@ Paparan dan fungsi dia hampir sama macam Adobe Photoshop..boleh buka fail PSD, A
 Tak perlu install software berat dalam laptop
 https://www.photopea.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 12,
@@ -236,9 +346,19 @@ Dalam satu web ni ada puluhan fungsi percuma untuk edit PDF, kecilkan saiz video
 Sangat membantu untuk kerja pejabat dan bisnes
 https://tinywow.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 13,
@@ -256,9 +376,19 @@ Lepas daftar, boleh terus semak baki simpanan, penyata tahunan, status pendaftar
 Tak perlu lagi kemas kini buku secara manual dekat kaunter
 https://www.thijari.com.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 14,
@@ -276,9 +406,19 @@ Boleh semak jumlah unit amanah, tengok agihan dividen, dan set Auto Labur bulana
 Urusan simpanan kita dan anak-anak jadi jauh lebih mudah
 https://www.myasnb.com.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 15,
@@ -296,9 +436,19 @@ Log masuk guna nombor IC..dekat dashboard tu terus boleh tengok status tunggakan
 Semak awal supaya tak sangkut dekat imigresen airport nanti
 https://mytax.hasil.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 16,
@@ -316,9 +466,19 @@ Boleh terus buka atau tambah simpanan akaun Simpan SSPN untuk anak-anak dan muat
 Yang ada pinjaman PTPTN pun boleh semak penyata baki terus dalam ni
 https://apps.apple.com/my/app/myptptn/id1601433091
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 17,
@@ -336,9 +496,19 @@ Paste link tadi dekat bahagian URL..dia akan imbas guna lebih 70 enjin keselamat
 Langkah mudah untuk elak duit bank kena sedut
 https://www.virustotal.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 18,
@@ -356,9 +526,19 @@ Taip alamat emel kita dan tekan semak..dia terus senaraikan kalau emel kita pern
 Kalau keluar warna merah, cepat-cepat tukar password emel dan aktifkan 2FA
 https://haveibeenpwned.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 19,
@@ -376,9 +556,19 @@ Masukkan je nombor tracking mana-mana kurier Malaysia atau luar negara..dia auto
 Tak payah buka sepuluh website kurier berlainan
 https://apps.apple.com/us/app/17track-package-tracker/id1004956012
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 20,
@@ -396,9 +586,19 @@ Sebaik sahaja buka, dia terus kira kelajuan muat turun (Mbps) internet kita seca
 Senang nak tahu sama ada masalah line telco atau router WiFi
 https://fast.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 21,
@@ -416,9 +616,19 @@ Dalam apps ni boleh terus semak baki Akaun Persaraan, Akaun Sejahtera & Akaun Fl
 Nak cetak penyata KWSP untuk beli rumah pun boleh terus download
 https://apps.apple.com/my/app/kwsp-i-akaun/id1660153573
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 22,
@@ -436,9 +646,19 @@ Daftar kali pertama secara online dan log masuk..boleh terus muat turun laporan 
 Bagus semak setahun sekali untuk pastikan tiada rekod tersangkut
 https://eccris.bnm.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 23,
@@ -456,9 +676,19 @@ Daftar preskripsi ubat susulan..boleh pilih sama ada nak Ubat Melalui Pos (UMP) 
 Sangat memudahkan urusan ibu bapa warga emas
 https://apps.apple.com/my/app/myubat/id1529983342
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 24,
@@ -476,9 +706,19 @@ Pilih negeri dan daerah kita..dia tunjuk bacaan terkini paras air sungai sama ad
 Simpan link ni siap-siap untuk persediaan musim tengkujuh
 https://publicinfobanjir.water.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 25,
@@ -496,9 +736,19 @@ Boleh terus scan barcode pada bungkusan makanan atau taip nama produk/restoran u
 Beli barang dapur dan makan luar pun rasa lebih yakin
 https://play.google.com/store/apps/details?id=com.serunai.verifyhalal
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 26,
@@ -516,9 +766,19 @@ Pilih Klinik Kesihatan kerajaan berdekatan untuk pemeriksaan kesihatan, saringan
 Datang ikut masa yang ditempah, tak perlu tunggu lama dari awal pagi
 https://apps.apple.com/my/app/mysejahtera/id1504055630
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 27,
@@ -536,9 +796,19 @@ Halakan kamera dekat dokumen atau IC..dia automatik potong tepi gambar, cerahkan
 Hasil dia sebiji macam guna mesin pengimbas dekat kedai fotostat
 https://apps.apple.com/us/app/adobe-scan-pdf-doc-scanner/id1199564834
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 28,
@@ -556,9 +826,19 @@ Cari je template percuma ikut tema majlis kita..tukar nama, tarikh, dan lokasi k
 Tak ada asas grafik pun boleh buat poster nampak profesional
 https://www.canva.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 29,
@@ -576,9 +856,19 @@ Tekan menu Text -> Auto Captions dan pilih Bahasa Melayu..dalam beberapa saat di
 Tinggal betulkan ejaan sikit-sikit dan terus siap untuk upload
 https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 30,
@@ -596,9 +886,19 @@ Bila ada nombor tak dikenali masuk atau kita carian nombor tu, dia akan paparkan
 Lebih tenang nak angkat panggilan penting setiap hari
 https://apps.apple.com/us/app/truecaller-premium-caller-id/id448142450
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 31,
@@ -616,9 +916,19 @@ Halakan je kamera dekat kotak ubat, label makanan, atau menu..tulisan atas gamba
 Sangat senang bila pergi travel atau beli barang luar negara
 https://apps.apple.com/us/app/google-translate/id414706506
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 32,
@@ -636,9 +946,19 @@ Log masuk akaun Gmail yang sama..boleh terus tengok lokasi tepat atas peta dan t
 Siap boleh kunci skrin dari jauh kalau hilang dekat luar
 https://www.google.com/android/find/about
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 33,
@@ -656,9 +976,19 @@ Log masuk Apple ID kita..pilih peranti iPhone, iPad, atau AirPods kita untuk ten
 Kalau hilang dekat tempat awam, terus aktifkan 'Lost Mode' dekat situ
 https://www.icloud.com/find
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 34,
@@ -676,9 +1006,19 @@ Masukkan destinasi dan pukul berapa kita nak sampai..Waze akan kira corak trafik
 Siap bagi peringatan dekat phone bila dah sampai masa kena gerak
 https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 35,
@@ -696,9 +1036,19 @@ Kalau rumah dah pasang Smart Meter, kita siap boleh tengok graf penggunaan elekt
 Boleh juga tambah akaun bil rumah mak ayah di kampung untuk tolong bayarkan
 https://www.mytnb.com.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 36,
@@ -716,9 +1066,19 @@ Taip je arahan dalam Bahasa Melayu contohnya: 'Tuliskan surat rasmi kepada guru 
 Tinggal tukar nama dan tarikh, terus boleh cetak atau hantar
 https://apps.apple.com/us/app/chatgpt/id6448311069
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 37,
@@ -736,9 +1096,19 @@ Masukkan nombor IC kita dan tekan semak..terus keluar status sama ada 'Tiada Hal
 Sangat penting buat semakan awal supaya tak terkandas dekat kaunter airport
 https://sspi.imi.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 38,
@@ -756,9 +1126,19 @@ Log masuk MySTR guna nombor IC untuk semak status permohonan, tarikh pengkredita
 Semua urusan permohonan dan semakan adalah percuma
 https://bantuantunai.hasil.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 39,
@@ -776,9 +1156,19 @@ Isi borang makluman 'Balik Kampung' dengan tarikh pergi dan balik..atau guna unt
 Mudah dan terus sampai kepada bilik gerakan polis daerah
 https://apps.apple.com/my/app/volunteer-smartphone-patrol/id1118234031
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 40,
@@ -796,9 +1186,19 @@ Taip nama syarikat atau laman web pelaburan tu..terus boleh semak sama ada merek
 Ingat, semak dulu sebelum lebur duit simpanan titik peluh kita
 https://www.sc.com.my/investment-checker
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 41,
@@ -816,9 +1216,19 @@ Boleh tengok imej radar hujan terkini di seluruh Malaysia, amaran ribut petir me
 Senang nak rancang perjalanan jauh atau aktiviti luar bersama keluarga
 https://apps.apple.com/my/app/mycuaca/id955289490
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 42,
@@ -836,9 +1246,19 @@ Tangkap gambar kerosakan jalan, longkang tersumbat, atau pokok tumbang..kemudian
 Kita boleh semak status tindakan aduan terus dalam aplikasi tu
 https://play.google.com/store/apps/details?id=my.gov.onegovappstore.itegur&hl=en
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 43,
@@ -856,9 +1276,19 @@ Pilih plaza tol masuk dan plaza tol keluar untuk tengok kadar tambang tol tepat,
 Siap ada butang kecemasan SOS untuk hubungi PLUSRonda jika kereta rosak
 https://apps.apple.com/my/app/plus-app-official/id1439887531?l=ms
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 44,
@@ -876,9 +1306,19 @@ Daftar profil pencari kerja dan tapis jawatan kosong mengikut negeri, kelulusan,
 Tiada caj tersembunyi dan jauh lebih selamat daripada iklan kerja palsu
 https://myfuturejobs.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 45,
@@ -896,9 +1336,19 @@ Daftar akaun pemohon, isi maklumat akademik, dan pilih jawatan mengikut kelayaka
 Pastikan kemas kini permohonan sebelum tamat tempoh sah 1 tahun
 https://spa9.spa.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 46,
@@ -916,9 +1366,19 @@ Log masuk guna nombor IC dan kata laluan..terus boleh muat turun penyata gaji bu
 Simpan salinan PDF siap-siap dalam phone sebab sistem simpan rekod mengikut tempoh
 https://epenyatagaji-laporan.anm.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 47,
@@ -936,9 +1396,19 @@ Boleh tengok jadual penyelenggaraan berjadual, status pemulihan bekalan air meng
 Semak dulu dekat sini supaya sempat tadah air awal-awal
 https://www.airselangor.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 48,
@@ -956,9 +1426,19 @@ Taip je nombor penerbangan (contoh: MH8050)..kita terus nampak kedudukan kapal t
 Senang nak bajet masa gerak pergi jemput dekat KLIA
 https://www.flightradar24.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 49,
@@ -976,9 +1456,19 @@ Peta animasi dia tunjuk kelajuan angin, ketinggian ombak laut, arah ribut, dan p
 Aplikasi wajib ada untuk yang suka aktiviti luar dan laut
 https://apps.apple.com/us/app/windy-com/id1161387262
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 50,
@@ -996,9 +1486,19 @@ Semua username dan password disimpan secara sulit (encrypted)..kita cuma perlu i
 Percuma untuk kegunaan peribadi dekat phone dan juga laptop
 https://bitwarden.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 51,
@@ -1016,9 +1516,19 @@ Pastikan nombor siri kad TNG kita dah didaftarkan..kemudian boleh pilih tarikh p
 Dalam apps TNG eWallet pun boleh terus hantar penyata transaksi ke emel
 https://tngportal.touchngo.com.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 52,
@@ -1036,9 +1546,19 @@ Daftar nombor akaun rumah kita untuk terima e-Bil terus melalui emel atau WhatsA
 Elakkan bil terkumpul sampai beratus ringgit tanpa sedar
 https://www.iwk.com.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 53,
@@ -1056,9 +1576,19 @@ Pendaftaran keahlian adalah percuma untuk warganegara Malaysia..boleh akses ribu
 Jimat banyak kos beli buku sambil pupuk minat membaca anak-anak
 https://www.pnm.gov.my/index.php/pages/view/1228
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 54,
@@ -1076,9 +1606,19 @@ Masukkan gambar tadi..tarik pelaras kualiti sedikit sahaja dan saiz gambar terus
 Gambar diproses terus dalam browser kita, jadi privasi gambar terjamin
 https://squoosh.app/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 55,
@@ -1096,9 +1636,19 @@ Pusingkan je globe bumi 3D tu dan tekan mana-mana titik hijau..kita terus boleh 
 Sangat menarik untuk dengar suasana bahasa dan berita negara luar secara live
 https://radio.garden/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 56,
@@ -1116,9 +1666,19 @@ Dekat kotak carian (Search) atas tu, taip je perkataan macam 'resit', 'IC', 'sij
 Tak perlu lagi skrol galeri satu-satu sampai lenguh jari
 https://apps.apple.com/us/app/google-photos-backup-edit/id962194608
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 57,
@@ -1136,9 +1696,19 @@ Boleh isi borang permohonan awal secara atas talian atau semak status kelulusan 
 Lepas daftar online, hadir ke Pejabat Kebajikan Masyarakat daerah bersama dokumen sokongan
 https://ebantuanjkm.jkm.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 58,
@@ -1156,9 +1726,19 @@ Daftar akaun ibu bapa/penjaga untuk urusan pendaftaran kemasukan Tahun 1, kemas 
 Pastikan maklumat anak sentiasa dikemas kini bila KPM buka tempoh pendaftaran
 https://idme.moe.gov.my/login
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 59,
@@ -1176,9 +1756,19 @@ Hantar laporan rasmi melalui halaman aduan MCMC atau Forum Pengguna Komunikasi d
 Selalunya pihak penyedia perkhidmatan akan ambil tindakan jauh lebih pantas
 https://www.mcmc.gov.my/ms/make-a-complaint/make-a-complaint
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 60,
@@ -1196,9 +1786,19 @@ Cari nama perkhidmatan macam Maybank2u, Unifi, Maxis, CelcomDigi, atau WhatsApp.
 Jimat masa tak payah panik ingatkan telefon kita yang rosak
 https://downdetector.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 61,
@@ -1216,9 +1816,19 @@ Boleh terus semak penyata caruman bulanan Akta 4 dan Sistem Insurans Pekerjaan (
 Yang bekerja sendiri pun boleh mencarum Skim Keselamatan Sosial Pekerjaan Sendiri dalam apps ni
 https://apps.apple.com/my/app/prihatin/id1523496062
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 62,
@@ -1236,9 +1846,19 @@ Masukkan nombor hakmilik atau nombor akaun bil untuk semak jumlah cukai tanah at
 Siap boleh muat turun resit rasmi terus dalam bentuk PDF
 https://etanah.selangor.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 63,
@@ -1256,9 +1876,19 @@ Pilih majlis perbandaran (MPS, MBPJ, MBSA, MPK, DBKL dan lain-lain) serta tempoh
 Tak perlu lagi pening cari kedai jual kupon gores
 https://apps.apple.com/my/app/smart-selangor-parking/id1369995577
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 64,
@@ -1276,9 +1906,19 @@ Menyokong PBT di Lembah Klang, Perak, Kedah, Kelantan, Terengganu, Pahang, Neger
 Tak payah muat turun aplikasi berbeza setiap kali rentas negeri
 https://apps.apple.com/my/app/flexi-parking/id1466897086
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 65,
@@ -1296,9 +1936,19 @@ Boleh terus pilih tempat duduk tren ETS, KTM Intercity, Shuttle Tebrau, atau bel
 Warga emas, pelajar, dan OKU pun boleh daftar profil diskaun konsesi terus dalam apps
 https://apps.apple.com/my/app/kits-style/id6737016269
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 66,
@@ -1316,9 +1966,19 @@ Ada fungsi 'Live Bus Tracker' untuk tengok anggaran minit bas sampai di hentian 
 Senang nak bajet masa keluar rumah supaya tak terlepas bas
 https://myrapid.com.my/pulse/mobile-app/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 67,
@@ -1336,9 +1996,19 @@ Dia akan tunjukkan langkah demi langkah: kena naik stesen mana, tukar tren di st
 Siap bagi amaran dekat phone bila dah hampir sampai ke stesen kita kena turun
 https://apps.apple.com/us/app/moovit-bus-transit-tracker/id498477945
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 68,
@@ -1356,9 +2026,19 @@ Dekat dashboard tu kita boleh semak status aktif tag RFID setiap kereta, batal t
 Pastikan batalkan tag lama kalau jual kereta supaya tak tolak eWallet kita
 https://rfid.touchngo.com.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 69,
@@ -1376,9 +2056,19 @@ Tekan butang 'GO'..dia akan ukur kelajuan muat turun (Download), muat naik (Uplo
 Simpan tangkapan skrin keputusan tu kalau nak buat laporan teknikal kepada syarikat internet
 https://www.speedtest.net/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 70,
@@ -1396,9 +2086,19 @@ CFM adalah badan rasmi yang melindungi hak pengguna komunikasi dan multimedia di
 Ketahui hak kita sebagai pengguna supaya tak menanggung caj yang tak sepatutnya
 https://cfm.my/aduan-baharu/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 71,
@@ -1416,9 +2116,19 @@ AKPK adalah agensi rasmi ditubuhkan oleh Bank Negara Malaysia dan semua khidmat 
 Ada juga modul ilmu pengurusan kewangan keluarga secara online
 https://www.akpk.org.my/node/424
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 72,
@@ -1436,9 +2146,19 @@ Semak senarai rasmi 'Member Banks'..semua bank ahli PIDM dilindungi kerajaan sec
 Ilmu asas penting supaya kita tahu beza institusi perbankan sah dengan skim luar
 https://www.pidm.gov.my/general/how-we-protect-you/member-banks
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 73,
@@ -1456,9 +2176,19 @@ Dalam portal ni siap ada sistem 'e-Panduan' untuk semak syarat kelayakan kursus 
 Kongsikan siap-siap kepada ibu bapa yang ada anak bakal habis sekolah
 https://upu.mohe.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 74,
@@ -1476,9 +2206,19 @@ Taip nama institusi dan nama kursus diploma atau ijazah tersebut untuk pastikan 
 Sangat penting supaya sijil anak laku untuk mohon kerja kerajaan dan swasta nanti
 https://www2.mqa.gov.my/mqr/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 75,
@@ -1496,9 +2236,19 @@ Merangkumi ratusan kursus kemahiran teknikal, automotif, elektrikal, kulinari, d
 Peluang kerjaya bidang kemahiran sekarang sangat luas dan berpendapatan tinggi
 https://mohon.tvet.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 76,
@@ -1516,9 +2266,19 @@ Kita boleh tengok siri nombor plat negeri yang tengah dibuka, semak harga bidaan
 Kalau tak menang bidaan, bayaran balik akan dipulangkan penuh secara automatik
 https://apps.apple.com/my/app/jpjebid/id1458846863
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 77,
@@ -1536,9 +2296,19 @@ Banyak urusan kaunter JPJ seperti permohonan tukar hak milik sukarela, pembaharu
 Jimat masa tak perlu beratur panjang dekat pejabat JPJ
 https://public.jpj.gov.my/public/login.zul
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 78,
@@ -1556,9 +2326,19 @@ Atau lebih mudah: taip nombor telefon tu dalam chat WhatsApp dengan diri sendiri
 Buku telefon kekal kemas tanpa ratusan nombor sekali pakai
 https://faq.whatsapp.com/5913398998672934
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 79,
@@ -1576,9 +2356,19 @@ Masukkan fail video besar tadi dan pilih preset 'Fast 1080p30'..saiz fail video 
 Sangat jimat ruang hard disk dan senang nak muat naik ke internet
 https://handbrake.fr/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 80,
@@ -1596,9 +2386,19 @@ Ia 100% percuma, tiada iklan langsung, dan boleh mainkan hampir semua jenis form
 Perisian wajib ada dalam setiap komputer rumah dan pejabat
 https://www.videolan.org/vlc/index.en-GB.html
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 81,
@@ -1616,9 +2416,19 @@ Pertubuhan pendidikan bukan berasaskan keuntungan ni sediakan ribuan latihan int
 Tiada iklan dan tiada pembelian dalam aplikasi, sangat selamat untuk anak-anak
 https://www.khanacademy.org/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 82,
@@ -1636,9 +2446,19 @@ Sangat ringan, laju, boleh buka semua jenis fail mampat (ZIP, RAR, 7z), dan siap
 Percuma sepenuhnya untuk kegunaan peribadi mahupun pejabat
 https://www.7-zip.org/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 83,
@@ -1656,9 +2476,19 @@ Guna fungsi 'Noise Reduction' dalam menu Effect..dalam beberapa saat sahaja buny
 Tak perlu beli mikrofon mahal-mahal untuk dapatkan audio yang kemas
 https://www.audacityteam.org/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 84,
@@ -1676,9 +2506,19 @@ Kita boleh bina buku nota digital kita sendiri yang tersusun mengikut folder, ja
 Apa yang kita taip dekat phone akan terus dikemas kini secara automatik dekat laptop
 https://www.notion.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 85,
@@ -1696,9 +2536,19 @@ Boleh buat papan visual ikut lajur seperti 'Tempahan Baru', 'Sedang Diproses', d
 Kerja bisnes dan tugasan pasukan jadi jauh lebih teratur
 https://apps.apple.com/us/app/trello-daily-task-tracker/id461504587
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 86,
@@ -1716,9 +2566,19 @@ Bila taip je persamaan matematik (contoh: y = 2x + 3), dia terus lukiskan bentuk
 Kalkulator saintifik penuh pun ada sekali kalau kalkulator fizikal anak tertinggal
 https://www.desmos.com/calculator
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 87,
@@ -1736,9 +2596,19 @@ Boleh semak syarat kelayakan fizikal dan akademik bagi jawatan Konstabel, Sarjan
 Pastikan hanya memohon melalui portal rasmi PDRM sahaja
 https://www.rmp.gov.my/orang-awam/skim-perkhidmatan-pdrm/panduan-kerjaya
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 88,
@@ -1756,9 +2626,19 @@ Boleh semak syarat kelayakan kategori BUDI Individu dan BUDI Agri-Komoditi serta
 Semakan status kelulusan dan bayaran pun boleh dibuat terus di portal yang sama
 https://www.budimadani.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 89,
@@ -1776,9 +2656,19 @@ Boleh perbaharui pendaftaran perniagaan (Enterprise), kemas kini alamat atau cab
 Sangat memudahkan peniaga kecil dan usahawan online
 https://www.ssm.com.my/bm/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 90,
@@ -1796,9 +2686,19 @@ Taip nama syarikat atau nombor pendaftaran..kita boleh pastikan syarikat tersebu
 Langkah bijak untuk elak ditipu syarikat hantu bila berurusan
 https://www.ssm-einfo.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 91,
@@ -1816,9 +2716,19 @@ Pasangan dari negeri yang mengguna pakai SPPIM boleh terus daftar kursus pra-per
 Jimat masa sebab senarai semak dokumen semua dah lengkap dalam sistem
 https://www.sppim.gov.my/v2/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 92,
@@ -1836,9 +2746,19 @@ Masukkan berat gram emas simpanan atau emas perhiasan..kalkulator rasmi dia teru
 Resit bayaran zakat rasmi layak dapat rebat 100% cukai pendapatan LHDN
 https://www.zakatselangor.com.my/zakat-emas/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 93,
@@ -1856,9 +2776,19 @@ Boleh buat sumbangan wakaf tunai secara sekali gus atau potongan bulanan untuk p
 Penyata tahunan wakaf boleh dicetak terus dari portal untuk pelepasan cukai
 https://www.ywm.gov.my/wakaf-online
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 94,
@@ -1876,9 +2806,19 @@ Daftar akaun dan failkan Borang 1 secara online dengan fi pemfailan RM5 sahaja u
 Simpan semua resit pembayaran dan perbualan WhatsApp sebagai bukti
 https://ttpm.kpdn.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 95,
@@ -1896,9 +2836,19 @@ Tangkap gambar bukti berserta resit dan lokasi kedai..pegawai penguat kuasa KPDN
 Sangat mudah untuk jaga hak kita sebagai pengguna
 https://play.google.com/store/apps/details?id=my.gov.onegovappstore.ezadu&hl=ms
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 96,
@@ -1916,9 +2866,19 @@ Taip nama syarikat kontraktor dan pilih negeri..terus nampak gred pendaftaran CI
 Elakkan risiko rumah terbengkalai ditipu kontraktor tidak berdaftar
 https://cims.cidb.gov.my/smis/regcontractor/reglocalsearchcontractor.vbhtml
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 97,
@@ -1936,9 +2896,19 @@ Masukkan nama ejen atau nombor tag REN/REA mereka..pastikan nama dan firma agens
 Dan ingat, duit booking wajib masuk ke akaun bank agensi, bukan akaun peribadi
 https://lpeph.gov.my/search-listing
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 98,
@@ -1956,9 +2926,19 @@ Taip nama peguam atau nama firma guaman..kita boleh sahkan mereka mempunyai siji
 Langkah penting sebelum menandatangani perjanjian bernilai ratusan ribu ringgit
 https://legaldirectory.malaysianbar.org.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 99,
@@ -1976,9 +2956,19 @@ Taip nama doktor tersebut untuk menyemak nombor pendaftaran penuh dan Sijil Amal
 Pastikan hanya dapatkan rawatan daripada pengamal perubatan bertauliah
 https://merits.mmc.gov.my/search
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 100,
@@ -1996,9 +2986,19 @@ Masukkan nombor pendaftaran MAL (untuk ubat/suplemen) atau nombor NOT (untuk kos
 Sayangi buah pinggang dan kesihatan keluarga kita
 https://www.npra.gov.my/index.php/my/consumers-2/maklumat/carian-produk-berdaftar-bernotifikasi.html
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 101,
@@ -2016,9 +3016,19 @@ Daftar akaun individu, muat naik dokumen perjanjian sewa rumah dalam PDF, buat b
 Perjanjian sewa rumah terus sah di sisi undang-undang
 https://stamps.hasil.gov.my/stamps/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 102,
@@ -2036,9 +3046,19 @@ Peniaga boleh jana, hantar, dan simpan rekod e-Invois secara percuma terus melal
 Rekod jualan dan perbelanjaan bisnes jadi lebih kemas
 https://myinvois.hasil.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 103,
@@ -2056,9 +3076,19 @@ Daftar sebagai pengguna untuk membuat carian rasmi status kebankrapan individu a
 Semua dokumen Keputusan Carian Rasmi boleh dimuat turun terus
 https://e-insolvensi.mdi.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 104,
@@ -2076,9 +3106,19 @@ Pilih kementerian atau agensi berkaitan dan nyatakan butiran kes dengan lengkap.
 Saluran rasmi yang sangat berkesan untuk maklum balas perkhidmatan awam
 https://pcb.spab.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 105,
@@ -2096,9 +3136,19 @@ Mohon gantian kad pengenalan rosak atau gantian biasa secara online dan pilih ca
 Jimat masa tak perlu tunggu dua kali dekat pejabat JPN
 https://gantianmykad.jpn.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 106,
@@ -2116,9 +3166,19 @@ Muat naik gambar pasport latar belakang putih mengikut spesifikasi, buat bayaran
 Jauh lebih cepat berbanding walk-in dari awal pagi
 https://www.imi.gov.my/index.php/pengumuman/myonline-passport/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 107,
@@ -2136,9 +3196,19 @@ Isi borang web eLINK berserta surat maklum balas bank/insurans tadi untuk semaka
 Simpan pautan rasmi ni untuk perlindungan hak kewangan kita
 https://bnmlink.bnm.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 108,
@@ -2156,9 +3226,19 @@ Sampai je dekat stesen Petronas, pilih nombor pam terus dari dalam kereta..pintu
 Mata ganjaran Mesra pun masuk secara automatik setiap kali isi minyak
 https://www.setel.com/features/setel-lite
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 109,
@@ -2176,9 +3256,19 @@ Dia tunjukkan semua lokasi stesen pengecas EV di R&R lebuh raya, hotel, dan pusa
 Senang nak rancang tempat berhenti cas bila balik kampung jauh
 https://www.plugshare.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 110,
@@ -2196,9 +3286,19 @@ Kita boleh tambah nilai dalam Ringgit (MYR) dan tukar terus ke Riyal, Yen, Pound
 Tak perlu bawa wang tunai tebal-tebal dalam dompet masa mengembara
 https://wise.com/my/card
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 111,
@@ -2216,9 +3316,19 @@ Setiap kali ada orang dulukan bayar makan atau tol, rekod je dalam apps tu..huju
 Tak ada lagi isu salah kira atau segan nak tuntut baki duit kawan
 https://www.splitwise.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 112,
@@ -2236,9 +3346,19 @@ Cara belajar dia dibuat macam main game..kita belajar kosa kata, sebutan, dan ay
 Sangat bagus untuk kita dan anak-anak kuasai bahasa ketiga
 https://apps.apple.com/us/app/duolingo-learn-languages/id570060128
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 113,
@@ -2256,9 +3376,19 @@ Ada ribuan kursus dalam bidang analisis data, AI, pengurusan projek, dan pemasar
 Pelaburan ilmu terbaik untuk tingkatkan nilai kerjaya kita
 https://www.coursera.org/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 114,
@@ -2276,9 +3406,19 @@ Berbeza dengan enjin carian biasa, ia terus mengira formula Kalkulus, Algebra, K
 Sangat membantu pelajar universiti dan sekolah memahami jalan kerja
 https://apps.apple.com/us/app/wolframalpha/id548861535
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 115,
@@ -2296,9 +3436,19 @@ Masukkan link laman web yang dah hilang tu..kemudian pilih tarikh dan tahun pada
 Lebih 600 bilion halaman web sejak tahun 1996 disimpan secara percuma di sini
 https://web.archive.org/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 116,
@@ -2316,9 +3466,19 @@ Ia 100% percuma, tiada had masa rakaman, tiada logo watermark langsung, dan bole
 Perisian standard yang digunakan oleh kebanyakan pendidik dan pencipta kandungan
 https://obsproject.com/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 117,
@@ -2336,9 +3496,19 @@ Lengkap dengan fungsi Writer (macam Word), Calc (macam Excel), dan Impress (maca
 100% percuma selamanya tanpa perlu guna software cetak rompak yang berisiko virus
 https://www.libreoffice.org/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 118,
@@ -2356,9 +3526,19 @@ Lengkap dengan hampir 30 alatan suntingan gambar profesional termasuk fungsi 'He
 Langsung tiada iklan pop-up dan tiada bayaran langganan
 https://apps.apple.com/us/app/snapseed-photo-editor/id439438619
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 119,
@@ -2376,9 +3556,19 @@ Buat satu senarai 'Barang Dapur' dan tekan butang 'Share list'..bila isteri tamb
 Siap boleh tanda 'tick' bila dah masuk bakul supaya tak tertinggal satu pun
 https://apps.apple.com/us/app/microsoft-to-do/id1212616790
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
   {
     id: 120,
@@ -2396,9 +3586,19 @@ Boleh buat semakan kelayakan secara terus menggunakan nombor kad pengenalan tanp
 Kongsikan kepada ahli keluarga supaya terhindar daripada laman web pancingan data
 https://www.budirakyat.gov.my/
 
-Moga bermanfaat
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
 simpanemasfizikal.com
-Taufik | Dealer Public Gold`,
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
   },
 ];
 
