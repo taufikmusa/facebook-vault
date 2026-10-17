@@ -45,6 +45,14 @@ PG00359605"""
 
 PEMBUKA = r'^(?:Just a simple tips|Simple tips (?:hari|malam) ni)\.\.'   # "Simple tips hari ni.." dsb. -> "Ada yang tahu? "
 
+def topik_lifehack(kat):
+    k = kat.lower()
+    if 'kereta' in k:
+        return 'Kereta & Perjalanan'
+    if 'gajet' in k or 'pakaian' in k or 'barangan' in k:
+        return 'Gajet & Barangan'
+    return 'Rumah & Dapur'
+
 def js(s):
     return '`' + s.replace('\\', '\\\\').replace('`', '\\`').replace('${', '\\${') + '`'
 
@@ -52,6 +60,7 @@ ap = argparse.ArgumentParser()
 ap.add_argument('docx'); ap.add_argument('--siri', required=True)
 ap.add_argument('--mula', type=int, required=True, help='id global pertama')
 ap.add_argument('--no-mula', type=int, default=1)
+ap.add_argument('--lifehack', action='store_true', help='format Lifehack: topik ikut kategori (Rumah & Dapur / Kereta & Perjalanan / Gajet & Barangan)')
 a = ap.parse_args()
 
 x = zipfile.ZipFile(a.docx).read('word/document.xml').decode('utf8')
@@ -72,9 +81,16 @@ for i, s in enumerate(sets):
     # b: "1. Ayat..", "(Background..)", POST, "2. Ayat..", "(Komen..)", KOMEN..., FOOTER
     i1 = next(k for k, t in enumerate(b) if t.startswith('1.'))
     i2 = next(k for k, t in enumerate(b) if t.startswith('2.'))
-    post = re.sub(PEMBUKA, 'Ada yang tahu? ', '\n'.join(b[i1 + 2:i2]))
-    isi = [t for t in b[i2 + 2:] if not t.startswith('Moga bermanfaat')]
-    komen = '\n'.join(isi) + '\n\n' + CTA_KOMEN   # CTA tetap, ganti sign-off docx
+    # buang baris label "(Background Warna • N aksara)" / "(Komen Pertama + Link Sahih)"
+    label = lambda t: t.startswith('(') and t.endswith(')')
+    pos = [t for t in b[i1 + 1:i2] if not label(t)]
+    post = '\n'.join(pos)
+    if re.match(PEMBUKA, post):
+        post = re.sub(PEMBUKA, 'Ada yang tahu? ', post)
+    elif not post.startswith('Ada yang tahu'):
+        post = 'Ada yang tahu? ' + post   # format Lifehack: ayat terus, tambah pembuka
+    isi = [t for t in b[i2 + 1:] if not label(t) and not t.startswith('Moga bermanfaat')]
+    komen = '\n\n'.join(isi) + '\n\n' + CTA_KOMEN   # CTA tetap, ganti sign-off docx
     m = re.match(r'(.*?)\s*\[(.+)\]\s*$', s['tajuk'])
     tajuk, kat = (m.group(1), m.group(2)) if m else (s['tajuk'], '')
     alat = re.search(r'\(([^()]+)\)\s*$', tajuk)
@@ -85,7 +101,7 @@ for i, s in enumerate(sets):
     print(f'    id: {a.mula + i},')
     print(f'    siri: "{a.siri}",')
     print(f'    no: {a.no_mula + i},')
-    print(f'    topik: "{topik_dari(kat)}",')
+    print(f'    topik: "{topik_lifehack(kat) if a.lifehack else topik_dari(kat)}",')
     print(f'    kategori: {js(kat)},')
     print(f'    tajuk: {js(tajuk)},')
     print(f'    tags: {sorted(tags)!r},'.replace("'", '"'))

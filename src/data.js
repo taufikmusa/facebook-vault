@@ -5400,10 +5400,1930 @@ pgolink.com/whatsapptaufik
 Taufik | Dealer Public Gold
 PG00359605`,
   },
+  {
+    id: 181,
+    siri: "Lifehack-07",
+    no: 1,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Tajamkan Semula Gunting Tumpul Guna Aluminium Foil`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Gunting dapur dah tumpul jangan buang dulu.. Guna trik aluminium foil ni ✂️
+👇👇👇`,
+    komen: `Ambil Sekeping Aluminium Foil = Lipat kertas aluminium foil nipis menjadi 4 hingga 6 lapisan tebal
+Gunting Berkali-kali = Gunting lapisan foil tersebut sebanyak 10 hingga 20 kali menggunakan keseluruhan bilah gunting dari pangkal ke hujung
+Geseran Logam Membina Semula Bilah = Geseran mikro antara lapisan aluminium meratakan mikrogigi bilah keluli gunting yang bengkok
+Uji Pada Kertas = Lap bilah gunting dengan tisu lembap dan cuba gunting kertas; bilahnya akan kembali tajam dan memotong kemas
+
+Kaedah mudah ini menjimatkan duit tanpa perlu membeli pengasah khas atau gunting baharu.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 182,
+    siri: "Lifehack-07",
+    no: 2,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Tanggalkan Kesan Gam Stiker Degil Guna Minyak Masak`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Beli pinggan baru ada stiker harga degil bergam.. Cara tanggalkan tanpa calar? 🏷️
+👇👇👇`,
+    komen: `Sapu Minyak Masak Biasa = Titiskan beberapa titik minyak masak atau minyak bayi (baby oil) terus ke atas sisa gam stiker
+Biarkan 5 Minit = Minyak akan meresap dan melarutkan molekul gam pelekat yang berasaskan getah sintetik
+Gosok Guna Tisu Kering = Lap kawasan tersebut dengan kain buruk atau tisu; sisa gam akan tertanggal licin tanpa perlu kikis dengan pisau
+Basuh Dengan Sabun Pinggan = Cuci sekali dengan sabun basuh pinggan untuk menghilangkan kesan minyak licin pada permukaan
+
+Trik ini sangat selamat untuk barangan kaca, seramik dan plastik tanpa meninggalkan sebarang calar.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 183,
+    siri: "Lifehack-07",
+    no: 3,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Buka Penutup Balang Kaca Ketat Guna Getah Gelang`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Penutup balang kaca jem ketat gila sampai licin tangan.. Cara buka 2 saat? 🫙
+👇👇👇`,
+    komen: `Lilit Getah Gelang Tebal = Lilitkan satu atau dua utas getah gelang pada sekeliling tepi penutup besi balang kaca
+Genggam Dan Pulas = Getah gelang memberi cengkaman geseran maksimum (*friction grip*) pada tapak tangan anda tanpa tergelincir
+Lepaskan Tekanan Vakum = Jika masih ketat, selitkan hujung sudu di bawah bibir penutup dan cungkil sedikit sehingga dengar bunyi 'pop'
+Buka Dengan Mudah = Sebaik sahaja udara masuk melepaskan tekanan vakum dalam balang, penutup boleh diputar dengan sangat ringan
+
+Tak perlu bersusah-payah guna kain basah atau mengetuk penutup balang sampai kemek.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 184,
+    siri: "Lifehack-07",
+    no: 4,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Hilangkan Bau Hanyir Peti Sejuk Semalaman Guna Serbuk Kopi`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Peti sejuk rumah berbau hanyir ikan & sayur.. Trik hilangkan bau semalaman? 🧊
+👇👇👇`,
+    komen: `Guna Serbuk Kopi Kering = Letakkan 2 hingga 3 sudu serbuk kopi terpakai (yang sudah kering) atau serbuk kopi murah dalam mangkuk kecil
+Letak Di Rak Tengah = Letakkan mangkuk kopi di bahagian rak tengah peti sejuk berhampiran corong aliran udara sejuk
+Karbon Semulajadi Serap Bau = Nitrogen dalam kopi bertindak mengikat molekul gas sulfur busuk hanyir ikan dan makanan basi
+Alternatif Baking Soda = Serbuk penaik (*baking soda*) juga bertindak sebagai peneutral asid bau yang sangat berkesan
+
+Dalam masa 24 jam, bau hanyir akan hilang sepenuhnya dan digantikan dengan aroma kopi yang segar.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 185,
+    siri: "Lifehack-07",
+    no: 5,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Elak Cermin Bilik Air Berkabus Guna Sabun Buku Kering`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Lepas mandi air panas cermin bilik air penuh kabus wap.. Cara cegah berkabus? 🪞
+👇👇👇`,
+    komen: `Sapu Sabun Mandi Kering = Gosokkan sabun buku mandi yang kering secara nipis ke seluruh permukaan cermin kaca
+Lap Guna Kain Mikrofiber = Lap cermin menggunakan kain kering bersih sehingga kesan sabun hilang dan cermin kembali jernih berkilat
+Lapisan Halangan Hidrofilik = Filem sabun mikro bertindak mengurangkan tegangan permukaan air dan menghalang wap air membentuk titisan embun kabus
+Tahan Beberapa Minggu = Satu lapisan nipis sabun ini mampu bertahan selama 1 hingga 2 minggu mandian air panas tanpa berkabus
+
+Trik yang sama boleh digunakan pada cermin mata untuk elak berkabus bila memakai pelitup muka.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 186,
+    siri: "Lifehack-07",
+    no: 6,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Buka Kepala Skru Haus Bulat Guna Getah Gelang`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Kepala skru dah haus bulat (stripped) atau berkarat.. Cara pulas tanpa rosak? 🪛
+👇👇👇`,
+    komen: `Letak Getah Atas Kepala Skru = Letakkan sekeping getah gelang lebar betul-betul di atas lubang kepala skru yang sudah haus
+Tekan Pemutar Skru Rapat = Masukkan mata pemutar skru (*screwdriver*) ke atas getah dan tekan kuat ke dalam lubang skru
+Getah Mengisi Ruang Longgar = Getah anjal akan mengisi celahan logam yang haus dan memberikan cengkaman geseran padat
+Pulas Perlahan-lahan = Pusingkan pemutar skru dengan tekanan ke bawah secara perlahan; skru yang jem akan terpusing keluar dengan kemas
+
+Kaedah pantas yang menyelamatkan perabot atau perkakas elektrik anda daripada rosak.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 187,
+    siri: "Lifehack-07",
+    no: 7,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Hilangkan Karat Air Mangkuk Tandas Guna Asid Sitrik`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Kesan kuning karat air degil dekat mangkuk tandas.. Cara kilatkan tanpa peluntur? 🚽
+👇👇👇`,
+    komen: `Tabur Serbuk Asid Sitrik = Taburkan 2 hingga 3 sudu serbuk asid sitrik (kebasahan lemon yang boleh dibeli di kedai bakeri) ke atas kerak karat
+Biarkan Semalaman = Asid organik semulajadi ini akan melarutkan mendakan mineral kalsium dan oksida besi tanpa merosakkan lapisan seramik
+Gosok Ringan = Keesokan paginya, gosok perlahan dengan berus tandas; kerak kuning yang bertahun-tahun akan tanggal terapung
+Pam Air = Pam tandas sekali dan mangkuk tandas akan kembali putih berkilat seperti baru keluar kilang
+
+Jauh lebih selamat untuk sistem paip dan paru-paru berbanding menyedut wap asid hidroklorik yang tajam.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 188,
+    siri: "Lifehack-07",
+    no: 8,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Trik 'Seasoning' Kuali Besi Jadi Licin Anti-Lekat`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Goreng telur asyik melekat dekat kuali besi.. Trik 'seasoning' jadi macam teflon? 🍳
+👇👇👇`,
+    komen: `Panaskan Kuali Sampai Berasap = Panaskan kuali besi (*wok*) atas api gas besar sehingga wap asap mula keluar
+Sapu Minyak Nipis = Tuangkan sedikit minyak masak bertitik asap tinggi (seperti minyak sawit) dan ratakan ke seluruh kuali guna tisu dapur
+Polimerisasi Minyak = Haba tinggi menukar asid lemak minyak menjadi lapisan polimer semulajadi yang keras dan licin berkilat
+Ulang 2 Kali = Ulang proses ini dua kali sehingga permukaan kuali berwarna hitam berkilat dan licin
+
+Lepas ini telur mata goreng akan meluncur terapung tanpa melekat langsung di dasar kuali.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 189,
+    siri: "Lifehack-07",
+    no: 9,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Elak Sup Atau Bubur Melimpah Guna Sudip Kayu`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Masak air sup atau bubur selalu melimpah ruah atas dapur gas.. Cara elak melimpah? 🍲
+👇👇👇`,
+    komen: `Letak Sudip Kayu Atas Periuk = Letakkan sebatang senduk atau sudip kayu melintang betul-betul di atas mulut periuk yang sedang mendidih
+Pecahkan Buih Buih Panas = Apabila buih buih kanji air mendidih naik mencecah sudip kayu, perbezaan suhu sejuk kayu akan memecahkan gelembung buih
+Kayu Sifat Hidrofobik = Kayu kering menolak gelembung buih air berkanji dan menghalang paras air daripada melimpah keluar ke dapur gas
+Kawal Api Sederhana = Walaupun air terus mendidih buih buihnya akan terus pecah di bawah paras sudip kayu tersebut
+
+Dapur gas anda kekal bersih tanpa limpahan kuah sup atau bubur yang mengotorkan tungku dapur.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 190,
+    siri: "Lifehack-07",
+    no: 10,
+    topik: "Rumah & Dapur",
+    kategori: `Tips Rumah & Dapur`,
+    tajuk: `Cari Cincin & Skru Halus Jatuh Atas Karpet Guna Vakum & Stokin`,
+    tags: ["dapur", "rumah", "tips"],
+    link: "",
+    post: `Ada yang tahu? Cincin atau skru halus jatuh atas karpet gelap susah nak nampak.. Trik cari cepat? 💍
+👇👇👇`,
+    komen: `Sarung Stokin Pada Muncung Vakum = Ambil stokin nilon nipis dan sarungkan pada hujung muncung paip pembersih vakum anda
+Ikat Guna Getah = Ketatkan stokin dengan getah gelang supaya tidak tersedut masuk ke dalam hos pembersih vakum
+Lalukan Atas Karpet = Hidupkan vakum dan lalukan muncung di kawasan lantai atau karpet tempat cincin atau skru tercicir
+Melekat Pada Permukaan Stokin = Kuasa sedutan akan menarik objek kecil tersebut dan ia akan terperangkap melekat pada kain stokin
+
+Objek berharga dijumpai dalam beberapa saat tanpa tersedut masuk ke dalam tong habuk vakum yang kotor.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 191,
+    siri: "Lifehack-07",
+    no: 11,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Kenal Pasti Kedudukan Penutup Tangki Minyak di Meter Kereta`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Bawa kereta sewa atau kereta famili, nak isi minyak tangki belah kiri ke kanan? ⛽
+👇👇👇`,
+    komen: `Tengok Ikon Pam Minyak = Pandang pada paparan meter papan pemuka (*dashboard*) berhampiran jarum penunjuk aras bahan api
+Cari Simbol Anak Panah Kecil = Di sebelah ikon pam minyak, terdapat satu simbol segi tiga anak panah kecil (◀ atau ▶)
+Arah Anak Panah = Jika anak panah menunjuk ke kiri (◀), penutup tangki berada di sebelah kiri kenderaan; jika ke kanan (▶), di sebelah kanan
+Tak Perlu Turun Kereta = Sangat berguna apabila memandu kereta sewa, kereta baharu atau kereta rakan di stesen minyak
+
+Anda boleh terus memandu masuk ke lorong pam minyak yang betul tanpa rasa ragu-ragu.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 192,
+    siri: "Lifehack-07",
+    no: 12,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Sejukkan Kabin Kereta Panas Panggang Dalam 10 Saat`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Kereta parking tengah panas terik macam ketuhar.. Trik sejukkan kabin dalam 10 saat? 🚗
+👇👇👇`,
+    komen: `Turunkan Tingkap Sebelah Penumpang = Buka cermin tingkap pintu penumpang hadapan sebelah kiri sepenuhnya
+Kibas Pintu Pemandu 5 Kali = Pergi ke pintu pemandu sebelah kanan dan buka tutup pintu dengan ayunan pantas sebanyak 5 hingga 6 kali
+Kesan Pam Tekanan Udara = Tindakan mengibas pintu menghasilkan kesan pam sedutan yang menolak keluar udara panas 60°C keluar melalui tingkap
+Hawa Panas Diganti Angin Luar = Suhu kabin akan turun mendadak sebanyak 10 hingga 15 darjah Celcius dalam beberapa saat sahaja
+
+Selepas itu barulah masuk kereta, hidupkan enjin dan pasang penghawa dingin; kabin akan sejuk berganda lebih cepat.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 193,
+    siri: "Lifehack-07",
+    no: 13,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Gandakan Jarak Frekuensi Remote Kereta Guna Dagu Sendiri`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Lupa kereta parking tingkat mana dalam mall, remote tak sampai.. Trik gandakan jarak? 🔑
+👇👇👇`,
+    komen: `Rapatkan Remote Bawah Dagu = Pegang kunci alat kawalan jauh (*key fob*) rapat ke bahagian bawah dagu atau sisi kepala anda
+Buka Mulut Sedikit = Halakan badan ke arah kawasan tempat letak kereta dan tekan butang kunci atau penggera (*alarm*)
+Kepala Jadi Antena Semulajadi = Cecair dan molekul air dalam otak dan tengkorak kepala bertindak sebagai konduktor penguat gelombang elektromagnet
+Jarak Isyarat Bertambah 2x = Isyarat radio frekuensi remote akan dipancarkan lebih jauh melepasi halangan dinding konkrit tempat letak kereta
+
+Trik fizik ringkas yang terbukti berkesan apabila anda mencari kereta yang tersorok di kawasan parkir terbuka.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 194,
+    siri: "Lifehack-07",
+    no: 14,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Hilangkan Calar Halus Kuku Pemegang Pintu Guna Ubat Gigi`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Dekat pemegang pintu kereta banyak calar halus kesan kuku.. Cara hilangkan sendiri? 🚗
+👇👇👇`,
+    komen: `Guna Ubat Gigi Putih Biasa = Letakkan sedikit ubat gigi putih biasa (bukan jenis gel) pada kain mikrofiber lembap
+Gosok Gerakan Bulatan = Gosokkan kain pada mangkuk pemegang pintu kereta yang penuh calar halus selama 1 hingga 2 minit
+Bahan Pelelas Mikro Lembut = Ubat gigi mengandungi zarah silika kalsium karbonat mikro yang bertindak seperti bahan penggilap (*compound*)
+Lap Dengan Kain Kering = Bersihkan sisa ubat gigi dengan kain basah dan keringkan; calar kuku putih akan pudar dan hilang berkilat
+
+Kaedah jimat kos untuk menghilangkan calar permukaan tanpa merosakkan lapisan cat jernih (*clear coat*) kereta.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 195,
+    siri: "Lifehack-07",
+    no: 15,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Hilangkan Bunyi Berdecit Wiper Cermin Guna Alkohol Pembersih`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Wiper cermin kereta berbunyi bising berdecit & tinggal garis air.. Cara licinkan balik? 🌧️
+👇👇👇`,
+    komen: `Lap Getah Bilah Wiper = Basahkan tisu dapur dengan sedikit cecair alkohol pembersih (*rubbing alcohol*) atau cuka masakan
+Lurutkan Sepanjang Bilah = Tarik tisu di sepanjang bilah getah wiper; anda akan melihat lapisan jelaga hitam dan minyak jalanan melekat pada tisu
+Bersihkan Kaca Cermin = Basuh cermin hadapan dengan syampu kereta untuk membuang lapisan minyak asap jalan raya (*oil film*)
+Getah Wiper Berfungsi Lembut = Getah yang bersih daripada lapisan minyak gris akan meluncur senyap tanpa melompat atau berdecit
+
+Wiper yang diselenggara bersih akan menyapu air hujan dengan licin tanpa meninggalkan kesan calar pada cermin.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 196,
+    siri: "Lifehack-07",
+    no: 16,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Kilatkan Lampu Kereta Kusam Kuning Guna Ubat Gigi & Baking Soda`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Cover lampu depan kereta dah kusam kuning berkerak.. Trik kilatkan balik modal murah? 💡
+👇👇👇`,
+    komen: `Campur Ubat Gigi & Baking Soda = Campurkan ubat gigi putih bersama satu sudu kecil baking soda untuk membentuk pes pekat
+Gosok Pada Permukaan Lampu = Sapukan pes pada penutup lampu polikarbonat yang kuning dan gosok kuat menggunakan span atau kain lembap
+Hakis Lapisan Teroksida = Zarah pelelas menanggalkan lapisan plastik luar yang terbakar dan teroksida akibat sinaran terik matahari
+Bilas Air Bersih = Basuh dengan air dan lap kering; lampu kereta anda akan kembali jernih bercahaya terang seperti baharu
+
+Membantu meningkatkan tahap pencahayaan lampu hadapan untuk keselamatan pemanduan pada waktu malam.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 197,
+    siri: "Lifehack-07",
+    no: 17,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Tampal Pelekat Roadtax Rata Tanpa Sebarang Gelembung Udara`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Tampal stiker roadtax kereta selalu ada gelembung angin hodoh.. Trik lekat kemas rata? 🏷️
+👇👇👇`,
+    komen: `Guna 'Roadtax Sticker Holder' = Pasangkan pelekat roadtax di atas lapisan filem plastik pelekat statik lutsinar terlebih dahulu
+Sembur Sedikit Air Sabun Nipis = Semburkan sedikit air campuran sabun mandi nipis pada bahagian cermin kereta tempat ingin dilekatkan
+Lekat Dan Tolak Air = Letakkan stiker pada cermin; gunakan kad ATM terpakai yang dibalut tisu untuk menolak keluar air sabun ke tepi
+Kemas Tanpa Gelembung = Pelekat statik akan melekat licin sempurna tanpa sebarang gelembung angin hodoh dan mudah ditanggalkan tahun depan
+
+Cermin kereta tidak akan berbekas gam degil apabila tiba masa untuk memperbaharui cukai jalan tahun hadapan.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 198,
+    siri: "Lifehack-07",
+    no: 18,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Bersihkan Bilah Corong Aircond Guna Span Basuh Pinggan`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Bilah corong aircond kereta penuh habuk hitam melekat.. Cara lap paling senang & bersih? ❄️
+👇👇👇`,
+    komen: `Ambil Span Basuh Pinggan = Ambil sekeping span basuh pinggan nipis dan kerat jalur selari separuh tebal span guna pisau
+Basahkan Sedikit Sabun = Basahkan span dengan sedikit air sabun pembersih dan perap sehingga lembap
+Kepit Pada Bilah Corong = Selitkan jalur span ke dalam celahan bilah corong penghawa dingin kereta dan tolak ke kiri dan kanan
+Habuk Terperangkap Sekali Tarik = Span yang berjalur menyapu bahagian atas dan bawah bilah serentak dalam satu gerakan mudah
+
+Udara hembusan aircond kabin kereta menjadi lebih segar dan bebas daripada habuk alahan.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 199,
+    siri: "Lifehack-07",
+    no: 19,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Keringkan Kasut Lembap & Buang Bau Busuk Guna Kertas Surat Khabar`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Kasut kerja lembap bau hapak kena lopak air hujan.. Trik keringkan & buang bau semalaman? 👞
+👇👇👇`,
+    komen: `Gumpal Kertas Surat Khabar = Ambil kertas surat khabar lama, renyukkan menjadi bebola padat dan sumbat ke dalam kasut
+Kertas Serap Kelembapan Pantas = Serat kayu kertas surat khabar menyerap wap air lembapan dari fabrik kasut lebih cepat berbanding dibiarkan angin
+Karbon Dakwat Peneutral Bau = Karbon dalam dakwat cetakan surat khabar bertindak memerangkap bau hapak bakteria peluh kasut
+Tukar Sekali Selepas 3 Jam = Jika kasut basah kuyup, tukar gumpalan surat khabar baharu sekali sebelum tidur
+
+Keesokan paginya kasut akan kering dan tidak berbau hapak untuk dipakai semula ke tempat kerja.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 200,
+    siri: "Lifehack-07",
+    no: 20,
+    topik: "Kereta & Perjalanan",
+    kategori: `Tips Kereta & Pemanduan`,
+    tajuk: `Lapisan Kalis Air Cermin Sisi Kereta Waktu Hujan`,
+    tags: ["kereta", "pemanduan", "tips"],
+    link: "",
+    post: `Ada yang tahu? Memandu waktu hujan lebat cermin sisi kabur penuh titisan air.. Trik kalis air segera? 🚗
+👇👇👇`,
+    komen: `Sapu Ubat Gigi Pada Cermin Sisi = Sapukan sedikit ubat gigi nipis pada cermin sisi dan lap bersih menggunakan tisu kering
+Alternatif Daun Keladi / Lilin = Gesekkan lilin putih atau daun keladi segar pada cermin sisi untuk menghasilkan lapisan hidrofobik
+Kesan Kalis Air 'Lotus Effect' = Titisan air hujan tidak akan melekat membentuk lapisan kabur, sebaliknya bergolek jatuh seperti titisan merkuri
+Pandangan Sisi Jelas = Membolehkan pemandu melihat kenderaan di lorong sebelah dengan jelas walaupun dalam cuaca hujan ribut lebat
+
+Satu langkah keselamatan jalan raya yang sangat penting sebelum memulakan perjalanan jarak jauh semasa musim tengkujuh.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 201,
+    siri: "Lifehack-07",
+    no: 21,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Uji Bateri AA Hidup vs Mati Dalam Masa 1 Saat (Trik Jatuh)`,
+    tags: ["barangan", "gajet", "tips", "trik jatuh"],
+    link: "",
+    post: `Ada yang tahu? Banyak bateri AA bercampur dalam laci, tak tahu mana hidup mana mati.. Trik uji 1 saat? 🔋
+👇👇👇`,
+    komen: `Jatuhkan Bateri Menegak = Pegang bateri alkali pada ketinggian 2 hingga 3 sentimeter di atas meja keras dengan kutub rata di bawah
+Lepaskan Bateri = Lepaskan bateri supaya bahagian dasarnya mendarat tegak di atas permukaan meja
+Bateri Penuh Berdiri Tegak = Bateri yang masih penuh cas akan mendarat dengan bunyi padat dan kekal berdiri tegak tanpa melantun
+Bateri Habis Melantun Jatuh = Bateri yang sudah kehabisan cas menghasilkan gas zink oksida yang kenyal di dalamnya, menyebabkannya melantun dan tumbang
+
+Anda boleh mengasingkan berpuluh biji bateri yang masih elok tanpa memerlukan alat penguji voltan (*multimeter*).
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 202,
+    siri: "Lifehack-07",
+    no: 22,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Lancarkan Kepala Zip Beg Tersangkut Guna Lilin atau Pensel`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Kepala zip jaket atau beg sangkut ketat tak boleh tarik.. Trik lancarkan semula 5 saat? 🧥
+👇👇👇`,
+    komen: `Gosok Mata Pensel 2B = Gosokkan hujung mata pensel hitam pada gigi zip yang tersangkut; grafit pensel adalah pelincir kering semulajadi
+Alternatif Lilin Putih = Gosokkan batang lilin putih atau sabun buku mandi kering di sepanjang trek gigi zip
+Tarik Kepala Zip Perlahan-lahan = Tarik kepala zip ke belakang sedikit dan gerakkan maju ke hadapan beberapa kali
+Gigi Zip Meluncur Lancar = Lapisan lilin atau grafit melicinkan geseran antara gigi zip logam tanpa meninggalkan kesan kotoran minyak
+
+Zip jaket, seluar atau beg galas anda akan kembali lancar tanpa risiko gigi zip patah atau koyak.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 203,
+    siri: "Lifehack-07",
+    no: 23,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Tanggalkan Kesan Dakwat Pen Pada Baju Guna Hand Sanitizer`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Baju kemeja putih terkena contengan dakwat pen mata bulat.. Trik hilangkan tanpa luntur? 🖊️
+👇👇👇`,
+    komen: `Picit Gel Hand Sanitizer = Picit cecair pembersih tangan (*hand sanitizer*) berasaskan alkohol terus ke atas tompokan dakwat pen
+Biarkan 1 Minit = Kandungan alkohol 70% bertindak memecahkan molekul minyak dan pelarut dakwat pen mata bulat
+Tekap Guna Tisu Bersih = Tekap kawasan tersebut dengan tisu kering (jangan gosok melebar supaya dakwat tidak merebak ke kawasan lain)
+Basuh Dengan Air Sabun = Dakwat akan meresap keluar ke atas tisu; bilas baju dengan air sabun biasa dan basuh seperti biasa
+
+Kesan dakwat pen yang terkena poket baju kemeja kerja akan hilang bersih tanpa meninggalkan kesan tompok.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 204,
+    siri: "Lifehack-07",
+    no: 24,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Kuatkan Hujung Wayar Charger Patah Guna Spring Pen Lama`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Hujung kepala kabel charger phone asyik terkoyak & patah.. Trik kuatkan guna pen lama? 🔌
+👇👇👇`,
+    komen: `Ambil Spring Dari Pen Mata Bulat = Buka pen mata bulat lama yang sudah habis dakwat dan keluarkan spring besi halusnya
+Lilitkan Pada Pangkal Kabel = Renggangkan sedikit hujung spring dan pusingkan mengelilingi bahagian leher kabel pengecas telefon anda
+Sokongan Anjal Anti-Bengkok = Spring besi menghalang kabel daripada terbengkok pada sudut tajam 90 darjah apabila telefon digunakan semasa mengecas
+Kabel Tahan Bertahun-tahun = Melindungi wayar kuprum halus di dalam kabel daripada putus atau penebat getah luarnya terkoyak
+
+Trik ini menjimatkan duit daripada kerap menukar kabel pengecas baharu setiap beberapa bulan.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 205,
+    siri: "Lifehack-07",
+    no: 25,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Selamatkan Telefon Masuk Air (Guna Gel Silika, Bukan Beras)`,
+    tags: ["barangan", "gajet", "guna gel silika, bukan beras", "tips"],
+    link: "",
+    post: `Ada yang tahu? Phone terjatuh dalam air, jangan tanam dalam beras! Trik selamatkan komponen telefon? 📱
+👇👇👇`,
+    komen: `Matikan Telefon Serta-Merta = Jangan sesekali cuba hidupkan telefon atau cucuk kabel pengecas untuk elak litar pintas (*short circuit*)
+Beras Membawa Debu Kanji = Beras menyerap air sangat perlahan dan debu kanji halus beras boleh masuk ke dalam port mengecas telefon
+Guna Paket Gel Silika = Masukkan telefon ke dalam bekas kedap udara bersama beberapa paket gel silika (*Silica Gel*) bungkusan kasut
+Biarkan 24 Hingga 48 Jam = Gel silika menyerap kelembapan udara dan cecair 10 kali ganda lebih pantas dan bersih berbanding beras
+
+Komponen dalaman telefon akan kering sempurna dan selamat untuk dihidupkan semula.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 206,
+    siri: "Lifehack-07",
+    no: 26,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Buang Biji Bulu Halus Pakaian Guna Pisau Cukur Lama`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Baju sejuk atau seluar kain ada biji-biji bulu berpasir hodoh.. Trik buang bulu kain? 👕
+👇👇👇`,
+    komen: `Bentangkan Baju Rata Atas Meja = Pastikan permukaan fabrik kain ditarik tegang di atas permukaan meja yang rata
+Cukur Ringan Searah = Gunakan pisau cukur pakai buang dan luncurkan bilah cukur secara perlahan dan lembut mengikut satu arah
+Biji Bulu Terpotong Bersih = Bilah cukur memotong gumpalan serat benang mikro (*pilling*) tanpa merosakkan struktur benang utama kain
+Tarik Guna Pita Pelekat = Gunakan pita pelekat selotep untuk mengutip sisa bulu kain yang telah dicukur keluar
+
+Pakaian lama atau baju sejuk kegemaran anda akan kelihatan kemas dan licin seperti pakaian baharu.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 207,
+    siri: "Lifehack-07",
+    no: 27,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Kemas Beg Pakaian Guna Teknik Gulung 'Army Roll'`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Bawa beg luggage kecil tapi baju banyak & tak nak kedut.. Trik gulung baju jimat 50% ruang? 🧳
+👇👇👇`,
+    komen: `Lipat Hujung Bawah Baju = Terbalikkan lipatan bahagian bawah kemeja-T ke luar kira-kira 10 sentimeter
+Lipat Sisi Ke Dalam = Lipat lengan dan bahagian sisi kiri dan kanan baju ke tengah membentuk jalur lurus kemas
+Gulung Padat Dari Atas = Gulung baju secara padat dan ketat bermula dari bahagian kolar leher turun ke bawah
+Kunci Dengan Poket Lipatan = Tarik lipatan bawah baju yang diterbalikkan tadi untuk membalut gulungan baju menjadi silinder kemas
+
+Baju tidak akan terbuka bersepah dalam beg, jimat 50% ruang bagasi dan fabrik tidak mudah berkedut.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 208,
+    siri: "Lifehack-07",
+    no: 28,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Bersihkan Celah Butang Papan Kekunci Laptop Guna Kertas 'Post-it'`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Celah butang keyboard laptop penuh serbuk biskut & habuk.. Trik korek kotoran paling laju? 💻
+👇👇👇`,
+    komen: `Guna Bahagian Gam Kertas Sticky Note = Ambil sehelai kertas nota berpelekat (*Post-it Note*)
+Lalukan Celah Barisan Butang = Selitkan bahagian tepi yang bergam ke dalam celahan antara butang papan kekunci secara condong
+Habuk Melekat Pada Gam = Habuk halus, serbuk makanan dan kotoran akan melekat pada jalur gam kertas nota tersebut
+Tarik Keluar Dan Buang = Tarik kertas keluar dan anda akan melihat kotoran terperangkap pada jalur pelekat
+
+Kaedah selamat tanpa perlu mencungkil butang papan kekunci yang berisiko merosakkan klip suis mekanikal.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 209,
+    siri: "Lifehack-07",
+    no: 29,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Cabut Paku Dinding Tanpa Mengotorkan Cat Guna Getah Gelang`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Cabut paku dekat dinding selalu tinggalkan kesan lekuk & cat tanggal.. Trik cabut kemas? 🔨
+👇👇👇`,
+    komen: `Alas Kepala Tukul Guna Getah = Letakkan sekeping getah tebal atau span kecil di antara kepala besi tukul dan dinding
+Cangkuk Paku Guna Bahagian Belakang = Cangkuk paku menggunakan cakar belakang tukul seperti biasa
+Tekan Tukul Pada Alas Getah = Apabila anda menekan tukul untuk mencungkil paku keluar, tekanan bertumpu pada alas getah
+Cat Dinding Tidak Calar = Dinding plaster tidak akan mengalami kesan lekuk atau calar hitam kesan geseran besi tukul
+
+Paku tercabut keluar dengan mudah dan permukaan dinding rumah anda kekal cantik tanpa cela.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 210,
+    siri: "Lifehack-07",
+    no: 30,
+    topik: "Gajet & Barangan",
+    kategori: `Tips Gajet & Barangan`,
+    tajuk: `Buka Ring Kunci Besi Tebal Guna Alat Pengepit Kuku`,
+    tags: ["barangan", "gajet", "tips"],
+    link: "",
+    post: `Ada yang tahu? Nak masukkan kunci baru dalam ring besi tebal sampai patah kuku.. Trik guna alat dapur? 🗝️
+👇👇👇`,
+    komen: `Guna Alat Pembuka Dawai Kokot (Staple Remover) = Selitkan dua taring pembuka dawai kokot (*stapler remover*) ke celah ring besi kunci
+Picit Alat Tersebut = Apabila anda memicit pemegang alat, taringnya akan merenggangkan gelung besi ring kunci dengan luas
+Masukkan Anak Kunci = Masukkan anak kunci baru ke celahan yang terbuka tanpa perlu menggunakan kuku jari tangan anda
+Lepaskan Pengepit = Tarik keluar alat pembuka dan kunci anda sudah selamat masuk ke dalam ring besi
+
+Kuku jari tangan anda selamat daripada patah atau terluka apabila menguruskan kunci rumah baharu.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 211,
+    siri: "Lifehack-08",
+    no: 1,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Hilangkan Bau Hangit Dapur Guna Rebusan Air Cuka`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Kuali dapur hangit berbau satu rumah.. Cara hilangkan bau hangit semalaman? 🍳
+👇👇👇`,
+    komen: `Rebus Air Cuka Masakan = Masukkan 2 cawan air dan 1 cawan cuka putih biasa ke dalam periuk kecil
+Tambah Kulit Limau Atau Kayu Manis = Masukkan kulit limau kasturi/lemon atau sebatang kulit kayu manis untuk haruman segar
+Didihkan Atas Api Perlahan = Biarkan air mendidih mereneh selama 10 hingga 15 minit tanpa ditutup periuknya
+Wap Asid Meneutralkan Bau = Wap asid asetat yang tersebar di udara akan mengikat dan menghapuskan zarah molekul hangit karbon di seluruh ruang dapur
+
+Bau asap hangit masakan akan hilang sepenuhnya dan udara rumah kembali segar.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 212,
+    siri: "Lifehack-08",
+    no: 2,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Kilatkan Kepala Paip Berkerak Kapur Guna Balutan Plastik Cuka`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Kepala paip sinki berkerak kapur putih keras.. Cara kilatkan tanpa sental? 🚿
+👇👇👇`,
+    komen: `Isi Plastik Bersih Guna Cuka = Tuangkan sedikit cuka masakan putih ke dalam beg plastik kecil lutsinar
+Rendam Kepala Paip Sinki = Sarungkan beg plastik pada kepala paip krom sehingga muncung paip tenggelam dalam air cuka
+Ikat Ketat Guna Getah = Ketatkan plastik pada batang paip dengan getah gelang dan biarkan selama 30 hingga 60 minit
+Kerak Kapur Cair Sendiri = Asid cuka melarutkan mendakan mineral kalsium karbonat (*limescale*) yang menyumbat lubang air paip
+
+Buka plastik, lap dengan kain mikrofiber dan kepala paip akan memancutkan air dengan lancar dan berkilat seperti baharu.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 213,
+    siri: "Lifehack-08",
+    no: 3,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Lancarkan Sinki Dapur Tersumbat Lemak Minyak Beku`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Sinki dapur tersumbat minyak beku lemak.. Trik lancarkan semula tanpa panggil tukang? 🚰
+👇👇👇`,
+    komen: `Tabur Baking Soda = Tuangkan setengah cawan serbuk soda penaik (*baking soda*) terus ke dalam lubang saluran sinki
+Tuang Cuka Panas = Tuangkan satu cawan cuka masakan putih panas; tindak balas kimia berbuih (*effervescence*) akan menggelegak
+Biarkan 15 Minit = Buih gas karbon dioksida dan asid bertindak menghancurkan lapisan gris lemak minyak yang melekat pada dinding paip PVC
+Siram Air Mendidih = Curahkan seerek air panas mendidih terus ke dalam saluran untuk membilas sisa lemak keluar ke longkang
+
+Saluran sinki akan mengalirkan air dengan laju semula tanpa perlu menggunakan bahan kimia asid berbahaya.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 214,
+    siri: "Lifehack-08",
+    no: 4,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Wangikan Bilik Air Berterusan Guna Kadbod Tisu Tandas`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Trik buat bilik air rumah sentiasa bau wangi hotel guna kadbod tisu tandas 🌸
+👇👇👇`,
+    komen: `Guna Minyak Aromaterapi (Essential Oil) = Ambil botol minyak wangi pati aromaterapi kegemaran anda (seperti lavender, serai wangi atau vanila)
+Titiskan Pada Tiub Kadbod Dalam = Titiskan 4 hingga 5 titis minyak wangi terus pada bahagian silinder kadbod coklat di dalam gulungan tisu tandas
+Elak Kena Pada Kertas Tisu = Pastikan cecair minyak diserap oleh kadbod dan tidak terkena pada helaian kertas tisu
+Haruman Terbebas Setiap Kali Ditarik = Setiap kali seseorang menarik tisu tandas, putaran gulungan kadbod akan menghembuskan aroma wangi segar ke udara
+
+Bilik air kekal harum semerbak selama berminggu-minggu tanpa memerlukan penyembur aerosol automatik.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 215,
+    siri: "Lifehack-08",
+    no: 5,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Cuci Microwave Berkerak Bersih Berkilat Dalam 3 Minit`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Microwave kotor berkerak & berbau.. Trik cuci berkilat dalam masa 3 minit? 🍲
+👇👇👇`,
+    komen: `Mangkuk Air Bersama Hirisan Lemon = Masukkan semangkuk air bersama hirisan sebiji lemon atau 2 sudu cuka ke dalam microwave
+Panaskan Selama 3 Minit = Hidupkan microwave pada suhu tinggi sehingga air mendidih dan mengeluarkan wap panas berkabus
+Biarkan Pintu Tertutup 2 Minit = Jangan buka pintu microwave serta-merta; biarkan wap asid sitrik melembutkan kerak minyak makanan yang kering
+Lap Sekali Lalu = Buka pintu dan lap dinding dalam microwave menggunakan kain lembap; segala sisa minyak degil tertanggal serta-merta
+
+Microwave anda bersih berkilat dan berbau harum lemon segar tanpa perlu menyental kuat.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 216,
+    siri: "Lifehack-08",
+    no: 6,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Padam Contengan Krayon & Marker Pada Dinding Cat`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Dinding rumah comot anak conteng krayon/marker.. Cara hilangkan tanpa cat baru? 🖍️
+👇👇👇`,
+    komen: `Guna Ubat Gigi Putih Atau Span Melamin = Letakkan sedikit ubat gigi putih biasa pada span basuh pinggan atau guna 'Magic Sponge' lembap
+Gosok Perlahan Mengikut Bulatan = Gosok kawasan contengan krayon lilin secara lembut; agen pelelas mikro menanggalkan pigmen warna lilin
+Alternatif Hair Dryer = Tiup contengan krayon dengan pengering rambut panas sehingga lilin krayon mencair, kemudian lap segera dengan tisu
+Keringkan Dengan Kain Bersih = Lap lebihan kesan sabun dengan kain basah bersih dan biarkan kering
+
+Kesan contengan hilang bersih tanpa menjejaskan lapisan warna cat dinding asal rumah anda.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 217,
+    siri: "Lifehack-08",
+    no: 7,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Asah Mata Bilah Blender Tumpul Guna Kulit Telur`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Mata bilah blender dah tumpul susah nak hancurkan bahan.. Trik asah semula guna kulit telur? 🥚
+👇👇👇`,
+    komen: `Kumpul & Basuh Kulit Telur = Kumpulkan kulit daripada 3 hingga 4 biji telur ayam, basuh bersih dan biarkan kering sepenuhnya
+Masukkan Dalam Balang Pengisar = Masukkan kulit telur ke dalam blender bersama sedikit air sejuk
+Kisar Pada Kelajuan Tinggi = Hidupkan pengisar selama 30 saat sehingga kulit telur hancur menjadi serbuk halus
+Kalsium Asah Bilah Logam = Serpihan keras kalsium karbonat kulit telur bertindak seperti batu asah mikro yang meratakan mata bilah keluli
+
+Bilas blender sehingga bersih; mata bilahnya akan kembali tajam untuk mengisar bawang dan cili dengan pantas.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 218,
+    siri: "Lifehack-08",
+    no: 8,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Hilangkan Karat Pada Pisau Dapur Guna Ubi Kentang`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Pisau dapur kesayangan ada tompok karat.. Cara bersihkan guna ubi kentang? 🥔
+👇👇👇`,
+    komen: `Potong Ubi Kentang Mentah = Belah dua sebiji ubi kentang mentah segar
+Celupkan Dalam Baking Soda Atau Garam = Celupkan permukaan potongan ubi kentang ke dalam serbuk soda penaik atau garam kasar
+Gosok Pada Bilah Pisau Berkarat = Gosok permukaan kentang pada tompokan karat bilah pisau dengan gerakan menekan
+Asid Oksalik Melarutkan Karat = Ubi kentang mengandungi asid oksalik semulajadi yang bertindak balas menanggalkan karat besi secara lembut
+
+Bilas pisau dengan air suam, lap kering dan sapukan setitik minyak masak untuk perlindungan daripada karat berulang.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 219,
+    siri: "Lifehack-08",
+    no: 9,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Senyapkan Bunyi Pintu Keriuk Bising Guna Sabun Mandi Kering`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Pintu bilik berbunyi keriuk bising bila buka tutup.. Trik senyapkan guna sabun? 🚪
+👇👇👇`,
+    komen: `Ambil Sabun Buku Kering = Ambil seketul sabun mandi buku biasa yang kering (atau batang lilin putih)
+Gesek Pada Pin Engsel Besi = Gosokkan sabun pada bahagian celahan sendi engsel besi pintu yang bergeser
+Buka Tutup Pintu Beberapa Kali = Gerakkan daun pintu buka dan tutup beberapa kali supaya serpihan sabun meresap masuk ke dalam alur engsel
+Lemak Sabun Bertindak Sebagai Pelincir = Sabun mengandungi asid lemak natrium yang melicinkan geseran logam tanpa menitis kotor seperti minyak
+
+Bunyi keriuk bising yang mengganggu tidur malam akan lenyap serta-merta dalam beberapa saat.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 220,
+    siri: "Lifehack-08",
+    no: 10,
+    topik: "Rumah & Dapur",
+    kategori: `Rumah, Dapur & DIY`,
+    tajuk: `Kesan Kedudukan Skru Rangka Dinding Plaster Guna Magnet Kuat`,
+    tags: ["dapur", "rumah,"],
+    link: "",
+    post: `Ada yang tahu? Nak tebuk dinding takut kena paku/wayar tersembunyi.. Trik kesan guna magnet? 🧲
+👇👇👇`,
+    komen: `Guna Magnet Neodymium Kuat = Ambil seketul magnet peti sejuk yang kuat (seperti magnet neodymium peranti lama)
+Lalukan Perlahan Pada Dinding = Gerakkan magnet secara menyapu mendatar dan menegak pada permukaan dinding plaster (*drywall*)
+Magnet Melekat Pada Paku Rangka = Magnet akan tertarik kuat dan 'melekat' pada kepala paku atau skru besi yang memegang rangka kayu/besi dinding
+Tandakan Titik Garisan = Tandakan titik-titik tersebut dengan pensel; garisan lurus menegak itu adalah lokasi rasuk rangka kukuh untuk gantung bingkai berat
+
+Menjamin paku atau cangkuk gambar digantung pada struktur dinding yang benar-benar kukuh dan selamat.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 221,
+    siri: "Lifehack-08",
+    no: 11,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Serap Bau Hapak & Bau Rokok Kabin Kereta Guna Nanas / Arang`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Kabin kereta bau hapak atau bau rokok degil.. Trik serap bau semalaman guna nanas/arang? 🚗
+👇👇👇`,
+    komen: `Guna Nanas Segar Atau Arang Aktif = Potong sebiji buah nanas masak kepada dua bahagian atau letakkan beberapa ketul arang kayu dalam bekas
+Letak Atas Lantai Kereta = Letakkan di atas pelapik kaki lantai kereta pada waktu malam dan tutup semua cermin tingkap rapat
+Enzim Bromelain & Karbon Kering = Serat nanas mengeluarkan enzim yang memecahkan molekul bau nikotin rokok, manakala arang menyerap kelembapan hapak
+Keluarkan Pada Pagi Keesokannya = Ambil keluar bekas nanas pada pagi berikutnya; kabin kereta akan berbau segar buah semulajadi
+
+Sangat berkesan untuk menghilangkan bau durian, tumpahan susu atau bau asap rokok yang terperangkap dalam kusyen fabrik.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 222,
+    siri: "Lifehack-08",
+    no: 12,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Elak Pening Loya Mabuk Kereta (Motion Sickness) di Jalan Berliku`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Selalu pening & loya mabuk naik kereta jalan bengkang-bengkok.. Trik elak 'motion sickness'? 🤢
+👇👇👇`,
+    komen: `Pandang Ufuk Jauh Di Hadapan = Elakkan melihat skrin telefon atau membaca buku; fokuskan pandangan mata pada garisan jalan raya jauh di depan
+Halakan Corong Aircond Ke Muka = Buka corong pendingin hawa sejuk dan halakan tiupan angin terus ke bahagian dahi dan muka anda
+Padankan Isyarat Mata & Telinga = Mabuk berlaku kerana cecair telinga dalam mengesan pergerakan kereta tetapi mata yang tengok skrin sangka badan statik
+Duduk Di Tempat Duduk Hadapan = Penumpang hadapan mengalami kurang ayunan daya sentrifugal berbanding tempat duduk barisan belakang
+
+Membantu otak memproses maklumat pergerakan kenderaan secara seimbang tanpa rasa pening loya.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 223,
+    siri: "Lifehack-08",
+    no: 13,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Buka Pintu Kereta Bertombol Terkunci Guna Tali Kasut`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Kunci tertinggal dalam kereta bertombol.. Trik buka guna tali kasut dalam kecemasan? 👟
+👇👇👇`,
+    komen: `Buat Simpul Jerat Gelincir (Slip Knot) = Ambil seutas tali kasut panjang dan buatkan satu simpulan jerat gelincir di bahagian tengah tali
+Selitkan Melalui Penjuru Getah Pintu = Masukkan tali melalui celahan penjuru atas getah pintu kereta dengan gerakan menggesek ke kiri dan kanan
+Jeratkan Pada Tombol Kunci Menegak = Gerakkan gelung jerat tali sehingga melingkari batang tombol kunci menegak di dalam pintu
+Tarik Kedua-dua Hujung Tali Ketat = Tarik tali untuk mengetatkan jerat pada tombol, kemudian rentap tali ke atas untuk mengangkat tombol kunci
+
+Trik kecemasan yang menyelamatkan anda daripada perlu membayar servis tukang kunci untuk kereta lama bertombol tegak.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 224,
+    siri: "Lifehack-08",
+    no: 14,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Kesan Kebocoran Angin Tayar Halus (Bocor Jarum) Guna Air Sabun`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Tayar kereta rasa pancit tapi tak nampak paku.. Trik cari titik bocor mikro guna air sabun? 🚗
+👇👇👇`,
+    komen: `Campur Sabun Pinggan & Air = Buat bancuhan air sabun pencuci pinggan pekat di dalam botol semburan atau mangkuk
+Sembur Pada Bunga & Dinding Tayar = Semburkan air sabun secara rata pada seluruh permukaan tayar kenderaan dan juga pada batang kepala injap (*valve*)
+Perhatikan Pembentukan Buih Mengembang = Gas angin tayar yang keluar perlahan akan meniup buih sabun menjadi gelembung yang membesar secara berterusan
+Tandakan Lokasi Bocor = Tandakan titik buih tersebut menggunakan kapur atau pita pelekat sebelum dibawa ke kedai tayar untuk ditampal cacing
+
+Menjimatkan masa tukang tayar dan memastikan kebocoran mikro yang tersembunyi dapat dikesan dengan tepat.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 225,
+    siri: "Lifehack-08",
+    no: 15,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Bersihkan Kerak Sulfat Kepala Bateri Kereta Guna Air Panas`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Kepala bateri kereta berkerak serbuk putih biru.. Trik cuci licin guna air panas? 🔋
+👇👇👇`,
+    komen: `Perhatikan Kerak Serbuk Oksida = Kerak serbuk putih atau biru kehijauan pada terminal bateri menghalang pengaliran arus elektrik ke starter enjin
+Masak Seerek Air Panas Mendidih = Sediakan satu teko air panas mendidih biasa (tidak perlu campuran kimia)
+Curahkan Perlahan Pada Terminal Bateri = Tuangkan air panas terus ke atas kepala terminal bateri yang berkerak
+Kerak Asid Sulfat Larut Serta-Merta = Haba air panas melarutkan garam sulfat plumbum dalam masa beberapa saat dan membersihkan terminal menjadi berkilat
+
+Selepas kering, sapukan sedikit minyak gris (*petroleum jelly*) pada terminal untuk mengelakkan pembentukan kerak berulang.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 226,
+    siri: "Lifehack-08",
+    no: 16,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Elak Baju Kotor Berbau Hapak Dalam Luggage Guna Sabun Buku`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Baju travel kotor berbau hapak bercampur dalam beg luggage.. Trik kekal wangi guna sabun buku? 🧳
+👇👇👇`,
+    komen: `Asingkan Pakaian Kotor Dalam Beg Kain = Letakkan pakaian terpakai dalam beg dobi kain atau beg plastik berasingan dalam bagasi
+Selitkan Seketul Sabun Buku Wangi = Selitkan seketul sabun mandi buku baharu yang masih berbalut kertas ke dalam ruang beg pakaian kotor
+Sabun Memerangkap Bau Bakteria Peluh = Haruman pekat sabun menyerap bauan lembap dan menghalang bakteria peluh daripada merebak ke pakaian bersih lain
+Boleh Digunakan Semula = Sabun buku tersebut tidak rosak dan boleh digunakan untuk mandi apabila anda tiba di destinasi penginapan
+
+Beg bagasi anda kekal berbau harum segar sepanjang perjalanan percutian tanpa bau hapak terperap.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 227,
+    siri: "Lifehack-08",
+    no: 17,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Buka Nat Skru Tayar Kereta Yang Terlalu Ketat Guna Berat Badan`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Skru tayar kereta ketat gila waktu tayar pancit tepi jalan.. Trik buka tanpa patah pinggang? 🛞
+👇👇👇`,
+    komen: `Pasang Spanar Tayar Selari Tanah = Pasangkan soket pemutar tayar (*lug wrench*) pada nat skru dengan kedudukan pemegang mengarah ke kiri
+Arah Lawan Jam (Lefty-Loosey) = Pastikan arah pusingan adalah mengikut lawan arah jam untuk melonggarkan skru
+Pijak Palang Spanar Dengan Kaki = Letakkan sebelah kaki di atas pemegang spanar dan gunakan berat badan anda untuk menekan ke bawah secara berhati-hati
+Tuas Fizik Menggandakan Tork = Daya berat badan anda menghasilkan tork berkali ganda lebih kuat berbanding menggunakan kekuatan tangan semata-mata
+
+Nat skru tayar yang diketatkan oleh mesin impak bengkel akan terlonggar dengan mudah tanpa mencederakan pinggang anda.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 228,
+    siri: "Lifehack-08",
+    no: 18,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Hilangkan Tompokan Kerak Air (Watermark) Cermin Kereta Guna Cuka`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Cermin kereta ada kesan tompok air degil (watermark) waktu hujan.. Cara kilatkan modal murah? 🌧️
+👇👇👇`,
+    komen: `Campur Cuka Masakan & Air Nisbah 1:1 = Campurkan cuka putih bersama air bersih di dalam mangkuk kecil
+Guna Span Lembut Celup Bancuhan = Basahkan span lembut dengan larutan cuka dan gosok pada tompokan watermark cermin hadapan
+Asid Melarutkan Mendakan Silika = Asid asetat melarutkan sisa mineral hujan asid dan mendakan kalsium yang mengeras pada permukaan kaca
+Bilas Segera Dengan Air Bersih = Basuh cermin dengan air paip bersih dan lap kering; jangan biarkan cuka terkena pada cat badan kereta
+
+Cermin kereta akan kembali jernih licin tanpa kesan tompok titisan air yang mengaburkan pandangan waktu malam.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 229,
+    siri: "Lifehack-08",
+    no: 19,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Elak Barang Belian Dalam Bonet Kereta Bergolek Guna Bakul Lipat`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Barang dalam bonet kereta bergolek-golek bila memandu.. Trik kemas guna bakul lipat? 📦
+👇👇👇`,
+    komen: `Simpan Kotak Bakul Lipat (Collapsible Crate) = Sediakan satu atau dua bakul plastik lipat nipis di dalam ruang bonet belakang
+Guna Cangkuk Beg Bagasi Bonet = Kebanyakan kereta mempunyai cangkuk kecil (*grocery hook*) di sisi dinding bonet untuk sangkut pemegang plastik
+Letak Botol & Telur Dalam Bakul = Masukkan barang dapur mudah pecah seperti minyak masak, kicap dan telur ke dalam bakul lipat tersebut
+Bonet Kemas & Selamat = Barang tidak akan terbalik, bergolek atau pecah apabila kenderaan mengambil selekoh tajam atau membrek kecemasan
+
+Apabila tidak digunakan, bakul boleh dilipat nipis dan tidak memakan ruang simpanan bonet kereta anda.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 230,
+    siri: "Lifehack-08",
+    no: 20,
+    topik: "Kereta & Perjalanan",
+    kategori: `Kereta & Perjalanan`,
+    tajuk: `Elak Kunci Rumah Tenggelam Dalam Sungai Guna Gabus Botol`,
+    tags: ["kereta", "perjalanan"],
+    link: "",
+    post: `Ada yang tahu? Kunci rumah/kereta takut tercampak tenggelam dalam sungai waktu mandi.. Trik guna gabus botol? 🏖️
+👇👇👇`,
+    komen: `Guna Gabus Penutup Botol (Wine Cork) = Ambil seketul gabus kayu penutup botol kaca yang terpakai
+Tebuk Lubang Skru Cangkuk = Pasangkan skru cangkuk besi kecil pada kepala gabus dan sambungkan pada gelang kunci (*keyring*) anda
+Ketumpatan Rendah Terapung Di Air = Kayu gabus mempunyai struktur sel berongga udara yang sangat ringan dan berdaya apungan tinggi
+Kunci Terapung Ke Permukaan = Jika gugusan kunci anda tercicir ke dalam air tasik, sungai atau laut, gabus akan menarik kunci terapung di permukaan air
+
+Memudahkan anda mengesan dan mengambil semula kunci tanpa perlu menyelam mencari di dasar air berlumpur.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 231,
+    siri: "Lifehack-08",
+    no: 21,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Hilangkan Kedutan Baju Tanpa Seterika Guna Wap Bilik Air`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Kemeja kedut tapi bilik hotel tiada seterika.. Trik hilangkan kedut baju guna wap bilik air? 👔
+👇👇👇`,
+    komen: `Gantung Baju Pada Penyangkut (Hanger) = Gantung kemeja atau gaun pada tombol pintu bilik air atau rel tirai mandi
+Tutup Pintu & Tingkap Bilik Air = Pastikan semua pintu dan tingkap bilik air ditutup rapat untuk memerangkap wap
+Mandi Air Panas Seperti Biasa = Pasang pancuran mandian air panas; wap air panas (*steam*) akan memenuhi ruang bilik air
+Tarik Licin Fabrik = Semasa wap panas melembutkan serat kain, tarik bahagian bawah baju secara lembut; kedutan kain akan meregang hilang
+
+Baju anda licin kemas dan siap untuk dipakai ke mesyuarat tanpa memerlukan seterika elektrik.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 232,
+    siri: "Lifehack-08",
+    no: 22,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Regangkan Kasut Kulit Baharu Yang Ketat Guna Stokin & Hair Dryer`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Kasut kulit baharu ketat mencengkam jari kaki.. Trik regangkan kasut guna hair dryer & stokin? 👞
+👇👇👇`,
+    komen: `Pakai Stokin Tebal Berlapis = Pakai sepasang atau dua pasang stokin tebal dan sarungkan kaki ke dalam kasut baharu yang ketat
+Tiup Haba Pengering Rambut = Halakan corong pengering rambut (*hair dryer*) bersuhu sederhana pada bahagian kasut yang mencengkam selama 2 minit
+Gerakkan Jari Kaki Di Dalam = Lenturkan tapak kaki dan gerakkan jari kaki ke atas dan ke bawah semasa haba panas melembutkan kulit kasut
+Biarkan Sejuk Atas Kaki = Terus pakai kasut sehingga kulit kasut kembali sejuk sepenuhnya mengikut bentuk acuan kaki anda
+
+Kasut kulit akan mengembang dengan selesa dan tidak lagi menyakitkan atau melecetkan jari kaki anda.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 233,
+    siri: "Lifehack-08",
+    no: 23,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Tanggalkan Gula-Gula Getah Melekat Pada Seluar Guna Ais Batu`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Gula-gula getah (chewing gum) melekat pada seluar.. Trik tanggal bersih guna ais batu? 🧊
+👇👇👇`,
+    komen: `Letak Ketulan Ais Dalam Plastik = Masukkan beberapa ketul ais batu ke dalam beg plastik kecil (supaya fabrik seluar tidak basah kuyup)
+Tekap Atas Gula-Gula Getah = Tekapkan bungkusan ais tepat di atas getah yang melekat pada fabrik selama 5 hingga 10 minit
+Getah Mengeras & Rapuh = Suhu sejuk beku menukarkan struktur elastik gula-gula getah menjadi pepejal keras dan rapuh
+Kopek Keluar Sekali Keping = Gunakan tepi sudu atau kad tebal untuk mengopek keluar ketulan getah beku tersebut tanpa meninggalkan kesan comot
+
+Sisa getah akan tertanggal sepenuhnya dari gentian benang kain tanpa perlu mengoyakkan seluar kesayangan anda.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 234,
+    siri: "Lifehack-08",
+    no: 24,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Serap Percikan Minyak Kari Pada Baju Serta-Merta Guna Bedak Bayi`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Baju terkena percikan kuah minyak kari.. Trik serap minyak serta-merta guna bedak bayi? 🍛
+👇👇👇`,
+    komen: `Jangan Basuh Guna Air Dahulu = Air akan menolak minyak meresap lebih dalam ke dalam serat benang fabrik pakaian
+Tabur Serbuk Bedak Bayi Tebal = Taburkan serbuk bedak bayi (*talcum powder*) atau tepung jagung tebal-tebal di atas tompokan minyak
+Biarkan 10 Hingga 15 Minit = Zarah serbuk halus bertindak menyedut molekul minyak dan lemak keluar daripada benang baju
+Kibas & Cuci Sabun Pinggan = Kibaskan serbuk bedak, titiskan sedikit sabun basuh pinggan pada kesan tersebut dan basuh seperti biasa
+
+Kesan tompok kuning minyak kari akan hilang sepenuhnya tanpa meninggalkan lingkaran minyak kekal pada baju.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 235,
+    siri: "Lifehack-08",
+    no: 25,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Elak Rantai Leher Emas Bersimpul Kusut Guna Straw Minuman`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Rantai leher emas selalu bersimpul kusut dalam bekas.. Trik simpan lurus guna straw minuman? ⛓️
+👇👇👇`,
+    komen: `Buka Cangkuk Kunci Rantai = Buka cangkuk kunci rantai leher emas atau perak anda
+Masukkan Rantai Menerusi Straw = Masukkan sebelah hujung rantai melalui sebatang straw minuman plastik sehingga keluar di hujung sebelah lagi
+Kancing Semula Cangkuk = Pasangkan semula cangkuk rantai di bahagian luar straw plastik tersebut
+Rantai Kekal Lurus = Batang straw yang lurus menghalang rantai halus daripada berpintal, berbelit atau membentuk simpulan mati kusut
+
+Sangat memudahkan apabila anda melancong atau menyimpan pelbagai utas rantai kemas di dalam beg mekap.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 236,
+    siri: "Lifehack-08",
+    no: 26,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Label Wayar Palam Elektrik Berselirat Guna Klip Plastik Roti`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Wayar palam elektrik berselirat bawah meja kerja.. Trik label kemas guna klip plastik roti? 🍞
+👇👇👇`,
+    komen: `Kumpul Klip Plastik Roti (Bread Tags) = Simpan kepingan klip plastik segi empat yang digunakan untuk mengikat bungkusan roti Gardenia
+Tulis Nama Gajet Guna Pen Marker = Tuliskan label ringkas seperti 'PC', 'Monitor', 'Printer', 'Router' atau 'Charger' pada klip tersebut
+Kepitkan Pada Pangkal Kepala Wayar = Klipkan kepingan plastik tersebut pada pangkal wayar berhampiran soket palam elektrik dinding
+Kenal Pasti Dalam 1 Saat = Anda boleh mematikan atau mencabut suis palam gajet yang betul dengan pantas tanpa tersilap cabut suis komputer utama
+
+Susun atur wayar di stesen kerja anda menjadi kemas, selamat dan mudah diuruskan.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 237,
+    siri: "Lifehack-08",
+    no: 27,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Cabut Cincin Tersekat Pada Jari Bengkak Guna Benang Gigi`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Cincin tersekat ketat pada jari bengkak susah nak cabut.. Trik leraikan guna benang gigi? 💍
+👇👇👇`,
+    komen: `Selitkan Hujung Benang Gigi Bawah Cincin = Selitkan seutas benang pembersih gigi (*dental floss*) nipis di bawah cincin menghala ke tapak tangan
+Lilitkan Benang Rapat Pada Jari = Lilitkan baki benang secara rapat dan kemas di sepanjang jari melepasi sendi buku jari yang membengkak
+Tarik Hujung Benang Dari Bawah Cincin = Pegang hujung benang di bawah cincin dan mula buka lilitan perlahan-lahan ke arah luar
+Cincin Meluncur Keluar Sendiri = Tindakan membuka lilitan benang akan menolak cincin meluncur melepasi buku jari yang telah dimampatkan oleh benang
+
+Kaedah kecemasan perubatan yang menyelamatkan cincin berharga anda daripada terpaksa dipotong menggunakan playar pemotong.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 238,
+    siri: "Lifehack-08",
+    no: 28,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Bersihkan Skrin Komputer & Telefon Guna Nisbah Air Suling & Cuka`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Skrin laptop & phone berminyak penuh cap jari.. Cara lap berkilat tanpa calarkan skrin? 💻
+👇👇👇`,
+    komen: `Elak Sembur Bahan Kimia Beralkohol = Alkohol pekat atau pembersih cermin tingkap boleh merosakkan salutan oleofobik skrin sentuh
+Campur Air Suling & Cuka Putih (1:1) = Campurkan air suling bersih bersama sedikit cuka masakan putih dalam nisbah yang sama rata
+Sembur Pada Kain Mikrofiber = Semburkan larutan sedikit pada kain mikrofiber (jangan sesekali menyembur cecair terus ke atas skrin elektronik)
+Lap Gerakan Bulatan Lembut = Lap permukaan skrin secara lembut; minyak cap jari akan terlarut dan kering berkilat tanpa sebarang garis tompokan
+
+Skrin peranti anda kekal jernih, bebas minyak dan selamat daripada kerosakan salutan paparan.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 239,
+    siri: "Lifehack-08",
+    no: 29,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Leraikan Simpulan Mati Tali Kasut Ketat Guna Teknik Pintal`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Simpul tali kasut atau tali beg mati ketat gila sampai sakit kuku.. Trik leraikan dalam 3 saat? 🪢
+👇👇👇`,
+    komen: `Pintal Hujung Tali Yang Bebas = Ambil bahagian hujung tali yang longgar dan pusingkannya secara berpusing berulang kali
+Hujung Tali Menjadi Rod Keras = Putaran pintalan yang ketat menukarkan tali kain yang lembut menjadi batang silinder yang tegar dan keras
+Tolak Batang Tali Masuk Ke Dalam Simpul = Tolak batang tali yang keras tadi menembusi ke bahagian tengah simpulan mati yang ketat
+Simpul Mengembang Longgar = Batang tali yang tegar akan menolak gelung simpulan terbuka dari dalam, melonggarkan ikatan mati dengan serta-merta
+
+Anda boleh membuka ikatan tali kasut basah atau simpulan plastik bungkusan tanpa perlu merosakkan kuku jari tangan.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 240,
+    siri: "Lifehack-08",
+    no: 30,
+    topik: "Gajet & Barangan",
+    kategori: `Pakaian & Gajet`,
+    tajuk: `Lipat Kemeja-T Dalam 2 Saat Kemas Guna Teknik 3-Poin Jepun`,
+    tags: ["gajet", "pakaian"],
+    link: "",
+    post: `Ada yang tahu? Trik lipat baju kemeja-T dalam masa 2 saat kemas macam kedai baju guna teknik cubit 3-poin 👕
+👇👇👇`,
+    komen: `Bayangkan Garisan Lurus 3 Poin = Titik A di bahagian atas bahu kemeja-T, Titik B di bahagian tengah pinggang, dan Titik C di hujung bawah baju
+Cubit Titik A & B Serentak = Gunakan tangan kiri mencubit kain di Titik A (bahu) dan tangan kanan mencubit kain di Titik B (tengah)
+Bawa Titik A Ke Titik C = Bawa tangan kiri melepasi tangan kanan dan cubit Titik C (bawah) bersama Titik A
+Angkat & Kibas Kemas = Angkat baju ke udara, buka silangan tangan dan lipatkan bahagian lengan sebelah lagi ke bawah meja
+
+Kemeja-T anda terlipat sempurna empat segi tepat dalam masa hanya 2 saat seperti susunan baju di butik pakaian.
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
 ];
 
 // Nama siri pilihan (papar di tab). Contoh: { "Post-01": "Tips Digital" }
 export const namaSiri = {}
 
 // Siri yang dapat tab sendiri. Siri lain automatik masuk Archive.
-export const tabUtama = ["Post-01", "Post-02", "Post-03", "Post-04", "Post-05", "Post-06"]
+export const tabUtama = ["Post-01", "Post-02", "Post-03", "Post-04", "Post-05", "Post-06", "Lifehack-07", "Lifehack-08"]

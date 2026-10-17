@@ -11,7 +11,7 @@ Setiap kad = 1 set: **Post (wall)** + **Komen pertama**, masing-masing ada butan
 - **Repo:** `taufikmusa/facebook-vault`, branch kerja & deploy: `main`
 - **Live:** https://facebook.taufik.fyi (CNAME `public/CNAME`)
 - **Stack:** Vite + React (JS) → GitHub Actions → GitHub Pages
-- **Kandungan (17 Okt 2026):** 180 post. Post-01 (id 1–30) hingga Post-06 (151–180). Siri seterusnya = **Post-07**, mula id **181**.
+- **Kandungan (17 Okt 2026):** 240 post. Post-01 (id 1–30) hingga Post-06 (151–180) = format Set FB asal (ada link rasmi dalam komen). **Lifehack-07** (181–210, docx "Set 5 Tips Trick Harian") dan **Lifehack-08** (211–240, docx "Set 6 Life Hacks Harian") = format Lifehack (tiada link). Taufik tulis nama siri "Lifehack-07 & Lifehack-07"; ditafsir 07 dan 08. Siri Post seterusnya = **Post-07** (id **241**), Lifehack seterusnya = **Lifehack-09**.
 
 ## Struktur repo
 
@@ -66,6 +66,14 @@ PG00359605
 ## Pembuka post (tetap, dikemas kini 17 Okt 2026)
 
 Docx tulis pembuka `Simple tips hari ni..` / `Simple tips malam ni..` / `Just a simple tips..`. Converter tukar semua kepada **`Ada yang tahu? `** (pemalar `PEMBUKA` dalam `tools/docx_ke_data.py`), contoh: `Ada yang tahu? Nak beli barang online...`. Ayat selebihnya tak diubah.
+
+## Format Lifehack (docx "30 Set Status FB ... Tips Trick / Life Hacks Harian")
+
+Tajuk `Set 01: Tajuk [Kategori]` (tiada `#`), baris `1. Ayat letak dekat post (79 aksara - Status Warna FB):`, teks post (TIADA pembuka "Simple tips"), baris `2. Ayat letak dekat comment:`, komen = langkah `Tajuk Langkah = penerangan` + ayat penutup, kemudian perenggan CTA lama (dibuang, diganti CTA tetap). Tiada link luar, jadi `link: ""`. Jana dengan flag `--lifehack` (topik ikut kategori: **Rumah & Dapur / Kereta & Perjalanan / Gajet & Barangan**, bukan 5 topik Post). Converter TAMBAH `Ada yang tahu? ` di depan ayat post (contoh: `Ada yang tahu? Gunting dapur dah tumpul jangan buang dulu.. Guna trik aluminium foil ni ✂️`).
+
+```bash
+python3 -I tools/docx_ke_data.py "Set.docx" --siri Lifehack-09 --mula 241 --lifehack > blok.txt
+```
 
 ## Tambah set baru (aliran kerja utama)
 
