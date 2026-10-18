@@ -122,7 +122,7 @@ Ujian: render semua `vars` asal mesti sama dengan teks docx (sidecar `--asal`), 
 
 - Tab atas: `[...tabUtama, "Archive"]`, tab aktif disimpan localStorage `tab`. Chip topik balut ke bawah (jangan swipe mendatar).
 - Kad: label `Post-02 · 07`, badge topik, tajuk, kotak **1️⃣ Post (wall)** (info "N aksara") + **📋 Copy Post**, kotak **2️⃣ Komen pertama** + **📋 Copy Komen**, butang ✓ Dah post.
-- **Warna kotak (semua tab):** Post (wall) = BIRU (`.kotak-post`, butang Copy Post biru), Komen pertama = HIJAU (`.kotak-komen`, butang Copy Komen hijau), supaya Taufik senang bezakan. Butang lepas salin jadi putih krim (`.ok`). Jangan guna warna sama untuk dua kotak.
+- **Warna kotak (semua tab):** Post (wall) = BIRU (`.kotak-post`, butang Copy Post biru), Komen pertama = HONEY DAWN `#F0C986` (`.kotak-komen`, butang Copy Komen warna tu dengan teks gelap), supaya Taufik senang bezakan. Butang lepas salin jadi putih (`.ok`). Jangan guna warna sama untuk dua kotak.
 - **Teks lipat (semua tab):** post dipapar pendek 5 baris, komen 4 baris, dengan butang **▼ Lihat lagi / ▲ Tutup** (komponen `TeksLipat` dalam App.jsx, CSS `.lipat` line-clamp). Butang hanya keluar bila teks terpotong. Butang Copy sentiasa salin teks PENUH. Taufik minta ini supaya kad tak panjang (macam preview Facebook "See more").
 - Cari: semua kata mesti ada (AND) merentas nombor siri, tajuk, post, komen, tags, topik, kategori.
 - Checkbox "Belum post sahaja" / "Dah post sahaja" (saling eksklusif). Kiraan `x / N dah post`.
