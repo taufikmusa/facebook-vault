@@ -232,7 +232,7 @@ export default function App() {
               )
             })()}
 
-            <div className="kotak">
+            <div className="kotak kotak-post">
               <div className="kotak-kepala">
                 <span className="kotak-label">{s.vars ? "📝 Post panjang (wall)" : "1️⃣ Post (wall)"}</span>
                 <span className="kotak-info">{s.vars ? "" : "Background warna · "}{aksara(teksPost(s))} aksara</span>
@@ -244,7 +244,7 @@ export default function App() {
             </div>
 
             {s.komen && (
-              <div className="kotak">
+              <div className="kotak kotak-komen">
                 <div className="kotak-kepala">
                   <span className="kotak-label">2️⃣ Komen pertama</span>
                   <span className="kotak-info">Letak lepas post naik</span>

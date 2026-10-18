@@ -125,3 +125,20 @@ button { font: inherit; }
 /* Teks lipat: pratonton pendek + Lihat lagi */
 .lipat { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: var(--baris, 5); line-clamp: var(--baris, 5); overflow: hidden; }
 .lihat { display: block; margin-top: 8px; padding: 2px 0; background: none; border: none; color: var(--emas); font-size: 14px; font-weight: 600; cursor: pointer; }
+
+/* Warna berbeza: Post (wall) = biru, Komen pertama = hijau */
+.kotak-post { border-color: #2d5a94; background: #0f1b2e; }
+.kotak-post .kotak-kepala { background: #15294a; border-bottom-color: #2d5a94; }
+.kotak-post .kotak-label { color: #7ab8ff; }
+.kotak-post .kotak-info { color: #8aa5c8; }
+.kotak-post .lihat { color: #7ab8ff; }
+.kotak-post .btn-salin { background: #3b82f6; color: #fff; }
+
+.kotak-komen { border-color: #2a7a55; background: #0f2219; }
+.kotak-komen .kotak-kepala { background: #12301f; border-bottom-color: #2a7a55; }
+.kotak-komen .kotak-label { color: #6fdba0; }
+.kotak-komen .kotak-info { color: #84b79c; }
+.kotak-komen .lihat { color: #6fdba0; }
+.kotak-komen .btn-salin { background: #22a06b; color: #fff; }
+
+.btn-salin.ok, .kotak-post .btn-salin.ok, .kotak-komen .btn-salin.ok { background: #f4f1e8; color: #14110d; }
