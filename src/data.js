@@ -9720,10 +9720,3793 @@ Dealer Public Gold | G100 Network (PG00359605)
 simpanemasfizikal.com`,
     komen: ``,
   },
+  {
+    id: 301,
+    siri: "Post-08",
+    no: 1,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Lubuk Gambar & Visual Percuma Tanpa Hak Cipta`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://unsplash.com",
+    post: `Ada yang tahu? Nak cari gambar percuma yang 'high resolution' dan bebas royalti untuk design poster?📸
+👇👇👇`,
+    komen: `Gunakan 5 lubuk percuma ini untuk memuat turun gambar profesional tanpa bimbang isu hak cipta:
+
+1️⃣ Unsplash - Koleksi gambar resolusi tinggi dengan tona sinematik dan artistik. Sangat sesuai untuk latar belakang poster, artikel blog, atau bahan pembentangan korporat.
+https://unsplash.com
+
+2️⃣ Pexels - Bukan sahaja menyediakan ribuan stok foto berkualiti tinggi, malah laman ini turut menawarkan video pendek percuma yang boleh digunakan untuk klip video pendek (Reels atau TikTok) anda.
+https://www.pexels.com
+
+3️⃣ Freepik - Pilihan utama sekiranya anda mencari elemen grafik, vektor, fail PSD, dan ilustrasi. Carian boleh ditapis mengikut lesen percuma (Free license) untuk memudahkan pemilihan bahan.
+https://www.freepik.com
+
+4️⃣ Pixabay - Mempunyai pangkalan data yang luas merangkumi foto, ilustrasi, vektor, serta klip audio percuma yang selamat digunakan untuk pelbagai tujuan projek reka bentuk anda.
+https://pixabay.com
+
+5️⃣ Rawpixel - Tempat terbaik untuk mencari karya seni vintaj, ilustrasi klasik, dan elemen PNG tanpa latar belakang berkualiti tinggi yang jarang ditemui di laman stok foto biasa.
+https://www.rawpixel.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 302,
+    siri: "Post-08",
+    no: 2,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Alat Jana Palet Warna Harmoni untuk Jenama / Poster`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://coolors.co",
+    post: `Ada yang tahu? Nak pilih gabungan warna poster yang sedap mata memandang tapi buntu nak padankan?🎨
+👇👇👇`,
+    komen: `Elakkan memilih warna secara rawak. Rujuk 5 alat penjana palet warna percuma ini untuk memastikan reka bentuk anda sentiasa harmoni dan kelihatan profesional:
+
+1️⃣ Coolors - Alat penjana palet warna paling pantas dan popular. Anda hanya perlu menekan kekunci 'Spacebar' pada papan kekunci untuk menghasilkan kombinasi warna baharu secara automatik, atau mengunci (lock) warna pilihan anda.
+https://coolors.co
+
+2️⃣ Adobe Color - Sangat berguna untuk memahami teori warna secara mendalam. Anda boleh meneroka roda warna mengikut formula harmoni seperti Analogous, Monochromatic, Triad, atau Complementary untuk jenama anda.
+https://color.adobe.com
+
+3️⃣ Color Hunt - Galeri palet warna terpilih yang dikemas kini setiap hari oleh komuniti pereka grafik. Anda boleh menapis pilihan mengikut kategori tema seperti Pastel, Vintage, Retro, Neon, atau Dark.
+https://colorhunt.co
+
+4️⃣ Khroma - Menggunakan teknologi kecerdasan buatan (AI) untuk mempelajari warna kegemaran yang anda pilih, kemudian menjana kombinasi warna tanpa had mengikut citarasa dan identiti anda.
+https://www.khroma.co
+
+5️⃣ Muzli Colors - Membolehkan anda memasukkan kod warna utama jenama anda, dan sistem akan terus memaparkan visual pratonton bagaimana palet warna tersebut kelihatan pada poster, aplikasi, atau laman web sebenar.
+https://colors.muz.li
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 303,
+    siri: "Post-08",
+    no: 3,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Sumber Font Percuma untuk Kegunaan Komersial`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://fonts.google.com",
+    post: `Ada yang tahu? Nak cari font yang kemas dan percuma untuk kegunaan komersial bisnes anda?🔤
+👇👇👇`,
+    komen: `Elakkan memuat turun sebarang font di internet tanpa semakan lesen bagi mengelakkan isu pelanggaran hak cipta. Rujuk 5 platform penyedia font percuma yang selamat untuk kegunaan bisnes ini:
+
+1️⃣ Google Fonts - Pilihan paling selamat dan standard untuk kegunaan reka bentuk grafik mahupun laman web. Kesemua font di sini berlesen sumber terbuka (open source) dan boleh digunakan secara percuma untuk projek komersial.
+https://fonts.google.com
+
+2️⃣ DaFont (Pilihan Komersial) - Menyediakan ribuan font mengikut pelbagai tema unik. Pastikan anda menapis carian menggunakan pilihan '100% Free' atau 'Public Domain' sebelum memuat turun untuk tujuan perniagaan atau promosi.
+https://www.dafont.com
+
+3️⃣ Font Squirrel - Laman web khas yang mengumpulkan font berkualiti tinggi dan disahkan selamat untuk kegunaan komersial (free for commercial use). Ia turut menyediakan fungsi 'Font Identifier' untuk mengesan nama font daripada imej.
+https://www.fontsquirrel.com
+
+4️⃣ Fontshare - Disediakan oleh Indian Type Foundry, laman ini menawarkan koleksi font moden bertaraf premium secara percuma untuk kegunaan peribadi mahupun komersial dengan susunan tipografi yang sangat kemas.
+https://www.fontshare.com
+
+5️⃣ Behance - Ramai pereka tipografi berkongsi hasil karya font percuma mereka di platform ini. Taip 'Free font commercial use' di ruangan carian untuk mencari font paparan (display font) yang unik dan kreatif.
+https://www.behance.net
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 304,
+    siri: "Post-08",
+    no: 4,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Lubuk Cari Idea Reka Bentuk Carousel FB & IG`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://www.instagram.com",
+    post: `Ada yang tahu? Nak buat design carousel FB/IG yang lawa tapi tak tahu nak cari idea kat mana?🤔
+👇👇👇`,
+    komen: `Sebelum mula mereka bentuk, kumpul dahulu inspirasi menggunakan 6 lubuk percuma ini:
+
+1️⃣ Instagram - Jangan sekadar tatal (scroll) kosong. Masuk ke ruangan Explore dan cari akaun yang satu niche dengan kita, atau gunakan hashtag seperti #carouseldesign, kemudian tekan ikon Save untuk dijadikan rujukan.
+https://www.instagram.com
+
+2️⃣ Pinterest - Lubuk terbaik sekiranya kita mahu mengumpul banyak idea dengan pantas. Taip kata kunci 'Instagram carousel design' atau 'finance carousel' dan simpan semua Pin tersebut ke dalam satu 'Board' khas.
+https://www.pinterest.com
+
+3️⃣ Canva - Paling mudah untuk mendapatkan idea asas. Buka ruangan Templates dan cari 'Instagram carousel' untuk mempelajari susunan slaid yang kemas, jenis font yang sesuai, serta gabungan warna yang menarik.
+https://www.canva.com
+
+4️⃣ Behance & Dribbble - Tempat berkumpulnya para pereka grafik profesional. Sekiranya anda mahu mencari reka bentuk yang lebih kreatif, unik, dan kelihatan sangat eksklusif, layari dua laman web ini.
+https://www.behance.net | https://dribbble.com
+
+5️⃣ LinkedIn - Sangat sesuai sekiranya anda menghasilkan kandungan berunsur korporat seperti niche kewangan, kerjaya, atau bisnes. Perhatikan hantaran berbentuk dokumen berbilang muka surat yang sangat kemas dan berstruktur.
+https://www.linkedin.com
+
+6️⃣ Meta Ad Library - Ingin tahu reka bentuk apa yang berkesan menghasilkan jualan sekarang? Cari nama jenama pesaing atau topik berkaitan untuk melihat iklan carousel yang sedang aktif berjalan di FB dan IG.
+https://www.facebook.com/ads/library
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 305,
+    siri: "Post-08",
+    no: 5,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Alatan AI Percuma untuk Buang Background Gambar Pantas`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://www.remove.bg",
+    post: `Ada yang tahu? Nak buang background gambar produk atau potret diri dalam beberapa saat tanpa Photoshop?✂️
+👇👇👇`,
+    komen: `Tidak perlu lagi memotong gambar secara manual. Gunakan 5 alat berasaskan kecerdasan buatan (AI) ini untuk membuang latar belakang gambar dengan pantas dan kemas:
+
+1️⃣ Remove.bg - Alat paling popular dan pantas di pasaran. Anda hanya perlu memuat naik gambar dan sistem akan mengasingkan subjek daripada latar belakang secara automatik dalam masa 5 saat sahaja.
+https://www.remove.bg
+
+2️⃣ Adobe Express Background Remover - Dikuasakan terus oleh enjin teknologi Adobe Photoshop. Sangat cemerlang untuk menghasilkan potongan tepi rambut dan objek halus yang sangat terperinci tanpa kesan bergerigi.
+https://www.adobe.com/express/feature/image/remove-background
+
+3️⃣ Photoroom Web - Sangat sesuai untuk usahawan dan peniaga dalam talian. Selain membuang latar belakang, kita boleh terus menambah bayang-bayang realistik dan menukar latar belakang studio produk.
+https://www.photoroom.com/tools/background-remover
+
+4️⃣ Slazzer - Alternatif terbaik untuk memproses imej potret, produk e-dagang, atau kenderaan secara automatik dengan ketelitian tinggi bagi tujuan penghasilan poster promosi.
+https://www.slazzer.com
+
+5️⃣ Pixelcut - Menyediakan fungsi pembuang latar belakang berasaskan AI yang sangat bersih berserta alatan pemadam objek (Magic Eraser) untuk membuang gangguan kecil pada gambar anda.
+https://www.pixelcut.ai
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 306,
+    siri: "Post-08",
+    no: 6,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Lubuk Muzik Latar & Kesan Bunyi (SFX) Bebas Royalti untuk Video`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://studio.youtube.com",
+    post: `Ada yang tahu? Nak cari muzik latar video TikTok/Reels yang menarik tanpa kena 'mute' atau 'copyright'?🎵
+👇👇👇`,
+    komen: `Elakkan video promosi bisnes anda disekat audio oleh platform media sosial. Gunakan 5 sumber muzik latar dan kesan bunyi (SFX) tanpa royalti ini:
+
+1️⃣ YouTube Audio Library - Disediakan secara rasmi oleh pihak Google di dalam papan pemuka YouTube Studio. Mengandungi ribuan lagu dan kesan bunyi percuma yang dijamin selamat untuk sebarang kandungan video.
+https://studio.youtube.com
+
+2️⃣ Pixabay Music - Menyediakan koleksi ribuan trek audio moden merangkumi pelbagai mood seperti korporat, sinematik, dan santai yang boleh dimuat turun secara percuma tanpa sebarang bayaran royalti.
+https://pixabay.com/music
+
+3️⃣ Mixkit - Platform percuma yang sangat mudah digunakan tanpa memerlukan sebarang pendaftaran akaun. Anda boleh memuat turun muzik latar, kesan bunyi (SFX) transisi, dan templat video pendek dengan satu klik.
+https://mixkit.co/free-stock-music
+
+4️⃣ Free Music Archive (FMA) - Arkib muzik bebas royalti yang menghimpunkan karya pemuzik bebas dari seluruh dunia. Kita boleh menapis carian lagu mengikut genre dan jenis lesen Creative Commons.
+https://freemusicarchive.org
+
+5️⃣ Bensound - Menawarkan pelbagai pilihan muzik latar berkualiti tinggi yang kerap digunakan oleh pencipta kandungan profesional untuk video tutorial, pembentangan, dan dokumentari pendek.
+https://www.bensound.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 307,
+    siri: "Post-08",
+    no: 7,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Lubuk Ikon (Icons) & Ilustrasi Vektor Percuma untuk Poster / Slaid`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://www.flaticon.com",
+    post: `Ada yang tahu? Nak hias poster atau slide pembentangan supaya nampak kemas dengan ikon yang seragam?✨
+👇👇👇`,
+    komen: `Penggunaan ikon dan ilustrasi yang seragam akan menjadikan reka bentuk anda kelihatan jauh lebih profesional. Rujuk 5 laman web penyedia ikon dan vektor percuma ini:
+
+1️⃣ Flaticon - Pangkalan data ikon terbesar di dunia yang menawarkan jutaan ikon vektor dalam format PNG dan SVG. Anda boleh mencari set ikon daripada pek (pack) yang sama supaya gaya visual slaid anda konsisten.
+https://www.flaticon.com
+
+2️⃣ unDraw - Lubuk ilustrasi vektor sumber terbuka terbaik untuk laman web, slaid pembentangan, dan poster. Kelebihan utamanya ialah kita boleh menukar kod warna utama ilustrasi di laman tersebut mengikut warna jenama kita sebelum memuat turun.
+https://undraw.co/illustrations
+
+3️⃣ Icons8 - Bukan sahaja menyediakan ikon rata (flat icons), malah menawarkan ilustrasi 3D, pelekat grafik, dan elemen reka bentuk moden mengikut piawaian sistem operasi iOS, Windows, dan Android.
+https://icons8.com
+
+4️⃣ The Noun Project - Menghimpunkan lebih 5 juta ikon minimalis hitam-putih yang sangat sesuai untuk pembentangan korporat, laporan rasmi, dan infografik yang memerlukan kejelasan visual.
+https://thenounproject.com
+
+5️⃣ Storyset by Freepik - Menyediakan ribuan ilustrasi konsep bisnes, pendidikan, dan teknologi yang boleh diubah suai elemen latarnya secara interaktif terus di pelayar web secara percuma.
+https://storyset.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 308,
+    siri: "Post-08",
+    no: 8,
+    topik: "Reka Bentuk & Visual",
+    kategori: `REKA BENTUK GRAFIK, VISUAL & CONTENT MEDIA SOSIAL`,
+    tajuk: `Lubuk Mockup Produk Digital & Fizikal Secara Percuma`,
+    tags: ["bentuk", "content", "grafik", "media", "reka", "sosial", "visual"],
+    link: "https://shots.so",
+    post: `Ada yang tahu? Nak paparkan design e-book, baju, atau website dalam bentuk 3D mockup yang nampak realistik?💻
+👇👇👇`,
+    komen: `Gunakan 5 platform mockup percuma ini untuk mempamerkan hasil kerja, buku digital (e-book), atau produk anda secara profesional tanpa perlu mengambil gambar studio:
+
+1️⃣ Shots.so - Alat pelayar web percuma yang sangat moden untuk menghasilkan mockup tangkapan skrin (screenshot) telefon pintar, komputer riba, dan pelayar web dengan latar belakang gradien yang memukau.
+https://shots.so
+
+2️⃣ Mockup World - Mengumpulkan ribuan fail mockup dalam format Photoshop (PSD) berkualiti tinggi secara percuma merangkumi kategori buku, pembungkusan produk, pakaian, dan papan iklan.
+https://www.mockupworld.co
+
+3️⃣ Smartmockups - Membolehkan anda memuat naik gambar reka bentuk terus ke dalam ratusan templat produk digital dan cetakan secara dalam talian tanpa memerlukan perisian grafik berat.
+https://smartmockups.com
+
+4️⃣ DIYBookCovers 3D Mockup - Alat percuma paling mudah khusus untuk penulis dan usahawan digital yang mahu menukar kulit buku 2D menjadi paparan buku fizikal 3D atau tablet dalam beberapa saat.
+https://diybookcovers.com/3Dmockups
+
+5️⃣ Freepik Mockups - Taip kata kunci 'Free PSD Mockup' untuk mendapatkan ribuan rekaan produk berkualiti studio yang lengkap dengan lapisan pintar (Smart Objects) untuk suntingan pantas.
+https://www.freepik.com/mockups
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 309,
+    siri: "Post-08",
+    no: 9,
+    topik: "Video & Kandungan Kreatif",
+    kategori: `VIDEO, PEMBENTANGAN & PENGHASILAN KANDUNGAN KREATIF`,
+    tajuk: `Aplikasi & Web Edit Video Pendek (Reels / TikTok) Mudah untuk Bisnes`,
+    tags: ["kandungan", "kreatif", "pembentangan", "penghasilan", "video"],
+    link: "https://www.capcut.com",
+    post: `Ada yang tahu? Nak edit video pendek Reels atau TikTok dengan kemas walaupun kita tiada asas editing?🎬
+👇👇👇`,
+    komen: `Anda tidak memerlukan komputer berspesifikasi tinggi untuk menghasilkan video yang menarik. Gunakan 5 aplikasi suntingan video mesra pengguna ini:
+
+1️⃣ CapCut - Pilihan utama pencipta kandungan masa kini sama ada di telefon pintar mahupun komputer. Dilengkapi ciri sari kata automatik (Auto Captions) Bahasa Melayu yang tepat, kesan transisi, dan templat sedia guna.
+https://www.capcut.com
+
+2️⃣ VN Video Editor - Aplikasi suntingan video yang sangat lancar dan bebas tera air (no watermark) pada eksport video percuma. Antara mukanya yang bersih memudahkan kita memotong klip dan menyusun muzik latar.
+https://www.vlognow.me
+
+3️⃣ InShot - Sangat praktikal untuk menukar nisbah saiz video (contohnya daripada melintang 16:9 ke menegak 9:16), menambah teks animasi ringkas, dan melaraskan kelajuan video di telefon pintar.
+https://inshot.com
+
+4️⃣ Canva Video - Sesuai sekiranya anda mahu menggabungkan elemen grafik, teks pembentangan, dan klip video pendek dalam satu kanvas yang sama menggunakan kaedah seret dan lepas (drag-and-drop).
+https://www.canva.com/video-editor
+
+5️⃣ Microsoft Clipchamp - Perisian suntingan video rasmi terbina dalam Windows 11 dan boleh diakses melalui pelayar web. Menyediakan rakaman skrin, pustaka stok video, dan penjanaan suara latar secara percuma.
+https://clipchamp.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 310,
+    siri: "Post-08",
+    no: 10,
+    topik: "Video & Kandungan Kreatif",
+    kategori: `VIDEO, PEMBENTANGAN & PENGHASILAN KANDUNGAN KREATIF`,
+    tajuk: `Platform Buat Pembentangan (Slide Presentation) Lebih Cantik & Moden`,
+    tags: ["kandungan", "kreatif", "pembentangan", "penghasilan", "video"],
+    link: "https://gamma.app",
+    post: `Ada yang tahu? Bosan dengan gaya slide PowerPoint biasa dan nak buat slide pembentangan yang nampak moden?📊
+👇👇👇`,
+    komen: `Tingkatkan keyakinan audiens dan klien anda dengan menggunakan 5 platform reka bentuk pembentangan generasi baharu ini:
+
+1️⃣ Gamma App - Platform pembentangan berasaskan AI yang sangat pantas. Anda hanya perlu memasukkan tajuk atau rangka nota, dan sistem akan menjana keseluruhan slaid lengkap dengan susun atur grafik dalam masa seminit.
+https://gamma.app
+
+2️⃣ Pitch - Direka khas untuk pembentangan bisnes dan kertas kerja moden. Menawarkan templat bertaraf agensi korporat dengan ciri kolaborasi pasukan secara masa nyata yang sangat kemas.
+https://pitch.com
+
+3️⃣ Slidesgo - Lubuk ribuan templat Google Slides dan PowerPoint percuma yang disusun mengikut kategori seperti perniagaan, pendidikan, perubatan, dan pemasaran kreatif.
+https://slidesgo.com
+
+4️⃣ Beautiful.ai - Menggunakan sistem susun atur pintar yang melaraskan saiz kotak teks, carta, dan gambar secara automatik setiap kali anda menambah kandungan baharu supaya slaid tidak kelihatan berserabut.
+https://www.beautiful.ai
+
+5️⃣ Canva Presentations - Menyediakan ribuan templat slaid moden lengkap dengan fungsi pembentangan secara langsung (Presenter View), rakaman pembentangan, dan animasi transisi satu klik.
+https://www.canva.com/presentations
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 311,
+    siri: "Post-08",
+    no: 11,
+    topik: "Video & Kandungan Kreatif",
+    kategori: `VIDEO, PEMBENTANGAN & PENGHASILAN KANDUNGAN KREATIF`,
+    tajuk: `Alatan AI untuk Tingkatkan Kualiti Gambar Kabur (Image Upscaler)`,
+    tags: ["image upscaler", "kandungan", "kreatif", "pembentangan", "penghasilan", "video"],
+    link: "https://upscayl.org",
+    post: `Ada yang tahu? Ada gambar lama atau logo yang pecah bila dibesarkan, macam mana nak tajankan semula?🔍
+👇👇👇`,
+    komen: `Jangan gunakan gambar yang kabur pada poster anda. Gunakan 5 alat penajam imej berasaskan AI (Image Upscaler) ini untuk meningkatkan resolusi gambar:
+
+1️⃣ Upscayl - Perisian sumber terbuka (open-source) percuma sepenuhnya untuk pengguna komputer Windows, Mac, dan Linux. Mampu menggandakan resolusi gambar sehingga 4 kali ganda tanpa sebarang had penggunaan harian.
+https://upscayl.org
+
+2️⃣ BigJPG - Menggunakan rangkaian saraf tiruan mendalam (Deep Convolutional Neural Networks) untuk mengurangkan hingar (noise) dan kesan pecah pada gambar ilustrasi, grafik, serta foto biasa.
+https://bigjpg.com
+
+3️⃣ Let's Enhance - Membolehkan anda meningkatkan resolusi gambar produk atau potret sambil memulihkan perincian tekstur dan warna secara automatik terus melalui pelayar web.
+https://letsenhance.io
+
+4️⃣ VanceAI Image Upscaler - Sangat berkesan untuk menajamkan semula gambar yang diambil dalam pencahayaan kurang memuaskan atau memulihkan ketajaman teks pada imej dokumen.
+https://vanceai.com
+
+5️⃣ Pixelcut Image Upscaler - Alat pantas di pelayar web yang membolehkan kita menukar gambar beresolusi rendah menjadi kualiti HD secara percuma hanya dengan memuat naik fail tersebut.
+https://www.pixelcut.ai/image-upscaler
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 312,
+    siri: "Post-08",
+    no: 12,
+    topik: "Video & Kandungan Kreatif",
+    kategori: `VIDEO, PEMBENTANGAN & PENGHASILAN KANDUNGAN KREATIF`,
+    tajuk: `Alatan Rakam Skrin Komputer (Screen Recorder) untuk Buat Video Tutorial`,
+    tags: ["kandungan", "kreatif", "pembentangan", "penghasilan", "video"],
+    link: "https://www.loom.com",
+    post: `Ada yang tahu? Nak buat video tutorial atau panduan kepada pelanggan dengan merakam skrin laptop kita?🖥️
+👇👇👇`,
+    komen: `Sampaikan penerangan kerja atau tutorial produk dengan lebih jelas menggunakan 5 perisian perakam skrin komputer percuma ini:
+
+1️⃣ Loom - Alat perakam skrin paling mudah untuk komunikasi kerja. Ia merakam skrin komputer bersama bulatan kamera web wajah anda di penjuru skrin, dan terus menghasilkan pautan video untuk dikongsikan serta-merta.
+https://www.loom.com
+
+2️⃣ OBS Studio - Perisian sumber terbuka percuma yang menjadi standard industri. Sangat sesuai sekiranya anda mahu merakam skrin dalam kualiti tinggi tanpa had masa atau membuat siaran langsung (live streaming).
+https://obsproject.com
+
+3️⃣ Screenity - Sambungan (extension) Google Chrome percuma yang hebat. Membolehkan anda merakam skrin sambil melukis anak panah, menyerlahkan klik tetikus, dan menambah nota terus di atas skrin semasa rakaman.
+https://screenity.io
+
+4️⃣ ShareX - Alat ringan dan percuma untuk pengguna Windows yang membolehkan anda merakam kawasan spesifik pada skrin kepada format video MP4 atau animasi GIF dengan pantas.
+https://getsharex.com
+
+5️⃣ Tella - Platform rakaman skrin moden yang membolehkan kita menambah kesan zum masuk automatik (zoom effects) dan latar belakang cantik supaya video tutorial nampak seperti disunting secara profesional.
+https://www.tella.tv
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 313,
+    siri: "Post-08",
+    no: 13,
+    topik: "Video & Kandungan Kreatif",
+    kategori: `VIDEO, PEMBENTANGAN & PENGHASILAN KANDUNGAN KREATIF`,
+    tajuk: `Alatan AI Cipta Suara Latar (Voiceover) Natural untuk Video Tanpa Rakam Suara`,
+    tags: ["kandungan", "kreatif", "pembentangan", "penghasilan", "video"],
+    link: "https://elevenlabs.io",
+    post: `Ada yang tahu? Segan nak rakam suara sendiri untuk video content, kat mana nak jana suara AI yang natural?🎙️
+👇👇👇`,
+    komen: `Kini anda boleh menghasilkan suara latar (voiceover) yang jelas dan berintonasi semula jadi menggunakan 5 platform Text-to-Speech berasaskan AI ini:
+
+1️⃣ ElevenLabs - Peneraju teknologi suara AI paling realistik ketika ini. Menyokong pelbagai bahasa termasuk Bahasa Melayu dan Bahasa Inggeris dengan intonasi emosi serta jeda pernafasan yang sangat semula jadi.
+https://elevenlabs.io
+
+2️⃣ TTSMaker - Laman web penjana suara percuma yang sangat mudah digunakan tanpa perlu mendaftar akaun. Menyediakan pilihan suara lelaki dan wanita Bahasa Melayu yang jelas untuk video penerangan.
+https://ttsmaker.com
+
+3️⃣ Microsoft Clipchamp Text-to-Speech - Menggunakan enjin suara Azure AI milik Microsoft secara percuma. Anda boleh memilih suara Bahasa Melayu (Osman atau Yasmin) dan melaraskan kelajuan serta nada suara.
+https://clipchamp.com
+
+4️⃣ Murf.ai - Studio suara AI profesional yang direka khas untuk video korporat, e-pembelajaran, dan iklan pemasaran dengan kawalan penekanan perkataan yang sangat terperinci.
+https://murf.ai
+
+5️⃣ Narakeet - Membolehkan anda menukar skrip teks atau nota pembentangan terus menjadi fail audio MP3 dalam lebih 90 bahasa dengan sebutan yang kemas dan jelas.
+https://www.narakeet.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 314,
+    siri: "Post-08",
+    no: 14,
+    topik: "Video & Kandungan Kreatif",
+    kategori: `VIDEO, PEMBENTANGAN & PENGHASILAN KANDUNGAN KREATIF`,
+    tajuk: `Laman Web Cari Topik Trending & Idea Content Harian`,
+    tags: ["kandungan", "kreatif", "pembentangan", "penghasilan", "video"],
+    link: "https://trends.google.com",
+    post: `Ada yang tahu? Selalu buntu nak tulis topik apa dekat media sosial supaya relevan dengan carian semasa?💡
+👇👇👇`,
+    komen: `Elakkan menulis kandungan secara meneka. Gunakan 5 laman web penyelidikan topik ini untuk mengetahui apa yang sedang dicari oleh orang ramai:
+
+1️⃣ Google Trends - Lihat topik dan kata kunci yang sedang meningkat naik di Malaysia mengikut masa nyata. Kita boleh membandingkan dua topik berbeza untuk melihat isu mana yang lebih mendapat perhatian masyarakat.
+https://trends.google.com
+
+2️⃣ AnswerThePublic - Masukkan satu kata kunci (contohnya 'emas' atau 'kewangan'), dan laman ini akan memetakan ratusan soalan sebenar (Apa, Bagaimana, Mengapa) yang sering ditaip oleh pengguna di enjin carian.
+https://answerthepublic.com
+
+3️⃣ AlsoAsked - Menunjukkan rangkaian soalan berkaitan berdasarkan data 'People Also Ask' di Google. Sangat membantu untuk kita menyusun isi kandungan artikel atau skrip video yang menjawab persoalan sebenar audiens.
+https://alsoasked.com
+
+4️⃣ TikTok Creative Center - Lubuk rasmi untuk melihat lagu, hashtag, dan topik video yang sedang tular di Malaysia mengikut kategori industri dalam tempoh 7 hingga 30 hari terkini.
+https://ads.tiktok.com/business/creativecenter
+
+5️⃣ Exploding Topics - Mengenal pasti trend teknologi, produk, dan gaya hidup baharu yang sedang berkembang pesat beberapa bulan sebelum ia menjadi bualan umum.
+https://explodingtopics.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 315,
+    siri: "Post-08",
+    no: 15,
+    topik: "Video & Kandungan Kreatif",
+    kategori: `VIDEO, PEMBENTANGAN & PENGHASILAN KANDUNGAN KREATIF`,
+    tajuk: `Platform Jadualkan Posting Media Sosial Secara Automatik (Auto-Schedule)`,
+    tags: ["auto-schedule", "kandungan", "kreatif", "pembentangan", "penghasilan", "video"],
+    link: "https://business.facebook.com",
+    post: `Ada yang tahu? Sibuk bekerja sampai tak sempat post content setiap hari, macam mana nak jadualkan siap-siap?🗓️
+👇👇👇`,
+    komen: `Kekalkan konsistensi hantaran media sosial anda walaupun ketika sedang bercuti atau bermesyuarat menggunakan 5 platform penjadualan kandungan ini:
+
+1️⃣ Meta Business Suite - Alat rasmi dan percuma sepenuhnya daripada Meta. Anda boleh menjadualkan hantaran gambar, artikel, Reels, dan Stories untuk halaman Facebook serta Instagram secara serentak.
+https://business.facebook.com
+
+2️⃣ Buffer - Antara platform pengurusan media sosial paling mesra pengguna. Pelan percumanya membolehkan kita menghubungkan sehingga 3 saluran media sosial (seperti FB, IG, LinkedIn, atau TikTok) dan menjadualkan hantaran mingguan.
+https://buffer.com
+
+3️⃣ Metricool - Bukan sahaja membolehkan penjadualan kandungan merentas pelbagai platform, malah menyediakan laporan analitik terperinci untuk melihat waktu terbaik audiens anda aktif di talian.
+https://metricool.com
+
+4️⃣ Later - Sangat digemari oleh pencipta kandungan visual kerana menyediakan ciri 'Visual Planner' yang membolehkan kita melihat pratonton susunan grid Instagram sebelum hantaran diterbitkan.
+https://later.com
+
+5️⃣ Publer - Platform serba boleh yang menyokong penjadualan hantaran termasuk komen pertama secara automatik, tera air (watermark) automatik, serta kitar semula hantaran malar segar (evergreen content).
+https://publer.io
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 316,
+    siri: "Post-08",
+    no: 16,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Alatan Urus Dokumen PDF Secara Percuma Tanpa Perisian Berat`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "utiliti"],
+    link: "https://www.ilovepdf.com",
+    post: `Ada yang tahu? Nak gabung beberapa fail PDF atau kecilkan saiz dokumen permohonan tanpa software berbayar?📄
+👇👇👇`,
+    komen: `Anda tidak perlu melanggan perisian mahal untuk menyunting fail PDF. Gunakan 5 alat berasaskan pelayar web ini untuk menguruskan dokumen anda dalam beberapa saat:
+
+1️⃣ iLovePDF - Alat serba lengkap untuk menggabungkan (merge), membahagikan (split), memampatkan (compress), serta menukar format fail PDF kepada dokumen Word, Excel, atau PowerPoint.
+https://www.ilovepdf.com
+
+2️⃣ PDF24 Tools - Platform dari Jerman yang percuma sepenuhnya tanpa sebarang had penggunaan harian yang ketat. Menyediakan lebih 30 fungsi pengurusan PDF yang selamat dan pantas.
+https://tools.pdf24.org
+
+3️⃣ Smallpdf - Menawarkan antara muka yang sangat bersih dan moden untuk memampatkan saiz fail PDF yang besar supaya mudah dilampirkan di dalam emel atau borang permohonan dalam talian.
+https://smallpdf.com
+
+4️⃣ Sejda PDF Editor - Sangat berguna sekiranya anda perlu membetulkan ejaan teks secara terus di dalam fail PDF sedia ada, menambah nombor muka surat, atau mengisi borang tanpa perlu menaip semula.
+https://www.sejda.com
+
+5️⃣ Adobe Acrobat Online Tools - Disediakan secara rasmi oleh pencipta format PDF sendiri untuk penukaran fail dan penyusunan semula halaman dokumen dengan kualiti susun atur yang terpelihara.
+https://www.adobe.com/acrobat/online.html
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 317,
+    siri: "Post-08",
+    no: 17,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Platform Hantar Fail Saiz Besar (Berbelas GB) Secara Percuma`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "utiliti"],
+    link: "https://wetransfer.com",
+    post: `Ada yang tahu? Nak hantar fail video atau dokumen saiz berbelas Gigabyte kepada klien tapi emel tak muat?📦
+👇👇👇`,
+    komen: `Elakkan masalah lampiran emel ditolak kerana melebihi had saiz 25MB. Gunakan 5 perkhidmatan penghantaran fail berkapasiti besar secara percuma ini:
+
+1️⃣ WeTransfer - Perkhidmatan paling popular dan mudah. Anda boleh menghantar fail sehingga saiz 2GB secara percuma kepada sesiapa sahaja melalui pautan muat turun tanpa perlu mendaftar akaun.
+https://wetransfer.com
+
+2️⃣ Wormhole - Membolehkan penghantaran fail sehingga saiz 10GB secara percuma dengan perlindungan enkripsi hujung-ke-hujung (end-to-end encryption). Penerima boleh mula memuat turun fail sebaik sahaja anda memuat naiknya.
+https://wormhole.app
+
+3️⃣ Smash - Kelebihan utama platform ini ialah tiada had saiz fail langsung pada pelan percuma. Anda boleh menghantar fail video resolusi tinggi berserta pilihan perlindungan kata laluan.
+https://fromsmash.com
+
+4️⃣ Filemail - Menyokong penghantaran fail sehingga 5GB secara percuma dengan kelajuan muat turun yang sangat stabil dan tempoh simpanan pautan selama 7 hari.
+https://www.filemail.com
+
+5️⃣ SendAnywhere - Sangat praktikal untuk memindahkan fail merentas peranti (contohnya daripada telefon Android ke iPhone atau PC) menggunakan kod keselamatan 6 digit secara terus.
+https://send-anywhere.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 318,
+    siri: "Post-08",
+    no: 18,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Alatan Kecilkan Saiz Gambar (Compress Image) Tanpa Gambar Pecah`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "utiliti"],
+    link: "https://tinypng.com",
+    post: `Ada yang tahu? Nak kecilkan saiz fail gambar supaya muat borang online atau website tanpa gambar jadi kabur?🖼️
+👇👇👇`,
+    komen: `Gunakan 5 alat pemampat imej pintar ini untuk mengurangkan saiz fail gambar sehingga 80% sambil mengekalkan ketajaman visual asal:
+
+1️⃣ TinyPNG & TinyJPG - Menggunakan teknik pemampatan pintar untuk mengurangkan saiz fail PNG dan JPEG secara drastik tanpa sebarang perbezaan kualiti yang ketara pada mata kasar.
+https://tinypng.com
+
+2️⃣ Squoosh - Dibangunkan oleh pasukan Google Chrome Labs. Membolehkan kita melaraskan tahap pemampatan secara interaktif sambil melihat perbandingan kualiti gambar sebelum dan selepas secara sebelah-menyebelah.
+https://squoosh.app
+
+3️⃣ iLoveIMG - Sangat memudahkan kerja sekiranya anda mahu memampatkan puluhan keping gambar sekaligus (batch compression), menukar saiz piksel, atau memotong gambar secara serentak.
+https://www.iloveimg.com
+
+4️⃣ Compressor.io - Menyokong format JPEG, PNG, GIF, SVG, dan WebP dengan pilihan mod 'Lossy' (saiz paling kecil) atau 'Lossless' (tiada pengurangan kualiti langsung).
+https://compressor.io
+
+5️⃣ ShortPixel Online - Alat pengoptimuman imej yang sangat digemari oleh pemilik laman web dan blog bagi memastikan halaman web dapat dibuka dengan pantas di telefon pintar.
+https://shortpixel.com/online-image-compression
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 319,
+    siri: "Post-08",
+    no: 19,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Platform Tukar Rakaman Suara & Mesyuarat Menjadi Teks (Transcription)`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "transcription", "utiliti"],
+    link: "https://riverside.fm/transcription",
+    post: `Ada yang tahu? Penat nak taip semula minit mesyuarat atau nota kuliah daripada rakaman suara berjam-jam?📝
+👇👇👇`,
+    komen: `Jimatkan masa berharga anda dengan menggunakan 5 alatan transkripsi kecerdasan buatan (AI) yang menukar rakaman audio kepada teks bertulis secara automatik:
+
+1️⃣ Riverside Free Transcriber - Alat pelayar web percuma tanpa perlu daftar masuk. Muat naik fail audio atau video anda, dan sistem AI akan menghasilkan transkrip teks penuh dalam masa beberapa minit termasuk sokongan Bahasa Melayu.
+https://riverside.fm/transcription
+
+2️⃣ Otter.ai - Pembantu mesyuarat pintar yang boleh dihubungkan terus dengan Zoom, Google Meet, dan Microsoft Teams untuk mencatat perbualan secara langsung serta menjana ringkasan keputusan mesyuarat.
+https://otter.ai
+
+3️⃣ Fireflies.ai - Merakam, menulis semula transkrip, dan menyusun perkara penting (action items) daripada perbincangan dalam talian supaya tiada tugasan penting yang terlepas pandang.
+https://fireflies.ai
+
+4️⃣ Notta - Menyokong transkripsi masa nyata dan muat naik fail rakaman dengan keupayaan membezakan suara pembicara berbeza (speaker identification) serta mengeksport nota ke format Word atau PDF.
+https://www.notta.ai
+
+5️⃣ Turboscribe - Dikuasakan oleh teknologi Whisper AI yang sangat tepat. Pelan percumanya membenarkan kita menukar sehingga 3 fail rakaman audio setiap hari (sehingga 30 minit setiap fail) kepada teks yang kemas.
+https://turboscribe.ai
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 320,
+    siri: "Post-08",
+    no: 20,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Laman Web Tukar Format Apa Jua Fail (File Converter) Secara Online`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "utiliti"],
+    link: "https://cloudconvert.com",
+    post: `Ada yang tahu? Nak tukar format fail audio, video, dokumen, atau imej tapi tiada converter software di PC?🔄
+👇👇👇`,
+    komen: `Simpan 5 laman web penukar format fail serba guna ini supaya anda boleh menukar sebarang jenis fail terus melalui pelayar web:
+
+1️⃣ CloudConvert - Menyokong penukaran lebih 200 format fail merangkumi audio, video, dokumen, e-book, arkib, imej, dan hamparan kerja dengan kawalan kualiti yang sangat terperinci.
+https://cloudconvert.com
+
+2️⃣ Convertio - Antara muka yang sangat ringkas dan pantas untuk menukar fail terus daripada komputer, Google Drive, atau Dropbox kepada lebih 300 format berbeza dalam beberapa saat.
+https://convertio.co
+
+3️⃣ FreeConvert - Membolehkan penukaran fail bersaiz besar sehingga 1GB secara percuma dengan tetapan lanjutan seperti pemotongan durasi video, pelarasan resolusi, dan kualiti audio.
+https://www.freeconvert.com
+
+4️⃣ Zamzar - Salah satu platform penukar format fail paling lama dan dipercayai sejak tahun 2006. Sangat berguna untuk menukar format dokumen pejabat lama atau fail grafik khusus.
+https://www.zamzar.com
+
+5️⃣ Online-Convert - Menyediakan profil penukaran khusus mengikut peranti sasaran (seperti format khusus untuk iPad, Kindle, Android, atau konsol permainan) serta penukaran dokumen berasaskan pengecaman teks (OCR).
+https://www.online-convert.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 321,
+    siri: "Post-08",
+    no: 21,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Alatan Semak Tatabahasa & Kemaskan Ayat Penulisan`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "utiliti"],
+    link: "https://prpm.dbp.gov.my",
+    post: `Ada yang tahu? Nak pastikan emel rasmi, artikel, atau kapsyen kita bebas salah ejaan dan nampak profesional?✍️
+👇👇👇`,
+    komen: `Pastikan setiap penulisan rasmi dan perkongsian anda kemas serta meyakinkan dengan bantuan 5 rujukan penyemak bahasa ini:
+
+1️⃣ PRPM Dewan Bahasa dan Pustaka (DBP) - Rujukan rasmi utama untuk menyemak ejaan istilah Bahasa Melayu yang betul, maksud kamus, serta padanan istilah bahasa asing mengikut piawaian rasmi negara.
+https://prpm.dbp.gov.my
+
+2️⃣ Grammarly - Pembantu penulisan Bahasa Inggeris paling popular yang menyemak kesilapan tatabahasa, tanda baca, dan mencadangkan nada ayat yang lebih sopan serta profesional semasa anda menaip emel.
+https://www.grammarly.com
+
+3️⃣ QuillBot - Sangat membantu untuk mengolah semula ayat (paraphrasing), menyemak tatabahasa, dan meringkaskan perenggan panjang supaya lebih padat dan mudah difahami oleh pembaca.
+https://quillbot.com
+
+4️⃣ LanguageTool - Penyemak ejaan dan tatabahasa pintar yang menyokong lebih 30 bahasa. Boleh dipasang sebagai sambungan pelayar web untuk menyemak teks di ruang media sosial atau dokumen kerja.
+https://languagetool.org
+
+5️⃣ Hemingway Editor - Membantu kita mengenal pasti ayat yang terlalu berbelit-belit atau sukar dibaca melalui penandaan warna supaya gaya penulisan kita menjadi lebih jelas, tegas, dan berimpak tinggi.
+https://hemingwayapp.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 322,
+    siri: "Post-08",
+    no: 22,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Platform Tandatangan Dokumen PDF Secara Digital Tanpa Perlu Cetak`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "utiliti"],
+    link: "https://www.adobe.com/acrobat/online/sign-pdf.html",
+    post: `Ada yang tahu? Dapat borang atau surat perjanjian PDF, macam mana nak sign terus tanpa perlu print dan scan?🖋️
+👇👇👇`,
+    komen: `Jimatkan masa, kertas, dan dakwat pencetak dengan menandatangani dokumen rasmi anda secara digital menggunakan 5 platform ini:
+
+1️⃣ Adobe Acrobat Online Sign - Muat naik dokumen PDF ke pelayar web, isi ruangan teks yang diperlukan, dan lukis atau muat naik tandatangan anda dengan kemas sebelum menyimpan fail tersebut.
+https://www.adobe.com/acrobat/online/sign-pdf.html
+
+2️⃣ SignWell - Platform tandatangan elektronik yang membolehkan anda menandatangani dokumen atau menghantar pautan kepada pelanggan untuk ditandatangani lengkap dengan rekod jejak audit yang sah.
+https://www.signwell.com
+
+3️⃣ DocuSign - Peneraju global dalam pengurusan tandatangan digital korporat yang memastikan setiap dokumen perjanjian perniagaan ditandatangani dengan keselamatan dan kesahan undang-undang yang diiktiraf.
+https://www.docusign.com
+
+4️⃣ Smallpdf eSign - Membolehkan kita meletakkan tandatangan, tarikh, dan parap (initials) pada dokumen PDF dengan sangat pantas terus daripada komputer atau telefon pintar.
+https://smallpdf.com/sign-pdf
+
+5️⃣ Dropbox Sign (dahulunya HelloSign) - Menyediakan pelan percuma untuk menandatangani sehingga 3 dokumen sebulan dengan antara muka yang sangat kemas dan integrasi terus ke storan awan anda.
+https://sign.dropbox.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 323,
+    siri: "Post-08",
+    no: 23,
+    topik: "Dokumen & Utiliti Pejabat",
+    kategori: `PENGURUSAN DOKUMEN, FAIL & UTILITI PEJABAT`,
+    tajuk: `Platform Buat Gambar Rajah, Carta Alir & Mind Map Secara Online`,
+    tags: ["dokumen", "fail", "pejabat", "pengurusan", "utiliti"],
+    link: "https://app.diagrams.net",
+    post: `Ada yang tahu? Nak bentang aliran kerja SOP atau peta minda bisnes supaya pasukan kita senang faham?🗺️
+👇👇👇`,
+    komen: `Terjemahkan idea kompleks dan prosedur operasi standard (SOP) kepada visual yang jelas menggunakan 5 platform papan putih dan carta alir ini:
+
+1️⃣ Draw.io (diagrams.net) - Alat pelayar web percuma sepenuhnya tanpa perlu mendaftar akaun. Sangat lengkap untuk melukis carta alir (flowchart), struktur organisasi, dan rajah sistem teknikal.
+https://app.diagrams.net
+
+2️⃣ Excalidraw - Papan putih maya percuma yang menghasilkan lakaran rajah bergaya tulisan tangan (hand-drawn style) yang sangat kemas, sesuai untuk menerangkan konsep di dalam artikel atau pembentangan.
+https://excalidraw.com
+
+3️⃣ Whimsical - Platform serba pantas untuk membina peta minda (mind maps), carta alir kerja, dan rangka reka bentuk (wireframes) dengan susunan kotak yang kemas secara automatik.
+https://whimsical.com
+
+4️⃣ Miro - Papan putih kolaborasi visual yang membolehkan anda dan ahli pasukan menyusun nota lekat (sticky notes), merancang strategi pemasaran, dan membina peta perjalanan pelanggan secara serentak.
+https://miro.com
+
+5️⃣ Xmind - Salah satu aplikasi pemetaan minda terbaik untuk menyusun struktur pemikiran, rangka projek, dan nota pembelajaran dalam pelbagai bentuk rajah pokok atau garis masa yang elegan.
+https://xmind.app
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 324,
+    siri: "Post-08",
+    no: 24,
+    topik: "Produktiviti & Keselamatan Siber",
+    kategori: `PRODUKTIVITI BISNES, KESELAMATAN SIBER & KEMAHIRAN KENDIRI`,
+    tajuk: `Aplikasi Catat Nota & Urus Tugasan Kerja Harian Secara Teratur`,
+    tags: ["bisnes", "kemahiran", "kendiri", "keselamatan", "produktiviti", "siber"],
+    link: "https://www.notion.so",
+    post: `Ada yang tahu? Banyak sangat tugasan dan idea masuk serentak, aplikasi apa terbaik untuk susun jadual kerja?📒
+👇👇👇`,
+    komen: `Elakkan terlupa janji temu atau tugasan penting dengan menguruskan kerja harian anda menggunakan 5 aplikasi produktiviti percuma ini:
+
+1️⃣ Notion - Ruang kerja serba lengkap yang menggabungkan nota, jadual pangkalan data, senarai semak, dan kalendar kandungan di dalam satu tempat yang boleh disesuaikan sepenuhnya mengikut keperluan kita.
+https://www.notion.so
+
+2️⃣ Trello - Menggunakan sistem papan visual Kanban (To-Do, Doing, Done) yang sangat mudah untuk kita memantau status kemajuan setiap projek bisnes atau tugasan pasukan secara menyeluruh.
+https://trello.com
+
+3️⃣ Todoist - Aplikasi senarai tugasan harian yang sangat pantas. Anda boleh menaip tugasan berserta tarikh akhir, menetapkan tahap keutamaan, dan membina tabiat kerja yang berdisiplin setiap hari.
+https://todoist.com
+
+4️⃣ Google Keep - Sangat sesuai untuk mencatat idea spontan, senarai barang keperluan, atau nota ringkas dalam bentuk kad berwarna-warni yang diselaraskan secara automatik antara telefon dan komputer.
+https://keep.google.com
+
+5️⃣ Obsidian - Aplikasi pengurusan nota berasaskan fail Markdown tempatan yang membolehkan kita menghubungkan satu nota ilmu dengan nota yang lain seperti rangkaian pangkalan pengetahuan peribadi.
+https://obsidian.md
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 325,
+    siri: "Post-08",
+    no: 25,
+    topik: "Produktiviti & Keselamatan Siber",
+    kategori: `PRODUKTIVITI BISNES, KESELAMATAN SIBER & KEMAHIRAN KENDIRI`,
+    tajuk: `Platform Buat Borang Online & Kumpul Maklum Balas Pelanggan`,
+    tags: ["bisnes", "kemahiran", "kendiri", "keselamatan", "produktiviti", "siber"],
+    link: "https://tally.so",
+    post: `Ada yang tahu? Nak buat borang pendaftaran pelanggan atau kaji selidik yang nampak profesional dan kemas?📋
+👇👇👇`,
+    komen: `Kumpulkan data pelanggan, tempahan, atau maklum balas program dengan mudah menggunakan 5 platform pembina borang dalam talian ini:
+
+1️⃣ Tally.so - Alternatif terbaik yang menawarkan ciri borang tanpa had jumlah soalan dan tanpa had jumlah respons secara percuma. Cara membina borangnya semudah menaip dokumen teks biasa.
+https://tally.so
+
+2️⃣ Google Forms - Pilihan paling mudah dan stabil kerana kesemua jawapan responden boleh disambungkan terus secara automatik ke dalam jadual hamparan kerja Google Sheets untuk analisis lanjut.
+https://docs.google.com/forms
+
+3️⃣ Typeform - Terkenal dengan gaya paparan satu soalan pada satu masa yang sangat interaktif dan mesra pengguna, menjadikan responden tidak berasa bosan ketika mengisi borang.
+https://www.typeform.com
+
+4️⃣ Jotform - Menyediakan lebih 10,000 templat borang sedia guna merangkumi borang pendaftaran acara, pesanan produk, dan permohonan kerja lengkap dengan widget tandatangan.
+https://www.jotform.com
+
+5️⃣ Microsoft Forms - Sangat pantas untuk menghasilkan borang kaji selidik mahupun kuiz ujian yang terus memaparkan carta analisis data respons secara automatik dan kemas.
+https://forms.office.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 326,
+    siri: "Post-08",
+    no: 26,
+    topik: "Produktiviti & Keselamatan Siber",
+    kategori: `PRODUKTIVITI BISNES, KESELAMATAN SIBER & KEMAHIRAN KENDIRI`,
+    tajuk: `Alatan Pendekkan Link & Bina Satu Pautan Bio (Link-in-Bio) Bisnes`,
+    tags: ["bisnes", "kemahiran", "kendiri", "keselamatan", "produktiviti", "siber"],
+    link: "https://linktr.ee",
+    post: `Ada yang tahu? Nak kumpulkan semua link WhatsApp, blog, dan katalog dalam satu pautan kemas dekat bio IG/TikTok?🔗
+👇👇👇`,
+    komen: `Mudahkan prospek menghubungi anda dan melayari semua saluran rasmi bisnes anda menggunakan 5 platform pengurusan pautan bio ini:
+
+1️⃣ Linktree - Platform halaman pautan bio paling dikenali di dunia. Membolehkan anda meletakkan pautan WhatsApp, laman web, katalog produk, dan media sosial lain dalam satu halaman yang kemas.
+https://linktr.ee
+
+2️⃣ Beacons.ai - Menawarkan reka bentuk halaman bio yang sangat moden dan fleksibel untuk pencipta kandungan, lengkap dengan ciri paparan video terbenam, pengumpulan emel, dan kedai produk digital.
+https://beacons.ai
+
+3️⃣ Bitly - Sangat berguna untuk memendekkan URL yang terlalu panjang supaya nampak lebih kemas dan dipercayai apabila diletakkan di dalam kapsyen hantaran atau mesej WhatsApp.
+https://bitly.com
+
+4️⃣ Taplink - Direka khusus untuk usahawan kerana membolehkan kita membina halaman bio menyerupai laman web mini lengkap dengan galeri gambar, soalan lazim (FAQ), dan butang terus ke WhatsApp.
+https://taplink.at
+
+5️⃣ Campsite.bio - Menyediakan pilihan penyesuaian warna, jenis font, dan gambar kecil (thumbnail) pada setiap butang pautan secara percuma supaya selari dengan identiti jenama anda.
+https://campsite.bio
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 327,
+    siri: "Post-08",
+    no: 27,
+    topik: "Produktiviti & Keselamatan Siber",
+    kategori: `PRODUKTIVITI BISNES, KESELAMATAN SIBER & KEMAHIRAN KENDIRI`,
+    tajuk: `Alatan Bina Laman Web / Landing Page Ringkas Tanpa Coding`,
+    tags: ["bisnes", "kemahiran", "kendiri", "keselamatan", "produktiviti", "siber"],
+    link: "https://carrd.co",
+    post: `Ada yang tahu? Nak bina satu halaman website profil bisnes yang kemas tanpa perlu tahu bahasa coding?🌐
+👇👇👇`,
+    komen: `Anda boleh memiliki halaman web profil peribadi atau katalog perkhidmatan dalam masa sehari sahaja menggunakan 5 platform tanpa kod (no-code) ini:
+
+1️⃣ Carrd.co - Platform terbaik untuk membina laman web satu halaman (one-page site) yang sangat pantas, responsif di telefon pintar, dan kemas untuk profil diri atau halaman jualan ringkas.
+https://carrd.co
+
+2️⃣ Canva Websites - Gunakan kemahiran menyusun grafik di Canva untuk terus menerbitkan rekaan anda sebagai laman web interaktif lengkap dengan domain percuma daripada Canva.
+https://www.canva.com/website-builder
+
+3️⃣ Google Sites - Percuma sepenuhnya menggunakan akaun Google anda. Sangat sesuai untuk membina portal rujukan pasukan, halaman maklumat produk, atau portfolio kerja tanpa sebarang kos langganan.
+https://sites.google.com
+
+4️⃣ Notion Sites - Tukar mana-mana halaman nota Notion anda menjadi laman web awam dengan satu klik sahaja, sangat praktikal untuk berkongsi panduan, katalog ilmu, atau jadual acara.
+https://www.notion.so/product/sites
+
+5️⃣ Framer - Platform reka bentuk web moden yang membolehkan anda membina laman web beranimasi tinggi dan bertaraf profesional menggunakan templat percuma tanpa menulis baris kod.
+https://www.framer.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 328,
+    siri: "Post-08",
+    no: 28,
+    topik: "Produktiviti & Keselamatan Siber",
+    kategori: `PRODUKTIVITI BISNES, KESELAMATAN SIBER & KEMAHIRAN KENDIRI`,
+    tajuk: `Pengurus Kata Laluan (Password Manager) Selamat & Berenkripsi`,
+    tags: ["bisnes", "kemahiran", "kendiri", "keselamatan", "produktiviti", "siber"],
+    link: "https://bitwarden.com",
+    post: `Ada yang tahu? Sering terlupa kata laluan akaun online atau guna password yang sama untuk semua tempat?🔑
+👇👇👇`,
+    komen: `Elakkan risiko kesemua akaun digital anda digodam serentak akibat menggunakan kata laluan yang sama. Gunakan 5 pengurus kata laluan berenkripsi ini:
+
+1️⃣ Bitwarden - Pengurus kata laluan sumber terbuka (open-source) nombor satu pilihan pakar keselamatan siber. Pelan percumanya membenarkan simpanan kata laluan tanpa had merentas telefon dan komputer.
+https://bitwarden.com
+
+2️⃣ Proton Pass - Dibangunkan oleh pasukan saintis keselamatan Proton di Switzerland. Menawarkan perlindungan enkripsi hujung-ke-hujung berserta ciri penyembunyi alamat emel (email aliases) untuk mengelakkan spam.
+https://proton.me/pass
+
+3️⃣ NordPass - Dibina oleh pencipta NordVPN menggunakan algoritma enkripsi XChaCha20 moden untuk menyimpan kata laluan, nota sulit, dan maklumat kad pembayaran dengan selamat.
+https://nordpass.com
+
+4️⃣ 1Password - Sangat terkenal untuk kegunaan profesional dan keluarga kerana menyediakan ciri 'Travel Mode' dan amaran keselamatan sekiranya mana-mana laman web yang anda daftar mengalami kebocoran data.
+https://1password.com
+
+5️⃣ KeePassXC - Perisian pengurus kata laluan luar talian (offline) percuma sepenuhnya di mana kesemua pangkalan data kata laluan disimpan secara terenkripsi terus di dalam peranti anda sendiri.
+https://keepassxc.org
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 329,
+    siri: "Post-08",
+    no: 29,
+    topik: "Produktiviti & Keselamatan Siber",
+    kategori: `PRODUKTIVITI BISNES, KESELAMATAN SIBER & KEMAHIRAN KENDIRI`,
+    tajuk: `Laman Web Semak Keselamatan Emel & Pautan Mencurigakan Sebelum Klik`,
+    tags: ["bisnes", "kemahiran", "kendiri", "keselamatan", "produktiviti", "siber"],
+    link: "https://www.virustotal.com",
+    post: `Ada yang tahu? Dapat link pelik dekat WhatsApp atau emel, macam mana nak semak link tu selamat sebelum kita klik?🛡️
+👇👇👇`,
+    komen: `Jangan sesekali menekan pautan yang mencurigakan kerana bimbang peranti anda dijangkiti perisian hasad (malware). Semak menggunakan 5 laman keselamatan siber percuma ini:
+
+1️⃣ VirusTotal - Milik anak syarikat keselamatan Google. Tampal sebarang pautan URL atau muat naik fail yang meragukan, dan sistem akan mengimbasnya menggunakan lebih 70 enjin antivirus antarabangsa serentak.
+https://www.virustotal.com
+
+2️⃣ Have I Been Pwned - Masukkan alamat emel anda untuk menyemak sama ada akaun emel dan kata laluan anda pernah terlibat dalam mana-mana insiden kebocoran data syarikat besar di dunia.
+https://haveibeenpwned.com
+
+3️⃣ URLVoid - Membantu anda menyemak reputasi sesebuah laman web merentas lebih 30 pangkalan data senarai hitam (blacklist engines) bagi mengesan laman web pancingan data (phishing).
+https://www.urlvoid.com
+
+4️⃣ Cloudflare Radar URL Scanner - Mengimbas pautan secara mendalam dan memaparkan tangkapan skrin (screenshot) sebenar halaman web tersebut tanpa anda perlu membukanya di pelayar sendiri.
+https://radar.cloudflare.com/scan
+
+5️⃣ Google Safe Browsing Site Status - Masukkan URL laman web untuk memeriksa sama ada Google mengesan sebarang aktiviti muat turun berbahaya atau cubaan mencuri maklumat pengguna di laman tersebut.
+https://transparencyreport.google.com/safe-browsing/search
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 330,
+    siri: "Post-08",
+    no: 30,
+    topik: "Produktiviti & Keselamatan Siber",
+    kategori: `PRODUKTIVITI BISNES, KESELAMATAN SIBER & KEMAHIRAN KENDIRI`,
+    tajuk: `Platform Belajar Kemahiran Digital & Sijil Profesional Secara Percuma`,
+    tags: ["bisnes", "kemahiran", "kendiri", "keselamatan", "produktiviti", "siber"],
+    link: "https://skillshop.withgoogle.com",
+    post: `Ada yang tahu? Nak tambah ilmu bisnes, pemasaran digital, atau teknologi secara percuma dari rumah?🎓
+👇👇👇`,
+    komen: `Tingkatkan nilai diri dan kemahiran kerjaya anda melalui 5 platform pembelajaran dalam talian bertaraf antarabangsa yang menawarkan kursus percuma ini:
+
+1️⃣ Google Skillshop & Grow with Google - Menyediakan latihan rasmi dan pensijilan percuma dalam bidang pemasaran digital, analitik data, e-dagang, serta penggunaan kecerdasan buatan (AI) untuk bisnes.
+https://skillshop.withgoogle.com
+
+2️⃣ HubSpot Academy - Lubuk terbaik untuk usahawan dan pemasar mempelajari strategi jualan, pemasaran kandungan (content marketing), pengurusan media sosial, dan penulisan emel berserta sijil tamat kursus percuma.
+https://academy.hubspot.com
+
+3️⃣ Coursera (Mod Audit) - Menghimpunkan ribuan kursus daripada universiti terkemuka dunia. Anda boleh memilih pilihan 'Audit the course' untuk menonton semua video pembelajaran secara percuma.
+https://www.coursera.org
+
+4️⃣ edX - Diasaskan oleh Universiti Harvard dan MIT. Menawarkan akses pembelajaran percuma kepada ratusan subjek merangkumi kewangan, pengurusan perniagaan, sains komputer, dan komunikasi.
+https://www.edx.org
+
+5️⃣ Canva Design School - Platform pembelajaran visual ringkas dan praktikal untuk kita menguasai asas reka bentuk grafik, penjenamaan peribadi, dan penghasilan kandungan media sosial yang memukau.
+https://www.canva.com/designschool
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 331,
+    siri: "Post-09",
+    no: 1,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Pembantu AI Pintar untuk Penyelidikan & Rangka Idea`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar"],
+    link: "https://chatgpt.com",
+    post: `Ada yang tahu? Nak cari pembantu AI percuma untuk bantu rangka kertas kerja dan cari fakta pantas?🤖
+👇👇👇`,
+    komen: `Gunakan 5 platform pembantu kecerdasan buatan (AI) ini untuk mempercepatkan urusan penyelidikan dan penulisan harian anda:
+
+1️⃣ ChatGPT - Pembantu AI paling serba boleh untuk membantu anda merangka draf artikel, menyusun jadual kerja, dan menjana idea pemasaran secara perbualan interaktif.
+https://chatgpt.com
+
+2️⃣ Claude.ai - Sangat cemerlang untuk penulisan yang memerlukan gaya bahasa semula jadi, penterjemahan konteks yang tepat, serta analisis dokumen teks yang panjang.
+https://claude.ai
+
+3️⃣ Perplexity AI - Gabungan enjin carian dan AI yang memberikan jawapan terus berserta rujukan pautan sumber asal yang sahih bagi memudahkan kita menyemak kesahihan fakta.
+https://www.perplexity.ai
+
+4️⃣ Google Gemini - Terintegrasi secara langsung dengan ekosistem Google Workspace untuk membantu anda mencari maklumat terkini, merangka emel, dan menyusun jadual dengan pantas.
+https://gemini.google.com
+
+5️⃣ Microsoft Copilot - Dikuasakan oleh model bahasa terkini dengan akses carian web masa nyata secara percuma, sangat sesuai untuk membantu tugasan pejabat dan pencarian maklumat harian.
+https://copilot.microsoft.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 332,
+    siri: "Post-09",
+    no: 2,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Alatan AI untuk Ringkaskan Artikel Panjang & Dokumen PDF`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar"],
+    link: "https://notebooklm.google.com",
+    post: `Ada yang tahu? Kena baca laporan PDF beratus muka surat tapi masa suntuk, macam mana nak faham cepat?📑
+👇👇👇`,
+    komen: `Jimatkan masa membaca laporan tebal atau jurnal kajian dengan menggunakan 5 alatan peringkas dokumen berasaskan AI ini:
+
+1️⃣ Google NotebookLM - Muat naik dokumen PDF, nota, atau pautan laman web anda, dan sistem akan menjana ringkasan padat serta menjawab sebarang soalan berdasarkan sumber dokumen tersebut sahaja.
+https://notebooklm.google.com
+
+2️⃣ ChatPDF - Membolehkan anda memuat naik fail PDF dan terus bertanya soalan seolah-olah sedang berbual dengan penulis buku atau laporan berkenaan berserta rujukan nombor muka surat.
+https://www.chatpdf.com
+
+3️⃣ SciSpace - Sangat sesuai untuk pelajar, penyelidik, dan profesional yang ingin memahami kertas kajian saintifik atau laporan teknikal yang kompleks dalam bahasa yang mudah difahami.
+https://typeset.io
+
+4️⃣ Humata AI - Membantu kita mengekstrak maklumat penting, membandingkan data daripada beberapa dokumen serentak, dan menghasilkan draf rumusan eksekutif dalam masa beberapa saat.
+https://www.humata.ai
+
+5️⃣ Eightify - Sambungan pelayar web pintar yang mengekstrak dan menyusun intipati penting daripada video pembentangan atau kuliah panjang di YouTube kepada senarai poin ringkas.
+https://eightify.app
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 333,
+    siri: "Post-09",
+    no: 3,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Platform Jana Gambar & Ilustrasi Kreatif Menggunakan Prompt AI`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar"],
+    link: "https://ideogram.ai",
+    post: `Ada yang tahu? Nak cipta gambar ilustrasi unik mengikut imaginasi kita sendiri untuk poster kempen?🎨
+👇👇👇`,
+    komen: `Hasilkan visual kreatif yang tiada di laman stok foto biasa menggunakan 5 penjana imej berasaskan AI ini:
+
+1️⃣ Ideogram - Sangat terkenal kerana keupayaannya menjana gambar poster berserta tulisan tipografi (teks di dalam imej) yang sangat tepat, kemas, dan tidak herot.
+https://ideogram.ai
+
+2️⃣ Leonardo.ai - Menyediakan kredit harian percuma untuk kita menjana ilustrasi 3D, seni konsep, dan gambar fotorealistik dengan kawalan gaya visual yang sangat terperinci.
+https://leonardo.ai
+
+3️⃣ Adobe Firefly - Model AI generatif daripada Adobe yang dilatih menggunakan imej berlesen selamat, menjadikannya pilihan terbaik untuk menghasilkan visual kegunaan komersial.
+https://firefly.adobe.com
+
+4️⃣ Microsoft Designer Image Creator - Membolehkan anda menukar arahan teks (prompt) kepada grafik berkualiti tinggi secara percuma menggunakan akaun Microsoft anda.
+https://designer.microsoft.com
+
+5️⃣ Canva Magic Media - Terbina terus di dalam aplikasi Canva supaya anda boleh menjana gambar, grafik vektor, atau ikon unik dan terus menyusunnya di atas kanvas poster anda.
+https://www.canva.com/ai-image-generator
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 334,
+    siri: "Post-09",
+    no: 4,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Alatan AI Potong Video Panjang Jadi Klip Pendek Reels/TikTok Automatik`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar"],
+    link: "https://www.opus.pro",
+    post: `Ada yang tahu? Ada rakaman webinar atau podcast panjang, macam mana nak potong jadi klip pendek cepat?✂️
+👇👇👇`,
+    komen: `Tukar satu video berdurasi sejam kepada puluhan klip video menegak (9:16) secara automatik menggunakan 5 platform AI ini:
+
+1️⃣ OpusClip - Menganalisis video panjang anda untuk memilih bahagian paling menarik, menukar saiz ke format menegak, memusatkan wajah pembicara, dan menambah sari kata dinamik secara automatik.
+https://www.opus.pro
+
+2️⃣ Vizard.ai - Sangat membantu untuk memotong rakaman webinar Zoom atau sesi temubual menjadi klip media sosial lengkap dengan tajuk utama (headline) dan susun atur berbilang pembicara.
+https://vizard.ai
+
+3️⃣ Vidyo.ai (Quso.ai) - Menjimatkan masa suntingan video sehingga 90% dengan memilih potongan babak penting, menukar nisbah skrin, dan menyediakan templat jenama yang seragam.
+https://quso.ai
+
+4️⃣ Klap - Tampal sahaja pautan video YouTube anda, dan sistem AI akan mengenal pasti topik perbincangan terbaik untuk dijadikan klip TikTok, Reels, dan Shorts yang sedia dimuat naik.
+https://klap.app
+
+5️⃣ Munch - Menggunakan analisis data trend pemasaran untuk mengekstrak potongan klip video yang mempunyai potensi capaian tinggi berdasarkan kata kunci semasa.
+https://www.getmunch.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 335,
+    siri: "Post-09",
+    no: 5,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Platform Automasi Kerja Tanpa Coding (Sambungkan Aplikasi Berbeza)`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar", "sambungkan aplikasi berbeza"],
+    link: "https://zapier.com",
+    post: `Ada yang tahu? Penat salin data pelanggan dari borang ke Excel secara manual, macam mana nak automatikkan?⚙️
+👇👇👇`,
+    komen: `Hubungkan aplikasi kerja harian anda supaya data bergerak secara automatik tanpa perlu disalin secara manual menggunakan 5 platform ini:
+
+1️⃣ Zapier - Platform automasi paling popular yang menghubungkan lebih 6,000 aplikasi (contohnya: setiap kali pelanggan isi Google Forms, sistem terus hantar notifikasi ke Telegram dan simpan di Google Sheets).
+https://zapier.com
+
+2️⃣ Make.com - Menawarkan paparan aliran kerja secara visual (drag-and-drop) yang sangat fleksibel dan berkuasa untuk mengautomatikkan proses pengurusan bisnes, emel, dan media sosial pada kos yang sangat jimat.
+https://www.make.com
+
+3️⃣ IFTTT (If This Then That) - Sangat mudah untuk automasi tugasan harian dan peranti pintar, seperti menyimpan gambar hantaran Instagram secara automatik ke dalam folder Google Drive.
+https://ifttt.com
+
+4️⃣ Pabbly Connect - Pilihan digemari ramai usahawan digital untuk mengintegrasikan sistem borang tempahan, gerbang pembayaran, dan penghantaran resit automatik kepada pelanggan.
+https://www.pabbly.com/connect
+
+5️⃣ n8n - Platform automasi aliran kerja berasaskan nod yang membolehkan integrasi mendalam antara sistem pangkalan data, API, dan ejen AI untuk operasi kerja yang lebih kompleks.
+https://n8n.io
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 336,
+    siri: "Post-09",
+    no: 6,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Alatan AI Bersihkan Bunyi Bising (Noise Cancelling) pada Rakaman Suara`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar"],
+    link: "https://podcast.adobe.com/enhance",
+    post: `Ada yang tahu? Rakam video tapi ada bunyi kipas dan bising di belakang, macam mana nak jernihkan suara?🎧
+👇👇👇`,
+    komen: `Anda tidak memerlukan bilik kedap bunyi yang mahal. Gunakan 5 alat pembersih audio berasaskan AI ini untuk menjadikan rakaman suara anda kedengaran seperti di studio:
+
+1️⃣ Adobe Podcast Enhance Speech - Alat percuma paling mengagumkan daripada Adobe. Muat naik fail audio yang bergema atau bising, dan sistem akan menjernihkan suara anda menjadi kualiti mikrofon studio.
+https://podcast.adobe.com/enhance
+
+2️⃣ Krisp.ai - Berfungsi secara langsung semasa anda sedang bermesyuarat di Zoom atau Google Meet dengan menapis bunyi bising persekitaran, salakan anjing, atau bunyi kipas daripada didengari oleh pihak lain.
+https://krisp.ai
+
+3️⃣ Audo Studio - Membersihkan bunyi gangguan latar belakang dan menyamakan tahap kekuatan suara (auto volume leveling) secara automatik dalam masa beberapa saat sahaja.
+https://www.audo.ai
+
+4️⃣ Cleanvoice AI - Bukan sahaja membuang bunyi bising latar belakang, malah mampu mengesan dan memotong bunyi 'err', 'umm', jeda senyap yang terlalu panjang, serta bunyi nafas pada rakaman podcast.
+https://cleanvoice.ai
+
+5️⃣ Podcastle Magic Dust - Platform rakaman dan suntingan audio di pelayar web yang menyediakan penapis bunyi AI satu klik untuk menghasilkan kualiti suara yang padat dan jelas.
+https://podcastle.ai
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 337,
+    siri: "Post-09",
+    no: 7,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Sambungan (Extension) Google Chrome Terbaik untuk Jimat Masa Kerja`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar"],
+    link: "https://gofullpage.com",
+    post: `Ada yang tahu? Selalu buat kerja guna Google Chrome di laptop, extension apa yang wajib pasang untuk lajukan kerja?🌐
+👇👇👇`,
+    komen: `Tingkatkan kecekapan kerja harian anda di pelayar web dengan memasang 5 sambungan (extension) Google Chrome percuma ini:
+
+1️⃣ GoFullPage - Membolehkan anda menangkap gambar skrin (screenshot) keseluruhan halaman web dari atas sehingga ke bahagian paling bawah dengan satu klik sahaja, lalu menyimpannya sebagai PDF atau PNG.
+https://gofullpage.com
+
+2️⃣ OneTab - Sekiranya komputer anda menjadi perlahan kerana membuka puluhan tab serentak, klik ikon OneTab untuk mengumpulkan kesemua tab tersebut menjadi satu senarai pautan yang kemas dan menjimatkan memori RAM.
+https://www.one-tab.com
+
+3️⃣ ColorZilla - Alat penyedut warna (eyedropper) yang membolehkan kita menyalin kod warna HEX daripada mana-mana bahagian laman web yang kita lawati untuk digunakan dalam reka bentuk poster kita.
+https://www.colorzilla.com
+
+4️⃣ WhatFont - Pernah melihat jenis tulisan (font) yang cantik di sesebuah laman web? Halakan sahaja kursor tetikus menggunakan WhatFont untuk mengetahui nama font, saiz, dan ketebalannya serta-merta.
+https://www.chengyinliu.com/whatfont.html
+
+5️⃣ Print Friendly & PDF - Membersihkan iklan, menu tepi, dan elemen tidak berkaitan pada mana-mana artikel laman web sebelum anda mencetaknya atau menyimpannya sebagai fail PDF untuk bacaan rujukan.
+https://www.printfriendly.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 338,
+    siri: "Post-09",
+    no: 8,
+    topik: "AI & Automasi",
+    kategori: `KECERDASAN BUATAN (AI) & AUTOMASI KERJA PINTAR`,
+    tajuk: `Alatan Terjemahan Bahasa & Dokumen Paling Tepat Selain Google Translate`,
+    tags: ["(ai)", "automasi", "buatan", "kecerdasan", "kerja", "pintar"],
+    link: "https://www.deepl.com",
+    post: `Ada yang tahu? Nak terjemah dokumen atau ayat kerja supaya bunyi natural dan tak kaku macam robot?🌍
+👇👇👇`,
+    komen: `Elakkan terjemahan ayat secara literal yang mengelirukan maksud asal. Gunakan 5 platform penterjemahan pintar ini untuk hasil bahasa yang jauh lebih tepat:
+
+1️⃣ DeepL Translator - Diiktiraf secara meluas sebagai penterjemah paling semula jadi di dunia kerana menggunakan rangkaian saraf tiruan yang memahami konteks ayat korporat dan akademik dengan sangat baik.
+https://www.deepl.com
+
+2️⃣ Reverso Context - Sangat berguna apabila kita ingin mengetahui bagaimana sesuatu frasa atau perkataan digunakan dalam ayat sebenar melalui jutaan contoh dokumen rasmi dan dialog dwibahasa.
+https://context.reverso.net
+
+3️⃣ ChatGPT / Claude (Mod Terjemahan Konteks) - Berikan arahan seperti 'Terjemahkan teks ini ke Bahasa Melayu formal korporat', dan ia akan menterjemah mengikut laras budaya serta industri sasaran anda.
+https://chatgpt.com
+
+4️⃣ Naver Papago - Pilihan terbaik dan paling tepat sekiranya urusan perniagaan atau pengembaraan anda melibatkan penterjemahan bahasa Asia Timur seperti Bahasa Jepun, Korea, dan Mandarin.
+https://papago.naver.com
+
+5️⃣ Microsoft Translator - Menyediakan terjemahan teks, suara, dan perbualan berbilang orang secara masa nyata yang terintegrasi rapi dengan perisian Microsoft Word dan PowerPoint.
+https://translator.microsoft.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 339,
+    siri: "Post-09",
+    no: 9,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Platform Buat Invois & Resit Rasmi Bisnes Secara Percuma`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://www.waveapps.com",
+    post: `Ada yang tahu? Baru mula berniaga dan nak keluarkan invois atau resit rasmi yang kemas kepada pelanggan?🧾
+👇👇👇`,
+    komen: `Tingkatkan kredibiliti perniagaan anda di mata pelanggan dengan menggunakan 5 platform penjanaan invois dan resit percuma ini:
+
+1️⃣ Wave Invoicing - Perisian perakaunan dan invois percuma yang membolehkan anda menghasilkan invois berjenama lengkap dengan logo syarikat, menjejak status bayaran, dan menghantar resit rasmi.
+https://www.waveapps.com
+
+2️⃣ Zoho Invoice - Percuma sepenuhnya untuk usahawan kecil dan pekerja bebas (freelancers). Menyediakan templat sebut harga (quotation) dan invois profesional yang boleh diakses melalui komputer atau aplikasi telefon.
+https://www.zoho.com/invoice
+
+3️⃣ Invoice-Generator.com - Alat pelayar web paling pantas tanpa perlu mendaftar akaun. Isi sahaja butiran pelanggan, senarai item, dan jumlah harga, kemudian terus muat turun invois dalam format PDF.
+https://invoice-generator.com
+
+4️⃣ Canva Invoice Maker - Sesuai sekiranya anda mahukan reka bentuk invois dan resit yang lebih kreatif serta sedondon dengan warna korporat bisnes anda menggunakan ratusan templat sedia ada.
+https://www.canva.com/create/invoices
+
+5️⃣ Bookipi - Aplikasi mudah alih yang sangat praktikal untuk usahawan mengeluarkan sebut harga, invois, dan resit kepada pelanggan terus daripada telefon pintar dalam masa kurang seminit.
+https://bookipi.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 340,
+    siri: "Post-09",
+    no: 10,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Alatan Tempahan Janji Temu (Appointment Scheduling) Automatik dengan Klien`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://calendly.com",
+    post: `Ada yang tahu? Macam mana nak bagi klien pilih sendiri waktu sesi konsultasi ikut masa lapang kalendar kita?📅
+👇👇👇`,
+    komen: `Jimatkan masa berbalas mesej untuk menetapkan tarikh perjumpaan menggunakan 5 sistem penjadualan janji temu automatik ini:
+
+1️⃣ Calendly - Kongsikan satu pautan sahaja kepada prospek atau klien, dan mereka boleh memilih slot masa yang masih kosong mengikut jadual anda. Sistem akan terus menghantar jemputan kalendar dan pautan mesyuarat secara automatik.
+https://calendly.com
+
+2️⃣ Cal.com - Alternatif sumber terbuka yang sangat berkuasa dengan pelan percuma yang murah hati, membolehkan kita menyambungkan pelbagai kalendar peribadi dan kerja supaya tiada pertindihan masa.
+https://cal.com
+
+3️⃣ TidyCal - Platform penjadualan yang sangat ringkas, ringan, dan mesra pengguna untuk menguruskan sesi konsultasi percuma mahupun sesi bimbingan berbayar bersama pelanggan.
+https://tidycal.com
+
+4️⃣ SimplyBook.me - Direka khusus untuk perniagaan berasaskan perkhidmatan (seperti klinik, pusat latihan, atau perunding) yang memerlukan halaman tempahan slot masa lengkap dengan peringatan automatik.
+https://simplybook.me
+
+5️⃣ Koalendar - Alat penjadualan pintar yang sangat mudah disediakan dalam masa 2 minit, membolehkan pelanggan menempah slot perbincangan terus melalui pautan di bio media sosial atau laman web anda.
+https://koalendar.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 341,
+    siri: "Post-09",
+    no: 11,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Platform Pemasaran Emel (Email Marketing) & Newsletter untuk Bisnes`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://www.mailerlite.com",
+    post: `Ada yang tahu? Nak kumpul database pelanggan dan hantar info berkala melalui emel secara profesional?📧
+👇👇👇`,
+    komen: `Jangan bergantung sepenuhnya kepada algoritma media sosial. Bina senarai pangkalan data pelanggan anda sendiri menggunakan 5 platform pemasaran emel ini:
+
+1️⃣ MailerLite - Sangat digemari oleh usahawan dan penulis kerana antara mukanya yang bersih. Pelan percumanya menyokong sehingga 1,000 pelanggan berserta pembina halaman pendaratan (landing page) dan automasi emel.
+https://www.mailerlite.com
+
+2️⃣ Brevo (dahulunya Sendinblue) - Membolehkan anda menyimpan jumlah kenalan pelanggan yang besar dan menghantar sehingga 300 emel sehari secara percuma lengkap dengan templat emel korporat.
+https://www.brevo.com
+
+3️⃣ Kit (dahulunya ConvertKit) - Platform pilihan utama para pencipta kandungan, penulis e-book, dan pendidik untuk mengedarkan bahan bacaan percuma (lead magnet) serta membina hubungan jangka panjang bersama pembaca.
+https://kit.com
+
+4️⃣ Substack - Sekiranya anda suka berkongsi artikel ilmu atau kupasan kewangan secara mingguan, Substack membolehkan artikel anda diterbitkan sebagai blog dan dihantar terus ke peti masuk emel pembaca secara serentak.
+https://substack.com
+
+5️⃣ Mailchimp - Salah satu perkhidmatan pemasaran emel paling terkenal yang menyediakan ratusan integrasi dengan platform e-dagang serta analitik kadar pembukaan emel yang komprehensif.
+https://mailchimp.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 342,
+    siri: "Post-09",
+    no: 12,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Alatan Jana Kod QR (QR Code Generator) Percuma & Boleh Ubah Suai`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://www.qrcode-monkey.com",
+    post: `Ada yang tahu? Nak buat QR Code untuk link WhatsApp atau lokasi kedai yang ada logo bisnes kat tengah?📱
+👇👇👇`,
+    komen: `Mudahkan pelanggan mengimbas pautan bisnes anda pada kad nama, bunting, atau poster menggunakan 5 penjana kod QR percuma ini:
+
+1️⃣ QRCode Monkey - Penjana kod QR statik percuma terbaik yang membolehkan kita menukar warna kod, memilih bentuk titik yang moden, meletakkan logo jenama di bahagian tengah, dan memuat turunnya dalam resolusi tinggi tanpa tarikh luput.
+https://www.qrcode-monkey.com
+
+2️⃣ Canva QR Code Generator - Terbina terus di dalam editor Canva supaya anda boleh memasukkan pautan URL dan terus meletakkan kod QR tersebut di atas reka bentuk kad perniagaan atau poster promosi anda.
+https://www.canva.com/qr-code-generator
+
+3️⃣ QR TIGER - Menyokong penjanaan kod QR untuk pelbagai kegunaan seperti pautan laman web, kad kenalan digital (vCard), sambungan terus Wi-Fi, serta pautan lokasi Google Maps.
+https://www.qrcode-tiger.com
+
+4️⃣ Unitag QR - Membolehkan penyesuaian reka bentuk kod QR yang sangat kreatif dengan pelbagai corak bingkai dan gradien warna supaya kod QR pada pembungkusan produk anda nampak eksklusif.
+https://www.unitag.io/qrcode
+
+5️⃣ Adobe Express Free QR Code Maker - Alat pantas dan bersih tanpa iklan yang menjana kod QR kekal (tidak akan tamat tempoh) dalam format PNG atau SVG untuk kegunaan cetakan berkualiti tinggi.
+https://www.adobe.com/express/feature/image/qr-code-generator
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 343,
+    siri: "Post-09",
+    no: 13,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Platform Buat Katalog Produk Digital & Kedai Online Mudah`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://www.whatsapp.com/business",
+    post: `Ada yang tahu? Nak susun senarai produk atau servis supaya pelanggan senang tengok harga dan terus order?🛍️
+👇👇👇`,
+    komen: `Paparkan produk fizikal, perkhidmatan, atau e-book anda dengan teratur menggunakan 5 platform katalog dan kedai dalam talian ini:
+
+1️⃣ WhatsApp Business Catalog - Fungsi terbina dalam aplikasi WhatsApp Business yang membolehkan kita memuat naik gambar produk, penerangan, kod item, dan harga supaya pelanggan boleh terus melihat katalog di profil WhatsApp kita.
+https://www.whatsapp.com/business
+
+2️⃣ Take.app - Membantu peniaga membina halaman kedai dalam talian yang kemas di mana segala pesanan pelanggan akan dihantar secara tersusun terus ke dalam peti mesej WhatsApp anda.
+https://take.app
+
+3️⃣ Gumroad - Platform paling mudah di dunia untuk menjual produk digital seperti e-book, templat reka bentuk, nota panduan, atau kursus video tanpa sebarang yuran bulanan tetap.
+https://gumroad.com
+
+4️⃣ Payhip - Alternatif hebat untuk menjual bahan bacaan digital, keahlian komuniti, dan sesi bimbingan dengan halaman jualan yang sangat kemas serta sistem penghantaran fail automatik.
+https://payhip.com
+
+5️⃣ Cococart - Direka khusus untuk usahawan kecil dan peniaga berasaskan tempahan bagi memaparkan menu produk yang cantik dan menerima pesanan pelanggan tanpa perlu membina laman web e-dagang yang rumit.
+https://cococart.co
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 344,
+    siri: "Post-09",
+    no: 14,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Alatan Semak Prestasi, SEO & Kelajuan Laman Web Bisnes`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://search.google.com/search-console",
+    post: `Ada yang tahu? Ada blog atau website bisnes sendiri, macam mana nak tahu kenapa website kita lambat keluar di Google?🚀
+👇👇👇`,
+    komen: `Pastikan laman web atau blog anda mesra enjin carian (SEO) dan pantas diakses oleh pelawat menggunakan 5 alatan diagnostik percuma ini:
+
+1️⃣ Google Search Console - Alat wajib daripada Google untuk pemilik laman web menyemak kata kunci apa yang membawa pelawat ke blog anda, menghantar peta laman (sitemap), dan mengesan ralat indeks halaman.
+https://search.google.com/search-console
+
+2️⃣ Google PageSpeed Insights - Menguji kelajuan muat turun laman web anda pada paparan telefon pintar dan komputer, serta menyenaraikan cadangan teknikal untuk melajukan halaman tersebut.
+https://pagespeed.web.dev
+
+3️⃣ Ahrefs Free Webmaster Tools - Membolehkan anda melakukan audit kesihatan SEO laman web secara mendalam, menyemak pautan luar (backlinks), dan mencari peluang kata kunci baharu secara percuma.
+https://ahrefs.com/webmaster-tools
+
+4️⃣ GTmetrix - Menganalisis prestasi kelajuan laman web secara terperinci melalui carta air terjun (waterfall chart) untuk mengenal pasti gambar atau skrip mana yang melambatkan laman web anda.
+https://gtmetrix.com
+
+5️⃣ Ubersuggest - Diasaskan oleh Neil Patel, laman ini membantu kita mencari idea kata kunci artikel blog, melihat anggaran jumlah carian bulanan di Malaysia, dan menganalisis topik laman web pesaing.
+https://neilpatel.com/ubersuggest
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 345,
+    siri: "Post-09",
+    no: 15,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Platform Pengurusan Pelanggan (CRM Percuma) untuk Jejak Prospek Jualan`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://www.hubspot.com/products/crm",
+    post: `Ada yang tahu? Prospek dah ramai bertanya, macam mana nak rekod supaya kita tak terlupa buat 'follow-up'?🤝
+👇👇👇`,
+    komen: `Susun rekod perbualan, status prospek, dan jadual susulan (follow-up) pelanggan anda secara sistematik menggunakan 5 perisian CRM percuma ini:
+
+1️⃣ HubSpot Free CRM - Sistem pengurusan hubungan pelanggan bertaraf dunia yang menawarkan pelan percuma untuk menyimpan rekod kenalan pelanggan, menjejak peringkat jualan (sales pipeline), dan menjadualkan peringatan susulan.
+https://www.hubspot.com/products/crm
+
+2️⃣ Zoho CRM (Edisi Percuma) - Menyokong sehingga 3 pengguna secara percuma untuk menguruskan senarai prospek (leads), rekod urus niaga, dan tugasan harian pasukan jualan dengan kemas.
+https://www.zoho.com/crm
+
+3️⃣ Streak CRM for Gmail - Berfungsi terus di dalam peti masuk emel Gmail anda, membolehkan kita menukar emel pelanggan menjadi kad tugasan di dalam papan saluran jualan tanpa perlu membuka perisian berasingan.
+https://www.streak.com
+
+4️⃣ Bitrix24 - Ruang kerja kolaborasi dan CRM percuma yang menggabungkan pengurusan prospek, kalendar pasukan, borang pertanyaan pelanggan, dan pusat komunikasi di bawah satu bumbung.
+https://www.bitrix24.com
+
+5️⃣ Freshsales (Free Plan) - Menyediakan paparan papan pemuka yang ringkas untuk usahawan merekod maklumat panggilan, emel, dan nota perbincangan bersama setiap prospek dengan teratur.
+https://www.freshworks.com/crm
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 346,
+    siri: "Post-09",
+    no: 16,
+    topik: "Bisnes & Jualan Online",
+    kategori: `PERNIAGAAN, PEMASARAN DIGITAL & JUALAN ONLINE`,
+    tajuk: `Laman Web Cari Kerja Freelance & Tawarkan Servis Kemahiran Digital`,
+    tags: ["digital", "jualan", "online", "pemasaran", "perniagaan"],
+    link: "https://www.upwork.com",
+    post: `Ada yang tahu? Ada kemahiran design, menulis, atau akaun, kat mana nak tawarkan servis freelance secara sah?💼
+👇👇👇`,
+    komen: `Jana pendapatan sampingan dalam mata wang tempatan mahupun antarabangsa dengan menawarkan kemahiran profesional anda di 5 platform kerjaya bebas (freelance) ini:
+
+1️⃣ Upwork - Pasaran kerja bebas terbesar di dunia untuk golongan profesional merangkumi bidang penulisan, terjemahan, pengaturcaraan, perakaunan, reka bentuk grafik, dan khidmat pelanggan maya.
+https://www.upwork.com
+
+2️⃣ Fiverr - Membolehkan anda membina pakej perkhidmatan siap harga (dipanggil 'Gigs') bermula daripada reka bentuk logo, suntingan video, sehinggalah kepada penulisan artikel supaya klien dari seluruh dunia boleh terus menempah servis anda.
+https://www.fiverr.com
+
+3️⃣ Freelancer.com - Menghimpunkan ribuan projek harian di mana kita boleh menghantar kertas cadangan sebut harga (bidding) mengikut kepakaran dan портfolio hasil kerja kita.
+https://www.freelancer.com
+
+4️⃣ PeoplePerHour - Platform yang menghubungkan pekerja bebas berkemahiran tinggi dengan pemilik perniagaan antarabangsa sama ada mengikut kadar bayaran sejam atau bayaran tetap mengikut projek.
+https://www.peopleperhour.com
+
+5️⃣ Workana - Sangat aktif untuk pasaran Asia Tenggara termasuk Malaysia bagi mencari tugasan berkaitan pengurusan media sosial, kemasukan data (data entry), dan sokongan pentadbiran perniagaan.
+https://www.workana.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 347,
+    siri: "Post-09",
+    no: 17,
+    topik: "Reka Bentuk Lanjutan",
+    kategori: `REKA BENTUK LANJUTAN, KREATIVITI & MEDIA SOSIAL`,
+    tajuk: `Alatan Buat Gambar Profil (Profile Picture) Nampak Korporat & Profesional`,
+    tags: ["bentuk", "kreativiti", "lanjutan", "media", "reka", "sosial"],
+    link: "https://pfpmaker.com",
+    post: `Ada yang tahu? Nak tukar gambar biasa dekat phone jadi gambar profil korporat untuk LinkedIn, FB, dan WhatsApp?👔
+👇👇👇`,
+    komen: `Gambar profil yang kemas meningkatkan kepercayaan prospek terhadap kredibiliti kita. Gunakan 5 alatan percuma ini untuk menghasilkan gambar profil profesional:
+
+1️⃣ PFPMaker - Muat naik sekeping gambar swafoto atau potret biasa anda, dan sistem AI akan memotong latar belakang secara automatik serta menjana puluhan pilihan gambar profil dengan latar belakang korporat dan warna profesional.
+https://pfpmaker.com
+
+2️⃣ Photoroom Profile Picture Maker - Membolehkan anda menambah bulatan bingkai berwarna, melaraskan pencahayaan wajah, dan meletakkan bayang-bayang lembut supaya gambar profil nampak menonjol di ruangan sembang.
+https://www.photoroom.com/tools/profile-picture-maker
+
+3️⃣ Canva PFP Maker - Menyediakan ratusan templat bulatan profil untuk Instagram, TikTok, dan LinkedIn yang boleh dipadankan mengikut kod warna rasmi jenama peribadi (personal branding) anda.
+https://www.canva.com/create/profile-pictures
+
+4️⃣ Cutout.pro Passport & Corporate Photo - Sangat berguna sekiranya anda memerlukan gambar potret berlatar belakang putih atau biru bersih mengikut ukuran standard rasmi atau korporat dengan pantas.
+https://www.cutout.pro/passport-photo-maker
+
+5️⃣ Adobe Express Profile Picture Maker - Membantu kita membingkaikan gambar potret dengan teks melengkung, sempadan gradien, dan penapis warna yang bersih secara percuma.
+https://www.adobe.com/express/create/profile-picture
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 348,
+    siri: "Post-09",
+    no: 18,
+    topik: "Reka Bentuk Lanjutan",
+    kategori: `REKA BENTUK LANJUTAN, KREATIVITI & MEDIA SOSIAL`,
+    tajuk: `Laman Web Cari Inspirasi Reka Bentuk Laman Web & UI/UX Moden`,
+    tags: ["bentuk", "kreativiti", "lanjutan", "media", "reka", "sosial"],
+    link: "https://land-book.com",
+    post: `Ada yang tahu? Nak bina landing page atau aplikasi tapi nak tengok contoh susun atur yang bertaraf dunia?🖥️
+👇👇👇`,
+    komen: `Sebelum membina laman web atau halaman jualan (landing page), kumpulkan idea susun atur yang kemas melalui 5 galeri rujukan reka bentuk ini:
+
+1️⃣ Land-book - Galeri terpilih yang menghimpunkan ribuan reka bentuk halaman pendaratan (landing page), laman web portfolio, dan kedai e-dagang paling kemas dari seluruh dunia untuk rujukan struktur halaman anda.
+https://land-book.com
+
+2️⃣ Mobbin - Perpustakaan rujukan reka bentuk aplikasi mudah alih terbesar yang memaparkan ratusan ribu tangkapan skrin sebenar daripada aplikasi ternama dunia untuk kita mempelajari aliran pengalaman pengguna (UX).
+https://mobbin.com
+
+3️⃣ Awwwards - Tempat pengiktirafan laman web terbaik dunia yang mempamerkan trend reka bentuk digital terkini, tipografi moden, dan susunan visual interaktif berimpak tinggi.
+https://www.awwwards.com
+
+4️⃣ Lapa Ninja - Menyediakan lebih 6,000 contoh halaman jualan penuh daripada atas sehingga ke kaki halaman (footer) yang disusun mengikut kategori industri seperti kewangan, pendidikan, dan teknologi.
+https://www.lapa.ninja
+
+5️⃣ Godly.website - Katalog inspirasi reka bentuk web harian yang menonjolkan laman web dengan susun atur grid yang bersih, moden, dan kreatif.
+https://godly.website
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 349,
+    siri: "Post-09",
+    no: 19,
+    topik: "Reka Bentuk Lanjutan",
+    kategori: `REKA BENTUK LANJUTAN, KREATIVITI & MEDIA SOSIAL`,
+    tajuk: `Alatan Buat Carta, Graf & Infografik Data yang Menarik`,
+    tags: ["bentuk", "kreativiti", "lanjutan", "media", "reka", "sosial"],
+    link: "https://piktochart.com",
+    post: `Ada yang tahu? Nak bentang data statistik atau perbandingan harga dalam bentuk infografik yang senang faham?📈
+👇👇👇`,
+    komen: `Tukar angka dan jadual yang membosankan kepada visual infografik yang memikat perhatian pembaca menggunakan 5 platform ini:
+
+1️⃣ Piktochart - Platform reka bentuk infografik yang diasaskan di Pulau Pinang dan kini digunakan di seluruh dunia. Sangat mudah untuk menukar data laporan, garis masa sejarah, dan perbandingan fakta kepada poster infografik.
+https://piktochart.com
+
+2️⃣ Datawrapper - Digunakan oleh organisasi berita antarabangsa untuk menghasilkan carta palang, graf garisan, dan peta taburan data yang sangat bersih, tepat, serta mudah dibaca tanpa kemahiran reka bentuk.
+https://www.datawrapper.de
+
+3️⃣ Venngage - Menyediakan ratusan templat khusus untuk rajah proses, carta perbandingan produk, laporan tahunan, dan infografik pendidikan yang kelihatan sangat korporat.
+https://venngage.com
+
+4️⃣ Infogram - Membolehkan kita mengimport data terus daripada jadual Excel atau Google Sheets untuk ditukarkan kepada carta visual yang kemas bagi kegunaan pembentangan dan artikel blog.
+https://infogram.com
+
+5️⃣ Flourish Studio - Platform penceritaan data (data storytelling) yang membolehkan anda menghasilkan carta bergerak (animated charts) dan visualisasi data interaktif secara percuma.
+https://flourish.studio
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 350,
+    siri: "Post-09",
+    no: 20,
+    topik: "Reka Bentuk Lanjutan",
+    kategori: `REKA BENTUK LANJUTAN, KREATIVITI & MEDIA SOSIAL`,
+    tajuk: `Alatan Padam Objek atau Orang Tak Diingini Dalam Gambar (Magic Eraser)`,
+    tags: ["bentuk", "kreativiti", "lanjutan", "magic eraser", "media", "reka", "sosial"],
+    link: "https://cleanup.pictures",
+    post: `Ada yang tahu? Gambar dah cantik tapi ada objek atau orang lalu kat belakang, macam mana nak padam dengan kemas?🪄
+👇👇👇`,
+    komen: `Bersihkan gangguan visual pada gambar produk atau foto percutian anda dalam beberapa saat menggunakan 5 alat pemadam objek berasaskan AI ini:
+
+1️⃣ Cleanup.pictures - Alat pelayar web yang sangat pantas. Anda hanya perlu mewarnakan (brush) bahagian objek, wayar, atau tulisan yang ingin dibuang, dan AI akan memadamkannya serta mengisi latar belakang dengan semula jadi.
+https://cleanup.pictures
+
+2️⃣ Magic Studio Magic Eraser - Sangat berkesan untuk membuang objek yang mengganggu pada gambar hartanah, foto produk meja, atau potret luar tanpa meninggalkan kesan kabur yang ketara.
+https://magicstudio.com/magiceraser
+
+3️⃣ SnapEdit - Menggunakan pengesanan AI automatik yang mengenal pasti objek atau individu di latar belakang gambar supaya anda boleh memadamkannya dengan satu klik sahaja.
+https://snapedit.app
+
+4️⃣ PicWish Object Remover - Membolehkan kita membersihkan cela, tera air lama, atau bayang-bayang yang tidak diingini pada gambar produk secara percuma melalui pelayar web.
+https://picwish.com/remove-unwanted-object
+
+5️⃣ Fotor Free Object Remover - Menyediakan berus pemadam pintar yang mudah dilaraskan saiznya untuk membaiki perincian halus pada gambar sebelum dimuat naik ke media sosial.
+https://www.fotor.com/features/object-remover
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 351,
+    siri: "Post-09",
+    no: 21,
+    topik: "Reka Bentuk Lanjutan",
+    kategori: `REKA BENTUK LANJUTAN, KREATIVITI & MEDIA SOSIAL`,
+    tajuk: `Platform Buat Animasi & Grafik Bergerak (Motion Graphics) di Pelayar Web`,
+    tags: ["bentuk", "kreativiti", "lanjutan", "media", "reka", "sosial"],
+    link: "https://jitter.video",
+    post: `Ada yang tahu? Nak buat poster bergerak atau video animasi penerangan ringkas tanpa belajar After Effects?🎞️
+👇👇👇`,
+    komen: `Hasilkan grafik bergerak (motion graphics) dan video animasi penerangan dengan mudah menggunakan 5 platform berasaskan pelayar web ini:
+
+1️⃣ Jitter.video - Diibaratkan seperti 'Figma untuk animasi'. Sangat pantas untuk menghasilkan animasi teks bergerak, paparan antara muka aplikasi, dan poster media sosial beranimasi dengan templat moden.
+https://jitter.video
+
+2️⃣ LottieFiles - Lubuk animasi vektor ringan terbesar di dunia. Anda boleh memuat turun ribuan ikon dan ilustrasi bergerak secara percuma untuk dimasukkan ke dalam laman web, aplikasi, atau video pembentangan anda.
+https://lottiefiles.com
+
+3️⃣ Animaker - Platform mesra pemula yang membolehkan kita menghasilkan video animasi watak 2D dan video penerangan papan putih (whiteboard explainer video) menggunakan kaedah seret dan lepas.
+https://www.animaker.com
+
+4️⃣ Rive - Alat reka bentuk animasi interaktif masa nyata yang membolehkan pereka mencipta grafik bergerak yang kemas dan mengeksportnya ke dalam format video atau web.
+https://rive.app
+
+5️⃣ Biteable - Menyediakan ratusan templat babak animasi siap guna untuk menghasilkan video pengumuman bisnes, pengenalan produk, dan ucapan perayaan korporat dalam masa singkat.
+https://biteable.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 352,
+    siri: "Post-09",
+    no: 22,
+    topik: "Reka Bentuk Lanjutan",
+    kategori: `REKA BENTUK LANJUTAN, KREATIVITI & MEDIA SOSIAL`,
+    tajuk: `Aplikasi Skrip Teleprompter di Telefon / Laptop Semasa Rakam Video`,
+    tags: ["bentuk", "kreativiti", "lanjutan", "media", "reka", "sosial"],
+    link: "https://www.capcut.com",
+    post: `Ada yang tahu? Selalu tersasul atau lupa skrip masa rakam video talking-head, macam mana nak baca skrip tanpa kantoi?📱
+👇👇👇`,
+    komen: `Rakam video perkongsian ilmu dengan lancar dalam sekali ambil (one take) sambil mata kekal memandang lensa kamera menggunakan 5 alatan teleprompter ini:
+
+1️⃣ CapCut Teleprompter - Terbina secara percuma di dalam fungsi kamera aplikasi CapCut. Anda boleh menampal skrip, melaraskan kelajuan tatalan teks serta saiz huruf, dan merakam video sambil membaca skrip tepat di bawah lensa kamera hadapan.
+https://www.capcut.com
+
+2️⃣ BIGVU - Aplikasi teleprompter profesional khusus untuk pencipta kandungan dan perunding bisnes yang turut dilengkapi ciri pemotongan automatik, penstabilan pandangan mata, dan sari kata automatik.
+https://bigvu.tv
+
+3️⃣ CuePrompter - Laman web teleprompter percuma sepenuhnya untuk pengguna komputer riba. Tidak perlu memasang sebarang perisian; tampal sahaja skrip anda di pelayar web dan mulakan rakaman kamera web anda.
+https://cueprompter.com
+
+4️⃣ PromptSmart - Menggunakan teknologi pengecaman suara pintar (VoiceTrack) di mana skrip hanya akan bergerak mengikut kelajuan sebenar suara anda bercakap dan berhenti secara automatik apabila anda berhenti sejenak.
+https://promptsmart.com
+
+5️⃣ Elegant Teleprompter - Aplikasi ringan dan bebas iklan untuk telefon pintar yang membolehkan skrip dipaparkan dalam tetingkap terapung (floating window) di atas aplikasi kamera asal telefon anda.
+https://play.google.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 353,
+    siri: "Post-09",
+    no: 23,
+    topik: "Reka Bentuk Lanjutan",
+    kategori: `REKA BENTUK LANJUTAN, KREATIVITI & MEDIA SOSIAL`,
+    tajuk: `Laman Web Tukar Teks, Petikan & Screenshot Jadi Gambar Cantik untuk Posting`,
+    tags: ["bentuk", "kreativiti", "lanjutan", "media", "reka", "sosial"],
+    link: "https://poet.so",
+    post: `Ada yang tahu? Nak kongsi petikan ayat atau screenshot testimoni supaya nampak kemas bila post dekat FB dan IG?✨
+👇👇👇`,
+    komen: `Jangan sekadar muat naik tangkapan skrin mentah yang kelihatan kurang kemas. Cantikkan paparan petikan teks dan tangkapan skrin anda menggunakan 5 laman web ini:
+
+1️⃣ Poet.so - Masukkan pautan hantaran atau teks petikan, dan laman ini akan menukarkannya menjadi kad visual berlatar belakang gradien yang sangat estetik dan mengikut saiz standard Instagram atau Facebook.
+https://poet.so
+
+2️⃣ BrandBird - Alat reka bentuk pantas untuk menukar tangkapan skrin biasa kepada grafik pemasaran profesional lengkap dengan bingkai pelayar, latar belakang 3D, anak panah penunjuk, dan tera air jenama anda.
+https://www.brandbird.app
+
+3️⃣ Pika.style - Membolehkan kita mencantikkan tangkapan skrin ulasan pelanggan, resit transaksi, atau petikan artikel dengan bayang-bayang lembut dan latar belakang warna yang harmoni dalam beberapa saat.
+https://pika.style
+
+4️⃣ Ray.so - Direka oleh pasukan Raycast dengan gaya minimalis gelap dan moden, sangat sesuai untuk berkongsi nota ringkas, formula, atau langkah kerja dalam bentuk kad grafik yang tajam.
+https://ray.so
+
+5️⃣ Snappify - Platform reka bentuk visual untuk menyusun nota teknikal, rangka langkah demi langkah, dan petikan ilmu dengan gabungan elemen teks serta ikon yang sangat bersih.
+https://snappify.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 354,
+    siri: "Post-09",
+    no: 24,
+    topik: "Kewangan & Produktiviti Harian",
+    kategori: `PENGURUSAN KEWANGAN, PEMBELAJARAN & PRODUKTIVITI HARIAN`,
+    tajuk: `Aplikasi Jejak Perbelanjaan Harian & Urus Bajet Bulanan Secara Konsisten`,
+    tags: ["harian", "kewangan", "pembelajaran", "pengurusan", "produktiviti"],
+    link: "https://moneylover.me",
+    post: `Ada yang tahu? Gaji masuk setiap bulan tapi tak perasan duit mengalir ke mana, aplikasi apa senang rekod belanja?💰
+👇👇👇`,
+    komen: `Langkah pertama membina lebihan simpanan dan emas adalah dengan mengetahui ke mana perginya setiap ringgit kita. Gunakan 5 aplikasi penjejak perbelanjaan ini:
+
+1️⃣ Money Lover - Aplikasi pengurusan kewangan peribadi paling popular yang memudahkan kita merekod perbelanjaan harian mengikut kategori (makanan, minyak, bil), menetapkan had bajet bulanan, dan memantau tabung simpanan.
+https://moneylover.me
+
+2️⃣ Wallet by BudgetBakers - Menyediakan laporan carta aliran tunai yang sangat terperinci supaya anda dapat melihat perbandingan antara jumlah pendapatan, perbelanjaan tetap, dan peratusan simpanan setiap bulan.
+https://budgetbakers.com
+
+3️⃣ Spendee - Mempunyai antara muka visual yang sangat ceria dan mesra pengguna. Anda juga boleh berkongsi satu dompet bajet yang sama bersama pasangan untuk menguruskan perbelanjaan dapur dan komitmen keluarga.
+https://www.spendee.com
+
+4️⃣ Goodbudget - Menggunakan kaedah pengurusan wang sistem sampul surat (envelope budgeting system) secara digital bagi memastikan kita berbelanja mengikut peruntukan yang telah ditetapkan pada awal bulan.
+https://goodbudget.com
+
+5️⃣ TimelyBills - Sangat membantu bukan sahaja untuk mencatat perbelanjaan harian, malah menghantar peringatan automatik sebelum tarikh akhir pembayaran bil utiliti dan komitmen bulanan supaya tidak dikenakan denda lewat.
+https://timelybills.app
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 355,
+    siri: "Post-09",
+    no: 25,
+    topik: "Kewangan & Produktiviti Harian",
+    kategori: `PENGURUSAN KEWANGAN, PEMBELAJARAN & PRODUKTIVITI HARIAN`,
+    tajuk: `Platform Baca & Dengar Intipati Buku Bukan Fiksyen Terbaik Dunia`,
+    tags: ["harian", "kewangan", "pembelajaran", "pengurusan", "produktiviti"],
+    link: "https://www.blinkist.com",
+    post: `Ada yang tahu? Nak baca buku kewangan dan bisnes terbaik dunia tapi sibuk, kat mana nak baca ringkasan intipati?📚
+👇👇👇`,
+    komen: `Manfaatkan masa perjalanan pergi balik kerja untuk menambah ilmu kewangan, psikologi, dan kepimpinan melalui 5 platform buku dan ringkasan ilmu ini:
+
+1️⃣ Blinkist - Menyediakan ringkasan intipati utama daripada lebih 6,500 buku bukan fiksyen terlaris dunia yang boleh dibaca atau didengar dalam bentuk audio dalam masa 15 minit sahaja bagi setiap buku.
+https://www.blinkist.com
+
+2️⃣ Shortform - Menghasilkan panduan buku yang sangat mendalam berserta kupasan bab demi bab dan latihan praktikal untuk membantu kita mengaplikasikan ilmu daripada buku perniagaan dan pembangunan diri.
+https://www.shortform.com
+
+3️⃣ Headway - Aplikasi pembelajaran mikro yang mempersembahkan pengajaran penting daripada buku-buku kewangan dan produktiviti dalam bentuk kad imbasan visual (flashcards) yang mudah dihadam setiap hari.
+https://makeheadway.com
+
+4️⃣ Open Library - Perpustakaan digital terbuka di bawah inisiatif Internet Archive yang membolehkan anda meminjam dan membaca jutaan buku fizikal yang telah didigitalkan secara percuma melalui pelayar web.
+https://openlibrary.org
+
+5️⃣ Goodreads - Komuniti pembaca buku terbesar di dunia untuk kita membaca ulasan jujur, menyimpan senarai buku sasaran tahunan, dan menyemak petikan kata-kata hikmah (quotes) daripada penulis terkenal.
+https://www.goodreads.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 356,
+    siri: "Post-09",
+    no: 26,
+    topik: "Kewangan & Produktiviti Harian",
+    kategori: `PENGURUSAN KEWANGAN, PEMBELAJARAN & PRODUKTIVITI HARIAN`,
+    tajuk: `Aplikasi Fokus Kerja & Teknik Pomodoro untuk Elak Gangguan (Distraction)`,
+    tags: ["distraction", "harian", "kewangan", "pembelajaran", "pengurusan", "produktiviti"],
+    link: "https://pomofocus.io",
+    post: `Ada yang tahu? Susah nak fokus buat kerja sebab asyik tercapai telefon, alat apa boleh bantu kita kekal fokus?⏱️
+👇👇👇`,
+    komen: `Gandakan produktiviti kerja harian anda dan selesaikan tugasan penting lebih awal menggunakan 5 alatan pengurusan fokus dan masa ini:
+
+1️⃣ Pomofocus.io - Pemasa teknik Pomodoro (25 minit fokus penuh diikuti 5 minit rehat) yang ringkas dan percuma terus di pelayar web lengkap dengan senarai tugasan yang ingin diselesaikan pada hari tersebut.
+https://pomofocus.io
+
+2️⃣ Forest App - Membantu anda meninggalkan telefon pintar dengan cara yang kreatif. Setiap kali anda memulakan sesi fokus, sebatang pokok maya akan ditanam dan pokok tersebut akan layu sekiranya anda keluar membuka aplikasi media sosial.
+https://www.forestapp.cc
+
+3️⃣ Noisli - Menyediakan bunyi latar belakang alam semula jadi (seperti bunyi hujan renyai, deruan angin, atau suasana kedai kopi) untuk menutup bunyi bising persekitaran dan membantu minda fokus menulis atau membaca.
+https://www.noisli.com
+
+4️⃣ Tide - Menggabungkan pemasa fokus kerja dengan bunyi frekuensi tenang untuk membantu kita bekerja dengan lebih teratur tanpa rasa tertekan atau keletihan mental (burnout).
+https://tide.fm
+
+5️⃣ Cold Turkey Blocker - Perisian komputer yang membolehkan anda menyekat sementara akses ke laman web media sosial atau hiburan pada waktu puncak kerja supaya perhatian anda tidak terganggu.
+https://getcoldturkey.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 357,
+    siri: "Post-09",
+    no: 27,
+    topik: "Kewangan & Produktiviti Harian",
+    kategori: `PENGURUSAN KEWANGAN, PEMBELAJARAN & PRODUKTIVITI HARIAN`,
+    tajuk: `Platform Simpanan Awan (Cloud Storage) Percuma untuk Sandaran (Backup) Fail`,
+    tags: ["harian", "kewangan", "pembelajaran", "pengurusan", "produktiviti"],
+    link: "https://drive.google.com",
+    post: `Ada yang tahu? Risau laptop rosak dan semua dokumen penting hilang, kat mana tempat terbaik nak buat 'backup' awan?☁️
+👇👇👇`,
+    komen: `Amalkan tabiat menyimpan salinan sandaran (backup) dokumen penting, rekod kewangan, dan gambar kerja anda di 5 perkhidmatan storan awan yang selamat ini:
+
+1️⃣ Google Drive - Memberikan ruang simpanan percuma sebanyak 15GB bagi setiap akaun Google yang terintegrasi sepenuhnya dengan Google Docs, Sheets, dan kemudahan perkongsian pautan fail mengikut kebenaran akses.
+https://drive.google.com
+
+2️⃣ MEGA - Menawarkan ruang storan awan percuma yang sangat besar iaitu 20GB dengan keselamatan enkripsi sifar-pengetahuan (zero-knowledge encryption) di mana hanya anda sahaja yang memegang kunci akses fail tersebut.
+https://mega.io
+
+3️⃣ pCloud - Perkhidmatan storan awan berpangkalan di Switzerland yang menyediakan sehingga 10GB ruang percuma dengan kelajuan penyelarasan fail yang pantas antara komputer dan telefon pintar.
+https://www.pcloud.com
+
+4️⃣ Microsoft OneDrive - Terbina terus di dalam sistem operasi Windows untuk memastikan semua dokumen di dalam folder Desktop dan Documents komputer anda disandarkan secara automatik ke awan setiap masa.
+https://onedrive.live.com
+
+5️⃣ Dropbox - Sangat dipercayai untuk menyelaraskan fail kerja merentas pelbagai peranti dengan ciri pemulihan sejarah versi fail (version history) sekiranya dokumen terpadam secara tidak sengaja.
+https://www.dropbox.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 358,
+    siri: "Post-09",
+    no: 28,
+    topik: "Kewangan & Produktiviti Harian",
+    kategori: `PENGURUSAN KEWANGAN, PEMBELAJARAN & PRODUKTIVITI HARIAN`,
+    tajuk: `Laman Web Semak Kelajuan & Kestabilan Sambungan Internet Sebenar`,
+    tags: ["harian", "kewangan", "pembelajaran", "pengurusan", "produktiviti"],
+    link: "https://fast.com",
+    post: `Ada yang tahu? Internet rumah atau telefon rasa perlahan, macam mana nak check kelajuan sebenar sambungan kita?📶
+👇👇👇`,
+    komen: `Ketahui kelajuan sebenar muat turun (download), muat naik (upload), dan kestabilan sambungan internet anda menggunakan 5 laman ujian kelajuan percuma ini:
+
+1️⃣ Fast.com - Disediakan secara rasmi oleh pihak Netflix. Antara mukanya sangat bersih dan bebas iklan; sebaik sahaja anda membuka laman ini, ia akan terus mengukur kelajuan muat turun internet anda serta-merta.
+https://fast.com
+
+2️⃣ Speedtest by Ookla - Piawaian ujian kelajuan internet paling meluas di dunia yang memaparkan bacaan kelajuan muat turun, muat naik, kadar ping, serta lokasi pelayan telekomunikasi terdekat anda.
+https://www.speedtest.net
+
+3️⃣ Cloudflare Speed Test - Memberikan analisis teknikal yang sangat mendalam termasuk kualiti sambungan untuk panggilan video, penstriman langsung, dan ketekalan kelajuan rangkaian anda.
+https://speed.cloudflare.com
+
+4️⃣ nPerf Speed Test - Sangat berguna untuk pengguna di Malaysia kerana turut menyediakan peta liputan rangkaian (coverage map) bagi membandingkan kekuatan isyarat setiap syarikat telekomunikasi di kawasan kediaman anda.
+https://www.nperf.com
+
+5️⃣ OpenSpeedTest - Ujian kelajuan berasaskan HTML5 tulen tanpa memerlukan sebarang aplikasi tambahan yang berfungsi dengan tepat pada sebarang pelayar telefon pintar, tablet, atau komputer.
+https://openspeedtest.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 359,
+    siri: "Post-09",
+    no: 29,
+    topik: "Kewangan & Produktiviti Harian",
+    kategori: `PENGURUSAN KEWANGAN, PEMBELAJARAN & PRODUKTIVITI HARIAN`,
+    tajuk: `Alatan Buat Panduan Langkah Demi Langkah (SOP) Secara Automatik`,
+    tags: ["harian", "kewangan", "pembelajaran", "pengurusan", "produktiviti"],
+    link: "https://scribehow.com",
+    post: `Ada yang tahu? Nak ajar staf atau pelanggan cara guna sistem, macam mana nak buat panduan bergambar dengan cepat?📘
+👇👇👇`,
+    komen: `Tidak perlu lagi menangkap gambar skrin satu demi satu dan melukis kotak merah secara manual. Gunakan 5 alatan pembina SOP automatik ini:
+
+1️⃣ Scribe (Scribehow) - Pasang sambungan pelayarnya, tekan butang 'Record', dan lakukan proses kerja anda seperti biasa. Scribe akan menukar setiap klik anda menjadi dokumen panduan langkah demi langkah lengkap dengan gambar tangkapan skrin dan bulatan penunjuk secara automatik.
+https://scribehow.com
+
+2️⃣ Tango.us - Merakam aliran kerja anda di pelayar web dan menghasilkan dokumentasi SOP yang sangat kemas dalam masa beberapa saat, lengkap dengan ciri mengaburkan maklumat sensitif secara automatik.
+https://www.tango.us
+
+3️⃣ Guidde - Menggunakan kecerdasan buatan (AI) untuk menukar rakaman langkah kerja anda menjadi panduan video pendek berserta suara latar penerangan dan panduan bertulis secara serentak.
+https://www.guidde.com
+
+4️⃣ Iorad - Platform pembina tutorial interaktif yang membolehkan pelajar atau pelanggan menguji sendiri langkah klik pada skrin simulasi seolah-olah mereka sedang menggunakan sistem sebenar.
+https://www.iorad.com
+
+5️⃣ Folge - Perisian komputer yang membolehkan anda membina manual pengguna dan dokumen latihan kerja dengan anak panah, penomboran langkah, dan eksport terus ke format PDF atau Word.
+https://folge.me
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 360,
+    siri: "Post-09",
+    no: 30,
+    topik: "Kewangan & Produktiviti Harian",
+    kategori: `PENGURUSAN KEWANGAN, PEMBELAJARAN & PRODUKTIVITI HARIAN`,
+    tajuk: `Platform Belajar Bahasa Asing Secara Interaktif & Percuma Setiap Hari`,
+    tags: ["harian", "kewangan", "pembelajaran", "pengurusan", "produktiviti"],
+    link: "https://www.bbc.co.uk/learningenglish",
+    post: `Ada yang tahu? Nak baiki penguasaan Bahasa Inggeris atau belajar bahasa ketiga secara santai 10 minit sehari?🗣️
+👇👇👇`,
+    komen: `Kuasai kemahiran komunikasi bahasa baharu secara konsisten setiap hari menggunakan 5 platform pembelajaran bahasa percuma ini:
+
+1️⃣ BBC Learning English - Lubuk terbaik dan percuma sepenuhnya untuk memantapkan penguasaan Bahasa Inggeris profesional, perbendaharaan kata bisnes, tatabahasa, serta sebutan melalui artikel dan audio pendek setiap hari.
+https://www.bbc.co.uk/learningenglish
+
+2️⃣ Duolingo - Aplikasi pembelajaran bahasa paling popular di dunia yang menggunakan pendekatan permainan (gamification) selama 5 hingga 10 minit sehari untuk membina tabiat belajar lebih 40 pilihan bahasa.
+https://www.duolingo.com
+
+3️⃣ Busuu - Menyusun modul pembelajaran mengikut tahap piawaian antarabangsa (CEFR) dengan keunikan komuniti global di mana penutur jati boleh membantu menyemak latihan sebutan dan ayat anda.
+https://www.busuu.com
+
+4️⃣ Memrise - Menggabungkan teknik ulangan berkala (spaced repetition) bersama klip video pendek penutur jati sebenar supaya kita dapat memahami cara sebutan dan intonasi harian yang semula jadi.
+https://www.memrise.com
+
+5️⃣ Drops - Direka khusus untuk memperkaya kosa kata (vocabulary) melalui padanan ilustrasi visual yang menarik selama 5 minit sehari tanpa tekanan menghafal buku teks yang tebal.
+https://languagedrops.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 361,
+    siri: "Post-10",
+    no: 1,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Alatan AI Cipta Video Avatar Bercakap Tanpa Perlu Tunjuk Muka`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://www.heygen.com",
+    post: `Ada yang tahu? Nak buat video penerangan produk tapi malu nak bercakap depan kamera?🎥
+👇👇👇`,
+    komen: `Hasilkan video pembentangan profesional menggunakan watak avatar digital berasaskan kecerdasan buatan (AI) melalui 5 platform ini:
+
+1️⃣ HeyGen - Platform penjana avatar video paling realistik masa kini. Anda hanya perlu menaip teks skrip Bahasa Melayu atau Bahasa Inggeris, dan avatar akan menyampaikan skrip tersebut dengan gerak bibir (lip-sync) yang sangat tepat.
+https://www.heygen.com
+
+2️⃣ Synthesia - Digunakan secara meluas oleh syarikat korporat untuk menghasilkan video latihan staf dan tutorial produk menggunakan lebih 140 pilihan avatar profesional tanpa memerlukan studio rakaman.
+https://www.synthesia.io
+
+3️⃣ D-ID Creative Reality Studio - Membolehkan kita memuat naik sekeping gambar potret pegun dan menghidupkannya menjadi video pembicara yang bergerak serta bertutur mengikut skrip audio yang kita masukkan.
+https://www.d-id.com
+
+4️⃣ Hedra - Alat AI inovatif yang mampu menukar gambar watak atau ilustrasi menjadi video bercakap dengan ekspresi wajah dan pergerakan kepala yang sangat hidup.
+https://www.hedra.com
+
+5️⃣ Vidnoz AI - Menyediakan pelan percuma harian dengan ratusan templat video pemasaran, pilihan avatar pelbagai bangsa, serta suara latar Bahasa Melayu yang semula jadi.
+https://www.vidnoz.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 362,
+    siri: "Post-10",
+    no: 2,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Laman Web Cari Stok Video Percuma (B-Roll HD/4K) untuk Reels & TikTok`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://www.pexels.com/videos",
+    post: `Ada yang tahu? Nak selitkan klip video 'B-roll' yang sinematik dalam Reels/TikTok kita secara percuma?🎞️
+👇👇👇`,
+    komen: `Elakkan penonton berasa bosan melihat video statik. Selitkan klip video latar belakang (B-roll) resolusi tinggi daripada 5 lubuk percuma ini:
+
+1️⃣ Pexels Videos - Menyediakan ribuan klip video menegak (vertical 9:16) dan melintang dalam resolusi HD serta 4K yang bebas royalti untuk kegunaan kandungan media sosial anda.
+https://www.pexels.com/videos
+
+2️⃣ Coverr - Menghimpunkan koleksi video sinematik berkualiti tinggi merangkumi suasana pejabat, alam semula jadi, teknologi, dan gaya hidup yang boleh dimuat turun terus tanpa perlu mendaftar akaun.
+https://coverr.co
+
+3️⃣ Mixkit Stock Video - Menawarkan ratusan klip video profesional yang telah dikategorikan mengikut tema perniagaan, kewangan, dan percutian dengan lesen penggunaan komersial percuma.
+https://mixkit.co/free-stock-video
+
+4️⃣ Pixabay Videos - Mempunyai pangkalan data luas merangkumi klip rakaman sebenar, animasi grafik bergerak, serta latar belakang kiraan detik (countdown) untuk video pembentangan anda.
+https://pixabay.com/videos
+
+5️⃣ Dareful - Laman web khas yang menawarkan rakaman video pemandangan udara (drone footage) dan landskap beresolusi 4K sepenuhnya di bawah lesen Creative Commons.
+https://dareful.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 363,
+    siri: "Post-10",
+    no: 3,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Platform Reka Bentuk Logo Perniagaan & Identiti Jenama Secara Pantas`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://looka.com",
+    post: `Ada yang tahu? Baru nak mula bisnes kecil dan perlukan idea logo yang nampak kemas serta profesional?✨
+👇👇👇`,
+    komen: `Dapatkan inspirasi dan cipta identiti visual perniagaan anda dalam masa beberapa minit menggunakan 5 platform pembina logo ini:
+
+1️⃣ Looka - Menggunakan kecerdasan buatan (AI) untuk menjana puluhan variasi logo korporat berdasarkan nama syarikat, jenis industri, dan gabungan warna pilihan anda.
+https://looka.com
+
+2️⃣ Namecheap Logo Maker - Alat pembina logo yang percuma sepenuhnya. Anda boleh menjawab beberapa soalan ringkas mengenai gaya jenama anda dan terus memuat turun fail logo beresolusi tinggi tanpa sebarang kos.
+https://www.namecheap.com/logo-maker
+
+3️⃣ Shopify Hatchful - Direka khusus untuk usahawan baharu membina logo berserta set gambar profil media sosial yang siap dipotong mengikut saiz standard Facebook, Instagram, dan YouTube.
+https://www.shopify.com/tools/logo-maker
+
+4️⃣ Canva Logo Maker - Membolehkan kita mengubah suai ribuan templat logo sedia ada mengikut kreativiti sendiri dengan kawalan penuh terhadap jenis tulisan (font) dan simbol vektor.
+https://www.canva.com/create/logos
+
+5️⃣ Brandmark.io - Membantu anda melihat pratonton bagaimana rekaan logo baharu anda kelihatan pada kad perniagaan, kepala surat, dan skrin telefon pintar secara automatik.
+https://brandmark.io
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 364,
+    siri: "Post-10",
+    no: 4,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Alatan Tukar Video Panjang atau Klip Jadi Animasi GIF Berkualiti Tinggi`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://ezgif.com",
+    post: `Ada yang tahu? Nak tukar klip pendek video tutorial jadi gambar bergerak (GIF) untuk letak dalam blog atau emel?🔄
+👇👇👇`,
+    komen: `Gambar berformat GIF sangat berkesan untuk menunjukkan langkah klik yang ringkas tanpa membebankan kelajuan laman web. Gunakan 5 alatan penukar GIF ini:
+
+1️⃣ Ezgif - Alat pelayar web paling lengkap dan pantas untuk menukar video MP4 kepada GIF, memotong saiz bingkai, melaraskan kelajuan pergerakan, serta memampatkan saiz fail GIF secara percuma.
+https://ezgif.com
+
+2️⃣ GIPHY Create - Platform enjin carian GIF terbesar dunia yang membolehkan anda memuat naik klip video pendek, menambah kapsyen teks bergerak, dan menyimpannya sebagai fail GIF rasmi.
+https://giphy.com/create/gifmaker
+
+3️⃣ Kapwing GIF Maker - Memudahkan kita menukar pautan video atau rakaman skrin terus kepada format GIF beresolusi tajam menggunakan editor garis masa yang mesra pengguna.
+https://www.kapwing.com/tools/make/gif
+
+4️⃣ CloudConvert MP4 to GIF - Sangat sesuai sekiranya anda mahu menukar klip video kepada animasi GIF dengan tetapan kadar bingkai sesaat (FPS) dan kelebaran piksel yang tepat.
+https://cloudconvert.com/mp4-to-gif
+
+5️⃣ Canva GIF Maker - Susun beberapa slaid poster atau elemen grafik di dalam Canva, tambah kesan animasi lembut, dan pilih format muat turun sebagai 'GIF' untuk hantaran media sosial yang menarik.
+https://www.canva.com/create/gif-maker
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 365,
+    siri: "Post-10",
+    no: 5,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Laman Web Cari Corak Latar Belakang (Patterns & Gradients) untuk Poster`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://haikei.app",
+    post: `Ada yang tahu? Tak nak latar belakang poster nampak kosong satu warna sahaja, kat mana nak cari corak moden?🎨
+👇👇👇`,
+    komen: `Jadikan latar belakang poster dan slaid pembentangan anda kelihatan lebih berdimensi menggunakan 5 laman penjana corak latar belakang percuma ini:
+
+1️⃣ Haikei - Alat reka bentuk berasaskan web yang menjana latar belakang berbentuk gelombang abstrak, cairan geometri, dan gradien moden yang boleh dimuat turun dalam format PNG atau SVG.
+https://haikei.app
+
+2️⃣ Cool Backgrounds - Menghimpunkan koleksi latar belakang bertekstur segi tiga poli rendah (low-poly), zarah halus, dan tona warna lembut yang sangat sesuai untuk slaid korporat atau kertas dinding komputer.
+https://coolbackgrounds.io
+
+3️⃣ Hero Patterns - Menyediakan puluhan corak garisan dan tekstur berulang (seamless patterns) minimalis di mana kita boleh menukar warna garisan dan tahap kelegapan (opacity) mengikut kesesuaian teks poster.
+https://heropatterns.com
+
+4️⃣ MeshGradient - Membolehkan anda mencipta latar belakang campuran beberapa warna lembut (mesh gradients) ala reka bentuk produk Apple dengan hanya menggerakkan titik warna di atas skrin.
+https://meshgradient.in
+
+5️⃣ CSS Gradient & Grabient - Galeri rujukan kombinasi warna gradien moden yang memudahkan kita memuat turun gambar latar belakang gradien atau menyalin kod warnanya untuk kegunaan reka bentuk.
+https://cssgradient.io
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 366,
+    siri: "Post-10",
+    no: 6,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Alatan Semak Kontras Warna & Kebolehbacaan Teks Poster`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://coolors.co/contrast-checker",
+    post: `Ada yang tahu? Macam mana nak pastikan warna tulisan atas poster kita jelas dibaca dan tak tenggelam?👁️
+👇👇👇`,
+    komen: `Elakkan kesilapan memilih warna tulisan yang sukar dibaca oleh audiens di skrin telefon. Semak tahap kejelasan warna menggunakan 5 alatan penguji kontras ini:
+
+1️⃣ Coolors Contrast Checker - Masukkan kod warna teks dan kod warna latar belakang poster anda; sistem akan memberikan skor kebolehbacaan serta mencadangkan pelarasan kecerahan supaya tulisan nampak jelas.
+https://coolors.co/contrast-checker
+
+2️⃣ WebAIM Contrast Checker - Piawaian rujukan antarabangsa untuk menguji sama ada gabungan warna reka bentuk kita lulus tahap kebolehbacaan bagi tulisan bersaiz kecil mahupun tajuk besar.
+https://webaim.org/resources/contrastchecker
+
+3️⃣ Adobe Color Accessibility Tools - Membantu pereka grafik menyemak palet warna supaya kekal jelas dan tidak mengelirukan bagi pembaca yang mempunyai masalah rabun warna (color blindness).
+https://color.adobe.com/create/color-contrast-analyzer
+
+4️⃣ WhoCanUse - Alat visual yang sangat unik kerana ia memaparkan simulasi bagaimana kombinasi warna teks dan latar belakang anda dilihat oleh pelbagai kategori penglihatan manusia termasuk di bawah cahaya matahari terik.
+https://www.whocanuse.com
+
+5️⃣ Colorable - Membolehkan kita menguji nisbah kontras warna secara interaktif dengan menggerakkan pelaras rona warna (hue), ketepuan (saturation), dan kecerahan (lightness) secara masa nyata.
+https://colorable.jxnblk.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 367,
+    siri: "Post-10",
+    no: 7,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Platform Buat Kad Perniagaan Digital (Digital Business Card) Pintar`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://www.hihello.com",
+    post: `Ada yang tahu? Terlupa bawa kad nama fizikal masa jumpa prospek, macam mana nak kongsi contact secara profesional?🪪
+👇👇👇`,
+    komen: `Simpan satu kad perniagaan digital di dalam telefon pintar anda supaya prospek boleh terus menyimpan nombor dan profil anda melalui imbasan kod QR menggunakan 5 aplikasi ini:
+
+1️⃣ HiHello - Aplikasi kad perniagaan digital paling popular yang membolehkan anda berkongsi maklumat hubungan melalui kod QR, pautan WhatsApp, atau Widget skrin kunci telefon tanpa memerlukan penerima memasang aplikasi tersebut.
+https://www.hihello.com
+
+2️⃣ Blinq - Membolehkan kita mencipta kad nama elektronik yang sangat kemas berserta kod QR yang boleh diletakkan terus di dalam Apple Wallet atau Google Wallet untuk diimbas bila-bila masa.
+https://blinq.me
+
+3️⃣ Popl - Menyediakan profil kad digital profesional yang boleh menangkap maklumat kenalan prospek dan menyimpannya terus ke dalam buku alamat telefon pintar atau sistem CRM anda.
+https://popl.co
+
+4️⃣ Wave Connect - Platform kad nama maya moden yang membolehkan anda memasukkan gambar profil, jawatan, pautan katalog produk, serta butang simpan terus ke kenalan (Add to Contacts) secara percuma.
+https://wavecnct.com
+
+5️⃣ Uniqode Digital Business Cards - Membantu usahawan dan pasukan jualan menghasilkan kad nama digital berjenama yang seragam serta boleh dikemas kini maklumatnya pada bila-bila masa tanpa perlu mencetak semula kad.
+https://www.uniqode.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 368,
+    siri: "Post-10",
+    no: 8,
+    topik: "Video & Penjenamaan",
+    kategori: `PENGHASILAN VIDEO, VISUAL & PENJENAMAAN KREATIF`,
+    tajuk: `Alatan Jana Sari Kata (Auto Subtitle) Video dalam Pelbagai Gaya Animasi`,
+    tags: ["kreatif", "penghasilan", "penjenamaan", "video", "visual"],
+    link: "https://www.submagic.co",
+    post: `Ada yang tahu? Nak buat kapsyen video Reels/TikTok yang keluar perkataan demi perkataan secara automatik?💬
+👇👇👇`,
+    komen: `Lebih 70% pengguna menonton video di media sosial dalam keadaan telefon tanpa bunyi (mute). Gunakan 5 alatan penjana sari kata automatik beranimasi ini:
+
+1️⃣ Submagic - Menjana sari kata gaya pencipta kandungan terkenal lengkap dengan serlahan warna perkataan penting, kemasukan emoji automatik, dan kesan bunyi secara pantas.
+https://www.submagic.co
+
+2️⃣ Blink Captions - Aplikasi telefon pintar yang sangat popular untuk merakam dan menjana kapsyen automatik Bahasa Melayu yang tepat berserta fungsi pemfokusan pandangan mata (AI Eye Contact).
+https://www.blinkcaptions.com
+
+3️⃣ Veed.io Auto Subtitle - Platform suntingan video di pelayar web yang mengenali pertuturan pelbagai bahasa termasuk Bahasa Melayu dan membolehkan kita menukar gaya animasi teks dengan satu klik.
+https://www.veed.io/tools/auto-subtitle-generator-online
+
+4️⃣ Zeemo - Aplikasi khusus untuk menghasilkan sari kata video pendek secara automatik dan turut menyediakan ciri terjemahan sari kata dwibahasa (contohnya Bahasa Melayu dan Bahasa Inggeris serentak).
+https://zeemo.ai
+
+5️⃣ Kapwing Subtitles - Memudahkan anda menjana kapsyen perkataan demi perkataan yang diselaraskan dengan tepat mengikut rentak suara anda tanpa perlu menaip secara manual.
+https://www.kapwing.com/subtitles
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 369,
+    siri: "Post-10",
+    no: 9,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Platform Bina Chatbot Automatik untuk Jawab Mesej Pelanggan di FB/IG/WhatsApp`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://manychat.com",
+    post: `Ada yang tahu? Tak menang tangan nak balas DM dan komen pelanggan satu-satu, sistem apa boleh balas automatik?💬
+👇👇👇`,
+    komen: `Pastikan setiap prospek yang meninggalkan komen atau mesej dilayan serta-merta walaupun pada waktu tengah malam menggunakan 5 platform automasi sembang ini:
+
+1️⃣ ManyChat - Platform rasmi rakan kongsi Meta paling popular. Apabila prospek komen kata kunci tertentu pada hantaran IG atau FB anda, sistem akan terus menghantar mesej dan pautan info ke ruangan DM mereka secara automatik.
+https://manychat.com
+
+2️⃣ Wati.io - Dibina menggunakan API Rasmi WhatsApp Business untuk membantu perniagaan menghantar siaran mesej (broadcast), menyusun aliran jawapan automatik, dan membolehkan beberapa staf membalas satu nombor WhatsApp yang sama.
+https://www.wati.io
+
+3️⃣ Respond.io - Platform pengurusan perbualan pelanggan kelahiran Malaysia yang bertaraf global, membolehkan anda menggabungkan mesej daripada WhatsApp, Facebook Messenger, Instagram, dan Telegram di dalam satu peti masuk.
+https://respond.io
+
+4️⃣ Tidio - Sangat sesuai untuk dipasang pada laman web atau kedai dalam talian bagi menjawab soalan lazim pelanggan secara langsung melalui gabungan sembang langsung (live chat) dan pembantu AI.
+https://www.tidio.com
+
+5️⃣ Chatfuel - Memudahkan usahawan membina aliran perbualan automatik (visual flow builder) tanpa sebarang kemahiran pengaturcaraan untuk mengumpul nombor telefon prospek dan menjawab pertanyaan harga.
+https://chatfuel.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 370,
+    siri: "Post-10",
+    no: 10,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Laman Web Semak Ketersediaan Nama Domain & Username Media Sosial Serentak`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://namechk.com",
+    post: `Ada yang tahu? Nak pilih nama jenama bisnes baru, macam mana nak semak nama tu masih kosong di semua media sosial?🔎
+👇👇👇`,
+    komen: `Sebelum memuktamadkan nama jenama atau blog anda, gunakan 5 laman semakan pantas ini untuk memastikan nama tersebut masih belum diambil orang:
+
+1️⃣ Namechk - Taip sahaja cadangan nama jenama anda sekali, dan laman ini akan terus menyemak ketersediaan nama domain (.com, .my) serta lebih 30 platform media sosial (FB, IG, TikTok, YouTube, X) secara serentak.
+https://namechk.com
+
+2️⃣ Instant Domain Search - Memaparkan hasil semakan nama domain laman web pada saat anda sedang menaip huruf demi huruf, serta mencadangkan variasi nama alternatif yang masih tersedia untuk didaftarkan.
+https://instantdomainsearch.com
+
+3️⃣ KnowEm - Menyemak penggunaan nama jenama, nama produk, atau nama peribadi merentas ratusan rangkaian sosial global bagi memastikan identiti digital anda seragam di semua saluran.
+https://knowem.com
+
+4️⃣ LeanDomainSearch - Dibangunkan oleh syarikat induk WordPress (Automattic). Masukkan satu perkataan berkaitan bisnes anda (contohnya 'emas' atau 'kewangan'), dan ia akan menjana ratusan gabungan nama domain yang masih kosong.
+https://leandomainsearch.com
+
+5️⃣ Namecheap Domain Search - Membolehkan anda menyemak harga pendaftaran domain tahunan secara telus dan memeriksa ketersediaan pelbagai sambungan domain baharu seperti .com, .co, .net, atau .biz.
+https://www.namecheap.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 371,
+    siri: "Post-10",
+    no: 11,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Platform Mesyuarat Video & Webinar Online Terbaik untuk Sesi Bimbingan`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://meet.google.com",
+    post: `Ada yang tahu? Nak buat sesi coaching atau taklimat bisnes secara online bersama prospek, platform apa paling stabil?💻
+👇👇👇`,
+    komen: `Jalankan sesi penerangan, bimbingan kumpulan, atau perbincangan bersama pelanggan dari mana-mana lokasi menggunakan 5 platform panggilan video ini:
+
+1️⃣ Google Meet - Sangat mudah kerana terintegrasi terus dengan akaun Gmail dan Google Calendar. Pelanggan boleh terus menyertai sesi perbincangan melalui pautan tanpa perlu memasang perisian tambahan di komputer.
+https://meet.google.com
+
+2️⃣ Zoom - Pilihan utama untuk mengendalikan webinar, kelas latihan dalam talian, dan sesi perkongsian skrin yang stabil lengkap dengan ciri rakaman sesi serta bilik perbincangan kecil (breakout rooms).
+https://zoom.us
+
+3️⃣ Microsoft Teams - Menyediakan ruang mesyuarat maya yang sangat selamat berserta ciri perkongsian fail, papan putih interaktif, dan ruangan sembang berterusan untuk komuniti atau pasukan kerja.
+https://www.microsoft.com/en-my/microsoft-teams
+
+4️⃣ Whereby - Platform mesyuarat video berasaskan pelayar web sepenuhnya yang sangat ringan. Anda boleh mencipta pautan bilik peribadi tetap (contoh: whereby.com/namasaya) dan pelanggan boleh masuk dengan satu klik sahaja.
+https://whereby.com
+
+5️⃣ Jitsi Meet - Perkhidmatan panggilan video sumber terbuka (open-source) yang percuma sepenuhnya, berenkripsi, dan tidak mempunyai had masa mesyuarat mahupun keperluan mendaftar akaun.
+https://meet.jit.si
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 372,
+    siri: "Post-10",
+    no: 12,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Alatan Analitik Media Sosial & Jejak Pertumbuhan Akaun Pesaing`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://socialblade.com",
+    post: `Ada yang tahu? Macam mana nak kaji prestasi akaun media sosial dan kadar 'engagement' sebenar sesuatu akaun?📊
+👇👇👇`,
+    komen: `Gunakan data sebenar untuk menambah baik strategi kandungan anda atau menyemak prestasi sesebuah akaun media sosial menggunakan 5 platform analitik ini:
+
+1️⃣ Social Blade - Membolehkan anda menyemak statistik pertumbuhan pengikut harian dan bulanan secara terbuka bagi mana-mana saluran YouTube, TikTok, Instagram, dan Facebook di seluruh dunia.
+https://socialblade.com
+
+2️⃣ Phlanx Engagement Calculator - Masukkan nama pengguna (username) akaun Instagram, TikTok, atau YouTube untuk menyemak peratusan kadar interaksi (engagement rate) sebenar berbanding jumlah pengikut mereka.
+https://phlanx.com/engagement-calculator
+
+3️⃣ HypeAuditor Free Tools - Menyediakan alatan semakan kualiti audiens dan pengiraan kadar interaksi bagi memastikan sesebuah akaun media sosial mempunyai pengikut yang tulen dan aktif.
+https://hypeauditor.com/free-tools
+
+4️⃣ Countik - Alat analitik TikTok percuma yang memaparkan kiraan pengikut masa nyata, purata tontonan video, serta analisis prestasi hashtag dan lagu yang sedang digunakan.
+https://countik.com
+
+5️⃣ Sprout Social Landscape & Tools - Menawarkan sumber rujukan analitik pemasaran digital serta alatan pelarasan saiz imej rasmi yang sentiasa dikemas kini mengikut spesifikasi terkini setiap platform media sosial.
+https://sproutsocial.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 373,
+    siri: "Post-10",
+    no: 13,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Platform Kongsi Dokumen & Proposal Bisnes dengan Jejak Bacaan Klien`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://www.papermark.io",
+    post: `Ada yang tahu? Dah hantar proposal PDF kepada prospek, macam mana nak tahu mereka dah buka baca atau belum?👀
+👇👇👇`,
+    komen: `Jangan sekadar menghantar fail lampiran biasa. Gunakan 5 platform perkongsian dokumen pintar ini untuk mengetahui bila prospek membuka kertas kerja anda:
+
+1️⃣ Papermark - Platform sumber terbuka moden untuk berkongsi dokumen PDF atau slaid pembentangan melalui pautan selamat. Anda akan menerima notifikasi apabila klien membuka pautan tersebut dan melihat muka surat mana yang paling lama mereka baca.
+https://www.papermark.io
+
+2️⃣ DocSend (oleh Dropbox) - Digunakan oleh perunding dan usahawan untuk menghantar kertas kerja dengan kawalan keselamatan penuh serta analitik masa nyata terhadap minat pembaca.
+https://www.docsend.com
+
+3️⃣ PandaDoc - Membolehkan anda membina, menghantar, dan menjejak status pembukaan dokumen sebut harga (quotation) atau kertas cadangan lengkap dengan ruangan pengesahan tandatangan elektronik.
+https://www.pandadoc.com
+
+4️⃣ FlipHTML5 - Menukar dokumen PDF katalog produk atau profil syarikat anda menjadi buku digital interaktif yang boleh diselak halaman demi halaman terus di pelayar telefon pintar pelanggan.
+https://fliphtml5.com
+
+5️⃣ Heyzine Flipbooks - Menghasilkan pautan buku selak (flipbook) yang sangat bersih tanpa sebarang iklan pihak ketiga atau tera air pada pelan percuma untuk pembentangan katalog yang eksklusif.
+https://heyzine.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 374,
+    siri: "Post-10",
+    no: 14,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Alatan Semak Keterbacaan & Elak Emel Masuk ke Ruangan Spam`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://www.mail-tester.com",
+    post: `Ada yang tahu? Hantar emel rasmi kepada pelanggan tapi risau emel kita terus masuk ke dalam folder Spam mereka?📨
+👇👇👇`,
+    komen: `Pastikan emel perniagaan anda sampai terus ke peti masuk utama (Primary Inbox) penerima dengan melakukan ujian menggunakan 5 alatan percuma ini:
+
+1️⃣ Mail-Tester.com - Hantar satu emel percubaan ke alamat unik yang diberikan di laman ini, dan sistem akan memberikan markah penuh (daripada 10) serta menyenaraikan sebab teknikal jika emel anda berisiko ditapis sebagai spam.
+https://www.mail-tester.com
+
+2️⃣ MXToolbox - Alat diagnostik standard industri untuk menyemak kesihatan domain emel syarikat anda, rekod pengesahan DNS (SPF, DKIM, DMARC), dan status senarai hitam pelayan emel.
+https://mxtoolbox.com
+
+3️⃣ Hunter.io Email Verifier - Sebelum menghantar emel kepada prospek korporat, semak dahulu sama ada alamat emel tersebut benar-benar wujud dan aktif bagi mengelakkan emel gagal dihantar (bounced email).
+https://hunter.io/email-verifier
+
+4️⃣ GlockApps - Menguji kedudukan penghantaran emel anda merentas pelbagai penyedia perkhidmatan emel utama dunia seperti Gmail, Outlook, Yahoo, dan iCloud secara terperinci.
+https://glockapps.com
+
+5️⃣ ZeroBounce - Menyediakan semakan pengesahan alamat emel secara percuma setiap bulan bagi memastikan pangkalan data senarai pelanggan anda sentiasa bersih dan sah.
+https://www.zerobounce.net
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 375,
+    siri: "Post-10",
+    no: 15,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Platform Pengurusan Projek & Kolaborasi Pasukan Secara Visual`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://clickup.com",
+    post: `Ada yang tahu? Ada pasukan atau ejen di bawah bimbingan kita, sistem apa terbaik untuk agih dan pantau tugasan?📋
+👇👇👇`,
+    komen: `Selaraskan gerak kerja pasukan, jadual kempen, dan sasaran bulanan secara teratur tanpa keciciran maklumat di dalam kumpulan WhatsApp menggunakan 5 platform ini:
+
+1️⃣ ClickUp - Platform pengurusan kerja serba lengkap yang menawarkan pelan percuma yang sangat luas merangkumi senarai tugasan, papan Kanban, dokumen SOP, dan penjejak sasaran (Goals).
+https://clickup.com
+
+2️⃣ Asana - Sangat cemerlang untuk merancang projek mengikut garis masa, menetapkan pegawai bertanggungjawab (PIC) bagi setiap tugasan, dan memantau tarikh akhir kerja dengan jelas.
+https://asana.com
+
+3️⃣ Monday.com - Menggunakan paparan jadual berwarna-warni yang sangat intuitif dan mudah difahami oleh ahli pasukan untuk mengemas kini status tugasan harian mereka.
+https://monday.com
+
+4️⃣ Linear - Direka dengan antara muka yang sangat pantas dan minimalis untuk menguruskan projek, menyelesaikan isu berbangkit, dan merancang sasaran kerja mingguan secara berfokus.
+https://linear.app
+
+5️⃣ Basecamp - Mengumpulkan perbincangan topik, jadual acara, senarai semak tugasan, dan simpanan fail dokumen pasukan di dalam satu halaman projek yang sangat teratur.
+https://basecamp.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 376,
+    siri: "Post-10",
+    no: 16,
+    topik: "Bisnes & E-Dagang",
+    kategori: `PENGURUSAN BISNES, E-DAGANG & KOMUNIKASI PELANGGAN`,
+    tajuk: `Laman Web Cipta Terma, Polisi Privasi & Penafian (Disclaimer) Website`,
+    tags: ["bisnes", "e-dagang", "komunikasi", "pelanggan", "pengurusan"],
+    link: "https://www.termsfeed.com",
+    post: `Ada yang tahu? Ada blog atau website, macam mana nak jana halaman 'Privacy Policy' dan 'Disclaimer' dengan sah?⚖️
+👇👇👇`,
+    komen: `Setiap laman web, blog, atau halaman pengumpulan data pelanggan wajib mempunyai polisi privasi dan penafian bagi mematuhi garis panduan pengiklanan dan undang-undang. Gunakan 5 penjana automatik ini:
+
+1️⃣ TermsFeed - Membolehkan anda menjana dokumen Privacy Policy, Terms & Conditions, serta Disclaimer (Penafian) yang disesuaikan mengikut fungsi laman web atau blog anda dalam masa beberapa minit.
+https://www.termsfeed.com
+
+2️⃣ Termly.io - Menyediakan penjana polisi undang-undang laman web secara percuma lengkap dengan sepanduk persetujuan kuki (cookie consent banner) yang mematuhi piawaian perlindungan data antarabangsa.
+https://termly.io
+
+3️⃣ PrivacyPolicies.com - Sangat mudah digunakan oleh pemilik blog dan peniaga e-dagang untuk menghasilkan halaman polisi pemulangan barang (Return & Refund Policy) serta terma penggunaan laman web.
+https://www.privacypolicies.com
+
+4️⃣ GetTerms.io - Menghasilkan teks polisi privasi dan terma perkhidmatan dalam bahasa yang ringkas, jelas, dan mudah difahami oleh pelawat laman web tanpa ayat perundangan yang terlalu berbelit.
+https://getterms.io
+
+5️⃣ FreePrivacyPolicy - Menyediakan pautan pengehosan polisi secara percuma atau kod HTML yang boleh terus disalin dan ditampal ke dalam halaman WordPress, Blogger, atau laman jualan anda.
+https://www.freeprivacypolicy.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 377,
+    siri: "Post-10",
+    no: 17,
+    topik: "Telefon, Komputer & Privasi",
+    kategori: `UTILITI KOMPUTER, TELEFON PINTAR & KESELAMATAN PRIVASI`,
+    tajuk: `Perisian Percuma untuk Bersihkan Ruang Storan & Lajukan Laptop/PC`,
+    tags: ["keselamatan", "komputer", "pintar", "privasi", "telefon", "utiliti"],
+    link: "https://pcmanager.microsoft.com",
+    post: `Ada yang tahu? Laptop mula rasa berat dan ruang storan tiba-tiba penuh, software percuma apa boleh bersihkan?💻
+👇👇👇`,
+    komen: `Pastikan komputer kerja anda kekal pantas dan mempunyai ruang simpanan yang mencukupi menggunakan 5 perisian utiliti rasmi dan selamat ini:
+
+1️⃣ Microsoft PC Manager - Perisian rasmi keluaran Microsoft sendiri untuk pengguna Windows 10 dan 11. Membolehkan anda membersihkan fail sementara (cache), mengosongkan penggunaan memori RAM, dan menguruskan aplikasi permulaan dengan satu klik.
+https://pcmanager.microsoft.com
+
+2️⃣ WizTree - Pengimbas ruang cakera keras paling pantas di dunia. Ia memaparkan peta visual berwarna untuk menunjukkan dengan tepat folder atau fail video lama mana yang sedang memakan ruang paling besar di dalam komputer anda.
+https://diskanalyzer.com
+
+3️⃣ BleachBit - Perisian sumber terbuka yang bersih dan bebas iklan untuk memadamkan fail sampah pelayar web, sejarah muat turun sementara, dan lebihan fail sistem dengan selamat.
+https://www.bleachbit.org
+
+4️⃣ Geek Uninstaller - Sangat ringan dan tidak perlu dipasang (portable). Apabila anda membuang sebarang perisian yang tidak lagi digunakan, ia akan turut membersihkan semua sisa fail dan rekod pendaftaran (registry) yang tertinggal.
+https://geekuninstaller.com
+
+5️⃣ OnyX (Khas Pengguna Mac) - Perisian penyelenggaraan paling dipercayai untuk pengguna Apple MacBook bagi menjalankan skrip pembersihan sistem, membina semula indeks carian, dan memastikan prestasi Mac kekal lancar.
+https://www.titanium-software.fr/en/onyx.html
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 378,
+    siri: "Post-10",
+    no: 18,
+    topik: "Telefon, Komputer & Privasi",
+    kategori: `UTILITI KOMPUTER, TELEFON PINTAR & KESELAMATAN PRIVASI`,
+    tajuk: `Perkhidmatan Emel Sementara & Alias untuk Elak Peti Masuk Penuh Spam`,
+    tags: ["keselamatan", "komputer", "pintar", "privasi", "telefon", "utiliti"],
+    link: "https://simplelogin.io",
+    post: `Ada yang tahu? Nak muat turun e-book percuma tapi tak nak emel peribadi kita dihujani iklan spam setiap hari?🛡️
+👇👇👇`,
+    komen: `Lindungi alamat emel utama anda daripada dijual kepada pengiklan dengan menggunakan 5 perkhidmatan penyembunyi emel (email alias) yang selamat ini:
+
+1️⃣ SimpleLogin (oleh Proton) - Membolehkan anda mencipta alamat emel samaran (alias) yang akan menghantar semula emel penting ke peti masuk sebenar anda, dan anda boleh menutup alias tersebut dengan satu klik sekiranya mula menerima spam.
+https://simplelogin.io
+
+2️⃣ DuckDuckGo Email Protection - Memberikan anda alamat emel '@duck.com' secara percuma yang secara automatik menanggalkan penjejak tersembunyi (email trackers) pada setiap emel promosi sebelum dihantar ke emel peribadi anda.
+https://duckduckgo.com/email
+
+3️⃣ Addy.io (dahulunya AnonAddy) - Platform sumber terbuka untuk menjana alamat emel samaran tanpa had bagi setiap laman web berbeza yang anda daftarkan supaya identiti emel utama anda kekal rahsia.
+https://addy.io
+
+4️⃣ Mozilla Firefox Relay - Disediakan oleh pencipta pelayar Firefox untuk menjana topeng emel (email masks) dengan satu klik sahaja setiap kali anda mengisi borang pendaftaran di laman web baharu.
+https://relay.firefox.com
+
+5️⃣ Temp-Mail.org - Menyediakan peti masuk emel sementara pakai buang serta-merta untuk kegunaan pengesahan sekali sahaja pada laman web ujian yang tidak memerlukan rekod jangka panjang.
+https://temp-mail.org
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 379,
+    siri: "Post-10",
+    no: 19,
+    topik: "Telefon, Komputer & Privasi",
+    kategori: `UTILITI KOMPUTER, TELEFON PINTAR & KESELAMATAN PRIVASI`,
+    tajuk: `Alatan Tukar Gambar Dokumen / Resit Bercetak Jadi Teks Boleh Edit (OCR)`,
+    tags: ["keselamatan", "komputer", "ocr", "pintar", "privasi", "telefon", "utiliti"],
+    link: "https://lens.google",
+    post: `Ada yang tahu? Ada gambar muka surat buku atau surat bercetak, macam mana nak salin ayat tu tanpa taip semula?📄
+👇👇👇`,
+    komen: `Gunakan teknologi pengecaman aksara optik (OCR) pada 5 aplikasi percuma ini untuk mengekstrak teks daripada gambar dengan pantas:
+
+1️⃣ Google Lens / Google Keep - Muat naik gambar dokumen ke dalam Google Keep atau halakan kamera Google Lens pada telefon anda, kemudian tekan 'Grab image text' untuk menyalin keseluruhan perenggan teks dengan sangat tepat.
+https://lens.google
+
+2️⃣ Microsoft Lens - Aplikasi pengimbas dokumen percuma untuk iPhone dan Android yang bukan sahaja meluruskan gambar kertas dan papan putih, malah boleh menukarkannya terus menjadi fail Microsoft Word yang boleh disunting.
+https://support.microsoft.com/en-us/office/microsoft-lens-for-ios-fbdca5f4-1b1b-4391-a931-dc1c2582397b
+
+3️⃣ Adobe Scan - Mengimbas dokumen fizikal, resit perbelanjaan, dan kad nama menjadi fail PDF yang jelas di mana setiap perkataan di dalamnya boleh dicari (searchable PDF) dan disalin.
+https://www.adobe.com/acrobat/mobile/scanner-app.html
+
+4️⃣ OnlineOCR.net - Laman web percuma tanpa pendaftaran untuk menukar gambar berformat JPG/PNG atau fail PDF imbasan kepada dokumen Word, Excel, atau teks biasa dalam puluhan bahasa.
+https://www.onlineocr.net
+
+5️⃣ i2OCR - Menyokong pengecaman teks secara terus di pelayar web bagi lebih 100 bahasa termasuk Bahasa Melayu dengan mengekalkan susunan perenggan asal dokumen tersebut.
+https://www.i2ocr.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 380,
+    siri: "Post-10",
+    no: 20,
+    topik: "Telefon, Komputer & Privasi",
+    kategori: `UTILITI KOMPUTER, TELEFON PINTAR & KESELAMATAN PRIVASI`,
+    tajuk: `Enjin Carian Alternatif yang Menjaga Privasi Tanpa Menjejak Data Anda`,
+    tags: ["keselamatan", "komputer", "pintar", "privasi", "telefon", "utiliti"],
+    link: "https://duckduckgo.com",
+    post: `Ada yang tahu? Baru cari satu barang di internet, terus keluar iklan barang tu merata tempat. Macam mana nak elak?🕵️
+👇👇👇`,
+    komen: `Sekiranya anda mengutamakan privasi carian tanpa diekori oleh iklan berterusan, gunakan 5 enjin carian alternatif yang tidak menjejak profil peribadi anda ini:
+
+1️⃣ DuckDuckGo - Enjin carian privasi paling terkenal di dunia yang tidak menyimpan sejarah carian anda, tidak menjejak alamat IP, dan memaparkan hasil carian yang objektif.
+https://duckduckgo.com
+
+2️⃣ Startpage - Pilihan terbaik sekiranya anda mahukan kualiti hasil carian setepat Google tetapi dengan perlindungan privasi penuh dari Eropah yang membuang semua pengesan profil pengguna.
+https://www.startpage.com
+
+3️⃣ Brave Search - Menggunakan indeks carian bebasnya sendiri (tidak bergantung kepada Google atau Bing) berserta ringkasan jawapan AI pantas tanpa sebarang penjejakan data peribadi.
+https://search.brave.com
+
+4️⃣ Ecosia - Enjin carian mesra alam dan privasi yang menyalurkan keuntungan hasil cariannya untuk projek penanaman jutaan pokok hutan di seluruh dunia termasuk di Asia Tenggara.
+https://www.ecosia.org
+
+5️⃣ Swisscows - Berpangkalan di Switzerland yang terkenal dengan undang-undang privasi data yang ketat; enjin carian ini sangat selamat untuk kegunaan seisi keluarga kerana menapis kandungan tidak bermoral secara automatik.
+https://swisscows.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 381,
+    siri: "Post-10",
+    no: 21,
+    topik: "Telefon, Komputer & Privasi",
+    kategori: `UTILITI KOMPUTER, TELEFON PINTAR & KESELAMATAN PRIVASI`,
+    tajuk: `Alatan Semak Spesifikasi & Kesihatan Bateri Laptop atau Telefon Pintar`,
+    tags: ["keselamatan", "komputer", "pintar", "privasi", "telefon", "utiliti"],
+    link: "https://www.cpuid.com/softwares/cpu-z.html",
+    post: `Ada yang tahu? Nak beli laptop terpakai (secondhand) atau semak kesihatan bateri laptop sendiri, guna alat apa?🔋
+👇👇👇`,
+    komen: `Pastikan perkakasan komputer dan jangka hayat bateri peranti anda berada dalam keadaan tulen serta baik menggunakan 5 perisian diagnostik percuma ini:
+
+1️⃣ CPU-Z - Perisian ringan standard dunia untuk menyemak spesifikasi sebenar pemproses (processor), model papan induk, serta kapasiti dan kelajuan sebenar memori RAM di dalam komputer atau telefon pintar anda.
+https://www.cpuid.com/softwares/cpu-z.html
+
+2️⃣ CrystalDiskInfo - Memeriksa tahap kesihatan cakera keras (SSD atau HDD) komputer anda, memaparkan suhu semasa, serta mengesan berapa ribu jam komputer tersebut telah dihidupkan (sangat berguna ketika membeli laptop terpakai).
+https://crystalmark.info/en/software/crystaldiskinfo
+
+3️⃣ HWMonitor - Memantau suhu cip pemproses, kad grafik, dan kelajuan kipas penyejuk serta memaparkan peratusan tahap kehausan bateri (battery wear level) pada komputer riba Windows.
+https://www.cpuid.com/softwares/hwmonitor.html
+
+4️⃣ coconutBattery (Khas Pengguna Mac & iPhone) - Aplikasi percuma terbaik untuk menyemak kiraan kitaran cas (cycle count) dan peratusan kapasiti kesihatan sebenar bateri MacBook serta iPhone berbanding kapasiti asal kilang.
+https://www.coconut-flavour.com/coconutbattery
+
+5️⃣ AccuBattery (Khas Android) - Memantau kesihatan bateri telefon pintar Android secara saintifik, mengukur kelajuan pengecasan kabel, dan memberi peringatan apabila bateri mencapai tahap 80% bagi memanjangkan jangka hayat bateri.
+https://accubatteryapp.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 382,
+    siri: "Post-10",
+    no: 22,
+    topik: "Telefon, Komputer & Privasi",
+    kategori: `UTILITI KOMPUTER, TELEFON PINTAR & KESELAMATAN PRIVASI`,
+    tajuk: `Laman Web Cari Alternatif Percuma kepada Perisian Berbayar yang Mahal`,
+    tags: ["keselamatan", "komputer", "pintar", "privasi", "telefon", "utiliti"],
+    link: "https://alternativeto.net",
+    post: `Ada yang tahu? Kos langganan bulanan software kerja makin mahal, kat mana nak cari perisian alternatif yang percuma?💡
+👇👇👇`,
+    komen: `Sebelum membayar langganan perisian yang mahal, gunakan 5 direktori carian perisian ini untuk menemui alternatif percuma atau sumber terbuka yang setanding:
+
+1️⃣ AlternativeTo - Laman web paling lengkap untuk mencari pengganti perisian. Taip sahaja nama perisian berbayar (contohnya Photoshop atau Premiere Pro), kemudian tapis menggunakan pilihan 'Free' atau 'Open Source'.
+https://alternativeto.net
+
+2️⃣ OpenSourceAlternative.to - Direktori khas yang menyenaraikan lebih 400 perisian sumber terbuka percuma sebagai alternatif terus kepada perisian SaaS korporat yang popular di pasaran.
+https://www.opensourcealternative.to
+
+3️⃣ Product Hunt - Tempat terbaik untuk meneroka pelancaran aplikasi produktiviti, alatan AI, dan perisian baharu setiap hari yang sering menawarkan pelan percuma kepada pengguna awal.
+https://www.producthunt.com
+
+4️⃣ G2 Software Reviews - Membolehkan kita membandingkan ciri-ciri perisian bisnes secara sebelah-menyebelah berdasarkan ribuan ulasan pengguna sebenar serta menapis pilihan yang mempunyai edisi percuma (Free tier).
+https://www.g2.com
+
+5️⃣ SaaSHub - Membantu anda mencari perisian alternatif mengikut kategori fungsi kerja berserta perbandingan kelebihan dan kekurangan setiap platform dengan sangat teratur.
+https://www.saashub.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 383,
+    siri: "Post-10",
+    no: 23,
+    topik: "Telefon, Komputer & Privasi",
+    kategori: `UTILITI KOMPUTER, TELEFON PINTAR & KESELAMATAN PRIVASI`,
+    tajuk: `Aplikasi Simpan Artikel Web untuk Dibaca Semula Tanpa Internet`,
+    tags: ["keselamatan", "komputer", "pintar", "privasi", "telefon", "utiliti"],
+    link: "https://getpocket.com",
+    post: `Ada yang tahu? Terjumpa artikel bagus masa tengah sibuk bekerja, aplikasi apa terbaik untuk simpan dan baca kemudian?🔖
+👇👇👇`,
+    komen: `Jangan biarkan artikel ilmu atau berita kewangan yang bernilai hilang begitu sahaja di garis masa media sosial. Simpan untuk bacaan tenang menggunakan 5 aplikasi ini:
+
+1️⃣ Pocket (oleh Mozilla) - Simpan sebarang artikel, berita, atau pautan web dengan satu klik daripada telefon atau komputer. Pocket akan membuang semua iklan yang mengganggu dan membolehkan anda membacanya walaupun tanpa sambungan internet.
+https://getpocket.com
+
+2️⃣ Raindrop.io - Pengurus penanda buku (bookmark manager) visual paling kemas yang membolehkan kita menyimpan pautan artikel, video, dan laman web rujukan mengikut folder kategori serta tag carian merentas semua peranti.
+https://raindrop.io
+
+3️⃣ Instapaper - Menukarkan mana-mana artikel laman web kepada format teks bacaan yang sangat bersih seperti membaca helaian buku fizikal, lengkap dengan fungsi menyerlahkan ayat penting (highlight).
+https://www.instapaper.com
+
+4️⃣ Matter - Aplikasi pembaca artikel moden untuk pengguna iOS dan web yang turut menyediakan fungsi menukar teks artikel kepada suara audio semula jadi supaya anda boleh mendengar artikel tersebut semasa memandu.
+https://hq.getmatter.com
+
+5️⃣ Wallabag - Alternatif sumber terbuka untuk menyimpan arkib artikel bacaan peribadi anda secara kekal walaupun halaman web asal artikel tersebut dipadamkan pada masa hadapan.
+https://wallabag.org
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 384,
+    siri: "Post-10",
+    no: 24,
+    topik: "Kewangan & Gaya Hidup",
+    kategori: `KEWANGAN, GAYA HIDUP PINTAR & ILMU PENGETAHUAN`,
+    tajuk: `Laman Web Pantau Harga Emas Dunia, Pertukaran Mata Wang & Pasaran Semasa`,
+    tags: ["gaya", "hidup", "ilmu", "kewangan", "pengetahuan", "pintar"],
+    link: "https://www.tradingview.com",
+    post: `Ada yang tahu? Nak tengok graf pergerakan harga emas dunia dan nilai tukaran Ringgit secara masa nyata (live)?📈
+👇👇👇`,
+    komen: `Bagi penyimpan emas dan pelabur, rujuk 5 portal data kewangan global ini untuk memantau trend harga pasaran dan berita ekonomi semasa secara tepat:
+
+1️⃣ TradingView - Platform carta kewangan paling canggih dan popular di dunia. Anda boleh memantau pergerakan harga emas dunia (XAU/USD atau XAU/MYR) mengikut tempoh harian, bulanan, atau puluhan tahun secara percuma.
+https://www.tradingview.com
+
+2️⃣ GoldPrice.org - Memaparkan sejarah dan carta harga emas serta perak secara langsung dalam pelbagai pilihan mata wang termasuk Ringgit Malaysia (MYR) mengikut kiraan auns (oz), gram, dan kilogram.
+https://goldprice.org
+
+3️⃣ Kitco - Salah satu portal berita dan rujukan logam berharga tertua di dunia untuk kita mengikuti perkembangan permintaan emas global, dasar bank pusat, serta ulasan pakar komoditi.
+https://www.kitco.com
+
+4️⃣ Investing.com - Menyediakan data pasaran kewangan masa nyata, kalendar pengumuman ekonomi penting dunia (Economic Calendar), serta penukar mata wang yang sangat komprehensif.
+https://www.investing.com
+
+5️⃣ XE Currency Converter - Rujukan pertukaran mata wang asing paling dipercayai untuk menyemak kadar tukaran semasa Ringgit Malaysia berbanding Dolar AS, Riyal Arab Saudi, atau mata wang negara lain.
+https://www.xe.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 385,
+    siri: "Post-10",
+    no: 25,
+    topik: "Kewangan & Gaya Hidup",
+    kategori: `KEWANGAN, GAYA HIDUP PINTAR & ILMU PENGETAHUAN`,
+    tajuk: `Platform Cari Jurnal Akademik, Kajian Sains & Kertas Penyelidikan Sahih`,
+    tags: ["gaya", "hidup", "ilmu", "kewangan", "pengetahuan", "pintar"],
+    link: "https://scholar.google.com",
+    post: `Ada yang tahu? Nak cari fakta kajian sains atau rujukan akademik yang sahih untuk tesis dan penulisan artikel?🎓
+👇👇👇`,
+    komen: `Pastikan setiap fakta dan statistik yang anda kongsikan bersandarkan sumber kajian yang berautoriti melalui 5 enjin carian akademik percuma ini:
+
+1️⃣ Google Scholar - Enjin carian khas daripada Google untuk mencari kertas penyelidikan universiti, tesis akademik, buku ilmiah, dan jurnal yang telah disemak oleh pakar (peer-reviewed) dari seluruh dunia.
+https://scholar.google.com
+
+2️⃣ ResearchGate - Rangkaian sosial profesional yang menghimpunkan jutaan saintis dan penyelidik global di mana anda boleh memuat turun teks penuh kertas kajian atau menghubungi penulis kajian secara terus.
+https://www.researchgate.net
+
+3️⃣ Semantic Scholar - Enjin carian penyelidikan berasaskan AI percuma oleh Allen Institute yang membantu kita menapis kajian paling berpengaruh dan memaparkan ringkasan satu ayat (TLDR) bagi setiap jurnal.
+https://www.semanticscholar.org
+
+4️⃣ DOAJ (Directory of Open Access Journals) - Mengindeks ribuan jurnal akademik berkualiti tinggi merentas pelbagai bidang ilmu yang boleh dibaca dan dimuat turun secara terbuka tanpa sebarang bayaran langganan.
+https://doaj.org
+
+5️⃣ CORE - Pangkalan data agregator terbesar dunia yang mengumpulkan jutaan kertas penyelidikan akses terbuka daripada repositori universiti tempatan dan antarabangsa secara percuma.
+https://core.ac.uk
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 386,
+    siri: "Post-10",
+    no: 26,
+    topik: "Kewangan & Gaya Hidup",
+    kategori: `KEWANGAN, GAYA HIDUP PINTAR & ILMU PENGETAHUAN`,
+    tajuk: `Aplikasi & Web Rancang Jadual Perjalanan (Travel Itinerary) Bersama Keluarga`,
+    tags: ["gaya", "hidup", "ilmu", "kewangan", "pengetahuan", "pintar"],
+    link: "https://wanderlog.com",
+    post: `Ada yang tahu? Nak rancang jadual percutian keluarga supaya laluan jalan teratur dan bajet tak terlajak?✈️
+👇👇👇`,
+    komen: `Susun jadual perjalanan, tempahan hotel, dan bajet percutian anda di dalam satu tempat yang kemas menggunakan 5 platform perancang perjalanan ini:
+
+1️⃣ Wanderlog - Aplikasi perancang percutian paling lengkap dan mesra pengguna. Anda boleh menyusun senarai tempat menarik mengikut hari, melihat kedudukan lokasi di atas peta secara serentak, dan membahagikan kiraan bajet bersama ahli keluarga.
+https://wanderlog.com
+
+2️⃣ TripIt - Hantar sahaja semua emel pengesahan tiket penerbangan, tempahan hotel, dan kereta sewa anda ke TripIt, dan sistem akan menyusun satu jadual perjalanan induk (master itinerary) secara automatik.
+https://www.tripit.com
+
+3️⃣ Rome2Rio - Sangat membantu apabila merancang perjalanan ke tempat baharu; masukkan lokasi asal dan destinasi sasaran untuk melihat perbandingan semua pilihan pengangkutan (kereta api, bas, feri, penerbangan) berserta anggaran masa dan kos.
+https://www.rome2rio.com
+
+4️⃣ Google Travel - Membolehkan anda meneroka waktu terbaik untuk melawat sesuatu destinasi, memantau perubahan harga tiket penerbangan (Google Flights), dan menyemak ulasan kawasan penginapan yang strategik.
+https://www.google.com/travel
+
+5️⃣ Flightradar24 & FlightAware - Pantau kedudukan pesawat secara masa nyata, semak sejarah ketepatan masa penerbangan, dan terima maklumat pintu pelepasan (boarding gate) terkini di lapangan terbang.
+https://www.flightradar24.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 387,
+    siri: "Post-10",
+    no: 27,
+    topik: "Kewangan & Gaya Hidup",
+    kategori: `KEWANGAN, GAYA HIDUP PINTAR & ILMU PENGETAHUAN`,
+    tajuk: `Laman Web Banding Spesifikasi Telefon Pintar & Laptop Sebelum Membeli`,
+    tags: ["gaya", "hidup", "ilmu", "kewangan", "pengetahuan", "pintar"],
+    link: "https://www.gsmarena.com",
+    post: `Ada yang tahu? Tengah berkira-kira nak beli telefon atau laptop baru, kat mana nak bandingkan prestasi sebenar?📱
+👇👇👇`,
+    komen: `Buat keputusan pembelian gajet yang berbaloi dengan wang anda melalui perbandingan spesifikasi teknikal yang telus di 5 laman rujukan ini:
+
+1️⃣ GSMArena - Ensiklopedia telefon pintar paling lengkap di dunia. Anda boleh membandingkan sehingga 3 model telefon secara sebelah-menyebelah merangkumi kualiti kamera, ketahanan bateri ujian makmal, dan jenis skrin.
+https://www.gsmarena.com
+
+2️⃣ NanoReview - Sangat cemerlang untuk membandingkan prestasi cip pemproses telefon pintar, komputer riba (laptop), serta skor tanda aras (benchmark) sebenar dalam bentuk carta dan markah peratusan yang mudah difahami.
+https://nanoreview.net
+
+3️⃣ Versus.com - Platform perbandingan visual yang membandingkan kelebihan setiap gajet (telefon, kamera, fon telinga, komputer) dalam bahasa yang ringkas tanpa istilah teknikal yang memeningkan.
+https://versus.com
+
+4️⃣ RTINGS.com - Terkenal dengan ujian makmal bebas yang sangat ketat dan jujur; mereka membeli sendiri produk di pasaran untuk menguji kualiti sebenar fon kepala, monitor komputer, dan televisyen.
+https://www.rtings.com
+
+5️⃣ Kimovil - Membantu pengguna menyemak perbandingan harga berbaloi (value-for-money), kualiti sensor kamera, serta sokongan jalur rangkaian 4G/5G bagi setiap model telefon pintar di Malaysia.
+https://www.kimovil.com/en
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 388,
+    siri: "Post-10",
+    no: 28,
+    topik: "Kewangan & Gaya Hidup",
+    kategori: `KEWANGAN, GAYA HIDUP PINTAR & ILMU PENGETAHUAN`,
+    tajuk: `Platform Latihan Menaip Pantas (Touch Typing) & Uji Kepantasan Papan Kekunci`,
+    tags: ["gaya", "hidup", "ilmu", "kewangan", "pengetahuan", "pintar"],
+    link: "https://www.typingclub.com",
+    post: `Ada yang tahu? Nak latih jari menaip di papan kekunci laptop dengan laju tanpa perlu tunduk tengok huruf?⌨️
+👇👇👇`,
+    komen: `Kemahiran menaip sepuluh jari (touch typing) yang pantas mampu menjimatkan berjam-jam masa kerja anda setiap minggu. Berlatih secara percuma di 5 laman web ini:
+
+1️⃣ TypingClub - Platform pembelajaran menaip sepuluh jari paling interaktif dan percuma. Ia menyusun latihan secara berperingkat bermula daripada kedudukan jari asas sehinggalah anda mahir menaip tanpa melihat papan kekunci.
+https://www.typingclub.com
+
+2️⃣ Monkeytype - Laman ujian kepantasan menaip dengan reka bentuk minimalis yang sangat digemari oleh golongan profesional untuk menguji kelajuan perkataan seminit (WPM) dan peratusan ketepatan ejaan.
+https://monkeytype.com
+
+3️⃣ Keybr - Menggunakan algoritma pintar yang menganalisis huruf mana yang sering anda tersalah tekan, lalu menjana latihan perkataan khusus untuk memantapkan kelemahan jari tersebut.
+https://www.keybr.com
+
+4️⃣ Ratatype - Menyediakan panduan postur tangan yang betul, pelajaran menaip percuma, serta sijil kepantasan menaip rasmi yang boleh dilampirkan pada profil kerjaya anda.
+https://www.ratatype.com
+
+5️⃣ 10FastFingers - Membolehkan anda menguji kelajuan menaip dalam tempoh 60 saat menggunakan pilihan perkataan Bahasa Melayu mahupun Bahasa Inggeris untuk melihat peningkatan kepantasan anda setiap minggu.
+https://10fastfingers.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 389,
+    siri: "Post-10",
+    no: 29,
+    topik: "Kewangan & Gaya Hidup",
+    kategori: `KEWANGAN, GAYA HIDUP PINTAR & ILMU PENGETAHUAN`,
+    tajuk: `Laman Web Semak Waktu Dunia & Rancang Mesyuarat Merentas Zon Masa`,
+    tags: ["gaya", "hidup", "ilmu", "kewangan", "pengetahuan", "pintar"],
+    link: "https://www.worldtimebuddy.com",
+    post: `Ada yang tahu? Ada mesyuarat online dengan rakan atau klien di luar negara, macam mana nak elak salah kira waktu?🌍
+👇👇👇`,
+    komen: `Elakkan kekeliruan perbezaan waktu apabila berurusan dengan pelanggan atau ahli keluarga di luar negara menggunakan 5 penukar zon masa visual ini:
+
+1️⃣ World Time Buddy - Penjadual masa visual paling mudah digunakan. Anda boleh menyusun baris waktu Malaysia seiring dengan beberapa bandar raya dunia lain untuk mencari waktu mesyuarat yang sesuai bagi semua pihak.
+https://www.worldtimebuddy.com
+
+2️⃣ TimeAndDate.com - Rujukan waktu dan kalendar paling lengkap di dunia yang menyediakan penukar zon masa mesyuarat, kiraan hari bekerja, serta maklumat cuti umum rasmi setiap negara.
+https://www.timeanddate.com
+
+3️⃣ Every Time Zone - Memaparkan garis masa melintang yang sangat kemas supaya kita boleh menggerakkan satu penunjuk masa dan terus melihat waktu bersamaan di bandar-bandar utama dunia.
+https://everytimezone.com
+
+4️⃣ SavvyTime - Memudahkan anda menukar waktu antara dua atau lebih negara serta menyalin jadual waktu tersebut untuk dimasukkan terus ke dalam emel jemputan mesyuarat.
+https://savvytime.com
+
+5️⃣ Time.is - Memaparkan waktu rasmi jam atom yang tepat sehingga ke saat bagi mana-mana lokasi di dunia berserta perbandingan sama ada jam pada komputer atau telefon anda lewat atau cepat.
+https://time.is
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
+  {
+    id: 390,
+    siri: "Post-10",
+    no: 30,
+    topik: "Kewangan & Gaya Hidup",
+    kategori: `KEWANGAN, GAYA HIDUP PINTAR & ILMU PENGETAHUAN`,
+    tajuk: `Platform Buat Kad Imbasan Digital (Flashcards) untuk Hafal Ilmu Penting`,
+    tags: ["gaya", "hidup", "ilmu", "kewangan", "pengetahuan", "pintar"],
+    link: "https://ankiweb.net",
+    post: `Ada yang tahu? Nak hafal fakta produk, istilah kewangan, atau bantu anak ulang kaji pelajaran dengan berkesan?🧠
+👇👇👇`,
+    komen: `Gunakan kaedah ingatan aktif (active recall) dan ulangan berkala menerusi 5 aplikasi kad imbasan digital (flashcards) percuma ini untuk menguatkan daya ingatan:
+
+1️⃣ Anki / AnkiWeb - Perisian kad imbasan berasaskan sains kognitif yang paling berkesan di dunia. Sistem akan menjadualkan semula kad soalan yang sukar diingati dengan lebih kerap supaya maklumat kekal di dalam ingatan jangka panjang.
+https://ankiweb.net
+
+2️⃣ Quizlet - Menyediakan jutaan set kad imbasan sedia ada dalam pelbagai subjek ilmu serta membolehkan anda mencipta set kad imbasan sendiri untuk diulang kaji melalui mod permainan dan ujian pantas.
+https://quizlet.com
+
+3️⃣ Knowt - Alternatif terbaik yang membolehkan anda mengimport nota kuliah atau dokumen PDF dan menukarkannya menjadi set kad imbasan serta soalan latihan secara automatik dengan pelan percuma tanpa had.
+https://knowt.com
+
+4️⃣ RemNote - Menggabungkan fungsi pencatat nota harian dengan pembina kad imbasan secara serentak; setiap baris nota definisi yang anda taip boleh terus diuji sebagai kad soalan ulangan berkala.
+https://www.remnote.com
+
+5️⃣ Brainscape - Menggunakan sistem penarafan tahap keyakinan (skala 1 hingga 5) selepas setiap jawapan bagi mengoptimumkan masa ulang kaji anda kepada topik yang belum dikuasai sepenuhnya.
+https://www.brainscape.com
+
+Moga bermanfaat 😄
+Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, InsyaAllah.
+
+Khas untuk anda yang belum ada akaun emas di Public Gold
+Saya kongsikan info di blog
+👇🏻👇🏻👇🏻
+simpanemasfizikal.com
+
+Whatsapp terus untuk bimbingan percuma
+pgolink.com/whatsapptaufik
+
+Taufik | Dealer Public Gold
+PG00359605`,
+  },
 ];
 
 // Nama siri pilihan (papar di tab). Contoh: { "Post-01": "Tips Digital" }
 export const namaSiri = {}
 
 // Siri yang dapat tab sendiri. Siri lain automatik masuk Archive.
-export const tabUtama = ["Post-01", "Post-02", "Post-03", "Post-04", "Post-05", "Post-06", "Lifehack-07", "Lifehack-08", "PG Jewel-01", "PG Jewel-02"]
+export const tabUtama = ["Post-01", "Post-02", "Post-03", "Post-04", "Post-05", "Post-06", "Lifehack-07", "Lifehack-08", "PG Jewel-01", "PG Jewel-02", "Post-08", "Post-09", "Post-10"]

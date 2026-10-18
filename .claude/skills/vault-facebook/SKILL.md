@@ -11,7 +11,7 @@ Setiap kad = 1 set: **Post (wall)** + **Komen pertama**, masing-masing ada butan
 - **Repo:** `taufikmusa/facebook-vault`, branch kerja & deploy: `main`
 - **Live:** https://facebook.taufik.fyi (CNAME `public/CNAME`)
 - **Stack:** Vite + React (JS) → GitHub Actions → GitHub Pages
-- **Kandungan (17 Okt 2026):** 300 post. Post-01 (id 1–30) hingga Post-06 (151–180) = format Set FB asal (ada link rasmi dalam komen). **Lifehack-07** (181–210) dan **Lifehack-08** (211–240) = format Lifehack (tiada link). **PG Jewel-01** (241–270) dan **PG Jewel-02** (271–300, docx "Batch 2 ... Emas GAP ke Barang Kemas") = post PANJANG, tiada komen, ada slot boleh ubah. Siri seterusnya: Post-07 (id **301**), Lifehack-09, PG Jewel-03.
+- **Kandungan (18 Okt 2026):** 390 post. Post-01 (id 1–30) hingga Post-06 (151–180) = format Set FB asal. **Lifehack-07** (181–210) dan **Lifehack-08** (211–240) = format Lifehack. **PG Jewel-01** (241–270) dan **PG Jewel-02** (271–300) = post panjang + slot boleh ubah. **Post-08** (301–330), **Post-09** (331–360), **Post-10** (361–390) = format Numbered List (5–6 lubuk/alat bernombor + link dalam komen). Nama siri Post guna nombor global dua digit (Post-08, bukan Post-07; Post-07 tak wujud kerana 07/08 diguna Lifehack). Siri seterusnya: Post-11 (id **391**), Lifehack-09, PG Jewel-03.
 
 ## Struktur repo
 
@@ -66,6 +66,14 @@ PG00359605
 ## Pembuka post (tetap, dikemas kini 17 Okt 2026)
 
 Docx tulis pembuka `Simple tips hari ni..` / `Simple tips malam ni..` / `Just a simple tips..`. Converter tukar semua kepada **`Ada yang tahu? `** (pemalar `PEMBUKA` dalam `tools/docx_ke_data.py`), contoh: `Ada yang tahu? Nak beli barang online...`. Ayat selebihnya tak diubah.
+
+## Format Numbered List (docx "30 Set Copywriting FB Numbered List Set N")
+
+Heading `Cadangan / Set 01: Tajuk`, baris `KATEGORI: ...` (huruf besar) SEBELUM set pertama dalam kategori tu (4 kategori setiap docx), jadual 2 baris: `1. Ayat letak dekat post (N aksara)` + teks post (`Simple tips hari ni.. ...`), `2. Ayat letak dekat comment` + intro + 5–6 item `1️⃣ Nama - huraian\nhttps://link` + perenggan CTA (sama dengan CTA tetap). Jana dengan `--numbered`: topik ikut kategori (disingkatkan dalam `topik_numbered`), pembuka jadi "Ada yang tahu? ", perenggan CTA docx dibuang dan diganti `CTA_KOMEN`. Converter potong komen pada perenggan "Moga bermanfaat" pertama. Kategori docx baru yang tak dikenali jatuh ke `kat.title()` (tambah ke `topik_numbered` kalau panjang).
+
+```bash
+python3 -I tools/docx_ke_data.py "Set.docx" --siri Post-11 --mula 391 --numbered > blok.txt
+```
 
 ## Format Lifehack (docx "30 Set Status FB ... Tips Trick / Life Hacks Harian")
 
