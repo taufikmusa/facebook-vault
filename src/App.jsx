@@ -45,16 +45,17 @@ export default function App() {
   const [dahPost, setDahPost] = useState(() => muat("dahPost", {}))
   const [had, setHad] = useState(HAD_AWAL)
   const [disalin, setDisalin] = useState(null)    // "<id>post" | "<id>komen"
-  const [jewelG, setJewelG] = useState(() => muat("jewelGlobal", lalaiJewel))   // harga GAP & simpanan (dikongsi)
+  const [jewelG, setJewelG] = useState(() => muat("jewelGlobal2", lalaiJewel))   // harga emas PG Sell (dikongsi); kunci v2 supaya harga lama 592 terpadam
   const [jewelV, setJewelV] = useState(() => muat("jewelVar", {}))              // ubahan produk/harga per post
   const [bukaUbah, setBukaUbah] = useState({})
 
   // Post dengan slot (tab PG Jewel) dikira semula dari nilai semasa; post biasa kekal
   const teksPost = s => (s.vars ? renderJewel(s, jewelV[s.id], jewelG) : s.post)
+  const teksTajuk = s => (s.vars ? renderJewel(s, jewelV[s.id], jewelG, s.tajuk) : s.tajuk)
   function ubahGlobal(kunci, nilai) {
     setJewelG(prev => {
       const baru = { ...prev, [kunci]: nilai.replace(/[^\d.,]/g, ""), tarikh: tarikhMelayu(new Date()) }
-      simpan("jewelGlobal", baru)
+      simpan("jewelGlobal2", baru)
       return baru
     })
   }
@@ -91,7 +92,7 @@ export default function App() {
       if (status === "belum" && dahPost[s.id]) return false
       if (status === "dah" && !dahPost[s.id]) return false
       if (kata.length === 0) return true
-      const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, teksPost(s), s.komen, s.tags.join(" "), s.topik, s.kategori, s.persona || ""].join(" ").toLowerCase()
+      const hay = [nombor(s), namaSiri[s.siri] || "", teksTajuk(s), teksPost(s), s.komen, s.tags.join(" "), s.topik, s.kategori, s.persona || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
   }, [skripTab, cari, topik, status, dahPost, jewelG, jewelV])
@@ -160,14 +161,14 @@ export default function App() {
         </div>
         {skripTab.some(s => s.vars) && (
           <div className="harga">
-            <div className="harga-tajuk">💰 Harga GAP semasa <span>auto masuk dalam semua post {tab}</span></div>
+            <div className="harga-tajuk">💰 Harga emas PG Sell hari ini <span>auto masuk dalam semua post {tab}</span></div>
             <div className="harga-baris">
-              <label>Buy GAP<span>RM</span>
+              <label>PG Sell (999)<span>RM</span>
                 <input inputMode="decimal" value={jewelG.hargaGAP} onChange={e => ubahGlobal("hargaGAP", e.target.value)} />
                 <small>/gram</small>
               </label>
             </div>
-            <div className="harga-nota">Dikemaskini: {jewelG.tarikh || "-"} · gram GAP dikira semula = (harga produk + pos) ÷ harga GAP</div>
+            <div className="harga-nota">Dikemaskini: {jewelG.tarikh || "-"} · Cash Voucher ikut harga PG Sell · gram GAP = (harga produk + pos) ÷ harga PG Sell</div>
           </div>
         )}
         <div className="toggles">
@@ -194,7 +195,7 @@ export default function App() {
               <span className="no">{nombor(s)}</span>
               <span className="badge">{s.topik}</span>
             </div>
-            <h2 className="tajuk">{s.tajuk}</h2>
+            <h2 className="tajuk">{teksTajuk(s)}</h2>
 
             {s.persona && <div className="persona">🎯 {s.persona}</div>}
 

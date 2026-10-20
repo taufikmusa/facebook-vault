@@ -7336,13 +7336,13 @@ Hakikatnya, wanita ini miliki Cincin Gelombang Cinta idaman tanpa sentuh gaji be
 
 Setiap hujung bulan, keinginan nak beli cincin emas tulen terbantut bila tengok tanda harga RM{hb0}. Kalau bayar tunai, bajet dapur lari. Kalau tangguh, harga emas makin mendaki. Dilema ini selesai bila beliau guna ciri penebusan barang kemas Akaun Emas GAP.
 
-Simpanan RM{simpan} yang dikumpul setiap bulan ditukar terus kepada Cash Voucher sistem Public Gold pada kadar harga semasa RM{gap0}/gram.
+Simpanan RM{simpan} yang dikumpul setiap bulan ditukar terus kepada Cash Voucher sistem Public Gold pada kadar harga PG Sell semasa RM{gap0}/gram.
 
 Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Dengan jumlah belian RM{jumlah0} (termasuk upah RM{upah0} dan pos RM{pos0}), sistem hanya tolak {gram} gram GAP. Cincin emas 999 dipos selamat ke rumah tanpa bayar tunai tambahan.
@@ -7382,10 +7382,10 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Dengan harga GAP RM{gap0}/gram, sistem hanya tolak 10.576 gram daripada akaun GAP beliau untuk menjana Cash Voucher RM{jumlah0}. Bangle selamat sampai sebelum hari istimewa.
+Dengan harga PG Sell RM{gap0}/gram, sistem hanya tolak 10.576 gram daripada akaun GAP beliau untuk menjana Cash Voucher RM{jumlah0}. Bangle selamat sampai sebelum hari istimewa.
 
 Tiga pengajaran dari kisah ini:
 Pertama, Hadiah terbaik untuk pasangan adalah hadiah yang nilainya berkembang mengikut peredaran masa.
@@ -7422,10 +7422,10 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Pada harga GAP RM{gap0}/gram, sistem hanya memotong {gram} gram GAP. Cincin emas tulen berkilau selamat berada di tangan tanpa menjejaskan wang hantaran.
+Pada harga PG Sell RM{gap0}/gram, sistem hanya memotong {gram} gram GAP. Cincin emas tulen berkilau selamat berada di tangan tanpa menjejaskan wang hantaran.
 
 Tiga pengajaran dari kisah ini:
 Pertama, Langkah perkahwinan yang berkat bermula dengan pengurusan kewangan yang bijak tanpa hutang.
@@ -7462,7 +7462,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Pada kadar RM{gap0}/g, hanya {gram} gram GAP diperlukan secara keseluruhan (sekitar 1 gram lebih sahaja bagi setiap orang). Ibu mereka menitiskan air mata gembira menerima rantai emas padu.
@@ -7502,7 +7502,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem hanya menolak {gram} gram GAP pada harga RM{gap0}/gram. Tiada rasa bersalah berbelanja, kerana tunai bertukar menjadi emas fizikal yang sentiasa bernilai.
@@ -7542,7 +7542,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7582,7 +7582,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7622,7 +7622,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7662,7 +7662,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7686,7 +7686,7 @@ simpanemasfizikal.com`,
     no: 10,
     topik: "Emas 916",
     kategori: ``,
-    tajuk: `Mengunci Kenaikan Harga Emas: Beli GAP RM380, Tebus Pada RM592`,
+    tajuk: `Mengunci Kenaikan Harga Emas: Beli GAP RM380, Tebus Pada RM{gap0}`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menikmati keuntungan modal kenaikan harga emas dunia.).`,
@@ -7702,7 +7702,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7742,7 +7742,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7782,7 +7782,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7822,7 +7822,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7862,7 +7862,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7902,7 +7902,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7942,7 +7942,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -7982,7 +7982,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8022,7 +8022,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8062,7 +8062,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8102,7 +8102,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8142,7 +8142,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8182,7 +8182,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8222,7 +8222,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8262,7 +8262,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8302,7 +8302,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8342,7 +8342,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8382,7 +8382,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8422,7 +8422,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8462,7 +8462,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8502,7 +8502,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
@@ -8542,10 +8542,10 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Dengan harga belian GAP semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP untuk mengeluarkan Cash Voucher RM{jumlah0}. Bangle emas 916 dipos selamat ke rumah melalui pos berinsurans GIT. Air mata isteri menitis sebak, dan gaji bulan itu langsung tidak terusik!
+Dengan harga PG Sell semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP untuk mengeluarkan Cash Voucher RM{jumlah0}. Bangle emas 916 dipos selamat ke rumah melalui pos berinsurans GIT. Air mata isteri menitis sebak, dan gaji bulan itu langsung tidak terusik!
 
 Tiga pengajaran dari kisah ini:
 Pertama, Penghargaan kepada insan tersayang tidak diukur pada kemewahan serentak, tetapi pada perancangan senyap yang konsisten.
@@ -8582,10 +8582,10 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Genap setahun menabung, baki gram GAP beliau mencukupi. Pada harga GAP RM{gap0}/gram, sistem hanya memotong {gram} gram untuk menjana Cash Voucher RM{jumlah0}. Cincin Bunga Raya 5D Hard Gold dihantar terus ke alamat ibunya di kampung.
+Genap setahun menabung, baki gram GAP beliau mencukupi. Pada harga PG Sell RM{gap0}/gram, sistem hanya memotong {gram} gram untuk menjana Cash Voucher RM{jumlah0}. Cincin Bunga Raya 5D Hard Gold dihantar terus ke alamat ibunya di kampung.
 
 Tiga pengajaran dari kisah ini:
 Pertama, Kebahagiaan membahagiakan ibu bapa tidak memerlukan gaji lima angka, tetapi disiplin menabung dari awal.
@@ -8622,10 +8622,10 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Beliau memilih rantai leher 916 bernilai RM{jumlah0} (termasuk upah dan pos GIT). Pada harga GAP RM{gap0}/g, sistem memotong {gram} gram GAP. Hadiah rantai emas selamat diserahkan pada majlis konvokesyen sekolah anaknya.
+Beliau memilih rantai leher 916 bernilai RM{jumlah0} (termasuk upah dan pos GIT). Pada harga PG Sell RM{gap0}/g, sistem memotong {gram} gram GAP. Hadiah rantai emas selamat diserahkan pada majlis konvokesyen sekolah anaknya.
 
 Tiga pengajaran dari kisah ini:
 Pertama, Kekayaan bukan tentang berapa banyak pendapatan yang Anda terima, tetapi tabiat kecil apa yang Anda hentikan.
@@ -8662,10 +8662,10 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Dengan bantuan anak, beliau membuat penebusan loket 999 5D berharga RM{jumlah0}. Pada harga GAP semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP. Loket emas tiba dengan pos berinsurans selamat di depan pintu rumahnya.
+Dengan bantuan anak, beliau membuat penebusan loket 999 5D berharga RM{jumlah0}. Pada harga PG Sell semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP. Loket emas tiba dengan pos berinsurans selamat di depan pintu rumahnya.
 
 Tiga pengajaran dari kisah ini:
 Pertama, Emas yang disimpan lama bertindak sebagai dana simpanan yang sentiasa bersedia memberi manfaat apabila diperlukan.
@@ -8702,10 +8702,10 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Farhan memilih Cincin 999 Gelombang Cinta 5D Hard Gold (RM{jumlah0} termasuk upah dan pos GIT). Pada harga GAP RM{gap0}/g, hanya {gram} gram GAP ditolak. Cincin padu rekaan eksklusif itu menjadi saksi ikatan pertunangan mereka tanpa sebarang hutang.
+Farhan memilih Cincin 999 Gelombang Cinta 5D Hard Gold (RM{jumlah0} termasuk upah dan pos GIT). Pada harga PG Sell RM{gap0}/g, hanya {gram} gram GAP ditolak. Cincin padu rekaan eksklusif itu menjadi saksi ikatan pertunangan mereka tanpa sebarang hutang.
 
 Tiga pengajaran dari kisah ini:
 Pertama, Permulaan sebuah keluarga yang bahagia dibina atas dasar pengurusan kewangan yang tidak membazir.
@@ -8742,7 +8742,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -8782,7 +8782,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -8822,7 +8822,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -8862,7 +8862,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -8902,7 +8902,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -8942,7 +8942,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -8982,7 +8982,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9022,7 +9022,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9062,7 +9062,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9102,7 +9102,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9126,7 +9126,7 @@ simpanemasfizikal.com`,
     no: 16,
     topik: "Emas 916",
     kategori: ``,
-    tajuk: `Kuasa Tebus Emas PG Jewel Ketika Harga GAP Cecah RM592/g`,
+    tajuk: `Kuasa Tebus Emas PG Jewel Ketika Harga PG Sell Cecah RM{gap0}/g`,
     tags: [],
     link: "",
     persona: `Shahril (Pelabur Emas) — Menikmati keuntungan modal beli masa RM380 tebus masa RM592.`,
@@ -9142,7 +9142,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9182,7 +9182,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9222,7 +9222,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9262,7 +9262,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9302,7 +9302,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9342,7 +9342,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9382,7 +9382,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9422,7 +9422,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9462,7 +9462,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9502,7 +9502,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9542,7 +9542,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9582,7 +9582,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9622,7 +9622,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9662,7 +9662,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
@@ -9702,7 +9702,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
-• Harga Semasa Buy GAP: RM{gap} / gram
+• Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.

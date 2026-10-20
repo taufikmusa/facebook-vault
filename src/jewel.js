@@ -2,7 +2,8 @@
 // Nilai asal setiap post disimpan dalam `vars`; harga GAP dikongsi (global). Simpanan bulanan tetap RM100.
 // Taufik tukar nilai di ruangan khas, post dikira semula di sini.
 
-export const lalaiJewel = { hargaGAP: "592", simpanan: "100", tarikh: "" }
+// Harga emas PG Sell (999) hari ini: baki gram GAP ditukar ke Cash Voucher pada harga ini bila tebus di PG Jewel
+export const lalaiJewel = { hargaGAP: "588", simpanan: "100", tarikh: "Selasa, 20 Oktober 2026" }
 
 const nombor = v => {
   const n = parseFloat(String(v ?? "").replace(/,/g, ""))
@@ -25,7 +26,8 @@ export function kira(vars, global) {
   return { hb, pos, upah, gap, jumlah, gram: gap ? jumlah / gap : 0 }
 }
 
-export function renderJewel(s, ubahan, global) {
+// Slot dalam teks (post dan tajuk) diganti nilai semasa
+export function renderJewel(s, ubahan, global, teks) {
   const vars = { ...s.vars, ...(ubahan || {}) }
   const k = kira(vars, global)
   const produk = String(vars.produk || "")
@@ -40,7 +42,7 @@ export function renderJewel(s, ubahan, global) {
     gram: k.gram.toFixed(4),
     simpan: format(nombor(lalaiJewel.simpanan), 0),   // tetap RM100, tak diubah dari panel
   }
-  let tpl = s.post
+  let tpl = teks ?? s.post
   // Post yang tak sebut upah: bila kos upah diisi, tambah "(termasuk upah RM...)" pada baris harga barang
   if (k.upah > 0 && !/\{upah0?\}/.test(tpl)) {
     tpl = tpl.replace(/^(• Harga Barang Kemas: RM\{hb\})$/m, `$1 (termasuk upah RM${val.upah})`)
