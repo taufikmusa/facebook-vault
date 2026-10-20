@@ -7330,7 +7330,7 @@ PG00359605`,
     tags: [],
     link: "",
     persona: `Wanita berkerjaya yang mahu ganjaran diri tanpa mengganggu bajet komitmen bulanan.`,
-    vars: { produk: `999/24K Gold Ring Gelombang Cinta PGJR181413 (5D Hard Gold, ~2.72g)`, hargaBarang: 1653, pos: 10, upah: 137 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik cincin emas 999 rekaan moden kena keluar duit tunai beribu ringgit sekali gus.
 Hakikatnya, wanita ini miliki Cincin Gelombang Cinta idaman tanpa sentuh gaji bersihnya sesen pun.
 
@@ -7370,7 +7370,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Seorang suami yang mahu membahagiakan isteri sempena ulang tahun perkahwinan ke-10.`,
-    vars: { produk: `916/22K Gold Bangle Eksklusif PG Jewel (~10.3g)`, hargaBarang: 6251, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai suami runsing bila tiba tarikh ulang tahun perkahwinan sebab bajet hadiah selalu lesap.
 Suami ini hadiahkan bangle emas 916 bernilai RM{jumlah0} tanpa perlu berhutang atau buat pinjaman peribadi.
 
@@ -7385,7 +7385,7 @@ Berikut adalah perincian pengiraan untuk {produk}:
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Dengan harga PG Sell RM{gap0}/gram, sistem hanya tolak 10.576 gram daripada akaun GAP beliau untuk menjana Cash Voucher RM{jumlah0}. Bangle selamat sampai sebelum hari istimewa.
+Dengan harga PG Sell RM{gap0}/gram, sistem hanya tolak {gram} gram daripada akaun GAP beliau untuk menjana Cash Voucher RM{jumlah0}. Bangle selamat sampai sebelum hari istimewa.
 
 Tiga pengajaran dari kisah ini:
 Pertama, Hadiah terbaik untuk pasangan adalah hadiah yang nilainya berkembang mengikut peredaran masa.
@@ -7410,7 +7410,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Pemuda bujang yang sedang membuat persiapan melamar pasangan.`,
-    vars: { produk: `999/24K Gold Ring Classic Solitaire 5D (~1.98g)`, hargaBarang: 1190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Kerap kali duit hantaran kahwin bocor hanya disebabkan kos cincin merisik yang melambung.
 Pemuda ini tempah cincin emas 999 tulen hanya dengan menolak 2 gram simpanan GAP miliknya.
 
@@ -7450,7 +7450,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Empat orang adik-beradik yang ingin membalas jasa ibu tersayang.`,
-    vars: { produk: `916/22K Gold Necklace PG Jewel (~4.1g)`, hargaBarang: 2490, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Bila nak berkongsi beli hadiah untuk ibu bapa, masalah paling kerap timbul adalah bajet adik-beradik tak sekata.
 Empat beradik ini sepakat gabungkan gram GAP untuk hadiahkan seutas rantai leher emas 916 buat ibu mereka.
 
@@ -7490,7 +7490,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Seorang eksekutif wanita yang baru dinaikkan pangkat.`,
-    vars: { produk: `999/24K Gold Pendant Bunga Raya 5D (~1.48g)`, hargaBarang: 880, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai orang reward diri dengan beli beg jenama yang nilainya jatuh 50 peratus sebaik keluar kedai.
 Wanita ini raikan kenaikan pangkatnya dengan loket emas 999 yang nilainya makin naik setiap tahun.
 
@@ -7530,7 +7530,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menyelamatkan duit belanja harian daripada tiris.).`,
-    vars: { produk: `Cincin Belah Rotan 916 (PG Jewel)`, hargaBarang: 970, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7570,7 +7570,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mengelak caj faedah kad kredit 18% setahun.).`,
-    vars: { produk: `Gelang Tangan Rantai Pasir 916 (PG Jewel)`, hargaBarang: 3190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7610,7 +7610,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menikmati spread terendah 13% berbanding 30% kedai luar.).`,
-    vars: { produk: `Gelang Tangan Sauh Padu 916 (PG Jewel)`, hargaBarang: 4790, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7650,7 +7650,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mengunci hasil penat lelah syif malam kepada gram emas kekal.).`,
-    vars: { produk: `Cincin Mahkota 5D Hard Gold 999 (PG Jewel)`, hargaBarang: 1740, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7690,7 +7690,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menikmati keuntungan modal kenaikan harga emas dunia.).`,
-    vars: { produk: `Cincin Infinity Loop 916 (PG Jewel)`, hargaBarang: 1440, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7730,7 +7730,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menjual gram mengikut pecahan tepat tanpa lebur jongkong 10g.).`,
-    vars: { produk: `Cincin Belah Rotan Ukir 999 (PG Jewel)`, hargaBarang: 1240, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7770,7 +7770,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Teknologi 5D membolehkan perhiasan 999 padu dan ringan.).`,
-    vars: { produk: `Cincin Pintal 5D Hard Gold 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7810,7 +7810,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Memulakan perkahwinan tanpa bebanan pinjaman peribadi.).`,
-    vars: { produk: `Sepasang Cincin Nikah 916 (PG Jewel)`, hargaBarang: 2790, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7850,7 +7850,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kos upah telus tanpa manipulasi penimbang.).`,
-    vars: { produk: `Rantai Tangan Biji Sawi 916 (PG Jewel)`, hargaBarang: 3090, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7890,7 +7890,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Tanda penghargaan suami atas pengorbanan isteri melahirkan zuriat.).`,
-    vars: { produk: `Gelang Kaki Loceng 916 (PG Jewel)`, hargaBarang: 1490, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7930,7 +7930,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mengelak wang modal perniagaan terpakai untuk belanja peribadi.).`,
-    vars: { produk: `Rantai Leher Pintal 916 (PG Jewel)`, hargaBarang: 3790, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -7970,7 +7970,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Memahami garis panduan zakat uruf emas perhiasan mengikut negeri.).`,
-    vars: { produk: `Gelang Tangan Lipan Padu 916 (PG Jewel)`, hargaBarang: 5490, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8010,7 +8010,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menampilkan gaya profesional tanpa membazirkan gaji bulanan.).`,
-    vars: { produk: `Bangle Pintal Twist 916 (PG Jewel)`, hargaBarang: 5190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8050,7 +8050,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menghapuskan risiko keselamatan membawa wang tunai ke kedai.).`,
-    vars: { produk: `Cincin Belah Rotan Polos 999 (PG Jewel)`, hargaBarang: 1090, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8090,7 +8090,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mendidik generasi muda celik aset fizikal sejak usia belia.).`,
-    vars: { produk: `Cincin Rama-Rama 5D 999 (PG Jewel)`, hargaBarang: 1040, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8130,7 +8130,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Ketahanan struktur molekul emas 999 berteknologi elektroforming moden.).`,
-    vars: { produk: `Cincin Anyaman 5D 999 (PG Jewel)`, hargaBarang: 1670, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8170,7 +8170,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Nilai ringgit menyusut tetapi nilai gram emas sentiasa meningkat.).`,
-    vars: { produk: `Rantai Tangan Coco Padu 916 (PG Jewel)`, hargaBarang: 4190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8210,7 +8210,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menukarkan wang bonus tahunan kepada aset warisan keluarga.).`,
-    vars: { produk: `Gelang Bangle Flora 916 (PG Jewel)`, hargaBarang: 3590, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8250,7 +8250,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menolak kerugian spread dan caj upah simpan ar-rahnu yang tinggi.).`,
-    vars: { produk: `Rantai Leher Gajah 916 (PG Jewel)`, hargaBarang: 4890, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8290,7 +8290,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Emas perhiasan PG Jewel mudah dicairkan dengan spread telus.).`,
-    vars: { produk: `Gelang Tangan Jagung 916 (PG Jewel)`, hargaBarang: 3390, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8330,7 +8330,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kemandirian kewangan suri rumah tanpa bergantung 100% pada nafkah.).`,
-    vars: { produk: `Cincin Reben 5D 999 (PG Jewel)`, hargaBarang: 1340, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8370,7 +8370,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kesederhanaan rekaan yang mengekalkan nilai emas padu.).`,
-    vars: { produk: `Cincin Belah Rotan Klasik 916 (PG Jewel)`, hargaBarang: 840, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8410,7 +8410,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Spread 13% PG Jewel menyelamatkan ribuan ringgit penyimpan.).`,
-    vars: { produk: `Rantai Tangan Sauh Tebal 916 (PG Jewel)`, hargaBarang: 5790, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8450,7 +8450,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kenang-kenangan bermakna yang tidak lusuh ditelan zaman.).`,
-    vars: { produk: `Loket Bintang 5D 999 (PG Jewel)`, hargaBarang: 1590, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8490,7 +8490,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menghentikan tabiat belanja impulsif dan membina masa depan kewangan.).`,
-    vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
 Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
@@ -8530,11 +8530,11 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Azman, juruteknik kilang di Shah Alam yang ingin membahagiakan isteri sempena ulang tahun perkahwinan ke-10.`,
-    vars: { produk: `916/22K Gold Bangle Eksklusif PG Jewel (~10.3g)`, hargaBarang: 6251, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai suami buntu bila tiba tarikh ulang tahun perkahwinan sebab bajet hadiah selalu lesap ditelan komitmen.
 Hakikatnya, lelaki ini hadiahkan Bangle Emas 916 bernilai RM{jumlah0} tanpa perlu sentuh simpanan kecemasan.
 
-Setiap kali lalu depan kedai emas, Azman perasan isteri cuma menjeling dari jauh. Tak pernah minta sebab faham komitmen dapur dan anak-anak. Bila semak harga bangle emas 916 padu, jumlahnya mencecah RM{jumlah0}. Bagi seorang juruteknik, nak keluar tunai RM6,000 sekaligus ibarat mustahil. Kalau buat pinjaman peribadi atau kad kredit, bunga faedah menimbun. Jiwa tak tenang.
+Setiap kali lalu depan kedai emas, Azman perasan isteri cuma menjeling dari jauh. Tak pernah minta sebab faham komitmen dapur dan anak-anak. Bila semak harga bangle emas 916 padu, jumlahnya mencecah RM{jumlah0}. Bagi seorang juruteknik, nak keluar tunai RM{jumlah0} sekaligus ibarat mustahil. Kalau buat pinjaman peribadi atau kad kredit, bunga faedah menimbun. Jiwa tak tenang.
 
 Dua tahun lalu, Azman mula mengunci bajet belanja bocor. Setiap kali dapat elaun OT serendah RM150 atau RM200, beliau terus tukar jadi gram dalam Akaun Emas GAP Public Gold. Dua minggu sebelum ulang tahun ke-10, beliau log masuk portal PG Jewel dan memilih bangle emas 916 yang diidamkan isterinya.
 
@@ -8570,9 +8570,9 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Siti, kerani akaun di Kuala Lumpur yang ingin membalas jasa ibu di kampung halaman.`,
-    vars: { produk: `999/24K Gold Ring Bunga Raya 5D Hard Gold (~2.05g)`, hargaBarang: 1350, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai anak berniat nak belikan emas untuk ibu, tapi niat itu selalu tertangguh bertahun-tahun.
-Gadis ini sarungkan cincin emas 999 ke jari ibunya hanya dengan menolak 2.29 gram simpanan GAP.
+Gadis ini sarungkan cincin emas 999 ke jari ibunya hanya dengan menolak {gram} gram simpanan GAP.
 
 Setiap kali balik kampung di Perak, Siti melihat jari ibunya yang kasar membesarkan mereka adik-beradik tanpa seurat emas pun. Siti mahu beli cincin emas tulen 999, tapi gaji kerani RM2,200 di ibu kota membuatkan beliau selalu kekeringan wang di hujung bulan. Bila tengok harga cincin RM{jumlah0} di kedai biasa, beliau rasa terlalu jauh.
 
@@ -8610,7 +8610,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Amran, bapa kepada seorang anak perempuan yang berjaya berhenti merokok.`,
-    vars: { produk: `916/22K Gold Necklace PG Jewel (~3.45g)`, hargaBarang: 2240, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Lelaki ini bakar RM20 sehari selama sepuluh tahun tanpa rasa bersalah.
 Hari ini, duit yang sama bertukar menjadi seutas rantai leher emas 916 di leher anak perempuannya.
 
@@ -8650,7 +8650,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Puan Halimah, pesara guru yang mahu memiliki loket emas zikir untuk pemakaian harian.`,
-    vars: { produk: `999/24K Gold Pendant Kalimah 5D Hard Gold (~2.42g)`, hargaBarang: 1560, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai pesara takut nak sentuh duit simpanan hari tua walaupun untuk hajat peribadi yang baik.
 Pesara guru ini bawa pulang Loket Kalimah emas 999 tulen tanpa keluarkan duit pencen sesen pun.
 
@@ -8690,7 +8690,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Farhan, eksekutif muda yang mahu membuat kejutan merisik gadis pilihannya.`,
-    vars: { produk: `999/24K Gold Ring Gelombang Cinta PGJR181413 5D (~2.72g)`, hargaBarang: 1653, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai bakal pengantin runsing bila bajet cincin merisik sahaja menelan belanja sebulan gaji.
 Pemuda ini pinang gadis idamannya dengan Cincin Gelombang Cinta 999 tanpa sentuh duit tabung kahwin.
 
@@ -8730,7 +8730,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Kak Zaleha (Peniaga Nasi Lemak) — Menukar wang syiling jualan harian kepada gram emas GAP.`,
-    vars: { produk: `Rantai Tangan Sauh Padu 916 (PG Jewel)`, hargaBarang: 3490, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -8770,7 +8770,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Doktor Syahirah (Pegawai Perubatan) — Ganjaran penat lelah on-call bertahun-tahun tanpa usik simpanan.`,
-    vars: { produk: `Bangle Pintal Twist 916 (PG Jewel)`, hargaBarang: 4790, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -8810,7 +8810,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Pak Mat (Peneroka Felda) — Tanda kasih sayang meniti usia senja dengan aset emas abadi.`,
-    vars: { produk: `Cincin Belah Rotan Klasik 916 (PG Jewel)`, hargaBarang: 940, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -8850,7 +8850,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Nizam (Penghantar Makanan) — Mengunci duit tip harian pelanggan ke dalam gram emas GAP.`,
-    vars: { produk: `Cincin Belah Rotan Polos 999 (PG Jewel)`, hargaBarang: 1140, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -8890,7 +8890,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Puan Salmah (Penjawat Awam) — Mengelak wang bonus habis dibelanjakan untuk perhiasan rumah semata.`,
-    vars: { produk: `Gelang Tangan Lipan Padu 916 (PG Jewel)`, hargaBarang: 5590, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -8930,7 +8930,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Hafiz (Jurutera Perisian) — Penyelesaian patuh syariah tanpa ansuran riba kad kredit.`,
-    vars: { produk: `Cincin Lelaki Moden 5D 999 (PG Jewel)`, hargaBarang: 1840, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -8970,7 +8970,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Cikgu Rohani (Guru Sekolah Rendah) — Strategi disiplin potongan RM150 sebulan ke dalam akaun GAP.`,
-    vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9010,7 +9010,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Farid (Pegawai Bank) — Memahami bahaya bunga pinjaman dan memilih kumpul gram GAP.`,
-    vars: { produk: `Rantai Leher Pintal Padu 916 (PG Jewel)`, hargaBarang: 4190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9050,7 +9050,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Puan Noor (Ibu Tunggal) — Aset kecemasan yang dicairkan bila anak memerlukan yuran kolej.`,
-    vars: { produk: `Rantai Leher Halus 916 (PG Jewel)`, hargaBarang: 2790, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9090,7 +9090,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Ustaz Danial (Penceramah Bebas) — Menghidupkan sunnah mas kahwin bernilai emas tulen.`,
-    vars: { produk: `Cincin Belah Rotan Tulen 999 (PG Jewel)`, hargaBarang: 1190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9130,7 +9130,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Shahril (Pelabur Emas) — Menikmati keuntungan modal beli masa RM380 tebus masa RM592.`,
-    vars: { produk: `Gelang Bangle Flora 916 (PG Jewel)`, hargaBarang: 3090, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9170,7 +9170,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Kak Yah (Peniaga Pasar) — Berhenti membayar upah simpan ar-rahnu dan miliki emas secara mutlak.`,
-    vars: { produk: `Rantai Leher Gajah Padu 916 (PG Jewel)`, hargaBarang: 6090, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9210,7 +9210,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Aiman (Pelajar Praktikal) — Disiplin pelajar universiti menyimpan RM50 sebulan dalam GAP.`,
-    vars: { produk: `Loket Bunga Raya 5D 999 (PG Jewel)`, hargaBarang: 880, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9250,7 +9250,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Puan Suhana (Pengurus Pemasaran) — Mengalihkan nafsu membeli beg fesyen yang susut nilai kepada aset emas.`,
-    vars: { produk: `Gelang Tangan Jagung 916 (PG Jewel)`, hargaBarang: 3890, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9290,7 +9290,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Encik Razak (Pengurus Logistik) — Memulakan tabung emas anak sejak hari pertama dilahirkan.`,
-    vars: { produk: `Gelang Kaki Kanak-Kanak 916 (PG Jewel)`, hargaBarang: 2190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9330,7 +9330,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Mira (Pereka Grafik Bebas) — Mengelak pendapatan tidak tetap habis dibelanjakan tanpa jejak.`,
-    vars: { produk: `Cincin 5D Hard Gold Moden 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9370,7 +9370,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Puan Wendy (Mualaf) — Tanda kesyukuran atas hidayah Islam dengan perhiasan emas suci.`,
-    vars: { produk: `Loket Kalimah Syahadah 999 (PG Jewel)`, hargaBarang: 1340, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9410,7 +9410,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Fadhil (Bakal Pengantin) — Menghapuskan kerumitan meredah kesesakan jalan raya mencari cincin.`,
-    vars: { produk: `Cincin Nikah 5D 999 (PG Jewel)`, hargaBarang: 1690, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9450,7 +9450,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Hajah Kalsom (Usahawan) — Memahami batas uruf pemakaian perhiasan emas mengikut ketetapan syarak.`,
-    vars: { produk: `Gelang Tangan Lipan Tebal 916 (PG Jewel)`, hargaBarang: 7190, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9490,7 +9490,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Khairul (Pelajar Tingkatan 6) — Didikan bapa mengubah ketagihan beli item maya kepada aset nyata.`,
-    vars: { produk: `Rantai Leher Halus 916 (PG Jewel)`, hargaBarang: 2390, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9530,7 +9530,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Puan Anita (Suri Rumah) — Simbolik kesetiaan 25 tahun yang dizahirkan melalui emas fizikal.`,
-    vars: { produk: `Bangle Padu Ukir 916 (PG Jewel)`, hargaBarang: 6490, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9570,7 +9570,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Cikgu Azlan (Pendidik) — Penyatuan tabungan suami isteri untuk membina kekayaan bersama.`,
-    vars: { produk: `Rantai Tangan Coco Padu 916 (PG Jewel)`, hargaBarang: 4490, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9610,7 +9610,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Nadia (Graduan) — Memulakan langkah ke alam pekerjaan dengan aset emas pertama.`,
-    vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9650,7 +9650,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Encik Borhan (Kontraktor) — Kelebihan sistem GAP yang membolehkan tebusan nilai tepat perpuluhan.`,
-    vars: { produk: `Rantai Tangan Sauh 916 (PG Jewel)`, hargaBarang: 4990, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
@@ -9690,7 +9690,7 @@ simpanemasfizikal.com`,
     tags: [],
     link: "",
     persona: `Taufik Musa (Dealer Public Gold) — Visi kepimpinan membimbing masyarakat mengunci kekayaan dalam emas.`,
-    vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
+    vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
 Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
