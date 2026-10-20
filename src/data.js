@@ -7332,13 +7332,20 @@ PG00359605`,
     persona: `Wanita berkerjaya yang mahu ganjaran diri tanpa mengganggu bajet komitmen bulanan.`,
     vars: { produk: `999/24K Gold Ring Gelombang Cinta PGJR181413 (5D Hard Gold, ~2.72g)`, hargaBarang: 1653, pos: 10, upah: 137 },
     post: `Ramai sangka nak bawa balik cincin emas 999 rekaan moden kena keluar duit tunai beribu ringgit sekali gus.
-Hakikatnya, wanita ini miliki Cincin Gelombang Cinta idaman tanpa sentuh gaji bersihnya sesen pun.
 
-Setiap hujung bulan, keinginan nak beli cincin emas tulen terbantut bila tengok tanda harga RM{hb0}. Kalau bayar tunai, bajet dapur lari. Kalau tangguh, harga emas makin mendaki. Dilema ini selesai bila beliau guna ciri penebusan barang kemas Akaun Emas GAP.
+Hakikatnya, anda boleh miliki Cincin Gelombang Cinta idaman tanpa sentuh gaji bersih anda sesen pun.
 
-Simpanan RM{simpan} yang dikumpul setiap bulan ditukar terus kepada Cash Voucher sistem Public Gold pada kadar harga PG Sell semasa RM{gap0}/gram.
+Setiap hujung bulan, keinginan nak beli cincin emas tulen terbantut bila tengok tanda harga RM{hb0}.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kalau bayar tunai, bajet dapur lari. Kalau tangguh, harga emas makin mendaki.
+
+Dilema ni boleh selesai dengan ciri penebusan barang kemas Akaun Emas GAP.
+
+Simpanan RM{simpan} yang anda kumpul setiap bulan boleh ditukar terus kepada Cash Voucher sistem Public Gold pada kadar harga PG Sell semasa RM{gap0}/gram.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7347,12 +7354,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Dengan jumlah belian RM{jumlah0} (termasuk upah RM{upah0} dan pos RM{pos0}), sistem hanya tolak {gram} gram GAP. Cincin emas 999 dipos selamat ke rumah tanpa bayar tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Barang kemas bukan belanja hangus, tetapi pemindahan tunai kepada aset fizikal bernilai tinggi.
 Kedua, Menabung sedikit demi sedikit secara konsisten jauh lebih berkuasa daripada menunggu duit berkepuk.
 Ketiga, Akaun GAP memberi Anda kuasa memilih, kumpul gram pada harga rendah dan tebus perhiasan bila-bila masa.
 
-Korang lebih suka tebus gram GAP jadi jongkong emas atau cincin perhiasan macam ni? 👇
+Anda lebih suka tebus gram GAP jadi jongkong emas atau cincin perhiasan macam ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7372,22 +7379,27 @@ simpanemasfizikal.com`,
     persona: `Seorang suami yang mahu membahagiakan isteri sempena ulang tahun perkahwinan ke-10.`,
     vars: { produk: `916/22K Gold Bangle Eksklusif PG Jewel (~10.3g)`, hargaBarang: 6251, pos: 10 },
     post: `Ramai suami runsing bila tiba tarikh ulang tahun perkahwinan sebab bajet hadiah selalu lesap.
-Suami ini hadiahkan bangle emas 916 bernilai RM{jumlah0} tanpa perlu berhutang atau buat pinjaman peribadi.
 
-Selama setahun, beliau disiplin mengasingkan RM200 ke RM300 setiap bulan masuk ke Akaun Emas GAP tanpa pengetahuan isteri. Beliau tahu jika simpan dalam bank, duit itu pasti terpakai untuk baiki kereta atau beli barang bukan keperluan.
+Hadiahkan isteri bangle emas 916 bernilai RM{jumlah0} tanpa perlu berhutang atau buat pinjaman peribadi.
 
-Dua minggu sebelum tarikh ulang tahun, beliau log masuk portal PG Jewel dan memilih bangle emas 916 idaman isterinya.
+Caranya mudah: asingkan RM200 ke RM300 setiap bulan masuk ke Akaun Emas GAP, senyap-senyap tanpa pengetahuan isteri.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kalau disimpan dalam bank, duit tu pasti terpakai untuk baiki kereta atau beli barang bukan keperluan.
+
+Dua minggu sebelum tarikh ulang tahun, log masuk portal PG Jewel dan pilih bangle emas 916 idaman isteri anda.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Dengan harga PG Sell RM{gap0}/gram, sistem hanya tolak {gram} gram daripada akaun GAP beliau untuk menjana Cash Voucher RM{jumlah0}. Bangle selamat sampai sebelum hari istimewa.
+Dengan harga PG Sell RM{gap0}/gram, sistem hanya tolak {gram} gram daripada akaun GAP anda untuk menjana Cash Voucher RM{jumlah0}. Bangle selamat sampai sebelum hari istimewa.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Hadiah terbaik untuk pasangan adalah hadiah yang nilainya berkembang mengikut peredaran masa.
 Kedua, Kerahsiaan tabungan emas GAP adalah benteng terbaik mengelak wang kecemasan disalah guna.
 Ketiga, Anda tidak memerlukan modal besar sekali gus untuk membina momen bahagia, cukup dengan tabungan gram yang konsisten.
@@ -7412,13 +7424,18 @@ simpanemasfizikal.com`,
     persona: `Pemuda bujang yang sedang membuat persiapan melamar pasangan.`,
     vars: { produk: `999/24K Gold Ring Classic Solitaire 5D (~1.98g)`, hargaBarang: 1190, pos: 10 },
     post: `Kerap kali duit hantaran kahwin bocor hanya disebabkan kos cincin merisik yang melambung.
-Pemuda ini tempah cincin emas 999 tulen hanya dengan menolak 2 gram simpanan GAP miliknya.
 
-Melihat harga cincin di kedai luar yang cecah RM1,500 dengan upah tinggi merisaukan beliau. Duit simpanan kenduri tidak boleh diusik. Mujur sejak mula bekerja, beliau sudah menabung emas dalam GAP setiap kali dapat gaji.
+Tempah cincin emas 999 tulen hanya dengan menolak {gram} gram simpanan GAP anda.
 
-Beliau memilih cincin 999 5D Hard Gold berharga RM{jumlah0} termasuk upah dan pos berinsurans.
+Harga cincin di kedai luar yang cecah RM1,500 dengan upah tinggi pasti merisaukan anda.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Duit simpanan kenduri tak boleh diusik.
+
+Sebab itu bagus kalau sejak mula bekerja, anda menabung emas dalam GAP setiap kali dapat gaji.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7427,12 +7444,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Pada harga PG Sell RM{gap0}/gram, sistem hanya memotong {gram} gram GAP. Cincin emas tulen berkilau selamat berada di tangan tanpa menjejaskan wang hantaran.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Langkah perkahwinan yang berkat bermula dengan pengurusan kewangan yang bijak tanpa hutang.
 Kedua, Emas 999 5D Hard Gold memberi rupa mewah dan ketahanan padu pada berat yang jimat.
 Ketiga, Mulakan tabungan emas seawal hari pertama bekerja supaya Anda bersedia menghadapi fasa besar kehidupan.
 
-Korang rasa wajar tak anak muda mula simpan emas GAP sebelum fikir nak kahwin? 👇
+Anda rasa wajar tak anak muda mula simpan emas GAP sebelum fikir nak kahwin? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7452,27 +7469,32 @@ simpanemasfizikal.com`,
     persona: `Empat orang adik-beradik yang ingin membalas jasa ibu tersayang.`,
     vars: { produk: `916/22K Gold Necklace PG Jewel (~4.1g)`, hargaBarang: 2490, pos: 10 },
     post: `Bila nak berkongsi beli hadiah untuk ibu bapa, masalah paling kerap timbul adalah bajet adik-beradik tak sekata.
-Empat beradik ini sepakat gabungkan gram GAP untuk hadiahkan seutas rantai leher emas 916 buat ibu mereka.
 
-Ada yang baru mula kerja, ada yang tanggungan ramai. Kalau minta kumpul tunai RM600 seorang secara serentak, pasti ada yang terbeban. Jadi mereka sepakat menyimpan RM{simpan} setiap bulan dalam akaun GAP masing-masing selama beberapa bulan.
+Daripada berbelah bahagi, sepakat gabungkan gram GAP untuk hadiahkan seutas rantai leher emas 916 buat ibu.
 
-Cukup masa, mereka menukarkan jumlah gram tersebut untuk melunaskan pesanan rantai emas 916 bernilai RM{jumlah0} di PG Jewel.
+Ada yang baru mula kerja, ada yang tanggungan ramai. Kalau minta kumpul tunai RM600 seorang secara serentak, pasti ada yang terbeban.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Jadi, simpan RM{simpan} setiap bulan dalam akaun GAP masing-masing selama beberapa bulan.
+
+Bila cukup masa, tukarkan jumlah gram tersebut untuk melunaskan pesanan rantai emas 916 di PG Jewel.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Pada kadar RM{gap0}/g, hanya {gram} gram GAP diperlukan secara keseluruhan (sekitar 1 gram lebih sahaja bagi setiap orang). Ibu mereka menitiskan air mata gembira menerima rantai emas padu.
+Pada kadar RM{gap0}/g, hanya {gram} gram GAP diperlukan secara keseluruhan (sekitar 1 gram lebih sahaja bagi setiap orang). Ibu anda pasti menitiskan air mata gembira menerima rantai emas padu.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Bakti kepada ibu bapa menjadi mudah apabila dirancang secara tersusun dan berhemah.
 Kedua, Nilai emas kekal terpelihara sebagai kenangan abadi berbanding barangan elektrik atau pakaian.
 Ketiga, Dengan akaun GAP, Anda boleh merancang hadiah bernilai tinggi bersama keluarga tanpa membebankan sesiapa.
 
-Pernah tak korang pakat adik-beradik kumpul emas untuk hadiahkan pada ibu? 👇
+Pernah tak adik-beradik anda pakat kumpul emas untuk hadiahkan pada ibu? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7491,14 +7513,19 @@ simpanemasfizikal.com`,
     link: "",
     persona: `Seorang eksekutif wanita yang baru dinaikkan pangkat.`,
     vars: { produk: `916/22K Gold Bracelet PGJB182376A 1C (8.18g)`, hargaBarang: 4668, pos: 10, upah: 95 },
-    post: `Ramai orang reward diri dengan beli beg jenama yang nilainya jatuh 50 peratus sebaik keluar kedai.
-Wanita ini raikan kenaikan pangkatnya dengan gelang emas 916 yang nilainya makin naik setiap tahun.
+    post: `Ramai orang reward diri dengan beli beg jenama yang nilainya jatuh sebaik keluar kedai.
 
-Selepas berhempas-pulas bekerja, beliau mahu tanda ingatan fizikal atas kejayaannya. Namun beliau enggan terjebak membeli barangan fesyen yang akhirnya terperap dalam almari. Beliau mahu aset yang boleh dipandang dan bernilai kekal.
+Raikan kenaikan pangkat anda dengan gelang emas 916 yang nilainya makin naik di masa depan
 
-Beliau menebus gelang emas 916 bernilai RM{jumlah0} terus dari akaun GAP beliau.
+Selepas berhempas-pulas bekerja, emas jadi ingatan fizikal atas kejayaan anda.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Jangan terjebak membeli barangan fesyen yang akhirnya terperap dalam almari.
+
+Tukar jadi aset yang boleh dipandang dan bernilai kekal.
+
+Tahu tak anda kini boleh tebus gelang emas 916 bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7507,12 +7534,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem hanya menolak {gram} gram GAP pada harga RM{gap0}/gram. Tiada rasa bersalah berbelanja, kerana tunai bertukar menjadi emas fizikal yang sentiasa bernilai.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Self-reward sebenar adalah ganjaran yang membina kekayaan, bukan menambah liabiliti.
 Kedua, Emas perhiasan 916 memberi kepuasan emosi pemakaian sekaligus berfungsi sebagai dana kecemasan.
 Ketiga, Tukarkan tabiat berbelanja kepada tabiat mengumpul aset emas bersama Public Gold.
 
-Korang kalau dapat bonus atau naik pangkat, reward diri dengan apa selalunya? 👇
+Anda kalau dapat bonus atau naik pangkat, reward diri dengan apa selalunya? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7532,13 +7559,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menyelamatkan duit belanja harian daripada tiris.).`,
     vars: { produk: `Cincin Belah Rotan 916 (PG Jewel)`, hargaBarang: 970, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menyelamatkan duit belanja harian daripada tiris. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Selamatkan duit belanja harian anda daripada tiris.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7547,12 +7579,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7572,13 +7604,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mengelak caj faedah kad kredit 18% setahun.).`,
     vars: { produk: `Gelang Tangan Rantai Pasir 916 (PG Jewel)`, hargaBarang: 3190, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Mengelak caj faedah kad kredit 18% setahun. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Elakkan caj faedah kad kredit 18% setahun.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7587,12 +7624,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7612,13 +7649,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menikmati spread terendah 13% berbanding 30% kedai luar.).`,
     vars: { produk: `Gelang Tangan Sauh Padu 916 (PG Jewel)`, hargaBarang: 4790, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menikmati spread terendah 13% berbanding 30% kedai luar. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Nikmati spread terendah 13% berbanding 30% di kedai luar.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7627,12 +7669,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7652,13 +7694,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mengunci hasil penat lelah syif malam kepada gram emas kekal.).`,
     vars: { produk: `Cincin Mahkota 5D Hard Gold 999 (PG Jewel)`, hargaBarang: 1740, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Mengunci hasil penat lelah syif malam kepada gram emas kekal. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kunci hasil penat lelah syif malam anda kepada gram emas yang kekal.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7667,12 +7714,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7692,13 +7739,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menikmati keuntungan modal kenaikan harga emas dunia.).`,
     vars: { produk: `Cincin Infinity Loop 916 (PG Jewel)`, hargaBarang: 1440, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menikmati keuntungan modal kenaikan harga emas dunia. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Nikmati keuntungan modal daripada kenaikan harga emas dunia.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7707,12 +7759,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7732,13 +7784,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menjual gram mengikut pecahan tepat tanpa lebur jongkong 10g.).`,
     vars: { produk: `Cincin Belah Rotan Ukir 999 (PG Jewel)`, hargaBarang: 1240, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menjual gram mengikut pecahan tepat tanpa lebur jongkong 10g. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Tebus gram mengikut pecahan tepat tanpa perlu lebur jongkong 10g.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7747,12 +7804,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7772,13 +7829,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Teknologi 5D membolehkan perhiasan 999 padu dan ringan.).`,
     vars: { produk: `Cincin Pintal 5D Hard Gold 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Teknologi 5D membolehkan perhiasan 999 padu dan ringan. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Teknologi 5D membolehkan perhiasan 999 padu dan ringan.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7787,12 +7849,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7812,13 +7874,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Memulakan perkahwinan tanpa bebanan pinjaman peribadi.).`,
     vars: { produk: `Sepasang Cincin Nikah 916 (PG Jewel)`, hargaBarang: 2790, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Memulakan perkahwinan tanpa bebanan pinjaman peribadi. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Mulakan perkahwinan tanpa bebanan pinjaman peribadi.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7827,12 +7894,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7852,13 +7919,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kos upah telus tanpa manipulasi penimbang.).`,
     vars: { produk: `Rantai Tangan Biji Sawi 916 (PG Jewel)`, hargaBarang: 3090, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Kos upah telus tanpa manipulasi penimbang. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kos upah telus tanpa manipulasi penimbang.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7867,12 +7939,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7892,13 +7964,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Tanda penghargaan suami atas pengorbanan isteri melahirkan zuriat.).`,
     vars: { produk: `Gelang Kaki Loceng 916 (PG Jewel)`, hargaBarang: 1490, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Tanda penghargaan suami atas pengorbanan isteri melahirkan zuriat. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Zahirkan penghargaan atas pengorbanan isteri melahirkan zuriat.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7907,12 +7984,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7932,13 +8009,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mengelak wang modal perniagaan terpakai untuk belanja peribadi.).`,
     vars: { produk: `Rantai Leher Pintal 916 (PG Jewel)`, hargaBarang: 3790, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Mengelak wang modal perniagaan terpakai untuk belanja peribadi. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Elakkan wang modal perniagaan terpakai untuk belanja peribadi.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7947,12 +8029,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -7972,13 +8054,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Memahami garis panduan zakat uruf emas perhiasan mengikut negeri.).`,
     vars: { produk: `Gelang Tangan Lipan Padu 916 (PG Jewel)`, hargaBarang: 5490, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Memahami garis panduan zakat uruf emas perhiasan mengikut negeri. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Fahami garis panduan zakat uruf emas perhiasan mengikut negeri anda.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -7987,12 +8074,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8012,13 +8099,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menampilkan gaya profesional tanpa membazirkan gaji bulanan.).`,
     vars: { produk: `Bangle Pintal Twist 916 (PG Jewel)`, hargaBarang: 5190, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menampilkan gaya profesional tanpa membazirkan gaji bulanan. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Tampil gaya profesional tanpa membazirkan gaji bulanan.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8027,12 +8119,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8052,13 +8144,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menghapuskan risiko keselamatan membawa wang tunai ke kedai.).`,
     vars: { produk: `Cincin Belah Rotan Polos 999 (PG Jewel)`, hargaBarang: 1090, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menghapuskan risiko keselamatan membawa wang tunai ke kedai. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Hapuskan risiko keselamatan membawa wang tunai ke kedai.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8067,12 +8164,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8092,13 +8189,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Mendidik generasi muda celik aset fizikal sejak usia belia.).`,
     vars: { produk: `Cincin Rama-Rama 5D 999 (PG Jewel)`, hargaBarang: 1040, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Mendidik generasi muda celik aset fizikal sejak usia belia. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Didik generasi muda celik aset fizikal sejak usia belia.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8107,12 +8209,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8132,13 +8234,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Ketahanan struktur molekul emas 999 berteknologi elektroforming moden.).`,
     vars: { produk: `Cincin Anyaman 5D 999 (PG Jewel)`, hargaBarang: 1670, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Ketahanan struktur molekul emas 999 berteknologi elektroforming moden. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Ketahanan struktur molekul emas 999 berteknologi elektroforming moden.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8147,12 +8254,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8172,13 +8279,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Nilai ringgit menyusut tetapi nilai gram emas sentiasa meningkat.).`,
     vars: { produk: `Rantai Tangan Coco Padu 916 (PG Jewel)`, hargaBarang: 4190, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Nilai ringgit menyusut tetapi nilai gram emas sentiasa meningkat. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Nilai ringgit menyusut tetapi nilai gram emas sentiasa meningkat.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8187,12 +8299,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8212,13 +8324,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menukarkan wang bonus tahunan kepada aset warisan keluarga.).`,
     vars: { produk: `Gelang Bangle Flora 916 (PG Jewel)`, hargaBarang: 3590, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menukarkan wang bonus tahunan kepada aset warisan keluarga. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Tukarkan wang bonus tahunan kepada aset warisan keluarga.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8227,12 +8344,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8252,13 +8369,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menolak kerugian spread dan caj upah simpan ar-rahnu yang tinggi.).`,
     vars: { produk: `Rantai Leher Gajah 916 (PG Jewel)`, hargaBarang: 4890, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menolak kerugian spread dan caj upah simpan ar-rahnu yang tinggi. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Tolak kerugian spread dan caj upah simpan ar-rahnu yang tinggi.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8267,12 +8389,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8292,13 +8414,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Emas perhiasan PG Jewel mudah dicairkan dengan spread telus.).`,
     vars: { produk: `Gelang Tangan Jagung 916 (PG Jewel)`, hargaBarang: 3390, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Emas perhiasan PG Jewel mudah dicairkan dengan spread telus. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Emas perhiasan PG Jewel mudah dicairkan dengan spread telus.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8307,12 +8434,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8332,13 +8459,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kemandirian kewangan suri rumah tanpa bergantung 100% pada nafkah.).`,
     vars: { produk: `Cincin Reben 5D 999 (PG Jewel)`, hargaBarang: 1340, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Kemandirian kewangan suri rumah tanpa bergantung 100% pada nafkah. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Bina kemandirian kewangan sebagai suri rumah tanpa bergantung 100% pada nafkah.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8347,12 +8479,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8372,13 +8504,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kesederhanaan rekaan yang mengekalkan nilai emas padu.).`,
     vars: { produk: `Cincin Belah Rotan Klasik 916 (PG Jewel)`, hargaBarang: 840, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Kesederhanaan rekaan yang mengekalkan nilai emas padu. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kesederhanaan rekaan yang mengekalkan nilai emas padu.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8387,12 +8524,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8412,13 +8549,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Spread 13% PG Jewel menyelamatkan ribuan ringgit penyimpan.).`,
     vars: { produk: `Rantai Tangan Sauh Tebal 916 (PG Jewel)`, hargaBarang: 5790, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Spread 13% PG Jewel menyelamatkan ribuan ringgit penyimpan. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Spread 13% PG Jewel menyelamatkan ribuan ringgit penyimpan.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8427,12 +8569,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8452,13 +8594,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Kenang-kenangan bermakna yang tidak lusuh ditelan zaman.).`,
     vars: { produk: `Loket Bintang 5D 999 (PG Jewel)`, hargaBarang: 1590, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Kenang-kenangan bermakna yang tidak lusuh ditelan zaman. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kenang-kenangan bermakna yang tidak lusuh ditelan zaman.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8467,12 +8614,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8492,13 +8639,18 @@ simpanemasfizikal.com`,
     persona: `Penyimpan emas yang bijak menguruskan kewangan (Menghentikan tabiat belanja impulsif dan membina masa depan kewangan.).`,
     vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
     post: `Ramai sangka nak dapat barang kemas idaman macam {produkNama} kena kumpul duit berkepuk.
-Hakikatnya, penyimpan ini tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersihnya.
 
-Setiap bulan duit dalam bank selalu susut tanpa sedar. Duit disimpan untuk beli emas sering terpakai untuk urusan lain. Menghentikan tabiat belanja impulsif dan membina masa depan kewangan. Namun sebaik mula menabung serendah RM{simpan} dalam GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh tebus emas tulen terus dari akaun GAP tanpa sentuh gaji bersih anda.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga RM{gap0}/gram.
+Duit dalam bank selalu susut tanpa sedar dan sering terpakai untuk urusan lain.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Hentikan tabiat belanja impulsif dan bina masa depan kewangan anda.
+
+Mulakan menabung serendah RM{simpan} dalam GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8507,12 +8659,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher RM{jumlah}. Emas fizikal selamat dihantar terus ke rumah tanpa bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Disiplin menukar wang tunai kepada gram emas adalah pelindung kekayaan terbaik.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti maksimum antara jongkong emas pelaburan dan perhiasan.
 Ketiga, Mulakan simpanan emas Anda hari ini bersama Public Gold untuk menikmati kebebasan kewangan jangka panjang.
 
-Korang dah semak berapa baki gram GAP korang hari ini? Boleh tebus {produkNama} ni! 👇
+Dah semak berapa baki gram GAP anda hari ini? Boleh tebus {produkNama} ni! 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8532,27 +8684,34 @@ simpanemasfizikal.com`,
     persona: `Azman, juruteknik kilang di Shah Alam yang ingin membahagiakan isteri sempena ulang tahun perkahwinan ke-10.`,
     vars: { produk: `916/22K Gold Bangle Eksklusif PG Jewel (~10.3g)`, hargaBarang: 6251, pos: 10 },
     post: `Ramai suami buntu bila tiba tarikh ulang tahun perkahwinan sebab bajet hadiah selalu lesap ditelan komitmen.
-Hakikatnya, lelaki ini hadiahkan Bangle Emas 916 bernilai RM{jumlah0} tanpa perlu sentuh simpanan kecemasan.
 
-Setiap kali lalu depan kedai emas, Azman perasan isteri cuma menjeling dari jauh. Tak pernah minta sebab faham komitmen dapur dan anak-anak. Bila semak harga bangle emas 916 padu, jumlahnya mencecah RM{jumlah0}. Bagi seorang juruteknik, nak keluar tunai RM{jumlah0} sekaligus ibarat mustahil. Kalau buat pinjaman peribadi atau kad kredit, bunga faedah menimbun. Jiwa tak tenang.
+Hakikatnya, anda boleh hadiahkan Bangle Emas 916 bernilai RM{jumlah0} tanpa perlu sentuh simpanan kecemasan.
 
-Dua tahun lalu, Azman mula mengunci bajet belanja bocor. Setiap kali dapat elaun OT serendah RM150 atau RM200, beliau terus tukar jadi gram dalam Akaun Emas GAP Public Gold. Dua minggu sebelum ulang tahun ke-10, beliau log masuk portal PG Jewel dan memilih bangle emas 916 yang diidamkan isterinya.
+Harga bangle emas 916 padu mencecah RM{jumlah0}, dan nak keluar tunai sebanyak itu sekaligus memang berat.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kalau buat pinjaman peribadi atau kad kredit, bunga faedah menimbun dan jiwa tak tenang.
+
+Penyelesaiannya, kunci bajet yang bocor: setiap kali dapat elaun OT serendah RM150 atau RM200, terus tukar jadi gram dalam Akaun Emas GAP Public Gold.
+
+Dua minggu sebelum ulang tahun, log masuk portal PG Jewel dan pilih bangle emas 916 yang diidamkan isteri anda.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Dengan harga PG Sell semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP untuk mengeluarkan Cash Voucher RM{jumlah0}. Bangle emas 916 dipos selamat ke rumah melalui pos berinsurans GIT. Air mata isteri menitis sebak, dan gaji bulan itu langsung tidak terusik!
+Dengan harga PG Sell semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP untuk mengeluarkan Cash Voucher RM{jumlah0}. Bangle emas 916 dipos selamat ke rumah melalui pos berinsurans GIT. Air mata isteri pasti menitis sebak, dan gaji bulan itu langsung tidak terusik!
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Penghargaan kepada insan tersayang tidak diukur pada kemewahan serentak, tetapi pada perancangan senyap yang konsisten.
 Kedua, Duit tunai yang disimpan dalam akaun bank mudah bocor, tetapi gram emas yang disimpan dalam GAP selamat dikunci daripada nafsu belanja.
 Ketiga, Akaun Emas GAP memberi Anda kebebasan menukar gram simpanan kepada emas perhiasan bila-bila masa pada harga semasa yang telus tanpa perlu berhutang.
 
-Korang para suami, pernah terfikir nak kumpul gram GAP senyap-senyap untuk buat kejutan pada isteri? 👇
+Para suami, pernah terfikir nak kumpul gram GAP senyap-senyap untuk buat kejutan pada isteri? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8572,27 +8731,32 @@ simpanemasfizikal.com`,
     persona: `Siti, kerani akaun di Kuala Lumpur yang ingin membalas jasa ibu di kampung halaman.`,
     vars: { produk: `999/24K Gold Ring Bunga Raya 5D Hard Gold (~2.05g)`, hargaBarang: 1350, pos: 10 },
     post: `Ramai anak berniat nak belikan emas untuk ibu, tapi niat itu selalu tertangguh bertahun-tahun.
-Gadis ini sarungkan cincin emas 999 ke jari ibunya hanya dengan menolak {gram} gram simpanan GAP.
 
-Setiap kali balik kampung di Perak, Siti melihat jari ibunya yang kasar membesarkan mereka adik-beradik tanpa seurat emas pun. Siti mahu beli cincin emas tulen 999, tapi gaji kerani RM2,200 di ibu kota membuatkan beliau selalu kekeringan wang di hujung bulan. Bila tengok harga cincin RM{jumlah0} di kedai biasa, beliau rasa terlalu jauh.
+Anda boleh sarungkan cincin emas 999 ke jari ibu hanya dengan menolak {gram} gram simpanan GAP.
 
-Siti mula memotong RM{simpan} secara auto-debit ke dalam Akaun Emas GAP setiap kali hari gaji. Beliau anggap duit RM{simpan} itu tidak wujud.
+Bila tengok harga cincin RM{jumlah0} di kedai biasa, memang terasa terlalu jauh, apatah lagi kalau duit selalu kekeringan di hujung bulan.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Mulakan dengan memotong RM{simpan} secara auto-debit ke dalam Akaun Emas GAP setiap kali hari gaji.
+
+Anggap duit RM{simpan} itu tidak wujud.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Genap setahun menabung, baki gram GAP beliau mencukupi. Pada harga PG Sell RM{gap0}/gram, sistem hanya memotong {gram} gram untuk menjana Cash Voucher RM{jumlah0}. Cincin Bunga Raya 5D Hard Gold dihantar terus ke alamat ibunya di kampung.
+Genap setahun menabung, baki gram GAP anda akan mencukupi. Pada harga PG Sell RM{gap0}/gram, sistem hanya memotong {gram} gram untuk menjana Cash Voucher RM{jumlah0}. Cincin Bunga Raya 5D Hard Gold boleh dihantar terus ke alamat ibu anda di kampung.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kebahagiaan membahagiakan ibu bapa tidak memerlukan gaji lima angka, tetapi disiplin menabung dari awal.
 Kedua, Emas 999 tulen rekaan 5D Hard Gold kekal berkilau dan tidak lusuh, menjadi doa berpanjangan setiap kali ibu memandangnya.
 Ketiga, Jadikan akaun GAP sebagai saluran tabungan berhemah Anda untuk mencapai impian berbakti kepada keluarga.
 
-Korang bila kali terakhir hadiahkan sesuatu yang bernilai kekal untuk ibu tercinta? 👇
+Bila kali terakhir anda hadiahkan sesuatu yang bernilai kekal untuk ibu tercinta? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8611,28 +8775,33 @@ simpanemasfizikal.com`,
     link: "",
     persona: `Amran, bapa kepada seorang anak perempuan yang berjaya berhenti merokok.`,
     vars: { produk: `916/22K Gold Necklace PG Jewel (~3.45g)`, hargaBarang: 2240, pos: 10 },
-    post: `Lelaki ini bakar RM20 sehari selama sepuluh tahun tanpa rasa bersalah.
-Hari ini, duit yang sama bertukar menjadi seutas rantai leher emas 916 di leher anak perempuannya.
+    post: `Bayangkan bakar RM20 sehari selama sepuluh tahun tanpa rasa bersalah.
 
-Dulu, Amran merokok sekotak sehari. RM20 terbang begitu sahaja setiap 24 jam. Sebulan RM600 lesap. Bila anak gadisnya mendapat keputusan cemerlang SPM, Amran malu pada diri sendiri kerana tiada simpanan khas untuk memberi hadiah bermakna. Beliau nekad berhenti merokok dan mengalihkan tabiat buruk itu.
+RM20 terbang begitu sahaja setiap 24 jam, dan sebulan RM600 lesap.
 
-Setiap minggu, duit belanja rokok RM140 dimasukkan terus ke akaun GAP miliknya. Dalam masa empat bulan, gram emas terkumpul dengan pantas.
+Duit yang sama boleh bertukar menjadi seutas rantai leher emas 916 di leher anak perempuan anda.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Alihkan tabiat buruk itu: setiap minggu, masukkan duit belanja rokok RM140 terus ke akaun GAP.
+
+Dalam masa empat bulan, gram emas terkumpul dengan pantas.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Beliau memilih rantai leher 916 bernilai RM{jumlah0} (termasuk upah dan pos GIT). Pada harga PG Sell RM{gap0}/g, sistem memotong {gram} gram GAP. Hadiah rantai emas selamat diserahkan pada majlis konvokesyen sekolah anaknya.
+Anda boleh pilih rantai leher 916 bernilai RM{jumlah0} (termasuk upah dan pos GIT). Pada harga PG Sell RM{gap0}/g, sistem memotong {gram} gram GAP. Hadiah rantai emas selamat diserahkan pada majlis konvokesyen sekolah anak anda.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan bukan tentang berapa banyak pendapatan yang Anda terima, tetapi tabiat kecil apa yang Anda hentikan.
 Kedua, Menukar belanja hangus kepada gram emas fizikal adalah keputusan kewangan paling bijak seorang ketua keluarga.
 Ketiga, Mulakan Akaun Emas GAP Anda hari ini dan lihat bagaimana wang bocor harian boleh menjadi aset bernilai ribuan ringgit.
 
-Ada tak tabiat belanja bocor korang yang sebenarnya boleh ditukar jadi emas GAP setiap bulan? 👇
+Ada tak tabiat belanja bocor anda yang sebenarnya boleh ditukar jadi emas GAP setiap bulan? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8652,27 +8821,30 @@ simpanemasfizikal.com`,
     persona: `Puan Halimah, pesara guru yang mahu memiliki loket emas zikir untuk pemakaian harian.`,
     vars: { produk: `999/24K Gold Pendant Kalimah 5D Hard Gold (~2.42g)`, hargaBarang: 1560, pos: 10 },
     post: `Ramai pesara takut nak sentuh duit simpanan hari tua walaupun untuk hajat peribadi yang baik.
-Pesara guru ini bawa pulang Loket Kalimah emas 999 tulen tanpa keluarkan duit pencen sesen pun.
 
-Selepas bersara, Puan Halimah teringin memakai loket emas 999 berbentuk kalimah zikir yang berkualiti. Namun beliau enggan mengeluarkan wang simpanan pencen dalam bank kerana bimbang kos kecemasan perubatan di usia tua. Hajat itu disimpan hampir dua tahun.
+Anda boleh bawa pulang Loket Kalimah emas 999 tulen tanpa keluarkan duit pencen sesen pun.
 
-Anak beliau mengingatkan bahawa Puan Halimah ada menyimpan baki gram emas dalam akaun GAP sejak zaman bertugas dahulu yang tidak pernah diusik.
+Selepas bersara, hajat nak memakai loket emas 999 berbentuk kalimah zikir yang berkualiti selalunya tertangguh kerana bimbang kos kecemasan perubatan di usia tua.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Jangan lupa semak baki gram emas dalam akaun GAP anda, yang mungkin dah lama tidak diusik sejak zaman bertugas dahulu.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Dengan bantuan anak, beliau membuat penebusan loket 999 5D berharga RM{jumlah0}. Pada harga PG Sell semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP. Loket emas tiba dengan pos berinsurans selamat di depan pintu rumahnya.
+Buat penebusan loket 999 5D berharga RM{jumlah0}. Pada harga PG Sell semasa RM{gap0}/gram, sistem hanya tolak {gram} gram GAP. Loket emas tiba dengan pos berinsurans selamat di depan pintu rumah anda.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Emas yang disimpan lama bertindak sebagai dana simpanan yang sentiasa bersedia memberi manfaat apabila diperlukan.
 Kedua, Kenaikan harga emas dari masa ke masa mengurangkan bilangan gram yang perlu ditolak untuk menebus barangan idaman.
 Ketiga, Akaun GAP adalah pelindung nilai terbaik untuk pesara yang mahukan simpanan mudah cair dan patuh syariah.
 
-Korang ada tak simpanan emas lama yang dah bertahun tak semak baki nilainya? 👇
+Anda ada tak simpanan emas lama yang dah bertahun tak semak baki nilainya? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8692,27 +8864,32 @@ simpanemasfizikal.com`,
     persona: `Farhan, eksekutif muda yang mahu membuat kejutan merisik gadis pilihannya.`,
     vars: { produk: `999/24K Gold Ring Gelombang Cinta PGJR181413 5D (~2.72g)`, hargaBarang: 1653, pos: 10 },
     post: `Ramai bakal pengantin runsing bila bajet cincin merisik sahaja menelan belanja sebulan gaji.
-Pemuda ini pinang gadis idamannya dengan Cincin Gelombang Cinta 999 tanpa sentuh duit tabung kahwin.
 
-Farhan merancang untuk menghantar rombongan merisik. Bila meninjau butik emas di pusat beli-belah, cincin rekaan moden mencecah harga RM2,000 ke atas dengan kos upah melampau. Beliau risau jika gunakan wang simpanan majlis, persiapan kenduri akan terjejas.
+Anda boleh pinang gadis idaman dengan Cincin Gelombang Cinta 999 tanpa sentuh duit tabung kahwin.
 
-Beliau teringat simpanan GAP yang dimulakan sejak tahun akhir di universiti. Baki gram yang disimpan RM{simpan} setiap bulan rupa-rupanya sudah mencecah lebih 3 gram.
+Kalau tinjau butik emas di pusat beli-belah, cincin rekaan moden mencecah harga RM2,000 ke atas dengan kos upah melampau.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Menggunakan wang simpanan majlis pula akan menjejaskan persiapan kenduri.
+
+Jadi, mulakan simpanan GAP seawal mungkin. Dengan RM{simpan} setiap bulan, baki gram anda sedikit demi sedikit boleh mencecah lebih 3 gram.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
 • Harga Emas PG Sell Hari Ini (kadar Cash Voucher): RM{gap} / gram
 👉 Gram GAP yang ditolak: RM{jumlah} ÷ RM{gap0} = {gram} gram sahaja!
 
-Farhan memilih Cincin 999 Gelombang Cinta 5D Hard Gold (RM{jumlah0} termasuk upah dan pos GIT). Pada harga PG Sell RM{gap0}/g, hanya {gram} gram GAP ditolak. Cincin padu rekaan eksklusif itu menjadi saksi ikatan pertunangan mereka tanpa sebarang hutang.
+Pilih Cincin 999 Gelombang Cinta 5D Hard Gold (RM{jumlah0} termasuk upah dan pos GIT). Pada harga PG Sell RM{gap0}/g, hanya {gram} gram GAP ditolak. Cincin padu rekaan eksklusif itu menjadi saksi ikatan pertunangan anda tanpa sebarang hutang.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Permulaan sebuah keluarga yang bahagia dibina atas dasar pengurusan kewangan yang tidak membazir.
 Kedua, Teknologi 5D Hard Gold pada emas 999 memberikan rekaan moden yang tahan lasak untuk cincin pertunangan.
 Ketiga, Mulakan langkah Anda menyimpan gram GAP seawal bujang agar urusan besar masa depan menjadi mudah.
 
-Korang setuju tak kalau cincin tunang guna emas 999 padu lebih bernilai daripada berlian tiruan? 👇
+Anda setuju tak kalau cincin tunang guna emas 999 padu lebih bernilai daripada berlian tiruan? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8732,13 +8909,18 @@ simpanemasfizikal.com`,
     persona: `Kak Zaleha (Peniaga Nasi Lemak) — Menukar wang syiling jualan harian kepada gram emas GAP.`,
     vars: { produk: `Rantai Tangan Sauh Padu 916 (PG Jewel)`, hargaBarang: 3490, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Menukar wang syiling jualan harian kepada gram emas GAP. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Tukar wang syiling jualan harian anda kepada gram emas GAP.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8747,12 +8929,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8772,13 +8954,18 @@ simpanemasfizikal.com`,
     persona: `Doktor Syahirah (Pegawai Perubatan) — Ganjaran penat lelah on-call bertahun-tahun tanpa usik simpanan.`,
     vars: { produk: `Bangle Pintal Twist 916 (PG Jewel)`, hargaBarang: 4790, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Ganjaran penat lelah on-call bertahun-tahun tanpa usik simpanan. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Hadiahkan diri atas penat lelah on-call bertahun-tahun tanpa usik simpanan.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8787,12 +8974,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8812,13 +8999,18 @@ simpanemasfizikal.com`,
     persona: `Pak Mat (Peneroka Felda) — Tanda kasih sayang meniti usia senja dengan aset emas abadi.`,
     vars: { produk: `Cincin Belah Rotan Klasik 916 (PG Jewel)`, hargaBarang: 940, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Tanda kasih sayang meniti usia senja dengan aset emas abadi. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Zahirkan kasih sayang meniti usia senja dengan aset emas yang abadi.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8827,12 +9019,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8852,13 +9044,18 @@ simpanemasfizikal.com`,
     persona: `Nizam (Penghantar Makanan) — Mengunci duit tip harian pelanggan ke dalam gram emas GAP.`,
     vars: { produk: `Cincin Belah Rotan Polos 999 (PG Jewel)`, hargaBarang: 1140, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Mengunci duit tip harian pelanggan ke dalam gram emas GAP. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kunci duit tip harian pelanggan ke dalam gram emas GAP.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8867,12 +9064,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8892,13 +9089,18 @@ simpanemasfizikal.com`,
     persona: `Puan Salmah (Penjawat Awam) — Mengelak wang bonus habis dibelanjakan untuk perhiasan rumah semata.`,
     vars: { produk: `Gelang Tangan Lipan Padu 916 (PG Jewel)`, hargaBarang: 5590, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Mengelak wang bonus habis dibelanjakan untuk perhiasan rumah semata. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Elakkan wang bonus habis dibelanjakan untuk perhiasan rumah semata-mata.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8907,12 +9109,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8932,13 +9134,18 @@ simpanemasfizikal.com`,
     persona: `Hafiz (Jurutera Perisian) — Penyelesaian patuh syariah tanpa ansuran riba kad kredit.`,
     vars: { produk: `Cincin Lelaki Moden 5D 999 (PG Jewel)`, hargaBarang: 1840, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Penyelesaian patuh syariah tanpa ansuran riba kad kredit. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Penyelesaian patuh syariah tanpa ansuran riba kad kredit.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8947,12 +9154,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -8972,13 +9179,18 @@ simpanemasfizikal.com`,
     persona: `Cikgu Rohani (Guru Sekolah Rendah) — Strategi disiplin potongan RM150 sebulan ke dalam akaun GAP.`,
     vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Strategi disiplin potongan RM150 sebulan ke dalam akaun GAP. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Strategi mudah: potong RM150 sebulan terus ke dalam akaun GAP.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -8987,12 +9199,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9012,13 +9224,18 @@ simpanemasfizikal.com`,
     persona: `Farid (Pegawai Bank) — Memahami bahaya bunga pinjaman dan memilih kumpul gram GAP.`,
     vars: { produk: `Rantai Leher Pintal Padu 916 (PG Jewel)`, hargaBarang: 4190, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Memahami bahaya bunga pinjaman dan memilih kumpul gram GAP. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Fahami bahaya bunga pinjaman dan pilih kumpul gram GAP.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9027,12 +9244,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9052,13 +9269,18 @@ simpanemasfizikal.com`,
     persona: `Puan Noor (Ibu Tunggal) — Aset kecemasan yang dicairkan bila anak memerlukan yuran kolej.`,
     vars: { produk: `Rantai Leher Halus 916 (PG Jewel)`, hargaBarang: 2790, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Aset kecemasan yang dicairkan bila anak memerlukan yuran kolej. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Jadikan ia aset kecemasan yang boleh dicairkan bila anak memerlukan yuran kolej.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9067,12 +9289,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9092,13 +9314,18 @@ simpanemasfizikal.com`,
     persona: `Ustaz Danial (Penceramah Bebas) — Menghidupkan sunnah mas kahwin bernilai emas tulen.`,
     vars: { produk: `Cincin Belah Rotan Tulen 999 (PG Jewel)`, hargaBarang: 1190, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Menghidupkan sunnah mas kahwin bernilai emas tulen. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Hidupkan sunnah mas kahwin bernilai emas tulen.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9107,12 +9334,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9132,13 +9359,18 @@ simpanemasfizikal.com`,
     persona: `Shahril (Pelabur Emas) — Menikmati keuntungan modal beli masa RM380 tebus masa RM592.`,
     vars: { produk: `Gelang Bangle Flora 916 (PG Jewel)`, hargaBarang: 3090, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Menikmati keuntungan modal beli masa RM380 tebus masa RM{gap0}. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Nikmati keuntungan modal: beli masa RM380, tebus masa RM{gap0}.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9147,12 +9379,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9172,13 +9404,18 @@ simpanemasfizikal.com`,
     persona: `Kak Yah (Peniaga Pasar) — Berhenti membayar upah simpan ar-rahnu dan miliki emas secara mutlak.`,
     vars: { produk: `Rantai Leher Gajah Padu 916 (PG Jewel)`, hargaBarang: 6090, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Berhenti membayar upah simpan ar-rahnu dan miliki emas secara mutlak. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Berhenti membayar upah simpan ar-rahnu dan miliki emas anda secara mutlak.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9187,12 +9424,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9212,13 +9449,18 @@ simpanemasfizikal.com`,
     persona: `Aiman (Pelajar Praktikal) — Disiplin pelajar universiti menyimpan RM50 sebulan dalam GAP.`,
     vars: { produk: `Loket Bunga Raya 5D 999 (PG Jewel)`, hargaBarang: 880, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Disiplin pelajar universiti menyimpan RM50 sebulan dalam GAP. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Mula dengan menyimpan RM50 sebulan dalam GAP pun cukup, walaupun anda masih pelajar universiti.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9227,12 +9469,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9252,13 +9494,18 @@ simpanemasfizikal.com`,
     persona: `Puan Suhana (Pengurus Pemasaran) — Mengalihkan nafsu membeli beg fesyen yang susut nilai kepada aset emas.`,
     vars: { produk: `Gelang Tangan Jagung 916 (PG Jewel)`, hargaBarang: 3890, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Mengalihkan nafsu membeli beg fesyen yang susut nilai kepada aset emas. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Alihkan nafsu membeli beg fesyen yang susut nilai kepada aset emas.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9267,12 +9514,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9292,13 +9539,18 @@ simpanemasfizikal.com`,
     persona: `Encik Razak (Pengurus Logistik) — Memulakan tabung emas anak sejak hari pertama dilahirkan.`,
     vars: { produk: `Gelang Kaki Kanak-Kanak 916 (PG Jewel)`, hargaBarang: 2190, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Memulakan tabung emas anak sejak hari pertama dilahirkan. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Mulakan tabung emas anak sejak hari pertama dilahirkan.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9307,12 +9559,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9332,13 +9584,18 @@ simpanemasfizikal.com`,
     persona: `Mira (Pereka Grafik Bebas) — Mengelak pendapatan tidak tetap habis dibelanjakan tanpa jejak.`,
     vars: { produk: `Cincin 5D Hard Gold Moden 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Mengelak pendapatan tidak tetap habis dibelanjakan tanpa jejak. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Elakkan pendapatan tidak tetap anda habis dibelanjakan tanpa jejak.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9347,12 +9604,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9372,13 +9629,18 @@ simpanemasfizikal.com`,
     persona: `Puan Wendy (Mualaf) — Tanda kesyukuran atas hidayah Islam dengan perhiasan emas suci.`,
     vars: { produk: `Loket Kalimah Syahadah 999 (PG Jewel)`, hargaBarang: 1340, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Tanda kesyukuran atas hidayah Islam dengan perhiasan emas suci. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Zahirkan kesyukuran atas hidayah Islam dengan perhiasan emas suci.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9387,12 +9649,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9412,13 +9674,18 @@ simpanemasfizikal.com`,
     persona: `Fadhil (Bakal Pengantin) — Menghapuskan kerumitan meredah kesesakan jalan raya mencari cincin.`,
     vars: { produk: `Cincin Nikah 5D 999 (PG Jewel)`, hargaBarang: 1690, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Menghapuskan kerumitan meredah kesesakan jalan raya mencari cincin. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Hapuskan kerumitan meredah kesesakan jalan raya mencari perhiasan.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9427,12 +9694,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9452,13 +9719,18 @@ simpanemasfizikal.com`,
     persona: `Hajah Kalsom (Usahawan) — Memahami batas uruf pemakaian perhiasan emas mengikut ketetapan syarak.`,
     vars: { produk: `Gelang Tangan Lipan Tebal 916 (PG Jewel)`, hargaBarang: 7190, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Memahami batas uruf pemakaian perhiasan emas mengikut ketetapan syarak. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Fahami batas uruf pemakaian perhiasan emas mengikut ketetapan syarak.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9467,12 +9739,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9492,13 +9764,18 @@ simpanemasfizikal.com`,
     persona: `Khairul (Pelajar Tingkatan 6) — Didikan bapa mengubah ketagihan beli item maya kepada aset nyata.`,
     vars: { produk: `Rantai Leher Halus 916 (PG Jewel)`, hargaBarang: 2390, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Didikan bapa mengubah ketagihan beli item maya kepada aset nyata. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Ubah ketagihan beli item maya anak remaja kepada aset nyata.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9507,12 +9784,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9532,13 +9809,18 @@ simpanemasfizikal.com`,
     persona: `Puan Anita (Suri Rumah) — Simbolik kesetiaan 25 tahun yang dizahirkan melalui emas fizikal.`,
     vars: { produk: `Bangle Padu Ukir 916 (PG Jewel)`, hargaBarang: 6490, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Simbolik kesetiaan 25 tahun yang dizahirkan melalui emas fizikal. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Zahirkan simbolik kesetiaan 25 tahun melalui emas fizikal.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9547,12 +9829,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9572,13 +9854,18 @@ simpanemasfizikal.com`,
     persona: `Cikgu Azlan (Pendidik) — Penyatuan tabungan suami isteri untuk membina kekayaan bersama.`,
     vars: { produk: `Rantai Tangan Coco Padu 916 (PG Jewel)`, hargaBarang: 4490, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Penyatuan tabungan suami isteri untuk membina kekayaan bersama. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Satukan tabungan suami isteri untuk membina kekayaan bersama.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9587,12 +9874,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9612,13 +9899,18 @@ simpanemasfizikal.com`,
     persona: `Nadia (Graduan) — Memulakan langkah ke alam pekerjaan dengan aset emas pertama.`,
     vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Memulakan langkah ke alam pekerjaan dengan aset emas pertama. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Mulakan langkah ke alam pekerjaan dengan aset emas pertama.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9627,12 +9919,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9652,13 +9944,18 @@ simpanemasfizikal.com`,
     persona: `Encik Borhan (Kontraktor) — Kelebihan sistem GAP yang membolehkan tebusan nilai tepat perpuluhan.`,
     vars: { produk: `Rantai Tangan Sauh 916 (PG Jewel)`, hargaBarang: 4990, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Kelebihan sistem GAP yang membolehkan tebusan nilai tepat perpuluhan. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Kelebihan sistem GAP: tebusan nilai tepat hingga perpuluhan.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9667,12 +9964,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
@@ -9692,13 +9989,18 @@ simpanemasfizikal.com`,
     persona: `Taufik Musa (Dealer Public Gold) — Visi kepimpinan membimbing masyarakat mengunci kekayaan dalam emas.`,
     vars: { produk: `Cincin Gelombang Cinta 5D 999 (PG Jewel)`, hargaBarang: 1653, pos: 10 },
     post: `Ramai sangka nak bawa balik {produkNama} kena kumpul duit tunai berkepuk dalam bank.
-Hakikatnya, penyimpan ini miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Setiap bulan wang tunai dalam bank selalu bocor tanpa disedari. Hasrat nak beli barang kemas sering tertangguh kerana komitmen harian yang mendesak. Visi kepimpinan membimbing masyarakat mengunci kekayaan dalam emas. Namun sebaik sahaja mula mendisiplinkan diri menyimpan serendah RM{simpan} dalam Akaun Emas GAP, tabiat kewangan berubah sepenuhnya.
+Hakikatnya, anda boleh miliki emas idaman hanya dengan menolak {gram} gram daripada baki GAP.
 
-Apabila gram terkumpul mencukupi, beliau memilih {produkNama} di PG Jewel dan menggunakan fungsi penebusan GAP pada harga rujukan RM{gap0}/gram.
+Wang tunai dalam bank selalu bocor tanpa disedari, dan hasrat nak beli barang kemas sering tertangguh kerana komitmen harian.
 
-Berikut adalah perincian pengiraan untuk {produk}:
+Mari bimbing masyarakat mengunci kekayaan dalam emas.
+
+Mulakan disiplin menyimpan serendah RM{simpan} dalam Akaun Emas GAP, dan tabiat kewangan anda akan berubah sepenuhnya.
+
+Tahu tak anda kini boleh tebus {produkNama} bernilai RM{jumlah0} terus dari akaun GAP Public Gold?
+
+Saya kongsikan detail pengiraan untuk {produk}:
 • Harga Barang Kemas: RM{hb}
 • Pengeposan Berinsurans (GIT): RM{pos}
 • Jumlah Nilai Keseluruhan: RM{jumlah}
@@ -9707,12 +10009,12 @@ Berikut adalah perincian pengiraan untuk {produk}:
 
 Sistem secara automatik memotong {gram} gram GAP untuk menghasilkan Cash Voucher bernilai RM{jumlah}. Emas fizikal selamat diposkan terus ke pintu rumah dengan insurans GIT tanpa sebarang bayaran tunai tambahan.
 
-Tiga pengajaran dari kisah ini:
+Tiga pengajaran dari perkongsian ini:
 Pertama, Kekayaan sebenar dibina melalui tabiat mengunci lebihan tunai kepada aset fizikal berharga.
 Kedua, Kemudahan tebusan GAP memberi fleksibiliti penuh kepada penyimpan untuk memilih bentuk emas yang dimahukan.
 Ketiga, Mulakan langkah simpanan emas Anda hari ini bersama Public Gold untuk masa depan keluarga yang lebih terjamin.
 
-Korang dah kira berapa gram GAP yang korang perlukan untuk tebus {produkNama} ni? 👇
+Dah kira berapa gram GAP yang anda perlukan untuk tebus {produkNama} ni? 👇
 
 Moga Perkongsian Ini Bermanfaat.
 Taufik Musa
