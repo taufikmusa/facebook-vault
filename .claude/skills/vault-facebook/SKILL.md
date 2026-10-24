@@ -45,7 +45,7 @@ tools/docx_ke_data.py            docx -> blok JS (baca document.xml terus, tiada
 
 ## CTA komen (tetap, dikemas kini 17 Okt 2026)
 
-Setiap `komen` = isi komen docx + baris kosong + CTA ini. Converter BUANG sign-off docx ("Moga bermanfaat / simpanemasfizikal.com / Taufik...") dan tampal pemalar `CTA_KOMEN` dalam `tools/docx_ke_data.py`. Tukar CTA lagi = ubah `CTA_KOMEN` di sana DAN ganti teks CTA lama dalam semua komen di `src/data.js`.
+Setiap `komen` = isi komen docx + baris kosong + CTA ini. Converter BUANG sign-off docx ("Moga bermanfaat / https://emas.taufik.fyi/artikel/apa-itu-akaun-gap-gold-accumulation-program-public-gold/ / Taufik...") dan tampal pemalar `CTA_KOMEN` dalam `tools/docx_ke_data.py`. Tukar CTA lagi = ubah `CTA_KOMEN` di sana DAN ganti teks CTA lama dalam semua komen di `src/data.js`.
 
 ```
 Moga bermanfaat 😄
@@ -54,7 +54,7 @@ Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, Insy
 Khas untuk anda yang belum ada akaun emas di Public Gold
 Saya kongsikan info di blog
 👇🏻👇🏻👇🏻
-simpanemasfizikal.com
+https://emas.taufik.fyi/artikel/apa-itu-akaun-gap-gold-accumulation-program-public-gold/
 
 Whatsapp terus untuk bimbingan percuma
 pgolink.com/whatsapptaufik

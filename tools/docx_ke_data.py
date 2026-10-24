@@ -35,7 +35,7 @@ Bantu share dan like untuk engagement dan manfaat kepada lebih ramai orang, Insy
 Khas untuk anda yang belum ada akaun emas di Public Gold
 Saya kongsikan info di blog
 👇🏻👇🏻👇🏻
-simpanemasfizikal.com
+https://emas.taufik.fyi/artikel/apa-itu-akaun-gap-gold-accumulation-program-public-gold/
 
 Whatsapp terus untuk bimbingan percuma
 pgolink.com/whatsapptaufik
@@ -120,7 +120,7 @@ for i, s in enumerate(sets):
     tajuk, kat = (m.group(1), m.group(2)) if m else (s['tajuk'], s.get('kat', ''))
     alat = re.search(r'\(([^()]+)\)\s*$', tajuk)
     alat = alat.group(1) if alat else ''
-    link = re.search(r'https?://\S+', komen)
+    link = re.search(r'https?://\S+', '\n'.join(isi))   # link rujukan dalam isi komen sahaja (bukan URL CTA)
     pisah = r'[ &/,]+' if a.numbered else r'[ &/]+'   # format Numbered: kategori ada koma
     tags = [t for t in {alat.lower(), *[w.lower() for w in re.split(pisah, kat) if len(w) > 3]} if t]
     print('  {')
